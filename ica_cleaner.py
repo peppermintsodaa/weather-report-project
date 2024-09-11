@@ -66,7 +66,7 @@ for col in claims_columns:
 
 
 
-#remove missing entries from cat event finish
+#remove missing entries from cat event finish because it is in datetime form
 ica_data.dropna(subset=['cat event finish'], inplace=True)
 
 print(ica_data.info())
