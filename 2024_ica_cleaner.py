@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 #read excel file
-ica_data = pd.read_excel('cosc2669-or-cosc2186-WIL-project\datasets\ICA-Historical-Normalised-Catastrophe-July-2024.xlsx', skiprows=9, header=0)
+ica_data = pd.read_excel('datasets\ICA-Historical-Normalised-Catastrophe-July-2024.xlsx', skiprows=9, header=0)
 
 
 #make everything lower case for consistency
