@@ -1,8 +1,7 @@
 import pandas as pd
-import re
-import difflib
 import matplotlib.pyplot as plt
 import numpy as np
+from sklearn import linear_model
 
 # read excel file
 disaster_2023 = pd.read_excel('datasets/disaster-mapper-data-21-03-2023.xlsx')
@@ -88,4 +87,41 @@ disaster_2023.loc[disaster_2023['Zone'].str.contains("Western Australia"), 'WA']
 disaster_2023.loc[disaster_2023['Zone'].str.contains("National"), 'NSW':'WA'] = 1
 disaster_2023.loc[disaster_2023['Zone'].str.contains("Offshore"), 'Waters'] = 1
 
-# impute all missing insured costs
+# create new "Year" column
+disaster_2023['Year'] = disaster_2023['Start Date'].apply(lambda x : str(x).split('-')[0]).astype('int64')
+# imputing all insured costs with known median for year
+disaster_2023['Insured Cost'] = disaster_2023['Insured Cost'].fillna(disaster_2023.groupby('Year')['Insured Cost'].transform('median'))
+
+# the following code is adapted from 
+# all rows with missing cost value
+missing_cost = disaster_2023.loc[disaster_2023.isnull()['Insured Cost'], 'Insured Cost']
+# all rows with a cost value
+no_missing_cost = disaster_2023.dropna(subset='Insured Cost')
+# all unique costs
+cost_ls = no_missing_cost['Insured Cost'].unique().tolist()
+
+# imputing rest of missing values through linear regression
+# taken from COSC2820 week 5 practical
+cols = list(disaster_2023)
+
+cols = cols[7:]
+x_train = no_missing_cost[cols]
+y_train = no_missing_cost['Insured Cost']
+regr = linear_model.LinearRegression()
+
+regr.fit(x_train.values, y_train)
+
+# function to predict costs
+def predict_cost(x):
+    x_predict = regr.predict([x])
+    return min(cost_ls, key=lambda y:abs(y-x_predict))
+
+# impute all missing costs
+disaster_2023.loc[missing_cost.index, 'Insured Cost'] = disaster_2023.loc[missing_cost.index].apply(lambda row: predict_cost(row[cols]), axis=1)
+
+# drop Year column as it is no longer needed
+disaster_2023.drop(columns = 'Year', inplace = True)
+
+# printing final data
+print(disaster_2023.info())
+print(disaster_2023.head())
