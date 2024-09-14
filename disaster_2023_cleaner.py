@@ -16,14 +16,14 @@ disaster_2023.rename({'Event ':'Event'}, axis = 1, inplace = True)
 disaster_2023.drop(columns = ['Fatalities', 'Injured', 'URL', 'Description', 'Source(s)'], inplace = True)
 
 # fix capitalisation errors in "Zone", "Region", and "Category"
-disaster_2023['Zone'].replace({"New South wales":"New South Wales",
-                               "Western australia":"Western Australia",
-                               "victoria":"Victoria",
-                               "New South  Wales":"New South Wales"}, inplace = True)
-disaster_2023['Region'].replace({"sydney":"Sydney",
-                                 "North sydney":"North Sydney",
-                                 "bundaberg":"Bundaberg"}, inplace = True)
-disaster_2023['Category'].replace({"flood":"Flood"}, inplace = True)
+disaster_2023['Zone'] = disaster_2023['Zone'].replace({"New South wales":"New South Wales",
+                                                       "Western australia":"Western Australia",
+                                                       "victoria":"Victoria",
+                                                       "New South  Wales":"New South Wales"})
+disaster_2023['Region'] = disaster_2023['Region'].replace({"sydney":"Sydney",
+                                                           "North sydney":"North Sydney",
+                                                           "bundaberg":"Bundaberg"})
+disaster_2023['Category'] = disaster_2023['Category'].replace({"flood":"Flood"})
 
 # function to convert to standard date format
 def convert_to_std_date(x):
@@ -119,8 +119,10 @@ def predict_cost(x):
 # impute all missing costs
 disaster_2023.loc[missing_cost.index, 'Insured Cost'] = disaster_2023.loc[missing_cost.index].apply(lambda row: predict_cost(row[cols]), axis=1)
 
-# drop Year column as it is no longer needed
-disaster_2023.drop(columns = 'Year', inplace = True)
+# rearrange columns
+cols = list(disaster_2023)
+cols = cols[:6] + [cols[-1]] + cols[6:-1]
+disaster_2023 = disaster_2023[cols]
 
 # printing final data
 print(disaster_2023.info())
