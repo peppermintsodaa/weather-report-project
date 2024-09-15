@@ -67,9 +67,9 @@ ica_data['normalised loss value (2022)'].fillna(
 )
 
 
-
 print(ica_data.info())
 print(ica_data.head())
 
+ica_data.to_csv('datasets_cleaned/ica-2024-cleaned.csv', index=False)
 
     

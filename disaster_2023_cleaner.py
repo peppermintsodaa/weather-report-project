@@ -125,3 +125,5 @@ disaster_2023 = disaster_2023[cols]
 # printing final data
 print(disaster_2023.info())
 print(disaster_2023.head())
+
+disaster_2023.to_csv('datasets_cleaned/disaster-2023-cleaned.csv', index=False)
