@@ -5,7 +5,7 @@ import numpy as np
 from sklearn.preprocessing import MultiLabelBinarizer
 
 #read excel file
-ica_data = pd.read_excel('cosc2669-or-cosc2186-WIL-project/datasets/ICA-Historical-Normalised-Catastrophe-July-2024.xlsx', skiprows=9, header=0)
+ica_data = pd.read_excel('datasets/ICA-Historical-Normalised-Catastrophe-July-2024.xlsx', skiprows=9, header=0)
 
 
 
@@ -54,11 +54,17 @@ for state in state_list:
 
 for index, row in ica_data.iterrows():
     if isinstance(row['state'], str):
-        states = row['state'].split(',')
+        if '-' in row['state']:
+            states = row['state'].split('-')
+        elif '/' in row['state']:
+            states = row['state'].split('/')
+        else:
+            states = row['state'].split(',')
         for state in states:
             state = state.strip()
             if state in state_list:
-                ica_data.at[index, state] = 1  
+                ica_data.at[index, state] = 1 
+         
 
 
 
@@ -86,10 +92,7 @@ ica_data['normalised loss value (2022)'].fillna(
     ica_data['original loss value'] * normalization_factor, inplace=True
 )
 
-
 print(ica_data.info())
 print(ica_data.head())
 
-
-
-ica_data.to_csv('cosc2669-or-cosc2186-WIL-project/datasets_cleaned/cleaned_ica_data.csv', index=False)
+ica_data.to_csv('datasets_cleaned/cleaned_ica_data.csv', index=False)
