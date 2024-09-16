@@ -1,8 +1,8 @@
 import pandas as pd 
 
 # load datasets
-ica_data = pd.read_csv('cosc2669-or-cosc2186-WIL-project/datasets_cleaned/cleaned_ica_data.csv')
-disaster_data = pd.read_csv('cosc2669-or-cosc2186-WIL-project/datasets_cleaned/disaster-2023-cleaned.csv')
+ica_data = pd.read_csv('datasets_cleaned/cleaned_ica_data.csv')
+disaster_data = pd.read_csv('datasets_cleaned/disaster-2023-cleaned.csv')
 
 #i just removed one of the states column
 
@@ -39,6 +39,6 @@ merged_data = pd.concat([merged_start, merged_name]).drop_duplicates()
 
 print(merged_data.info())
 
-merged_data.to_csv('cosc2669-or-cosc2186-WIL-project/datasets_cleaned/merged_dataset.csv', index=False)
+merged_data.to_csv('datasets_cleaned/merged_dataset.csv', index=False)
 
 
