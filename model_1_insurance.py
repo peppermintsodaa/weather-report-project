@@ -27,13 +27,12 @@ def calculate_insurance_amount(disaster_type, state):
     
     return insurance_amount
 
-import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 # Load the dataset
-data = pd.read_csv('ica-2024-cleaned.csv')
+data = pd.read_csv('datasets_cleaned/ica-2024-cleaned.csv')
 
 # Select features and target
 target = data['original loss value']
@@ -73,7 +72,7 @@ def predict_with_model(state, disaster_type):
     insurance_claim_prediction = model.predict(new_data)
     return insurance_claim_prediction[0]
 
-    def predict_insurance_claim(state, disaster_type, use_model=True):
+def predict_insurance_claim(state, disaster_type, use_model=True):
     if use_model:
         # Use machine learning model to predict insurance claim amount
         return predict_with_model(state, disaster_type)
@@ -84,7 +83,6 @@ def predict_with_model(state, disaster_type):
 # Example usage
 state = 'NSW'
 disaster_type = 'bushfire'
-
 
 # Decide which method to use
 insurance_claim = predict_insurance_claim(state, disaster_type, use_model=True)
