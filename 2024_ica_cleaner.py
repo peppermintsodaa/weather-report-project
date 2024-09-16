@@ -58,14 +58,16 @@ for index, row in ica_data.iterrows():
             states = row['state'].split('-')
         elif '/' in row['state']:
             states = row['state'].split('/')
-        else:
+        elif '&' in row['state']:
+            states = row['state'].split('&')
+        elif ',' in row['state']:
             states = row['state'].split(',')
+        else:
+            states = row['state'].split(' ')
         for state in states:
             state = state.strip()
             if state in state_list:
                 ica_data.at[index, state] = 1 
-         
-
 
 
 #i think it is helpful to calculate the median for that year in these columns rather than remove or leave them NaN!!!!!
