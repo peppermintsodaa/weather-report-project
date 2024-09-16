@@ -5,7 +5,7 @@ import numpy as np
 from sklearn.preprocessing import MultiLabelBinarizer
 
 #read excel file
-ica_data = pd.read_excel('cosc2669-or-cosc2186-WIL-project\datasets\ICA-Historical-Normalised-Catastrophe-July-2024.xlsx', skiprows=9, header=0)
+ica_data = pd.read_excel('datasets\ICA-Historical-Normalised-Catastrophe-July-2024.xlsx', skiprows=9, header=0)
 
 
 #make everything lower case for consistency
@@ -75,9 +75,9 @@ ica_data['normalised loss value (2022)'].fillna(
 )
 
 
-
 print(ica_data.info())
 print(ica_data.head())
 
+ica_data.to_csv('datasets_cleaned/ica-2024-cleaned.csv', index=False)
 
 ica_data.to_csv('cleaned_ica_data.csv', index=False)

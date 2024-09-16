@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WIL Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Header section -->
+    <div class="header">
+        <h1>Insurance</h1>
+    </div>
+
+    <!-- Navigation bar -->
+    <div class="navigation-bar">
+        <a href="HomePage.html">Home</a>
+        <a href="Insurance.html">Insurance</a>
+        <a href="WeatherPredictionPage.html">Weather Predictions</a>
+        <a href="Roles.html">Our Roles</a>
+    </div>
+
+    <!-- Main container -->
+    <div class="container">
+        <!-- Main content area -->
+        <div class="main-content">
+            <h1>Insurance Claims Based on Natural Disasters</h1>
+            <p>Select a natural disaster and enter your postcode to see the amount of money claimed.</p>
+
+            <!-- Dropdown and Postcode Input -->
+            <div class="form-group">
+                <label for="disaster">Select a Natural Disaster:</label>
+                <select id="disaster" onchange="toggleOtherDisaster()">
+                    <option value="flood">Flood</option>
+                    <option value="earthquake">Earthquake</option>
+                    <option value="wildfire">Wildfire</option>
+                    <option value="hurricane">Hurricane</option>
+                    <option value="bushfire">Bushfire</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+
+            <!-- Input for "Other" disaster -->
+            <div class="form-group" id="other-disaster">
+                <label for="otherDisasterInput">Please specify the natural disaster:</label>
+                <input type="text" id="otherDisasterInput" placeholder="Enter the disaster name">
+            </div>
+
+            <div class="form-group">
+                <label for="postcode">Enter Postcode:</label>
+                <input type="text" id="postcode" placeholder="Enter your postcode">
+            </div>
+
+            <!-- Button -->
+            <button onclick="calculateClaim()">Get Claim Amount</button>
+
+            <!-- Result display -->
+            <div id="result">
+                <p id="result-text">The estimated amount to be claimed is $X for ${disasterType} in postcode ${postcode}.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer section -->
+    <div class="footer">
+        <h3>Our Website</h3> <br>
+        <a href="HomePage.html">Home</a>
+        <a href="Insurance.html">Insurance</a>
+        <a href="WeatherPredictionPage.html">Weather Predictions</a>
+        <a href="Roles.html">Our Roles</a>
+    </div>
+
+    <script>
+        // Simulated data: claim amounts by disaster type
+        const claimData = {
+            "flood": { "2000": 5000, "3000": 7000, "4000": 8000 },
+            "earthquake": { "2000": 10000, "3000": 15000, "4000": 20000 },
+            "wildfire": { "2000": 8000, "3000": 9000, "4000": 12000 },
+            "hurricane": { "2000": 3000, "3000": 5000, "4000": 6000 },
+            "bushfire": { "2000": 6000, "3000": 11000, "4000": 13000 }
+        };
+
+        // Function to toggle the display of the "Other" disaster input
+        function toggleOtherDisaster() {
+            const disasterSelect = document.getElementById('disaster');
+            const otherDisasterDiv = document.getElementById('other-disaster');
+
+            if (disasterSelect.value === 'other') {
+                otherDisasterDiv.style.display = 'block';
+            } else {
+                otherDisasterDiv.style.display = 'none';
+            }
+        }
+
+        // Function to calculate claim amount based on disaster and postcode
+        function calculateClaim() {
+            const disaster = document.getElementById('disaster').value;
+            const postcode = document.getElementById('postcode').value;
+            const resultDiv = document.getElementById('result');
+            const resultText = document.getElementById('result-text');
+            let disasterType = disaster;
+
+            // If "Other" is selected, get the user input for the disaster
+            if (disaster === 'other') {
+                disasterType = document.getElementById('otherDisasterInput').value;
+                if (!disasterType) {
+                    resultText.textContent = "Please specify the disaster.";
+                    resultDiv.style.display = 'block';
+                    return;
+                }
+            }
+
+            // Validate if postcode is entered
+            if (postcode === "") {
+                resultText.textContent = "Please enter a valid postcode.";
+                resultDiv.style.display = 'block';
+                return;
+            }
+
+            // Check if postcode exists in the claim data for pre-defined disasters
+            const claims = claimData[disaster] && claimData[disaster][postcode];
+            if (claims) {
+                resultText.textContent = `The estimated amount to be claimed is $${claims} for ${disasterType} in postcode ${postcode}.`;
+            } else {
+                resultText.textContent = `The estimated amount to be claimed is $X for ${disasterType} in postcode ${postcode}.`;
+            }
+
+            // Show the result
+            resultDiv.style.display = 'block';
+        }
+    </script>
+</body>
+</html>
