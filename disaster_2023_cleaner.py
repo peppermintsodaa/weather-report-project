@@ -38,12 +38,26 @@ condition = ~disaster_2023['Start Date'].isnull() & disaster_2023['Start Date'].
 # fix inconsistent dates in "Start Date"
 disaster_2023.loc[condition, 'Start Date'] = disaster_2023.loc[condition, 'Start Date'].apply(lambda x: convert_to_std_date(x))
 
-# replace "`" with correct end date according to URL provided ()"incident lasted 10 days")
+# replace "`" with correct end date according to URL provided ("incident lasted 10 days")
 disaster_2023['End Date'] = disaster_2023['End Date'].replace({"`":'1944-08-15 00:00:00'})
 # condition to find all non-null values with irregular date format
 condition = ~disaster_2023['End Date'].isnull() & disaster_2023['End Date'].str.contains("/")
 # fix inconsistent dates in "End Date" using condition above
 disaster_2023.loc[condition, 'End Date'] = disaster_2023.loc[condition, 'End Date'].apply(lambda x: convert_to_std_date(x))
+# imputing rest of the ending dates using the URLs provided
+disaster_2023.loc[20, 'End Date'] = '2006-02-07 00:00:00'
+disaster_2023.loc[39, 'End Date'] = '2007-12-20 00:00:00'
+disaster_2023.loc[102, 'End Date'] = '2019-03-22 00:00:00'
+disaster_2023.loc[103, 'End Date'] = '2018-03-25 00:00:00'
+disaster_2023.loc[106, 'End Date'] = '2013-01-31 00:00:00'
+disaster_2023.loc[203, 'End Date'] = '1893-03-09 00:00:00'
+disaster_2023.loc[231, 'End Date'] = '2005-11-09 00:00:00'
+disaster_2023.loc[280, 'End Date'] = '2022-04-07 00:00:00'
+disaster_2023.loc[357, 'End Date'] = '2015-12-17 00:00:00'
+disaster_2023.loc[431, 'End Date'] = '1858-08-06 00:00:00'
+# following events might have happened for only one day
+condition = disaster_2023['End Date'].isnull()
+disaster_2023.loc[condition, 'End Date'] = disaster_2023.loc[condition, 'Start Date']
 
 # replace all "Not Available" values in "Insured Cost" to null value
 disaster_2023['Insured Cost'] = disaster_2023['Insured Cost'].replace({"Not Available":None})

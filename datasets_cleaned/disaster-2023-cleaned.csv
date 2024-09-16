@@ -19,11 +19,11 @@ Wye River - Jamieson track / Great Ocean Road Bushfire,Victoria,Wye River,Bushfi
 "Sampson Flat bushfire, 2015",South Australia,Sampson Flat,Bushfire,2015-01-02,2015-01-08,2015,24900000.0,0,0,0,0,0,1,0,0,0
 "Bushfire – Perth Hills, Western Australia 2014",Western Australia,Perth,Bushfire,2014-01-12,2014-01-14,2014,15000000.0,0,0,0,0,0,0,0,1,0
 Bushfire - Victoria,Victoria,Victoria,Bushfire,2014-02-08,2014-02-14,2014,68500000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Victoria,Victoria,Stawell,Bushfire,2006-01-01,,2006,22000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Victoria,Victoria,Yea,Bushfire,2006-01-01,,2006,22000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Victoria,Victoria,Moondarra,Bushfire,2006-01-01,,2006,22000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Victoria,Victoria,Grampians,Bushfire,2006-01-01,,2006,22000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Victoria,Victoria,Kinglake and Anakie,Bushfire,2006-01-01,,2006,22000000.0,0,1,0,0,0,0,0,0,0
+Bushfire - Victoria,Victoria,Stawell,Bushfire,2006-01-01,2006-02-07,2006,22000000.0,0,1,0,0,0,0,0,0,0
+Bushfire - Victoria,Victoria,Yea,Bushfire,2006-01-01,2006-02-07,2006,22000000.0,0,1,0,0,0,0,0,0,0
+Bushfire - Victoria,Victoria,Moondarra,Bushfire,2006-01-01,2006-02-07,2006,22000000.0,0,1,0,0,0,0,0,0,0
+Bushfire - Victoria,Victoria,Grampians,Bushfire,2006-01-01,2006-02-07,2006,22000000.0,0,1,0,0,0,0,0,0,0
+Bushfire - Victoria,Victoria,Kinglake and Anakie,Bushfire,2006-01-01,2006-02-07,2006,22000000.0,0,1,0,0,0,0,0,0,0
 "Bushfire - Coonabarabran, 2013",New South Wales,Coonabarabran,Bushfire,2013-01-07,2013-01-20,2013,35000000.0,1,0,0,0,0,0,0,0,0
 "Bushfire - Hazelwood open cut mine fire, Morwell",Victoria,Morwell,Bushfire,2014-02-09,2014-03-25,2014,100000000.0,0,1,0,0,0,0,0,0,0
 "Dunalley and Tasmanian bushfires, 2013",Tasmania,Dunalley,Bushfire,2013-01-01,2013-01-14,2013,89000000.0,0,0,0,0,1,0,0,0,0
@@ -58,7 +58,7 @@ Bushfire - Black Christmas,"New South Wales , Australian Capital Territory",Canb
 "Bushfire – Mt Ku-ring-gai, New South Wales 2000",New South Wales,Mt Ku-Ring-gai,Bushfire,2000-06-08,2000-06-08,2000,12000000.0,1,0,0,0,0,0,0,0,0
 Bushfire - Linton (near Ballarat),Victoria,Melbourne,Bushfire,1998-12-02,1998-12-02,1998,23000000.0,0,1,0,0,0,0,0,0,0
 "Bushfire - Sydney, Hunter, Pilliga",New South Wales,Sydney,Bushfire,1997-11-20,1997-12-20,1997,29000000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Kangaroo Island,South Australia,Kangaroo Island,Bushfire,2007-12-06,,2007,17900000.0,0,0,0,0,0,1,0,0,0
+Bushfire - Kangaroo Island,South Australia,Kangaroo Island,Bushfire,2007-12-06,2007-12-20,2007,17900000.0,0,0,0,0,0,1,0,0,0
 Bushfire - Dandenong Ranges and Mornington Peninsula,Victoria,Wilsons Promontory,Bushfire,1997-01-19,1997-01-21,1997,29000000.0,0,1,0,0,0,0,0,0,0
 Bushfire - Dandenong Ranges and Mornington Peninsula,Victoria,Melbourne,Bushfire,1997-01-19,1997-01-21,1997,29000000.0,0,1,0,0,0,0,0,0,0
 Bushfire - East Coast,Queensland,Brisbane,Bushfire,1994-09-27,1994-11-07,1994,59100000.0,0,0,1,0,0,0,0,0,0
@@ -129,9 +129,9 @@ Bushfire - Widespread Victoria,Victoria,Cooma (VIC),Bushfire,1906-01-01,1906-02-
 Bushfire - Widespread Victoria,Victoria,Mount Gambier (VIC),Bushfire,1906-01-01,1906-02-15,1906,700000.0,0,1,0,0,0,0,0,0,0
 Bushfire - Widespread Victoria,Victoria,Wilsons Promontory,Bushfire,1906-01-01,1906-02-15,1906,700000.0,0,1,0,0,0,0,0,0,0
 Bushfire - Widespread Victoria,Victoria,Melbourne,Bushfire,1906-01-01,1906-02-15,1906,700000.0,0,1,0,0,0,0,0,0,0
-"Criminal Act - Bourke Street Mall Incident, 2017",Victoria,Melbourne,Criminal Act,2017-01-20,,2017,1054799742.0,0,1,0,0,0,0,0,0,0
+"Criminal Act - Bourke Street Mall Incident, 2017",Victoria,Melbourne,Criminal Act,2017-01-20,2017-01-20,2017,1054799742.0,0,1,0,0,0,0,0,0,0
 "Criminal Act - Lindt Cafe siege, 2014",New South Wales,Sydney,Criminal Act,2014-12-15,2014-12-16,2014,68500000.0,1,0,0,0,0,0,0,0,0
-"Criminal Act - Marriott and Ritz-Carlton hotel bombings, 2009",Offshore,Outside Territorial Waters,Criminal Act,2009-07-17,,2009,48000000.0,0,0,0,0,0,0,0,0,1
+"Criminal Act - Marriott and Ritz-Carlton hotel bombings, 2009",Offshore,Outside Territorial Waters,Criminal Act,2009-07-17,2009-07-17,2009,48000000.0,0,0,0,0,0,0,0,0,1
 Criminal Act - Bali Bombings,Offshore,Outside Territorial Waters,Criminal Act,2005-10-01,2005-10-01,2005,53200000.0,0,0,0,0,0,0,0,0,1
 Criminal Act - London Transport Bombings,Offshore,Outside Territorial Waters,Criminal Act,2005-07-07,2005-07-07,2005,53200000.0,0,0,0,0,0,0,0,0,1
 Criminal Act - Kuta Bali Bombing,Offshore,Outside Territorial Waters,Criminal Act,2002-10-12,2002-10-12,2002,10000000.0,0,0,0,0,0,0,0,0,1
@@ -139,7 +139,7 @@ Criminal Act - 9/11 Terrorist Attacks,Offshore,Outside Territorial Waters,Crimin
 Criminal Act - Snowtown Murders,South Australia,Adelaide,Criminal Act,1999-05-01,1999-05-01,1999,40000000.0,0,0,0,0,0,1,0,0,0
 Criminal Act - Port Arthur Shooting Massacre,Tasmania,Hobart,Criminal Act,1996-04-28,1996-04-28,1996,15000000.0,0,0,0,0,1,0,0,0,0
 Criminal Act - Liverpool Arson,New South Wales,Sydney,Criminal Act,1995-01-15,1995-01-15,1995,11000000.0,1,0,0,0,0,0,0,0,0
-"Criminal - Terrigal Shootings, Sydney 1992 ",New South Wales,Central Coast,Criminal Act,1992-10-27,,1992,118000000.0,1,0,0,0,0,0,0,0,0
+"Criminal - Terrigal Shootings, Sydney 1992 ",New South Wales,Central Coast,Criminal Act,1992-10-27,1992-10-27,1992,118000000.0,1,0,0,0,0,0,0,0,0
 Criminal Act - Kings Cross Hostel,New South Wales,Sydney,Criminal Act,1989-09-17,1989-09-17,1989,26000000.0,1,0,0,0,0,0,0,0,0
 Criminal Act - Oenpelli Shooting Massacre,Northern Territory,Alligator River,Criminal Act,1988-09-25,1988-09-25,1988,20000000.0,0,0,0,0,0,0,1,0,0
 Criminal Act - Queen Street Shooting,Victoria,Melbourne,Criminal Act,1987-12-08,1987-12-08,1987,68500000.0,0,1,0,0,0,0,0,0,0
@@ -156,11 +156,11 @@ Cyclone Sigma ,Queensland,Townsville,Cyclone,1896-01-24,1896-01-28,1896,700000.0
 Cyclone - Darwin,Northern Territory,Darwin,Cyclone,1897-01-06,1897-01-07,1897,700000.0,0,0,0,0,0,0,1,0,0
 Cyclone - Gulf of Carpentaria,Queensland,Mornington Island,Cyclone,1887-03-05,1887-03-05,1887,700000.0,0,0,1,0,0,0,0,0,0
 Cyclone Mahina,Queensland,Cooktown,Cyclone,1899-03-04,1899-03-10,1899,700000.0,0,0,1,0,0,0,0,0,0
-Cyclone Veronica,Western Australia,Port Hedland,Cyclone,2019-03-20,,2019,26700000.0,0,0,0,0,0,0,0,1,0
-Cyclone Marcus,Northern Territory,Darwin,Cyclone,2018-03-15,,2018,75000000.0,0,0,0,0,0,0,1,0,0
+Cyclone Veronica,Western Australia,Port Hedland,Cyclone,2019-03-20,2019-03-22,2019,26700000.0,0,0,0,0,0,0,0,1,0
+Cyclone Marcus,Northern Territory,Darwin,Cyclone,2018-03-15,2018-03-25,2018,75000000.0,0,0,0,0,0,0,1,0,0
 Cyclone Debbie,Queensland,Airlie Beach,Cyclone,2017-03-28,2017-03-31,2017,1781599484.0,0,0,1,0,0,0,0,0,0
 Cyclone Marcia,Queensland,Shoalwater Bay,Cyclone,2015-02-15,2015-02-26,2015,404000000.0,0,0,1,0,0,0,0,0,0
-Cyclone Oswald,Queensland,Cape York Peninsula,Cyclone,2013-01-21,,2013,1100000000.0,0,0,1,0,0,0,0,0,0
+Cyclone Oswald,Queensland,Cape York Peninsula,Cyclone,2013-01-21,2013-01-31,2013,1100000000.0,0,0,1,0,0,0,0,0,0
 Cyclone Yasi,Queensland,Ayr,Cyclone,2011-02-02,2011-02-03,2011,1405000000.0,0,0,1,0,0,0,0,0,0
 Cyclone Yasi,Queensland,Cairns,Cyclone,2011-02-02,2011-02-03,2011,1405000000.0,0,0,1,0,0,0,0,0,0
 Cyclone Yasi,Queensland,Townsville,Cyclone,2011-02-02,2011-02-03,2011,1405000000.0,0,0,1,0,0,0,0,0,0
@@ -209,8 +209,8 @@ Cyclone - Cape York and Townsville,Queensland,Townsville,Cyclone,1934-03-12,1934
 Cyclone - Innisfail ,Queensland,Cairns,Cyclone,1918-03-10,1918-03-10,1918,700000.0,0,0,1,0,0,0,0,0,0
 Cyclone - Mackay ,Queensland,Mackay,Cyclone,1918-01-20,1918-01-22,1918,700000.0,0,0,1,0,0,0,0,0,0
 Cyclone - Balla Balla,Western Australia,Port Hedland,Cyclone,1912-03-20,1912-03-22,1912,700000.0,0,0,0,0,0,0,0,1,0
-"Cyclone - Broome, Lacepede Islands",Western Australia,Broome,Cyclone,1935-03-25,,1935,700000.0,0,0,0,0,0,0,0,1,0
-"Cyclone - Broome, Lacepede Islands",Western Australia,Lacepede Islands,Cyclone,1935-03-25,,1935,700000.0,0,0,0,0,0,0,0,1,0
+"Cyclone - Broome, Lacepede Islands",Western Australia,Broome,Cyclone,1935-03-25,1935-03-25,1935,700000.0,0,0,0,0,0,0,0,1,0
+"Cyclone - Broome, Lacepede Islands",Western Australia,Lacepede Islands,Cyclone,1935-03-25,1935-03-25,1935,700000.0,0,0,0,0,0,0,0,1,0
 Cyclone Broome,Western Australia,Broome,Cyclone,1910-11-19,1910-11-19,1910,700000.0,0,0,0,0,0,0,0,1,0
 Cyclone - Cooktown,Queensland,Cooktown,Cyclone,1907-01-19,1907-01-19,1907,700000.0,0,0,1,0,0,0,0,0,0
 Cyclone Leonta,Queensland,Townsville,Cyclone,1903-03-09,1903-03-09,1903,700000.0,0,0,1,0,0,0,0,0,0
@@ -454,7 +454,7 @@ Flood -  Widespread New South Wales (including Queensland and South Australia),N
 Flood -  Widespread New South Wales (including Queensland and South Australia),New South Wales,Swan Hill (NSW),Flood,1890-04-01,1890-10-01,1890,700000.0,1,0,0,0,0,0,0,0,0
 "Flood - Black February. Brisbane, Ipswich and Maryborough",Queensland,Brisbane,Flood,1893-02-01,1893-02-15,1893,700000.0,0,0,1,0,0,0,0,0,0
 "Flood - Black February. Brisbane, Ipswich and Maryborough",Queensland,Bundaberg,Flood,1893-02-01,1893-02-15,1893,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Maitland,New South Wales,Maitland,Flood,1893-03-09,,1893,700000.0,1,0,0,0,0,0,0,0,0
+Flood - Maitland,New South Wales,Maitland,Flood,1893-03-09,1893-03-09,1893,700000.0,1,0,0,0,0,0,0,0,0
 Flood - Katherine and Daly River,Northern Territory,Katherine,Flood,1879-02-01,1879-02-01,1879,700000.0,0,0,0,0,0,0,1,0,0
 Flood - Katherine and Daly River,Northern Territory,Victoria River,Flood,1879-02-01,1879-02-01,1879,700000.0,0,0,0,0,0,0,1,0,0
 Flood - Clermont and Peak Downs,Queensland,Clermont,Flood,1870-02-01,1870-02-01,1870,700000.0,0,0,1,0,0,0,0,0,0
@@ -590,7 +590,7 @@ Flood - South East Queensland ,Queensland,Lismore (QLD),Flood,2007-12-27,2008-01
 Flood - Gippsland,Victoria,Cooma (VIC),Flood,2007-06-27,2007-07-02,2007,15000000.0,0,1,0,0,0,0,0,0,0
 Flood - Gippsland,Victoria,Wilsons Promontory,Flood,2007-06-27,2007-07-02,2007,15000000.0,0,1,0,0,0,0,0,0,0
 Flood - Gippsland,Victoria,Melbourne,Flood,2007-06-27,2007-07-02,2007,15000000.0,0,1,0,0,0,0,0,0,0
-Flood - Gawler river,South Australia,Gawler River,Flood,2005-11-08,,2005,40000000.0,0,0,0,0,0,1,0,0,0
+Flood - Gawler river,South Australia,Gawler River,Flood,2005-11-08,2005-11-09,2005,40000000.0,0,0,0,0,0,1,0,0,0
 Flood - North East New South Wales,New South Wales,Lismore (NSW),Flood,2005-06-29,2005-06-30,2005,25000000.0,1,0,0,0,0,0,0,0,0
 Flood - South East Queensland,Queensland,Lismore (QLD),Flood,2005-06-29,2005-06-30,2005,53900000.0,0,0,1,0,0,0,0,0,0
 "Flood - Brisbane, Sunshine Coast, and Gold Coast",Queensland,Brisbane,Flood,2001-03-09,2001-03-11,2001,37000000.0,0,0,1,0,0,0,0,0,0
@@ -683,7 +683,7 @@ Flood - Hughenden,Queensland,Hughenden,Flood,1917-01-01,1917-01-10,1917,700000.0
 Flood - Clermont and Peak Downs,Queensland,Clermont,Flood,1916-12-27,1916-12-27,1916,700000.0,0,0,1,0,0,0,0,0,0
 Bolwara Flood,New South Wales,Bolwarra,Flood,1857-07-15,1857-07-31,1857,700000.0,1,0,0,0,0,0,0,0,0
 Flood - Melbourne and Victoria ,Victoria,Melbourne,Flood,1934-11-29,1934-12-01,1934,700000.0,0,1,0,0,0,0,0,0,0
-"Flood - Flooding, New South Wales",New South Wales,Northern Rivers,Flood,2022-02-22,,2022,230000000.0,1,0,0,0,0,0,0,0,0
+"Flood - Flooding, New South Wales",New South Wales,Northern Rivers,Flood,2022-02-22,2022-04-07,2022,230000000.0,1,0,0,0,0,0,0,0,0
 Flood - Rainfall and Flooding,Queensland,South East Queensland,Flood,2022-02-22,2022-03-07,2022,230000000.0,0,0,1,0,0,0,0,0,0
 Flood - Severe Flooding from (ex) Tropical Cyclone Tiffany ,South Australia,South Australia,Flood,2022-01-21,2022-02-03,2022,176000000.0,0,0,0,0,0,1,0,0,0
 Flood - Geelong,Victoria,Geelong,Flood,2015-01-27,2015-01-27,2015,11700000.0,0,1,0,0,0,0,0,0,0
@@ -696,9 +696,9 @@ Industrial - Bulli Mine,New South Wales,Wollongong,Industrial,1887-03-23,1887-03
 Industrial - Dudley Mine,New South Wales,Sydney,Industrial,1898-03-21,1898-03-21,1898,700000.0,1,0,0,0,0,0,0,0,0
 Industrial - Broken Hill Mine Collapse,New South Wales,Broken Hill,Industrial,1895-07-18,1895-07-18,1895,700000.0,1,0,0,0,0,0,0,0,0
 Industrial - Creswick Gold Mine,Victoria,Melbourne,Industrial,1882-12-12,1882-12-12,1882,700000.0,0,1,0,0,0,0,0,0,0
-"Swanston Street wall collapse, 2013",Victoria,Melbourne,Industrial,2013-03-29,,2013,89000000.0,0,1,0,0,0,0,0,0,0
+"Swanston Street wall collapse, 2013",Victoria,Melbourne,Industrial,2013-03-29,2013-03-29,2013,89000000.0,0,1,0,0,0,0,0,0,0
 "Industrial – Pike River Mine, New Zealand",Offshore,Outside Territorial Waters,Industrial,2010-11-19,2010-11-26,2010,46700000.0,0,0,0,0,0,0,0,0,1
-Industrial - Savage River Mine Fire,Tasmania,Savage River,Industrial,2006-06-21,,2006,10000000.0,0,0,0,0,1,0,0,0,0
+Industrial - Savage River Mine Fire,Tasmania,Savage River,Industrial,2006-06-21,2006-06-21,2006,10000000.0,0,0,0,0,1,0,0,0,0
 Industrial - Gladstone Factory Explosion,South Australia,Whyalla,Industrial,2006-05-09,2006-05-09,2006,22000000.0,0,0,0,0,0,1,0,0,0
 Industrial - Beaconsfield Mine,Tasmania,Launceston,Industrial,2006-04-25,2006-05-09,2006,22000000.0,0,0,0,0,1,0,0,0,0
 Industrial - Bellevue Hazardous Waste Fire,Western Australia,Perth,Industrial,2001-02-15,2001-02-17,2001,5600000.0,0,0,0,0,0,0,0,1,0
@@ -709,12 +709,12 @@ Industrial- Hazardous material incident,Victoria,Melbourne,Industrial,2005-02-21
 Industrial - Structure Collapse,South Australia,Adelaide,Industrial,1996-08-06,1996-08-06,1996,15000000.0,0,0,0,0,0,1,0,0,0
 Industrial - Moura Mine,Queensland,Taroom,Industrial,1994-08-07,1994-08-07,1994,37000000.0,0,0,1,0,0,0,0,0,0
 Industrial - South Bulli Coal Mine,New South Wales,Wollongong,Industrial,1991-07-24,1991-07-24,1991,22500000.0,1,0,0,0,0,0,0,0,0
-Industrial - Coode Island,Victoria,Melbourne,Industrial,1991-07-21,,1991,21000000.0,0,1,0,0,0,0,0,0,0
+Industrial - Coode Island,Victoria,Melbourne,Industrial,1991-07-21,1991-07-21,1991,21000000.0,0,1,0,0,0,0,0,0,0
 Industrial - Western Main,New South Wales,Hillston,Industrial,1991-05-29,1991-05-29,1991,22500000.0,1,0,0,0,0,0,0,0,0
 Industrial - Leinster Mine Flood,Western Australia,Wiluna,Industrial,1989-06-13,1989-06-13,1989,26000000.0,0,0,0,0,0,0,0,1,0
 "Industrial - Boiling liquid expanding vapour explosion (BLEVE), Cairns ",Queensland,Cairns,Industrial,1987-08-01,1987-08-01,1987,89000000.0,0,0,1,0,0,0,0,0,0
 Industrial - Moura Mine,Queensland,Taroom,Industrial,1986-07-16,1986-07-16,1986,35000000.0,0,0,1,0,0,0,0,0,0
-Industrial - Poisonous gases HMAS Stalwart,Offshore,Territorial Waters,Industrial,1985-10-22,,1985,700000.0,0,0,0,0,0,0,0,0,1
+Industrial - Poisonous gases HMAS Stalwart,Offshore,Territorial Waters,Industrial,1985-10-22,1985-10-22,1985,700000.0,0,0,0,0,0,0,0,0,1
 Industrial - Appin Mine Explosion,New South Wales,Wollongong,Industrial,1979-07-24,1979-07-24,1979,12500000.0,1,0,0,0,0,0,0,0,0
 Industrial - Kianga Mine,Queensland,Taroom,Industrial,1975-09-20,1975-09-20,1975,17500000.0,0,0,1,0,0,0,0,0,0
 Industrial - Mount St Canice,Tasmania,Hobart,Industrial,1974-09-05,1974-09-05,1974,68000000.0,0,0,0,0,1,0,0,0,0
@@ -724,17 +724,17 @@ Industrial - Blackmans Flat,New South Wales,Dubbo,Industrial,1972-01-01,1972-01-
 Industrial â€“ Wyee State Mine,New South Wales,Sydney,Industrial,1966-10-21,1966-10-21,1966,700000.0,1,0,0,0,0,0,0,0,0
 Industrial â€“ Melbourne Crane Collapse,Victoria,Melbourne,Industrial,1961-10-01,1961-10-01,1961,700000.0,0,1,0,0,0,0,0,0,0
 Industrial - Collinsville Mine,Queensland,Mackay,Industrial,1954-10-13,1954-10-13,1954,700000.0,0,0,1,0,0,0,0,0,0
-Industrial - Balmain colliery,New South Wales,Balmain,Industrial,1945-04-20,,1945,700000.0,1,0,0,0,0,0,0,0,0
+Industrial - Balmain colliery,New South Wales,Balmain,Industrial,1945-04-20,1945-04-20,1945,700000.0,1,0,0,0,0,0,0,0,0
 Industrial - Woodend Mine,Queensland,Brisbane,Industrial,1945-02-01,1945-02-01,1945,700000.0,0,0,1,0,0,0,0,0,0
 Industrial - Redhead Colliery,New South Wales,Sydney,Industrial,1926-01-21,1926-01-21,1926,700000.0,1,0,0,0,0,0,0,0,0
 Industrial - Bellbird Colliery,New South Wales,Sydney,Industrial,1923-09-01,1923-09-01,1923,700000.0,1,0,0,0,0,0,0,0,0
 Industrial - Mount Mulligan Mine ,Queensland,Cairns,Industrial,1921-09-19,1921-09-19,1921,700000.0,0,0,1,0,0,0,0,0,0
-Industrial - Great Extended Hustler's Mine explosion,Victoria,Bendigo,Industrial,1914-05-02,,1914,700000.0,0,1,0,0,0,0,0,0,0
+Industrial - Great Extended Hustler's Mine explosion,Victoria,Bendigo,Industrial,1914-05-02,1914-05-02,1914,700000.0,0,1,0,0,0,0,0,0,0
 Industrial - Queenstown Copper Mine Fire,Tasmania,Hobart,Industrial,1912-10-12,1912-10-12,1912,700000.0,0,0,0,0,1,0,0,0,0
 Industrial - Stanford Merthyr Mine ,New South Wales,Sydney,Industrial,1905-10-29,1905-10-29,1905,700000.0,1,0,0,0,0,0,0,0,0
 Industrial - Charters Towers mine 1904,Queensland,Charters Towers,Industrial,1904-10-14,1904-10-14,1904,700000.0,0,0,1,0,0,0,0,0,0
 Industrial - Burwood Colliery,New South Wales,Sydney,Industrial,1901-11-13,1901-11-13,1901,700000.0,1,0,0,0,0,0,0,0,0
-Industrial - Balmain mining fall,New South Wales,Balmain,Industrial,1900-03-17,,1900,700000.0,1,0,0,0,0,0,0,0,0
+Industrial - Balmain mining fall,New South Wales,Balmain,Industrial,1900-03-17,1900-03-17,1900,700000.0,1,0,0,0,0,0,0,0,0
 Industrial - Greta Colliery Fire,New South Wales,Sydney,Industrial,1900-12-05,1900-12-05,1900,700000.0,1,0,0,0,0,0,0,0,0
 Industrial - Varanus Island Gas Explosion,Western Australia,Dampier,Industrial,2008-06-03,2008-06-03,2008,230000000.0,0,0,0,0,0,0,0,1,0
 Industrial - Newcastle Toxic Fume Leak,New South Wales,Sydney,Industrial,2006-03-30,2006-03-30,2006,22000000.0,1,0,0,0,0,0,0,0,0
@@ -759,7 +759,7 @@ Hail - Lismore,New South Wales,Lismore (NSW),Storm,2007-10-08,2007-10-09,2007,97
 Hail - Hunter Valley,New South Wales,Sydney,Storm,2006-10-31,2006-10-31,2006,31000000.0,1,0,0,0,0,0,0,0,0
 Hail - Sydney Hailstorm,New South Wales,Sydney,Storm,2015-04-25,2015-04-25,2015,470819649.0,1,0,0,0,0,0,0,0,0
 Hail - Lake Grace,Western Australia,Bunbury,Storm,2005-10-16,2005-10-16,2005,10000000.0,0,0,0,0,0,0,0,1,0
-Storm - Severe storm Sydney,New South Wales,Sydney,Storm,2015-12-16,,2015,220000000.0,1,0,0,0,0,0,0,0,0
+Storm - Severe storm Sydney,New South Wales,Sydney,Storm,2015-12-16,2015-12-17,2015,220000000.0,1,0,0,0,0,0,0,0,0
 Hail - Gold Coast ,Queensland,Brisbane,Storm,2005-10-12,2005-10-12,2005,61000000.0,0,0,1,0,0,0,0,0,0
 Hail - Brisbane,Queensland,Brisbane,Storm,2005-05-19,2005-05-19,2005,17600000.0,0,0,1,0,0,0,0,0,0
 Hail - South East Queensland,Queensland,Brisbane,Storm,2004-01-24,2004-01-31,2004,28500000.0,0,0,1,0,0,0,0,0,0
@@ -873,7 +873,7 @@ Maritime/Coastal - Iron Crown steamship Sinking,Victoria,Cooma (VIC),Maritime/Co
 Maritime/Coastal - Sydney to Hobart Yacht Race ,Victoria,Bass Strait,Maritime/Coastal,1998-12-26,1998-12-30,1998,5000000.0,0,1,0,0,0,0,0,0,0
 Shipwreck - Sierra Nevada,Victoria,Wilsons Promontory,Maritime/Coastal,1900-05-09,1900-05-09,1900,700000.0,0,1,0,0,0,0,0,0,0
 Shipwrecks - Richmond River Ballina,New South Wales,Lismore (NSW),Maritime/Coastal,1850-09-28,1850-09-28,1850,700000.0,1,0,0,0,0,0,0,0,0
-"Shipwreck - Toroa Shipwreck, Victoria 1858",Victoria,Cape Otway,Maritime/Coastal,1858-08-06,,1858,700000.0,0,1,0,0,0,0,0,0,0
+"Shipwreck - Toroa Shipwreck, Victoria 1858",Victoria,Cape Otway,Maritime/Coastal,1858-08-06,1858-08-06,1858,700000.0,0,1,0,0,0,0,0,0,0
 Shipwreck - Koenig Willem ll,South Australia,Mount Gambier (SA),Maritime/Coastal,1857-06-30,1857-06-30,1857,700000.0,0,0,0,0,0,1,0,0,0
 Shipwreck - Sally,Tasmania,Launceston,Maritime/Coastal,1826-06-30,1826-06-30,1826,700000.0,0,0,0,0,1,0,0,0,0
 Shipwreck - Ly-Ee-Moon,New South Wales,Cooma (NSW),Maritime/Coastal,1886-05-30,1886-05-30,1886,700000.0,1,0,0,0,0,0,0,0,0
@@ -1019,7 +1019,7 @@ Shipwreck - Pareora,South Australia,Adelaide,Maritime/Coastal,1919-09-19,1919-09
 "Shipwreck - Afric, Harriet, Leila, Opal",Northern Territory,Melville Island,Maritime/Coastal,1915-02-25,1915-02-25,1915,700000.0,0,0,0,0,0,0,1,0,0
 Shipwreck - Antares,Victoria,Warrnambool (VIC),Maritime/Coastal,1914-11-01,1914-11-01,1914,700000.0,0,1,0,0,0,0,0,0,0
 Shipwreck - Candidate ,New South Wales,Lismore (NSW),Maritime/Coastal,1912-07-14,1912-07-14,1912,700000.0,1,0,0,0,0,0,0,0,0
-"Maritime/Coastal - SS Rosedale Shipwreck, NSW 1911 ",New South Wales,Crowdy Head,Maritime/Coastal,1911-09-01,,1911,700000.0,1,0,0,0,0,0,0,0,0
+"Maritime/Coastal - SS Rosedale Shipwreck, NSW 1911 ",New South Wales,Crowdy Head,Maritime/Coastal,1911-09-01,1911-09-01,1911,700000.0,1,0,0,0,0,0,0,0,0
 Shipwreck - Glenelg,Victoria,Cooma (VIC),Maritime/Coastal,1911-03-25,1911-03-25,1911,700000.0,0,1,0,0,0,0,0,0,0
 Shipwreck - Yongala ,Queensland,Ayr,Maritime/Coastal,1911-03-23,1911-03-23,1911,700000.0,0,0,1,0,0,0,0,0,0
 Shipwreck - Errol Middleton Reef,New South Wales,Lismore (NSW),Maritime/Coastal,1909-06-18,1909-07-12,1909,700000.0,1,0,0,0,0,0,0,0,0
@@ -1029,8 +1029,8 @@ Shipwreck - Alfhild,Tasmania,Hobart,Maritime/Coastal,1907-10-10,1907-10-10,1907,
 Shipwreck - Kawatiri,Tasmania,Launceston,Maritime/Coastal,1907-08-13,1907-08-13,1907,700000.0,0,0,0,0,1,0,0,0,0
 Shipwreck - Brier Holme,Tasmania,Hobart,Maritime/Coastal,1904-11-05,1904-11-05,1904,700000.0,0,0,0,0,1,0,0,0,0
 Shipwreck - Acacia,Tasmania,Hobart,Maritime/Coastal,1904-06-20,1904-06-20,1904,700000.0,0,0,0,0,1,0,0,0,0
-Shipwreck - Edward Lombe,New South Wales,Sydney,Maritime/Coastal,1834-08-25,,1834,700000.0,1,0,0,0,0,0,0,0,0
-Shipwreck - The Rip Shipwwreck ,Victoria,Port Phillip Heads,Maritime/Coastal,1873-07-18,,1873,700000.0,0,1,0,0,0,0,0,0,0
+Shipwreck - Edward Lombe,New South Wales,Sydney,Maritime/Coastal,1834-08-25,1834-08-25,1834,700000.0,1,0,0,0,0,0,0,0,0
+Shipwreck - The Rip Shipwwreck ,Victoria,Port Phillip Heads,Maritime/Coastal,1873-07-18,1873-07-18,1873,700000.0,0,1,0,0,0,0,0,0,0
 Shipwreck - Federal,Victoria,Cooma (VIC),Maritime/Coastal,1901-03-21,1901-03-21,1901,700000.0,0,1,0,0,0,0,0,0,0
 "Tornado - Bundaberg, Queensland 2013",Queensland,Bundaberg,Tornado,2013-01-26,2013-01-26,2013,89000000.0,0,0,1,0,0,0,0,0,0
 Tornado - Kin Kin,Queensland,Brisbane,Tornado,1971-08-14,1971-08-14,1971,20353129.0,0,0,1,0,0,0,0,0,0
@@ -1038,7 +1038,7 @@ Transport - Redfern Train Collision,New South Wales,Sydney,Transport,1894-10-31,
 Transport - Cootamundra Train Derailment,New South Wales,Wollongong,Transport,1885-01-25,1885-01-25,1885,700000.0,1,0,0,0,0,0,0,0,0
 Transport - Brisbane River Ferry Sinking,Queensland,Brisbane,Transport,1896-02-13,1896-02-13,1896,700000.0,0,0,1,0,0,0,0,0,0
 "Transport – Emu Plains Train Collision, New South Wales 1878",New South Wales,Emu Plains,Transport,1878-01-30,1878-01-30,1878,700000.0,1,0,0,0,0,0,0,0,0
-"Transport – Aircraft crash, Caboolture Queensland 2014",Queensland,Caboolture,Transport,2014-03-22,,2014,68500000.0,0,0,1,0,0,0,0,0,0
+"Transport – Aircraft crash, Caboolture Queensland 2014",Queensland,Caboolture,Transport,2014-03-22,2014-03-22,2014,68500000.0,0,0,1,0,0,0,0,0,0
 Transport – Laos plane crash 2013,Offshore,Outside Territorial Waters,Transport,2013-10-16,2013-10-16,2013,89000000.0,0,0,0,0,0,0,0,0,1
 Transport - Papua New Guinea Plane Crash,Offshore,Outside Territorial Waters,Transport,2009-08-11,2009-08-11,2009,48000000.0,0,0,0,0,0,0,0,0,1
 Transport - Taxi and Truck Collision ,Northern Territory,Darwin,Transport,2012-11-08,2012-11-08,2012,124688000.0,0,0,0,0,0,0,1,0,0
@@ -1048,7 +1048,7 @@ Transport - Burnley Tunnel Fire ,Victoria,Melbourne,Transport,2007-03-23,2007-03
 Transport - Plane Crash Indonesia,Offshore,Outside Territorial Waters,Transport,2007-03-07,2007-03-07,2007,57450000.0,0,0,0,0,0,0,0,0,1
 Transport - Trawalla Train and Truck Collision,Victoria,Melbourne,Transport,2006-04-28,2006-04-28,2006,22000000.0,0,1,0,0,0,0,0,0,0
 Transport - Egypt Bus Crash,Offshore,Outside Territorial Waters,Transport,2006-01-10,2006-01-10,2006,22000000.0,0,0,0,0,0,0,0,0,1
-"Transport - Bundaberg Backpacker mini-bus accident, Queensland 2005",Queensland,Bundaberg,Transport,2005-09-10,,2005,53200000.0,0,0,1,0,0,0,0,0,0
+"Transport - Bundaberg Backpacker mini-bus accident, Queensland 2005",Queensland,Bundaberg,Transport,2005-09-10,2005-09-10,2005,53200000.0,0,0,1,0,0,0,0,0,0
 Transport -Mini Bus accident on Jamberoo Mountain Road,New South Wales,Wollongong,Transport,2005-09-05,2005-09-05,2005,53200000.0,1,0,0,0,0,0,0,0,0
 Transport - Lockhart River Plane Crash ,Queensland,Weipa,Transport,2005-05-07,2005-05-07,2005,53200000.0,0,0,1,0,0,0,0,0,0
 Transport - Navy Helicopter Accident,Offshore,Outside Territorial Waters,Transport,2005-04-02,2005-04-02,2005,53200000.0,0,0,0,0,0,0,0,0,1
@@ -1071,7 +1071,7 @@ Transport - Glenbrook (Blue Mountains) Railway Accident,New South Wales,Sydney,T
 Transport - Zanthus Rail Collision ,Western Australia,Rawlinna,Transport,1999-08-18,1999-08-18,1999,40000000.0,0,0,0,0,0,0,0,1,0
 Transport - Fiji Air Crash,Offshore,Outside Territorial Waters,Transport,1999-07-24,1999-07-24,1999,40000000.0,0,0,0,0,0,0,0,0,1
 Transport - Eastern Highlands Papua New Guinea Plane Crash,Offshore,Outside Territorial Waters,Transport,1999-06-17,1999-06-17,1999,40000000.0,0,0,0,0,0,0,0,0,1
-"Transport - Torres Strait plane crash, Queensland 1999",Queensland,Torres Strait,Transport,1999-01-16,,1999,40000000.0,0,0,1,0,0,0,0,0,0
+"Transport - Torres Strait plane crash, Queensland 1999",Queensland,Torres Strait,Transport,1999-01-16,1999-01-16,1999,40000000.0,0,0,1,0,0,0,0,0,0
 Transport - Albury Coach and Truck Collision,New South Wales,Canberra (NSW),Transport,1998-08-13,1998-08-13,1998,23000000.0,1,0,0,0,0,0,0,0,0
 Transport - Bookham Coach Semi-Trailer Collision,New South Wales,Canberra (NSW),Transport,1998-08-07,1998-08-07,1998,23000000.0,1,0,0,0,0,0,0,0,0
 Transport - Black Hawk Air Collision,Queensland,Townsville,Transport,1996-06-12,1996-06-12,1996,15000000.0,0,0,1,0,0,0,0,0,0
@@ -1100,12 +1100,12 @@ Transport - El Alamein Helicopter Crash,South Australia,Whyalla,Transport,1978-1
 Transport - Granville Rail Disaster,New South Wales,Sydney,Transport,1977-01-18,1977-01-18,1977,12000000.0,1,0,0,0,0,0,0,0,0
 Transport - Parafield Light Aircraft Collision,South Australia,Adelaide,Transport,1976-02-01,1976-02-01,1976,372000000.0,0,0,0,0,0,1,0,0,0
 Transport - Bankstown Light Aircraft Collision ,New South Wales,Sydney,Transport,1974-03-13,1974-03-13,1974,68000000.0,1,0,0,0,0,0,0,0,0
-"Transport - Tumut Ponds Bus crash, NSW 1973 ",New South Wales,Tumut Ponds,Transport,1973-09-01,,1973,30000000.0,1,0,0,0,0,0,0,0,0
+"Transport - Tumut Ponds Bus crash, NSW 1973 ",New South Wales,Tumut Ponds,Transport,1973-09-01,1973-09-01,1973,30000000.0,1,0,0,0,0,0,0,0,0
 Transport - Golden Grove Light Aircraft Crash,South Australia,Adelaide,Transport,1972-07-13,1972-07-13,1972,700000.0,0,0,0,0,0,1,0,0,0
 Transport - Leigh Creek Light Aircraft Crash,South Australia,Leigh Creek,Transport,1972-01-25,1972-01-25,1972,700000.0,0,0,0,0,0,1,0,0,0
-Wasleys train and bus crash,South Australia,Wasleys,Transport,1970-04-12,,1970,12000000.0,0,0,0,0,0,1,0,0,0
+Wasleys train and bus crash,South Australia,Wasleys,Transport,1970-04-12,1970-04-12,1970,12000000.0,0,0,0,0,0,1,0,0,0
 Transport - Parafield Region Light Aircraft Crash,South Australia,Adelaide,Transport,1969-02-08,1969-02-08,1969,700000.0,0,0,0,0,0,1,0,0,0
-"Violet Town train collision, 1969",Victoria,Violet Town,Transport,1969-02-07,,1969,700000.0,0,1,0,0,0,0,0,0,0
+"Violet Town train collision, 1969",Victoria,Violet Town,Transport,1969-02-07,1969-02-07,1969,700000.0,0,1,0,0,0,0,0,0,0
 Transport - Southern Aurora,Victoria,Melbourne,Transport,1969-02-07,1969-02-07,1969,700000.0,0,1,0,0,0,0,0,0,0
 Transport - Port Hedland Aircraft Crash,Western Australia,Port Hedland,Transport,1968-12-31,1968-12-31,1968,2250000.0,0,0,0,0,0,0,0,1,0
 Transport - Winton Aircraft Accident,Queensland,Winton,Transport,1966-09-22,1966-09-22,1966,700000.0,0,0,1,0,0,0,0,0,0
@@ -1126,13 +1126,13 @@ Transport - Rocky Ponds Train Derailment,New South Wales,Canberra (NSW),Transpor
 Transport - Tamaree Train Crash,Queensland,Bundaberg,Transport,1947-10-18,1947-10-18,1947,700000.0,0,0,1,0,0,0,0,0,0
 Transport - Camp Mountain (Dayboro) Train Derailment,Queensland,Brisbane,Transport,1947-05-05,1947-05-05,1947,700000.0,0,0,1,0,0,0,0,0,0
 Transport - Balgowlah Bus Crash,New South Wales,Sydney,Transport,1947-03-10,1947-03-10,1947,700000.0,1,0,0,0,0,0,0,0,0
-"Transport - Aircraft crash, Seven Mile Beach, 1946",Tasmania,Seven Mile Beach,Transport,1946-03-10,,1946,700000.0,0,0,0,0,1,0,0,0,0
+"Transport - Aircraft crash, Seven Mile Beach, 1946",Tasmania,Seven Mile Beach,Transport,1946-03-10,1946-03-10,1946,700000.0,0,0,0,0,1,0,0,0,0
 Transport - Copley Rail Collision,South Australia,Leigh Creek,Transport,1944-05-11,1944-05-11,1944,700000.0,0,0,0,0,0,1,0,0,0
 Transport - Brooklyn Train and Bus Collision,New South Wales,Sydney,Transport,1944-01-20,1944-01-20,1944,700000.0,1,0,0,0,0,0,0,0,0
 Transport - Wodonga Train and Bus Collision,Victoria,Cooma (VIC),Transport,1943-05-08,1943-05-08,1943,700000.0,0,1,0,0,0,0,0,0,0
 Transport - Dandenongs Aircraft Crash,Victoria,Melbourne,Transport,1938-10-25,1938-10-25,1938,700000.0,0,1,0,0,0,0,0,0,0
 Transport - Capsized Ferry Rodney,New South Wales,Sydney,Transport,1938-02-13,1938-02-13,1938,700000.0,1,0,0,0,0,0,0,0,0
-"Transport - Southern Cloud Crash, NSW 1931 ",New South Wales,Tumbarumba,Transport,1931-03-01,,1931,700000.0,1,0,0,0,0,0,0,0,0
+"Transport - Southern Cloud Crash, NSW 1931 ",New South Wales,Tumbarumba,Transport,1931-03-01,1931-03-01,1931,700000.0,1,0,0,0,0,0,0,0,0
 Transport - Koo-Wee-Rup Rail Collision,Victoria,Melbourne,Transport,1928-12-24,1928-12-24,1928,700000.0,0,1,0,0,0,0,0,0,0
 Transport - Sydney Harbour Ferry Collision,New South Wales,Sydney,Transport,1927-11-03,1927-11-03,1927,700000.0,1,0,0,0,0,0,0,0,0
 Transport - Murulla Train Accident ,New South Wales,Tamworth,Transport,1926-09-13,1926-09-13,1926,700000.0,1,0,0,0,0,0,0,0,0

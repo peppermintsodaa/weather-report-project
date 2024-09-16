@@ -69,7 +69,7 @@ print(f"Mean Absolute Error 1: {mae}")
 print(f"Mean Squared Error 1: {mse}")
 print()
 
-model_2 = RandomForestRegressor(max_depth = 3, random_state = 42)
+model_2 = DecisionTreeRegressor(max_depth = 3, random_state = 42)
 model_2.fit(X2_train, y2_train)
 
 # Make predictions
@@ -119,6 +119,8 @@ new_data = generate_new_data(state, disaster_type)
 
 # Decide which method to use
 loss, claim_amount = predict_insurance_claim(state, disaster_type, new_data, use_model=True)
+print(f"Predicted Insurance Claim Amount: ${loss:,.2f}")
+print(f"Predicted Insurance Claim Amount: {claim_amount:,.0f}")
 print(f"Predicted Insurance Claim Amount: ${loss / claim_amount:,.0f}")
 
 insurance_claim = predict_insurance_claim(state, disaster_type, new_data, use_model=False)
