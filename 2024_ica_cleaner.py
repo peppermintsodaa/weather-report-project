@@ -5,8 +5,12 @@ import numpy as np
 from sklearn.preprocessing import MultiLabelBinarizer
 
 #read excel file
-ica_data = pd.read_excel('datasets\ICA-Historical-Normalised-Catastrophe-July-2024.xlsx', skiprows=9, header=0)
+ica_data = pd.read_excel('cosc2669-or-cosc2186-WIL-project/datasets/ICA-Historical-Normalised-Catastrophe-July-2024.xlsx', skiprows=9, header=0)
 
+
+
+#always strip of whitespaces
+ica_data.columns = [col.strip() for col in ica_data.columns]
 
 #make everything lower case for consistency
 ica_data.columns = [col.strip().lower() for col in ica_data.columns]
@@ -33,7 +37,8 @@ dropped_columns = ['domestic building claims',
     'commercial other claims', 
     'commercial crop claims',
     'town',
-    'postcode']
+    'postcode',
+    'financial year']
 
 ica_data.drop(columns=dropped_columns, inplace=True)
 
@@ -42,11 +47,18 @@ ica_data.drop(columns=dropped_columns, inplace=True)
 ica_data['type'] = ica_data['type'].str.strip().str.lower()
 ica_data['state'] = ica_data['state'].str.strip().str.upper()
 
-#handle multiple states
-ica_data['state'] = ica_data['state'].str.split(',')
-mlb = MultiLabelBinarizer()
-state_encoded = mlb.fit_transform(ica_data['state'])
-state_df = pd.DataFrame(state_encoded, columns=mlb.classes_)
+# handle multiple states
+state_list = ['NSW', 'VIC', 'QLD', 'ACT', 'TAS', 'SA', 'NT', 'WA']  
+for state in state_list:
+    ica_data[state] = 0  
+
+for index, row in ica_data.iterrows():
+    if isinstance(row['state'], str):
+        states = row['state'].split(',')
+        for state in states:
+            state = state.strip()
+            if state in state_list:
+                ica_data.at[index, state] = 1  
 
 
 
@@ -78,6 +90,6 @@ ica_data['normalised loss value (2022)'].fillna(
 print(ica_data.info())
 print(ica_data.head())
 
-ica_data.to_csv('datasets_cleaned/ica-2024-cleaned.csv', index=False)
 
-ica_data.to_csv('cleaned_ica_data.csv', index=False)
+
+ica_data.to_csv('cosc2669-or-cosc2186-WIL-project/datasets_cleaned/cleaned_ica_data.csv', index=False)
