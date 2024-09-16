@@ -2,6 +2,7 @@
 
 import pandas as pd
 import numpy as np
+from sklearn.preprocessing import MultiLabelBinarizer
 
 #read excel file
 ica_data = pd.read_excel('cosc2669-or-cosc2186-WIL-project\datasets\ICA-Historical-Normalised-Catastrophe-July-2024.xlsx', skiprows=9, header=0)
@@ -41,6 +42,13 @@ ica_data.drop(columns=dropped_columns, inplace=True)
 ica_data['type'] = ica_data['type'].str.strip().str.lower()
 ica_data['state'] = ica_data['state'].str.strip().str.upper()
 
+#handle multiple states
+ica_data['state'] = ica_data['state'].str.split(',')
+mlb = MultiLabelBinarizer()
+state_encoded = mlb.fit_transform(ica_data['state'])
+state_df = pd.DataFrame(state_encoded, columns=mlb.classes_)
+
+
 
 #i think it is helpful to calculate the median for that year in these columns rather than remove or leave them NaN!!!!!
 
@@ -72,4 +80,4 @@ print(ica_data.info())
 print(ica_data.head())
 
 
-    
+ica_data.to_csv('cleaned_ica_data.csv', index=False)
