@@ -38,7 +38,8 @@ data = pd.read_csv('datasets_cleaned/ica-2024-cleaned.csv')
 target = data['original loss value']
 
 # Convert categorical features to numerical
-features = pd.get_dummies(features)
+features = pd.get_dummies(data[['state','type']])
+#features = pd.concat([features, data[['normalised loss value (2022)', 'claims count']]], axis = 1)
 
 # Train-Test Split
 X_train, X_test, y_train, y_test = train_test_split(features, target, test_size=0.2, random_state=42)
@@ -54,6 +55,7 @@ y_pred = model.predict(X_test)
 mae = mean_absolute_error(y_test, y_pred)
 mse = mean_squared_error(y_test, y_pred)
 
+print(f"R2 Score: {model.score(X_test, y_test)}")
 print(f"Mean Absolute Error: {mae}")
 print(f"Mean Squared Error: {mse}")
 
@@ -91,8 +93,9 @@ print(f"Predicted Insurance Claim Amount: ${insurance_claim:,.2f}")
 insurance_claim = predict_insurance_claim(state, disaster_type, use_model=False)
 print(f"Insurance Claim Amount (Rule-Based): ${insurance_claim:,.2f}")
 
-    # Find the most commonly occurred disasters for each state
+# Find the most commonly occurred disasters for each state
+#common_disasters = data.groupby(['NSW', 'VIC', 'QLD', 'ACT', 'TAS', 'SA', 'NT', 'WA'])['type'].agg(lambda x: x.value_counts().idxmax())
 common_disasters = data.groupby('state')['type'].agg(lambda x: x.value_counts().idxmax())
 
 print("Most Common Disasters for Each State:")
-print(common_disasters)
+#print(common_disasters)
