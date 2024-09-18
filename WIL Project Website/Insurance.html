@@ -26,9 +26,9 @@
         <!-- Main content area -->
         <div class="main-content">
             <h1>Insurance Claims Based on Natural Disasters</h1>
-            <p>Select a natural disaster and enter your postcode to see the amount of money claimed.</p>
+            <p>Select a natural disaster and state to see the estimated amount of money claimed.</p>
 
-            <!-- Dropdown and Postcode Input -->
+            <!-- Dropdown for natural disasters -->
             <div class="form-group">
                 <label for="disaster">Select a Natural Disaster:</label>
                 <select id="disaster" onchange="toggleOtherDisaster()">
@@ -41,15 +41,25 @@
                 </select>
             </div>
 
-            <!-- Input for "Other" disaster -->
-            <div class="form-group" id="other-disaster">
+            <!-- Input for "Other" disaster (only shown if 'Other' is selected) -->
+            <div class="form-group" id="other-disaster" style="display: none;">
                 <label for="otherDisasterInput">Please specify the natural disaster:</label>
                 <input type="text" id="otherDisasterInput" placeholder="Enter the disaster name">
             </div>
 
+            <!-- Dropdown for states -->
             <div class="form-group">
-                <label for="postcode">Enter Postcode:</label>
-                <input type="text" id="postcode" placeholder="Enter your postcode">
+                <label for="state">Select State:</label>
+                <select id="state">
+                    <option value="NSW">New South Wales (NSW)</option>
+                    <option value="VIC">Victoria (VIC)</option>
+                    <option value="QLD">Queensland (QLD)</option>
+                    <option value="SA">South Australia (SA)</option>
+                    <option value="WA">Western Australia (WA)</option>
+                    <option value="TAS">Tasmania (TAS)</option>
+                    <option value="NT">Northern Territory (NT)</option>
+                    <option value="ACT">Australian Capital Territory (ACT)</option>
+                </select>
             </div>
 
             <!-- Button -->
@@ -57,7 +67,7 @@
 
             <!-- Result display -->
             <div id="result">
-                <p id="result-text">The estimated amount to be claimed is $X for ${disasterType} in postcode ${postcode}.</p>
+                <p id="result-text">The estimated amount to be claimed is $X for ${disasterType} in ${state}.</p>
             </div>
         </div>
     </div>
@@ -72,13 +82,13 @@
     </div>
 
     <script>
-        // Simulated data: claim amounts by disaster type
+        // Simulated data: claim amounts by disaster type and state
         const claimData = {
-            "flood": { "2000": 5000, "3000": 7000, "4000": 8000 },
-            "earthquake": { "2000": 10000, "3000": 15000, "4000": 20000 },
-            "wildfire": { "2000": 8000, "3000": 9000, "4000": 12000 },
-            "hurricane": { "2000": 3000, "3000": 5000, "4000": 6000 },
-            "bushfire": { "2000": 6000, "3000": 11000, "4000": 13000 }
+            "flood": { "NSW": 100000, "VIC": 80000, "QLD": 90000 },
+            "earthquake": { "NSW": 120000, "VIC": 95000, "QLD": 105000 },
+            "wildfire": { "NSW": 70000, "VIC": 85000, "QLD": 90000 },
+            "hurricane": { "NSW": 65000, "VIC": 70000, "QLD": 80000 },
+            "bushfire": { "NSW": 115000, "VIC": 110000, "QLD": 125000 }
         };
 
         // Function to toggle the display of the "Other" disaster input
@@ -93,10 +103,10 @@
             }
         }
 
-        // Function to calculate claim amount based on disaster and postcode
+        // Function to calculate claim amount based on disaster and state
         function calculateClaim() {
             const disaster = document.getElementById('disaster').value;
-            const postcode = document.getElementById('postcode').value;
+            const state = document.getElementById('state').value;
             const resultDiv = document.getElementById('result');
             const resultText = document.getElementById('result-text');
             let disasterType = disaster;
@@ -111,19 +121,12 @@
                 }
             }
 
-            // Validate if postcode is entered
-            if (postcode === "") {
-                resultText.textContent = "Please enter a valid postcode.";
-                resultDiv.style.display = 'block';
-                return;
-            }
-
-            // Check if postcode exists in the claim data for pre-defined disasters
-            const claims = claimData[disaster] && claimData[disaster][postcode];
+            // Check if the state and disaster exist in the claim data
+            const claims = claimData[disaster] && claimData[disaster][state];
             if (claims) {
-                resultText.textContent = `The estimated amount to be claimed is $${claims} for ${disasterType} in postcode ${postcode}.`;
+                resultText.textContent = `The estimated amount to be claimed is $${claims.toLocaleString()} for ${disasterType} in ${state}.`;
             } else {
-                resultText.textContent = `The estimated amount to be claimed is $X for ${disasterType} in postcode ${postcode}.`;
+                resultText.textContent = `The estimated amount to be claimed is unavailable for ${disasterType} in ${state}.`;
             }
 
             // Show the result
