@@ -108,16 +108,15 @@ disaster_2023['Year'] = disaster_2023['Start Date'].apply(lambda x : str(x).spli
 # imputing all insured costs with known median for year
 disaster_2023['Insured Cost'] = disaster_2023['Insured Cost'].fillna(disaster_2023.groupby('Year')['Insured Cost'].transform('median'))
 
-# the following code is adapted from 
-# all rows with missing cost value
+# the following code is adapted from the COSC2820 Week 5 Practical (Sarwar 2024)
+## all rows with missing cost value
 missing_cost = disaster_2023.loc[disaster_2023.isnull()['Insured Cost'], 'Insured Cost']
-# all rows with a cost value
+## all rows with a cost value
 no_missing_cost = disaster_2023.dropna(subset='Insured Cost')
-# all unique costs
+## all unique costs
 cost_ls = no_missing_cost['Insured Cost'].unique().tolist()
 
-# imputing rest of missing values through linear regression
-# taken from COSC2820 week 5 practical
+## imputing rest of missing values through linear regression
 cols = list(disaster_2023)
 
 cols = cols[7:]
@@ -127,13 +126,14 @@ regr = linear_model.LinearRegression()
 
 regr.fit(x_train.values, y_train)
 
-# function to predict costs
+## function to predict costs
 def predict_cost(x):
     x_predict = regr.predict([x])
     return min(cost_ls, key=lambda y:abs(y-x_predict))
 
-# impute all missing costs
+## impute all missing costs
 disaster_2023.loc[missing_cost.index, 'Insured Cost'] = disaster_2023.loc[missing_cost.index].apply(lambda row: predict_cost(row[cols]), axis=1)
+# END OF ADAPTED CODE
 
 # rearrange columns
 cols = list(disaster_2023)
@@ -145,3 +145,7 @@ print(disaster_2023.info())
 print(disaster_2023.head())
 
 disaster_2023.to_csv('datasets_cleaned/disaster-2023-cleaned.csv', index=False)
+
+###### REFERENCES ######
+# Sarwar T (2024) 'Exe 1_Data Audit and Fixing_WithSampleAnswers.ipynb' [Lab material, COSC2820],
+# RMIT University, Melbourne.
