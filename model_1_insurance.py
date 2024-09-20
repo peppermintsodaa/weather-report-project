@@ -32,14 +32,14 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 # Load the dataset
-data = pd.read_csv('datasets_cleaned/ica-2024-cleaned.csv')
+data = pd.read_csv('datasets_cleaned/merged_dataset.csv')
 
 # Select features and target
 target = data['original loss value']
 
 # Convert categorical features to numerical
-features = pd.get_dummies(data[['state','type']])
-#features = pd.concat([features, data[['normalised loss value (2022)', 'claims count']]], axis = 1)
+features = pd.get_dummies(data['type'])
+#features = pd.concat([features, data[['nsw', 'vic', 'qld', 'act', 'tas', 'sa', 'nt', 'wa', 'waters']]], axis = 1)
 
 # Train-Test Split
 X_train, X_test, y_train, y_test = train_test_split(features, target, test_size=0.2, random_state=42)

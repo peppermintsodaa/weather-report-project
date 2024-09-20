@@ -3,7 +3,7 @@ import pandas as pd
 # Define the base amounts for each disaster type
 disaster_base_amounts = {
     'flooding': 1000000,
-    'hailstorm': 500000,
+    'storm': 500000,
     'bushfire': 750000
 }
 
@@ -46,7 +46,7 @@ target_2 = data['claims count']
 #features = pd.concat([features, data[['normalised loss value (2022)', 'claims count']]], axis = 1)
 # this is if you're using cleaned_ica_data.csv
 features = pd.get_dummies(data['type'])
-features = pd.concat([features, data[['NSW', 'VIC', 'QLD', 'ACT', 'TAS', 'SA', 'NT', 'WA']]], axis = 1)
+features = pd.concat([features, data[['nsw', 'vic', 'qld', 'act', 'tas', 'sa', 'nt', 'wa', 'waters']]], axis = 1)
 
 # Train-Test Split
 X1_train, X1_test, y1_train, y1_test = train_test_split(features, target_1, test_size=0.2, random_state=42)
@@ -54,7 +54,7 @@ X2_train, X2_test, y2_train, y2_test = train_test_split(features, target_2, test
 
 # Initialize and train the model
 model_1 = RandomForestRegressor(max_depth = 3, random_state = 42)
-#model = LinearRegression()
+#model_1 = LinearRegression()
 model_1.fit(X1_train, y1_train)
 
 # Make predictions
@@ -69,7 +69,7 @@ print(f"Mean Absolute Error 1: {mae}")
 print(f"Mean Squared Error 1: {mse}")
 print()
 
-model_2 = DecisionTreeRegressor(max_depth = 3, random_state = 42)
+model_2 = DecisionTreeRegressor(random_state = 42)
 model_2.fit(X2_train, y2_train)
 
 # Make predictions
@@ -112,7 +112,7 @@ def predict_insurance_claim(state, disaster_type, new_data, use_model=True):
         return calculate_insurance_amount(disaster_type, state)
 
 # Example usage
-state = 'NSW'
+state = 'nsw'
 disaster_type = 'bushfire'
 
 new_data = generate_new_data(state, disaster_type)
@@ -121,14 +121,14 @@ new_data = generate_new_data(state, disaster_type)
 loss, claim_amount = predict_insurance_claim(state, disaster_type, new_data, use_model=True)
 print(f"Predicted Insurance Claim Amount: ${loss:,.2f}")
 print(f"Predicted Insurance Claim Amount: {claim_amount:,.0f}")
-print(f"Predicted Insurance Claim Amount: ${loss / claim_amount:,.0f}")
+print(f"Predicted Insurance Claim Amount: ${loss / (claim_amount+1):,.0f}")
 
 insurance_claim = predict_insurance_claim(state, disaster_type, new_data, use_model=False)
 print(f"Insurance Claim Amount (Rule-Based): ${insurance_claim:,.0f}")
 
 # Find the most commonly occurred disasters for each state
 #common_disasters = data.groupby(['NSW', 'VIC', 'QLD', 'ACT', 'TAS', 'SA', 'NT', 'WA'])['type'].agg(lambda x: x.value_counts().idxmax())
-common_disasters = data.groupby('state')['type'].agg(lambda x: x.value_counts().idxmax())
+#common_disasters = data.groupby(['nsw', 'vic', 'qld', 'act', 'tas', 'sa', 'nt', 'wa', 'waters'])['type'].agg(lambda x: x.value_counts().idxmax())
 
-print("Most Common Disasters for Each State:")
+#print("Most Common Disasters for Each State:")
 #print(common_disasters)

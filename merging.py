@@ -119,6 +119,9 @@ merged_data = merged_data.explode('location')
 # sort by descending start date
 merged_data = merged_data.sort_values('event start', ascending = False)
 
+print(merged_data.info())
+print(merged_data.head())
+
 merged_data.to_csv('datasets_cleaned/merged_dataset.csv', index=False)
 
 
