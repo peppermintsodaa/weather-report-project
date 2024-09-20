@@ -4,38 +4,29 @@ import pandas as pd
 ica_data = pd.read_csv('datasets_cleaned/cleaned_ica_data.csv')
 disaster_data = pd.read_csv('datasets_cleaned/disaster-2023-cleaned.csv')
 
-#i just removed one of the states column
-
-
-columns_to_remove = ['NSW', 'VIC', 'QLD', 'ACT', 'TAS', 'SA', 'NT', 'WA']
-ica_data_cleaned = ica_data.drop(columns=columns_to_remove)
-
 disaster_data.columns = disaster_data.columns.str.lower()
+ica_data.columns = ica_data.columns.str.lower()
 
-
-
-#i merged the datasets on event name and event start
-
-# merge on event start
-merged_start = pd.merge(
-    ica_data_cleaned,
-    disaster_data,
-    left_on='event start',
-    right_on='start date',
-    how='inner'
-)
-
-# merge on event name
-merged_name = pd.merge(
-    ica_data_cleaned,
-    disaster_data,
-    left_on='event name',
-    right_on='event',
-    how='inner'
-)
+# rename columns in disaster_data to match ica_data
+disaster_data.rename(columns = {'event':'event name',
+                                'zone':'state',
+                                'category':'type',
+                                'start date':'event start',
+                                'end date':'event finish',
+                                'region':'location',
+                                'insured cost':'original loss value'}, inplace = True)
 
 #concat them together
-merged_data = pd.concat([merged_start, merged_name]).drop_duplicates()
+merged_data = pd.concat([ica_data, disaster_data]).drop_duplicates()
+
+#normalise missing entries for normalised loss value (2022) as in 2024_ica_cleaner.py
+normalization_factor = 1.05
+merged_data['normalised loss value (2022)'].fillna(
+    merged_data['original loss value'] * normalization_factor, inplace=True
+)
+
+# drop not required columns
+merged_data.drop(columns = ['cat name', 'description'], inplace = True)
 
 print(merged_data.info())
 

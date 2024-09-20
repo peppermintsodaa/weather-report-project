@@ -108,7 +108,7 @@ disaster_2023['Year'] = disaster_2023['Start Date'].apply(lambda x : str(x).spli
 # imputing all insured costs with known median for year
 disaster_2023['Insured Cost'] = disaster_2023['Insured Cost'].fillna(disaster_2023.groupby('Year')['Insured Cost'].transform('median'))
 
-# the following code is adapted from the COSC2820 Week 5 Practical (Sarwar 2024)
+# the following code is adapted from the COSC2820 Week 5 Lab (Sarwar 2024)
 ## all rows with missing cost value
 missing_cost = disaster_2023.loc[disaster_2023.isnull()['Insured Cost'], 'Insured Cost']
 ## all rows with a cost value
