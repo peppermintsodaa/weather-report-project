@@ -11,87 +11,51 @@ Black Summer - South Australia,South Australia,South Australia,Bushfire,2019-11-
 "South-west complex fires, 2018",Victoria,South-west Victoria,Bushfire,2018-03-17,2018-05-02,2018,18972524.0,0,1,0,0,0,0,0,0,0
 "Sir Ivan fire, 2017",New South Wales,Warrambungle Shire,Bushfire,2017-02-11,2017-02-28,2017,1054799742.0,1,0,0,0,0,0,0,0,0
 "Carwoola bushfire, 2017",New South Wales,Carwoola,Bushfire,2017-02-18,2017-02-19,2017,1054799742.0,1,0,0,0,0,0,0,0,0
-"Llandilo bushfire, 2016",New South Wales,Llandilo,Bushfire,2016-11-04,2016-11-05,2016,180000000.0,1,0,0,0,0,0,0,0,0
-Waroona-Yarloop Fire,Western Australia,Waroona,Bushfire,2016-01-05,2016-01-08,2016,71000000.0,0,0,0,0,0,0,0,1,0
-Waroona-Yarloop Fire,Western Australia,Yarloop,Bushfire,2016-01-05,2016-01-08,2016,71000000.0,0,0,0,0,0,0,0,1,0
+"Llandilo bushfire, 2016",New South Wales,Llandilo,Bushfire,2016-11-04,2016-11-05,2016,125500000.0,1,0,0,0,0,0,0,0,0
+Waroona-Yarloop Fire,Western Australia,"Waroona, Yarloop",Bushfire,2016-01-05,2016-01-08,2016,71000000.0,0,0,0,0,0,0,0,1,0
 Wye River - Jamieson track / Great Ocean Road Bushfire,Victoria,Wye River,Bushfire,2015-12-19,2016-01-21,2015,120000000.0,0,1,0,0,0,0,0,0,0
 "Pinery fire, 2015",South Australia,Pinery,Bushfire,2015-11-25,2015-11-30,2015,61000000.0,0,0,0,0,0,1,0,0,0
 "Sampson Flat bushfire, 2015",South Australia,Sampson Flat,Bushfire,2015-01-02,2015-01-08,2015,24900000.0,0,0,0,0,0,1,0,0,0
 "Bushfire – Perth Hills, Western Australia 2014",Western Australia,Perth,Bushfire,2014-01-12,2014-01-14,2014,15000000.0,0,0,0,0,0,0,0,1,0
 Bushfire - Victoria,Victoria,Victoria,Bushfire,2014-02-08,2014-02-14,2014,68500000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Victoria,Victoria,Stawell,Bushfire,2006-01-01,2006-02-07,2006,22000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Victoria,Victoria,Yea,Bushfire,2006-01-01,2006-02-07,2006,22000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Victoria,Victoria,Moondarra,Bushfire,2006-01-01,2006-02-07,2006,22000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Victoria,Victoria,Grampians,Bushfire,2006-01-01,2006-02-07,2006,22000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Victoria,Victoria,Kinglake and Anakie,Bushfire,2006-01-01,2006-02-07,2006,22000000.0,0,1,0,0,0,0,0,0,0
+Bushfire - Victoria,Victoria,"Stawell, Yea, Moondarra, Grampians, Kinglake and Anakie",Bushfire,2006-01-01,2006-02-07,2006,22000000.0,0,1,0,0,0,0,0,0,0
 "Bushfire - Coonabarabran, 2013",New South Wales,Coonabarabran,Bushfire,2013-01-07,2013-01-20,2013,35000000.0,1,0,0,0,0,0,0,0,0
 "Bushfire - Hazelwood open cut mine fire, Morwell",Victoria,Morwell,Bushfire,2014-02-09,2014-03-25,2014,100000000.0,0,1,0,0,0,0,0,0,0
-"Dunalley and Tasmanian bushfires, 2013",Tasmania,Dunalley,Bushfire,2013-01-01,2013-01-14,2013,89000000.0,0,0,0,0,1,0,0,0,0
-"Dunalley and Tasmanian bushfires, 2013",Tasmania,Forcett,Bushfire,2013-01-01,2013-01-14,2013,89000000.0,0,0,0,0,1,0,0,0,0
-"Dunalley and Tasmanian bushfires, 2013",Tasmania,Lake Repulse,Bushfire,2013-01-01,2013-01-14,2013,89000000.0,0,0,0,0,1,0,0,0,0
+"Dunalley and Tasmanian bushfires, 2013",Tasmania,"Dunalley, Forcett, Lake Repulse ",Bushfire,2013-01-01,2013-01-14,2013,89000000.0,0,0,0,0,1,0,0,0,0
 Bushfire - Augusta - Margaret River,Western Australia,Bunbury,Bushfire,2011-11-23,2011-12-06,2011,53000000.0,0,0,0,0,0,0,0,1,0
-Bushfire - Southern Queensland,Queensland,Blackall,Bushfire,2011-08-01,2011-10-31,2011,122465000.0,0,0,1,0,0,0,0,0,0
-Bushfire - Southern Queensland,Queensland,Charters Towers,Bushfire,2011-08-01,2011-10-31,2011,122465000.0,0,0,1,0,0,0,0,0,0
-Bushfire - Southern Queensland,Queensland,Longreach,Bushfire,2011-08-01,2011-10-31,2011,122465000.0,0,0,1,0,0,0,0,0,0
-Bushfire - Southern Queensland,Queensland,Townsville,Bushfire,2011-08-01,2011-10-31,2011,122465000.0,0,0,1,0,0,0,0,0,0
-Bushfire - Southern Queensland,Queensland,Winton,Bushfire,2011-08-01,2011-10-31,2011,122465000.0,0,0,1,0,0,0,0,0,0
+Bushfire - Southern Queensland,Queensland,"Blackall , Charters Towers , Longreach , Townsville , Winton",Bushfire,2011-08-01,2011-10-31,2011,246232500.0,0,0,1,0,0,0,0,0,0
 Bushfire - Perth Hill Bushfires,Western Australia,Perth,Bushfire,2011-02-05,2011-02-07,2011,35000000.0,0,0,0,0,0,0,0,1,0
-"Bushfire - Black Saturday, Victoria",Victoria,Cooma (VIC),Bushfire,2009-02-07,2009-02-08,2009,1070000000.0,0,1,0,0,0,0,0,0,0
-"Bushfire - Black Saturday, Victoria",Victoria,Mount Gambier (VIC),Bushfire,2009-02-07,2009-02-08,2009,1070000000.0,0,1,0,0,0,0,0,0,0
-"Bushfire - Black Saturday, Victoria",Victoria,Warrnambool (VIC),Bushfire,2009-02-07,2009-02-08,2009,1070000000.0,0,1,0,0,0,0,0,0,0
-"Bushfire - Black Saturday, Victoria",Victoria,Wilsons Promontory,Bushfire,2009-02-07,2009-02-08,2009,1070000000.0,0,1,0,0,0,0,0,0,0
-"Bushfire - Black Saturday, Victoria",Victoria,Melbourne,Bushfire,2009-02-07,2009-02-08,2009,1070000000.0,0,1,0,0,0,0,0,0,0
+"Bushfire - Black Saturday, Victoria",Victoria,"Cooma (VIC) , Mount Gambier (VIC) , Warrnambool (VIC) , Wilsons Promontory , Melbourne",Bushfire,2009-02-07,2009-02-08,2009,1070000000.0,0,1,0,0,0,0,0,0,0
 Bushfire - Boorabbin National Park,Western Australia,Kalgoorlie,Bushfire,2007-12-28,2008-01-08,2007,57450000.0,0,0,0,0,0,0,0,1,0
-Bushfire - Great Divide Complex ,Victoria,Cooma (VIC),Bushfire,2006-12-01,2007-02-07,2006,22000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Great Divide Complex ,Victoria,Melbourne,Bushfire,2006-12-01,2007-02-07,2006,22000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Victoria,Victoria,Mount Gambier (VIC),Bushfire,2005-12-31,2006-01-31,2005,22400000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Victoria,Victoria,Wilsons Promontory,Bushfire,2005-12-31,2006-01-31,2005,22400000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Victoria,Victoria,Melbourne,Bushfire,2005-12-31,2006-01-31,2005,22400000.0,0,1,0,0,0,0,0,0,0
+Bushfire - Great Divide Complex ,Victoria,"Cooma (VIC) , Melbourne",Bushfire,2006-12-01,2007-02-07,2006,26500000.0,0,1,0,0,0,0,0,0,0
+Bushfire - Victoria,Victoria,"Mount Gambier (VIC) , Wilsons Promontory , Melbourne",Bushfire,2005-12-31,2006-01-31,2005,22400000.0,0,1,0,0,0,0,0,0,0
 Bushfire - Eyre Peninsula,South Australia,Adelaide,Bushfire,2005-01-10,2005-01-12,2005,27700000.0,0,0,0,0,0,1,0,0,0
-Bushfire - Canberra,Australian Capital Territory,Canberra (ACT),Bushfire,2003-01-18,2003-01-19,2003,25000000.0,0,0,0,1,0,0,0,0,0
+Bushfire - Canberra,Australian Capital Territory,Canberra (ACT),Bushfire,2003-01-18,2003-01-19,2003,18500000.0,0,0,0,1,0,0,0,0,0
 "Bushfire - North-Eastern Victoria, Alpine Region",Victoria,Cooma (VIC),Bushfire,2003-01-08,2003-03-19,2003,12000000.0,0,1,0,0,0,0,0,0,0
 Bushfire - Sydney,New South Wales,Sydney,Bushfire,2002-10-09,2002-10-09,2002,25000000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Black Christmas,"New South Wales , Australian Capital Territory",Dubbo,Bushfire,2001-12-24,2002-01-11,2001,69000000.0,1,0,0,1,0,0,0,0,0
-Bushfire - Black Christmas,"New South Wales , Australian Capital Territory",Sydney,Bushfire,2001-12-24,2002-01-11,2001,69000000.0,1,0,0,1,0,0,0,0,0
-Bushfire - Black Christmas,"New South Wales , Australian Capital Territory",Wollongong,Bushfire,2001-12-24,2002-01-11,2001,69000000.0,1,0,0,1,0,0,0,0,0
-Bushfire - Black Christmas,"New South Wales , Australian Capital Territory",Canberra (ACT),Bushfire,2001-12-24,2002-01-11,2001,69000000.0,1,0,0,1,0,0,0,0,0
+Bushfire - Black Christmas,"New South Wales , Australian Capital Territory","Dubbo , Sydney , Wollongong , Canberra (ACT)",Bushfire,2001-12-24,2002-01-11,2001,69000000.0,1,0,0,1,0,0,0,0,0
 "Bushfire – Mt Ku-ring-gai, New South Wales 2000",New South Wales,Mt Ku-Ring-gai,Bushfire,2000-06-08,2000-06-08,2000,12000000.0,1,0,0,0,0,0,0,0,0
 Bushfire - Linton (near Ballarat),Victoria,Melbourne,Bushfire,1998-12-02,1998-12-02,1998,23000000.0,0,1,0,0,0,0,0,0,0
 "Bushfire - Sydney, Hunter, Pilliga",New South Wales,Sydney,Bushfire,1997-11-20,1997-12-20,1997,29000000.0,1,0,0,0,0,0,0,0,0
 Bushfire - Kangaroo Island,South Australia,Kangaroo Island,Bushfire,2007-12-06,2007-12-20,2007,17900000.0,0,0,0,0,0,1,0,0,0
-Bushfire - Dandenong Ranges and Mornington Peninsula,Victoria,Wilsons Promontory,Bushfire,1997-01-19,1997-01-21,1997,29000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Dandenong Ranges and Mornington Peninsula,Victoria,Melbourne,Bushfire,1997-01-19,1997-01-21,1997,29000000.0,0,1,0,0,0,0,0,0,0
+Bushfire - Dandenong Ranges and Mornington Peninsula,Victoria,"Wilsons Promontory , Melbourne",Bushfire,1997-01-19,1997-01-21,1997,29000000.0,0,1,0,0,0,0,0,0,0
 Bushfire - East Coast,Queensland,Brisbane,Bushfire,1994-09-27,1994-11-07,1994,59100000.0,0,0,1,0,0,0,0,0,0
-"Bushfire - North Coast, Hunter and Sydney",New South Wales,Dubbo,Bushfire,1993-12-27,1994-01-16,1993,59000000.0,1,0,0,0,0,0,0,0,0
-"Bushfire - North Coast, Hunter and Sydney",New South Wales,Lismore (NSW),Bushfire,1993-12-27,1994-01-16,1993,59000000.0,1,0,0,0,0,0,0,0,0
-"Bushfire - North Coast, Hunter and Sydney",New South Wales,Sydney,Bushfire,1993-12-27,1994-01-16,1993,59000000.0,1,0,0,0,0,0,0,0,0
+"Bushfire - North Coast, Hunter and Sydney",New South Wales,"Dubbo , Lismore (NSW) , Sydney",Bushfire,1993-12-27,1994-01-16,1993,59000000.0,1,0,0,0,0,0,0,0,0
 Bushfire - Western Sydney and Central Coast,New South Wales,Sydney,Bushfire,1991-10-16,1992-01-31,1991,12000000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Cootamundra and Deniliquin Regions,New South Wales,Canberra (NSW),Bushfire,1987-01-17,1987-01-20,1987,80000000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Cootamundra and Deniliquin Regions,New South Wales,Swan Hill (NSW),Bushfire,1987-01-17,1987-01-20,1987,80000000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Central Victoria and Alpine Fires,Victoria,Cooma (VIC),Bushfire,1985-01-14,1985-01-28,1985,59000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Central Victoria and Alpine Fires,Victoria,Mount Gambier (VIC),Bushfire,1985-01-14,1985-01-28,1985,59000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Central Victoria and Alpine Fires,Victoria,Wilsons Promontory,Bushfire,1985-01-14,1985-01-28,1985,59000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Central Victoria and Alpine Fires,Victoria,Melbourne,Bushfire,1985-01-14,1985-01-28,1985,59000000.0,0,1,0,0,0,0,0,0,0
+Bushfire - Cootamundra and Deniliquin Regions,New South Wales,"Canberra (NSW) , Swan Hill (NSW)",Bushfire,1987-01-17,1987-01-20,1987,97000000.0,1,0,0,0,0,0,0,0,0
+Bushfire - Central Victoria and Alpine Fires,Victoria,"Cooma (VIC) , Mount Gambier (VIC) , Wilsons Promontory , Melbourne",Bushfire,1985-01-14,1985-01-28,1985,25000000.0,0,1,0,0,0,0,0,0,0
 Bushfire - North-Western Regions ,New South Wales,Bourke,Bushfire,1984-09-01,1985-02-01,1984,25000000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Ash Wednesday,"Victoria , South Australia",Wilsons Promontory,Bushfire,1983-02-16,1983-02-18,1983,176000000.0,0,1,0,0,0,1,0,0,0
-Bushfire - Ash Wednesday,"Victoria , South Australia",Adelaide,Bushfire,1983-02-16,1983-02-18,1983,176000000.0,0,1,0,0,0,1,0,0,0
-Bushfire - Ash Wednesday,"Victoria , South Australia",Melbourne,Bushfire,1983-02-16,1983-02-18,1983,176000000.0,0,1,0,0,0,1,0,0,0
+Bushfire - Ash Wednesday,"Victoria , South Australia","Wilsons Promontory , Adelaide , Melbourne",Bushfire,1983-02-16,1983-02-18,1983,176000000.0,0,1,0,0,0,1,0,0,0
 Bushfire - Sydney and Southern Regions,New South Wales,Sydney,Bushfire,1983-01-01,1983-01-31,1983,176000000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Sydney and Wollongong,New South Wales,Sydney,Bushfire,1980-11-03,1980-11-03,1980,14000000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Sydney and Wollongong,New South Wales,Wollongong,Bushfire,1980-11-03,1980-11-03,1980,14000000.0,1,0,0,0,0,0,0,0,0
+Bushfire - Sydney and Wollongong,New South Wales,"Sydney , Wollongong",Bushfire,1980-11-03,1980-11-03,1980,14000000.0,1,0,0,0,0,0,0,0,0
 Bushfire - Mount Lofty Ranges,South Australia,Adelaide,Bushfire,1980-02-20,1980-02-20,1980,13000000.0,0,0,0,0,0,1,0,0,0
 Bushfire - Sydney and Region,New South Wales,Sydney,Bushfire,1979-12-01,1980-02-01,1979,12500000.0,1,0,0,0,0,0,0,0,0
 Bushfire - Western Districts and Streatham ,Victoria,Melbourne,Bushfire,1977-02-12,1977-02-12,1977,9000000.0,0,1,0,0,0,0,0,0,0
-Bushfire - New South Wales 1974,New South Wales,Bourke,Bushfire,1974-12-01,1975-02-01,1974,68000000.0,1,0,0,0,0,0,0,0,0
-Bushfire - New South Wales 1974,New South Wales,Hillston,Bushfire,1974-12-01,1975-02-01,1974,68000000.0,1,0,0,0,0,0,0,0,0
-Bushfire - New South Wales 1974,New South Wales,Swan Hill (NSW),Bushfire,1974-12-01,1975-02-01,1974,68000000.0,1,0,0,0,0,0,0,0,0
-Bushfire - New South Wales 1974,New South Wales,Sydney,Bushfire,1974-12-01,1975-02-01,1974,68000000.0,1,0,0,0,0,0,0,0,0
+Bushfire - New South Wales 1974,New South Wales,"Bourke , Hillston , Swan Hill (NSW) , Sydney",Bushfire,1974-12-01,1975-02-01,1974,68000000.0,1,0,0,0,0,0,0,0,0
 Bushfire - Lara and Melbourne Fringe,Victoria,Wilsons Promontory,Bushfire,1969-01-08,1969-01-09,1969,700000.0,0,1,0,0,0,0,0,0,0
 Bushfire - Blue Mountains and Illawarra,New South Wales,Sydney,Bushfire,1968-10-15,1968-12-03,1968,3000000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Black Tuesday Tasmania,Tasmania,Hobart,Bushfire,1967-02-07,1967-02-07,1967,14000000.0,0,0,0,0,1,0,0,0,0
-Bushfire - Black Tuesday Tasmania,Tasmania,Launceston,Bushfire,1967-02-07,1967-02-07,1967,14000000.0,0,0,0,0,1,0,0,0,0
-Bushfire - Gippsland,Victoria,Cooma (VIC),Bushfire,1965-02-15,1965-03-13,1965,700000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Gippsland,Victoria,Melbourne,Bushfire,1965-02-15,1965-03-13,1965,700000.0,0,1,0,0,0,0,0,0,0
+Bushfire - Black Tuesday Tasmania,Tasmania,"Hobart , Launceston",Bushfire,1967-02-07,1967-02-07,1967,14000000.0,0,0,0,0,1,0,0,0,0
+Bushfire - Gippsland,Victoria,"Cooma (VIC) , Melbourne",Bushfire,1965-02-15,1965-03-13,1965,700000.0,0,1,0,0,0,0,0,0,0
 Bushfire - Longwood District,Victoria,Melbourne,Bushfire,1965-01-17,1965-01-17,1965,700000.0,0,1,0,0,0,0,0,0,0
 Bushfire - Southern Victoria and Dandenong Ranges,Victoria,Melbourne,Bushfire,1962-01-14,1962-02-16,1962,700000.0,0,1,0,0,0,0,0,0,0
 Bushfire - Wandilo,South Australia,Mount Gambier (SA),Bushfire,1958-04-05,1958-04-06,1958,700000.0,0,0,0,0,0,1,0,0,0
@@ -99,60 +63,38 @@ Bushfire - Blue Mountains and Sydney Region,New South Wales,Sydney,Bushfire,1957
 "Bushfire - Black Sunday, Mt Lofty Ranges",South Australia,Adelaide,Bushfire,1955-01-02,1955-01-02,1955,700000.0,0,0,0,0,0,1,0,0,0
 Bushfire - Narollah Station,Queensland,Charters Towers,Bushfire,1954-11-14,1954-11-14,1954,700000.0,0,0,1,0,0,0,0,0,0
 Bushfire - Central and Southern Victoria,Victoria,Melbourne,Bushfire,1952-01-01,1952-03-01,1952,700000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Australian Capital Territory and South-West New South Wales,New South Wales,Canberra (NSW),Bushfire,1951-11-01,1952-01-31,1951,700000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Australian Capital Territory and South-West New South Wales,New South Wales,Dubbo,Bushfire,1951-11-01,1952-01-31,1951,700000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Australian Capital Territory and South-West New South Wales,New South Wales,Hillston,Bushfire,1951-11-01,1952-01-31,1951,700000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Sydney and Southern New South Wales,New South Wales,Cooma (NSW),Bushfire,1939-01-13,1939-01-14,1939,700000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Sydney and Southern New South Wales,New South Wales,Sydney,Bushfire,1939-01-13,1939-01-14,1939,700000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Sydney and Southern New South Wales,New South Wales,Wollongong,Bushfire,1939-01-13,1939-01-14,1939,700000.0,1,0,0,0,0,0,0,0,0
-Bushfire - Black Friday ,"New South Wales , Australian Capital Territory , Victoria , South Australia , Tasmania",Wollongong,Bushfire,1939-01-13,1939-01-20,1939,700000.0,1,1,0,1,1,1,0,0,0
-Bushfire - Black Friday ,"New South Wales , Australian Capital Territory , Victoria , South Australia , Tasmania",Canberra (ACT),Bushfire,1939-01-13,1939-01-20,1939,700000.0,1,1,0,1,1,1,0,0,0
-Bushfire - Black Friday ,"New South Wales , Australian Capital Territory , Victoria , South Australia , Tasmania",Mount Gambier (VIC),Bushfire,1939-01-13,1939-01-20,1939,700000.0,1,1,0,1,1,1,0,0,0
-Bushfire - Black Friday ,"New South Wales , Australian Capital Territory , Victoria , South Australia , Tasmania",Murray Bridge (VIC),Bushfire,1939-01-13,1939-01-20,1939,700000.0,1,1,0,1,1,1,0,0,0
-Bushfire - Black Friday ,"New South Wales , Australian Capital Territory , Victoria , South Australia , Tasmania",Wilsons Promontory,Bushfire,1939-01-13,1939-01-20,1939,700000.0,1,1,0,1,1,1,0,0,0
-Bushfire - Black Friday ,"New South Wales , Australian Capital Territory , Victoria , South Australia , Tasmania",Mount Gambier (SA),Bushfire,1939-01-13,1939-01-20,1939,700000.0,1,1,0,1,1,1,0,0,0
-Bushfire - Black Friday ,"New South Wales , Australian Capital Territory , Victoria , South Australia , Tasmania",Launceston,Bushfire,1939-01-13,1939-01-20,1939,700000.0,1,1,0,1,1,1,0,0,0
-Bushfire - Black Friday ,"New South Wales , Australian Capital Territory , Victoria , South Australia , Tasmania",Melbourne,Bushfire,1939-01-13,1939-01-20,1939,700000.0,1,1,0,1,1,1,0,0,0
+Bushfire - Australian Capital Territory and South-West New South Wales,New South Wales,"Canberra (NSW) , Dubbo , Hillston",Bushfire,1951-11-01,1952-01-31,1951,700000.0,1,0,0,0,0,0,0,0,0
+Bushfire - Sydney and Southern New South Wales,New South Wales,"Cooma (NSW) , Sydney , Wollongong",Bushfire,1939-01-13,1939-01-14,1939,700000.0,1,0,0,0,0,0,0,0,0
+Bushfire - Black Friday ,"New South Wales , Australian Capital Territory , Victoria , South Australia , Tasmania","Wollongong , Canberra (ACT) , Mount Gambier (VIC) , Murray Bridge (VIC) , Wilsons Promontory , Mount Gambier (SA) , Launceston , Melbourne",Bushfire,1939-01-13,1939-01-20,1939,700000.0,1,1,0,1,1,1,0,0,0
 Bushfire - Gippsland,Victoria,Melbourne,Bushfire,1932-02-04,1932-02-28,1932,700000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Central Western NSW and Southern QLD,"Queensland , New South Wales",Brisbane,Bushfire,1926-10-01,1926-12-17,1926,700000.0,1,0,1,0,0,0,0,0,0
-Bushfire - Central Western NSW and Southern QLD,"Queensland , New South Wales",Canberra (NSW),Bushfire,1926-10-01,1926-12-17,1926,700000.0,1,0,1,0,0,0,0,0,0
-Bushfire - Central Western NSW and Southern QLD,"Queensland , New South Wales",Dubbo,Bushfire,1926-10-01,1926-12-17,1926,700000.0,1,0,1,0,0,0,0,0,0
-Bushfire - Central Western NSW and Southern QLD,"Queensland , New South Wales",Lismore (NSW),Bushfire,1926-10-01,1926-12-17,1926,700000.0,1,0,1,0,0,0,0,0,0
+Bushfire - Central Western NSW and Southern QLD,"Queensland , New South Wales","Brisbane , Canberra (NSW) , Dubbo , Lismore (NSW)",Bushfire,1926-10-01,1926-12-17,1926,700000.0,1,0,1,0,0,0,0,0,0
 Bushfire - South East Victoria,Victoria,Melbourne,Bushfire,1926-02-01,1926-03-10,1926,700000.0,0,1,0,0,0,0,0,0,0
 Bushfire - Saltern Creek,Queensland,Longreach,Bushfire,1918-09-16,1918-12-30,1918,700000.0,0,0,1,0,0,0,0,0,0
 Bushfire - Warenda Station Hughenden,Queensland,Boulia,Bushfire,1917-09-29,1917-09-29,1917,700000.0,0,0,1,0,0,0,0,0,0
-Bushfire - Western Australia,Western Australia,Bridgetown,Bushfire,2022-02-05,2022-02-15,2022,176000000.0,0,0,0,0,0,0,0,1,0
-Bushfire - Western Australia,Western Australia,Shackleton,Bushfire,2022-02-05,2022-02-15,2022,176000000.0,0,0,0,0,0,0,0,1,0
-Bushfire - Western Australia,Western Australia,Bayview Rise,Bushfire,2022-02-05,2022-02-15,2022,176000000.0,0,0,0,0,0,0,0,1,0
-Bushfire - Western Australia,Western Australia,Narrogin East,Bushfire,2022-02-05,2022-02-15,2022,176000000.0,0,0,0,0,0,0,0,1,0
-Bushfire - Widespread Victoria,Victoria,Cooma (VIC),Bushfire,1906-01-01,1906-02-15,1906,700000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Widespread Victoria,Victoria,Mount Gambier (VIC),Bushfire,1906-01-01,1906-02-15,1906,700000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Widespread Victoria,Victoria,Wilsons Promontory,Bushfire,1906-01-01,1906-02-15,1906,700000.0,0,1,0,0,0,0,0,0,0
-Bushfire - Widespread Victoria,Victoria,Melbourne,Bushfire,1906-01-01,1906-02-15,1906,700000.0,0,1,0,0,0,0,0,0,0
+Bushfire - Western Australia,Western Australia,"Bridgetown, Shackleton, Bayview Rise, Narrogin East ",Bushfire,2022-02-05,2022-02-15,2022,216700000.0,0,0,0,0,0,0,0,1,0
+Bushfire - Widespread Victoria,Victoria,"Cooma (VIC) , Mount Gambier (VIC) , Wilsons Promontory , Melbourne",Bushfire,1906-01-01,1906-02-15,1906,700000.0,0,1,0,0,0,0,0,0,0
 "Criminal Act - Bourke Street Mall Incident, 2017",Victoria,Melbourne,Criminal Act,2017-01-20,2017-01-20,2017,1054799742.0,0,1,0,0,0,0,0,0,0
 "Criminal Act - Lindt Cafe siege, 2014",New South Wales,Sydney,Criminal Act,2014-12-15,2014-12-16,2014,68500000.0,1,0,0,0,0,0,0,0,0
-"Criminal Act - Marriott and Ritz-Carlton hotel bombings, 2009",Offshore,Outside Territorial Waters,Criminal Act,2009-07-17,2009-07-17,2009,48000000.0,0,0,0,0,0,0,0,0,1
-Criminal Act - Bali Bombings,Offshore,Outside Territorial Waters,Criminal Act,2005-10-01,2005-10-01,2005,53200000.0,0,0,0,0,0,0,0,0,1
-Criminal Act - London Transport Bombings,Offshore,Outside Territorial Waters,Criminal Act,2005-07-07,2005-07-07,2005,53200000.0,0,0,0,0,0,0,0,0,1
+"Criminal Act - Marriott and Ritz-Carlton hotel bombings, 2009",Offshore,Outside Territorial Waters,Criminal Act,2009-07-17,2009-07-17,2009,37000000.0,0,0,0,0,0,0,0,0,1
+Criminal Act - Bali Bombings,Offshore,Outside Territorial Waters,Criminal Act,2005-10-01,2005-10-01,2005,27700000.0,0,0,0,0,0,0,0,0,1
+Criminal Act - London Transport Bombings,Offshore,Outside Territorial Waters,Criminal Act,2005-07-07,2005-07-07,2005,27700000.0,0,0,0,0,0,0,0,0,1
 Criminal Act - Kuta Bali Bombing,Offshore,Outside Territorial Waters,Criminal Act,2002-10-12,2002-10-12,2002,10000000.0,0,0,0,0,0,0,0,0,1
 Criminal Act - 9/11 Terrorist Attacks,Offshore,Outside Territorial Waters,Criminal Act,2001-09-11,2001-09-11,2001,30000000.0,0,0,0,0,0,0,0,0,1
-Criminal Act - Snowtown Murders,South Australia,Adelaide,Criminal Act,1999-05-01,1999-05-01,1999,40000000.0,0,0,0,0,0,1,0,0,0
-Criminal Act - Port Arthur Shooting Massacre,Tasmania,Hobart,Criminal Act,1996-04-28,1996-04-28,1996,15000000.0,0,0,0,0,1,0,0,0,0
+Criminal Act - Snowtown Murders,South Australia,Adelaide,Criminal Act,1999-05-01,1999-05-01,1999,45000000.0,0,0,0,0,0,1,0,0,0
+Criminal Act - Port Arthur Shooting Massacre,Tasmania,Hobart,Criminal Act,1996-04-28,1996-04-28,1996,20000000.0,0,0,0,0,1,0,0,0,0
 Criminal Act - Liverpool Arson,New South Wales,Sydney,Criminal Act,1995-01-15,1995-01-15,1995,11000000.0,1,0,0,0,0,0,0,0,0
 "Criminal - Terrigal Shootings, Sydney 1992 ",New South Wales,Central Coast,Criminal Act,1992-10-27,1992-10-27,1992,118000000.0,1,0,0,0,0,0,0,0,0
 Criminal Act - Kings Cross Hostel,New South Wales,Sydney,Criminal Act,1989-09-17,1989-09-17,1989,26000000.0,1,0,0,0,0,0,0,0,0
 Criminal Act - Oenpelli Shooting Massacre,Northern Territory,Alligator River,Criminal Act,1988-09-25,1988-09-25,1988,20000000.0,0,0,0,0,0,0,1,0,0
-Criminal Act - Queen Street Shooting,Victoria,Melbourne,Criminal Act,1987-12-08,1987-12-08,1987,68500000.0,0,1,0,0,0,0,0,0,0
-Criminal Act - Hoddle Street Shooting,Victoria,Melbourne,Criminal Act,1987-08-09,1987-08-09,1987,68500000.0,0,1,0,0,0,0,0,0,0
-Criminal Act - The Kimberley Murders,"Western Australia , Northern Territory",Fitzroy Crossing,Criminal Act,1987-06-09,1987-06-19,1987,700000.0,0,0,0,0,0,0,1,1,0
-Criminal Act - The Kimberley Murders,"Western Australia , Northern Territory",Katherine,Criminal Act,1987-06-09,1987-06-19,1987,700000.0,0,0,0,0,0,0,1,1,0
+Criminal Act - Queen Street Shooting,Victoria,Melbourne,Criminal Act,1987-12-08,1987-12-08,1987,37200000.0,0,1,0,0,0,0,0,0,0
+Criminal Act - Hoddle Street Shooting,Victoria,Melbourne,Criminal Act,1987-08-09,1987-08-09,1987,37200000.0,0,1,0,0,0,0,0,0,0
+Criminal Act - The Kimberley Murders,"Western Australia , Northern Territory","Fitzroy Crossing , Katherine",Criminal Act,1987-06-09,1987-06-19,1987,700000.0,0,0,0,0,0,0,1,1,0
 Criminal Act - Sydney Nursing Home,New South Wales,Sydney,Criminal Act,1981-04-29,1981-04-29,1981,20000000.0,1,0,0,0,0,0,0,0,0
 Criminal Act - Hilton Hotel Bombing,New South Wales,Sydney,Criminal Act,1978-02-13,1978-02-13,1978,15000000.0,1,0,0,0,0,0,0,0,0
 Criminal Act - Savoy Hotel Arson,New South Wales,Sydney,Criminal Act,1975-12-25,1975-12-25,1975,17500000.0,1,0,0,0,0,0,0,0,0
 Criminal Act - Whiskey Au Go-Go Nightclub Bombing,Queensland,Brisbane,Criminal Act,1973-03-08,1973-03-08,1973,30000000.0,0,0,1,0,0,0,0,0,0
 Criminal Act - Myall Creek Massacre,New South Wales,Myall Creek,Criminal Act,1838-06-10,1838-06-10,1838,700000.0,1,0,0,0,0,0,0,0,0
-Cyclone Sigma ,Queensland,Brisbane,Cyclone,1896-01-24,1896-01-28,1896,700000.0,0,0,1,0,0,0,0,0,0
-Cyclone Sigma ,Queensland,Townsville,Cyclone,1896-01-24,1896-01-28,1896,700000.0,0,0,1,0,0,0,0,0,0
+Cyclone Sigma ,Queensland,"Brisbane , Townsville",Cyclone,1896-01-24,1896-01-28,1896,700000.0,0,0,1,0,0,0,0,0,0
 Cyclone - Darwin,Northern Territory,Darwin,Cyclone,1897-01-06,1897-01-07,1897,700000.0,0,0,0,0,0,0,1,0,0
 Cyclone - Gulf of Carpentaria,Queensland,Mornington Island,Cyclone,1887-03-05,1887-03-05,1887,700000.0,0,0,1,0,0,0,0,0,0
 Cyclone Mahina,Queensland,Cooktown,Cyclone,1899-03-04,1899-03-10,1899,700000.0,0,0,1,0,0,0,0,0,0
@@ -161,462 +103,144 @@ Cyclone Marcus,Northern Territory,Darwin,Cyclone,2018-03-15,2018-03-25,2018,7500
 Cyclone Debbie,Queensland,Airlie Beach,Cyclone,2017-03-28,2017-03-31,2017,1781599484.0,0,0,1,0,0,0,0,0,0
 Cyclone Marcia,Queensland,Shoalwater Bay,Cyclone,2015-02-15,2015-02-26,2015,404000000.0,0,0,1,0,0,0,0,0,0
 Cyclone Oswald,Queensland,Cape York Peninsula,Cyclone,2013-01-21,2013-01-31,2013,1100000000.0,0,0,1,0,0,0,0,0,0
-Cyclone Yasi,Queensland,Ayr,Cyclone,2011-02-02,2011-02-03,2011,1405000000.0,0,0,1,0,0,0,0,0,0
-Cyclone Yasi,Queensland,Cairns,Cyclone,2011-02-02,2011-02-03,2011,1405000000.0,0,0,1,0,0,0,0,0,0
-Cyclone Yasi,Queensland,Townsville,Cyclone,2011-02-02,2011-02-03,2011,1405000000.0,0,0,1,0,0,0,0,0,0
+Cyclone Yasi,Queensland,"Ayr , Cairns , Townsville",Cyclone,2011-02-02,2011-02-03,2011,1405000000.0,0,0,1,0,0,0,0,0,0
 Cyclone George,Western Australia,Port Hedland,Cyclone,2007-03-03,2007-03-08,2007,8000000.0,0,0,0,0,0,0,0,1,0
 Cyclone Larry,Queensland,Cairns,Cyclone,2006-03-20,2006-03-20,2006,540000000.0,0,0,1,0,0,0,0,0,0
 Cyclone Tessi,Queensland,Townsville,Cyclone,2000-04-02,2000-04-04,2000,15000000.0,0,0,1,0,0,0,0,0,0
 Cyclone Steve,Queensland,Cairns,Cyclone,2000-02-27,2000-03-09,2000,11000000.0,0,0,1,0,0,0,0,0,0
-Cyclone Vance,Western Australia,Dampier,Cyclone,1999-03-18,1999-03-24,1999,35000000.0,0,0,0,0,0,0,0,1,0
-Cyclone Vance,Western Australia,Exmouth Gulf,Cyclone,1999-03-18,1999-03-24,1999,35000000.0,0,0,0,0,0,0,0,1,0
-Cyclone Vance,Western Australia,Port Hedland,Cyclone,1999-03-18,1999-03-24,1999,35000000.0,0,0,0,0,0,0,0,1,0
-Cyclone Justin,Queensland,Cairns,Cyclone,1997-03-06,1997-03-24,1997,29000000.0,0,0,1,0,0,0,0,0,0
-Cyclone Justin,Queensland,Townsville,Cyclone,1997-03-06,1997-03-24,1997,29000000.0,0,0,1,0,0,0,0,0,0
+Cyclone Vance,Western Australia,"Dampier , Exmouth Gulf , Port Hedland",Cyclone,1999-03-18,1999-03-24,1999,35000000.0,0,0,0,0,0,0,0,1,0
+Cyclone Justin,Queensland,"Cairns , Townsville",Cyclone,1997-03-06,1997-03-24,1997,29000000.0,0,0,1,0,0,0,0,0,0
 Cyclone Bobby,Western Australia,Dampier,Cyclone,1995-02-24,1995-02-27,1995,11000000.0,0,0,0,0,0,0,0,1,0
-Cyclone Rewa,Queensland,Brisbane,Cyclone,1993-12-31,1994-01-25,1993,59000000.0,0,0,1,0,0,0,0,0,0
-Cyclone Nancy,Queensland,Brisbane,Cyclone,1990-02-03,1990-02-07,1990,33000000.0,0,0,1,0,0,0,0,0,0
-Cyclone Nancy,Queensland,Lismore (QLD),Cyclone,1990-02-03,1990-02-07,1990,33000000.0,0,0,1,0,0,0,0,0,0
-Cyclone Aivu,"Queensland , New South Wales",Brisbane,Cyclone,1989-04-04,1989-04-20,1989,26000000.0,1,0,1,0,0,0,0,0,0
-Cyclone Aivu,"Queensland , New South Wales",Lismore (QLD),Cyclone,1989-04-04,1989-04-20,1989,26000000.0,1,0,1,0,0,0,0,0,0
-Cyclone Aivu,"Queensland , New South Wales",Mackay,Cyclone,1989-04-04,1989-04-20,1989,26000000.0,1,0,1,0,0,0,0,0,0
-Cyclone Aivu,"Queensland , New South Wales",Rockhampton,Cyclone,1989-04-04,1989-04-20,1989,26000000.0,1,0,1,0,0,0,0,0,0
-Cyclone Aivu,"Queensland , New South Wales",Lismore (NSW),Cyclone,1989-04-04,1989-04-20,1989,26000000.0,1,0,1,0,0,0,0,0,0
+Cyclone Rewa,Queensland,Brisbane,Cyclone,1993-12-31,1994-01-25,1993,35500000.0,0,0,1,0,0,0,0,0,0
+Cyclone Nancy,Queensland,"Brisbane , Lismore (QLD)",Cyclone,1990-02-03,1990-02-07,1990,33000000.0,0,0,1,0,0,0,0,0,0
+Cyclone Aivu,"Queensland , New South Wales","Brisbane , Lismore (QLD) , Mackay , Rockhampton , Lismore (NSW)",Cyclone,1989-04-04,1989-04-20,1989,26000000.0,1,0,1,0,0,0,0,0,0
 Cyclone Herbie,Western Australia,Dampier,Cyclone,1988-05-21,1988-05-22,1988,20000000.0,0,0,0,0,0,0,0,1,0
 Cyclone Winifred,Queensland,Cairns,Cyclone,1986-01-27,1986-02-05,1986,40000000.0,0,0,1,0,0,0,0,0,0
 Cyclone Hazel,Western Australia,Carnarvon,Cyclone,1979-03-01,1979-03-01,1979,15000000.0,0,0,0,0,0,0,0,1,0
 Cyclone Alby,Western Australia,Perth,Cyclone,1978-03-27,1978-04-04,1978,13000000.0,0,0,0,0,0,0,0,1,0
 Cyclone Joan,Western Australia,Port Hedland,Cyclone,1975-12-08,1975-12-09,1975,20000000.0,0,0,0,0,0,0,0,1,0
 Cyclone Tracy,Northern Territory,Darwin,Cyclone,1974-12-25,1974-12-25,1974,200000000.0,0,0,0,0,0,0,1,0,0
-Cyclone Emily,Queensland,Bundaberg,Cyclone,1972-03-27,1972-04-02,1972,15000000.0,0,0,1,0,0,0,0,0,0
-Cyclone Emily,Queensland,Rockhampton,Cyclone,1972-03-27,1972-04-02,1972,15000000.0,0,0,1,0,0,0,0,0,0
+Cyclone Emily,Queensland,"Bundaberg , Rockhampton",Cyclone,1972-03-27,1972-04-02,1972,26700000.0,0,0,1,0,0,0,0,0,0
 Cyclone Althea,Queensland,Townsville,Cyclone,1971-12-24,1971-12-27,1971,25000000.0,0,0,1,0,0,0,0,0,0
 Cyclone Ada,Queensland,Mackay,Cyclone,1970-01-17,1970-01-19,1970,12000000.0,0,0,1,0,0,0,0,0,0
 Cyclone Audrey,Northern Territory,Coburg Peninsula,Cyclone,1969-02-28,1969-03-09,1969,700000.0,0,0,0,0,0,0,1,0,0
 Cyclone Glenda,Queensland,Brisbane,Cyclone,1967-04-02,1967-04-04,1967,14000000.0,0,0,1,0,0,0,0,0,0
 Cyclone Agnes,Queensland,Cairns,Cyclone,1956-03-06,1956-03-07,1956,700000.0,0,0,1,0,0,0,0,0,0
 Cyclone - Mackay,Queensland,Mackay,Cyclone,1955-03-07,1955-03-07,1955,700000.0,0,0,1,0,0,0,0,0,0
-"Cyclone - Cyclone Grant, Katherine Floods, Train Derailment, Chemical Spill",Northern Territory,Katherine,Cyclone,2011-12-25,2011-12-27,2011,122465000.0,0,0,0,0,0,0,1,0,0
-Cyclone - The Great Gold coast cyclone Southern Queensland and Northern New South Wales,Queensland,Brisbane,Cyclone,1954-02-19,1954-02-22,1954,700000.0,0,0,1,0,0,0,0,0,0
-Cyclone - The Great Gold coast cyclone Southern Queensland and Northern New South Wales,Queensland,Lismore (QLD),Cyclone,1954-02-19,1954-02-22,1954,700000.0,0,0,1,0,0,0,0,0,0
-Cyclone - TC119 Coastal Queensland and New South Wales,"Queensland , New South Wales",Brisbane,Cyclone,1950-01-16,1950-01-19,1950,700000.0,1,0,1,0,0,0,0,0,0
-Cyclone - TC119 Coastal Queensland and New South Wales,"Queensland , New South Wales",Cairns,Cyclone,1950-01-16,1950-01-19,1950,700000.0,1,0,1,0,0,0,0,0,0
-Cyclone - TC119 Coastal Queensland and New South Wales,"Queensland , New South Wales",Sydney,Cyclone,1950-01-16,1950-01-19,1950,700000.0,1,0,1,0,0,0,0,0,0
-Cyclone - Rockhampton,Queensland,Bundaberg,Cyclone,1949-03-02,1949-03-03,1949,700000.0,0,0,1,0,0,0,0,0,0
-Cyclone - Rockhampton,Queensland,Rockhampton,Cyclone,1949-03-02,1949-03-03,1949,700000.0,0,0,1,0,0,0,0,0,0
-Cyclone - Cape York and Townsville,Queensland,Cairns,Cyclone,1934-03-12,1934-03-13,1934,700000.0,0,0,1,0,0,0,0,0,0
-Cyclone - Cape York and Townsville,Queensland,Townsville,Cyclone,1934-03-12,1934-03-13,1934,700000.0,0,0,1,0,0,0,0,0,0
+"Cyclone - Cyclone Grant, Katherine Floods, Train Derailment, Chemical Spill",Northern Territory,Katherine,Cyclone,2011-12-25,2011-12-27,2011,246232500.0,0,0,0,0,0,0,1,0,0
+Cyclone - The Great Gold coast cyclone Southern Queensland and Northern New South Wales,Queensland,"Brisbane , Lismore (QLD)",Cyclone,1954-02-19,1954-02-22,1954,700000.0,0,0,1,0,0,0,0,0,0
+Cyclone - TC119 Coastal Queensland and New South Wales,"Queensland , New South Wales","Brisbane , Cairns , Sydney",Cyclone,1950-01-16,1950-01-19,1950,700000.0,1,0,1,0,0,0,0,0,0
+Cyclone - Rockhampton,Queensland,"Bundaberg , Rockhampton",Cyclone,1949-03-02,1949-03-03,1949,700000.0,0,0,1,0,0,0,0,0,0
+Cyclone - Cape York and Townsville,Queensland,"Cairns , Townsville",Cyclone,1934-03-12,1934-03-13,1934,700000.0,0,0,1,0,0,0,0,0,0
 Cyclone - Innisfail ,Queensland,Cairns,Cyclone,1918-03-10,1918-03-10,1918,700000.0,0,0,1,0,0,0,0,0,0
 Cyclone - Mackay ,Queensland,Mackay,Cyclone,1918-01-20,1918-01-22,1918,700000.0,0,0,1,0,0,0,0,0,0
 Cyclone - Balla Balla,Western Australia,Port Hedland,Cyclone,1912-03-20,1912-03-22,1912,700000.0,0,0,0,0,0,0,0,1,0
-"Cyclone - Broome, Lacepede Islands",Western Australia,Broome,Cyclone,1935-03-25,1935-03-25,1935,700000.0,0,0,0,0,0,0,0,1,0
-"Cyclone - Broome, Lacepede Islands",Western Australia,Lacepede Islands,Cyclone,1935-03-25,1935-03-25,1935,700000.0,0,0,0,0,0,0,0,1,0
+"Cyclone - Broome, Lacepede Islands",Western Australia,"Broome, Lacepede Islands",Cyclone,1935-03-25,1935-03-25,1935,700000.0,0,0,0,0,0,0,0,1,0
 Cyclone Broome,Western Australia,Broome,Cyclone,1910-11-19,1910-11-19,1910,700000.0,0,0,0,0,0,0,0,1,0
 Cyclone - Cooktown,Queensland,Cooktown,Cyclone,1907-01-19,1907-01-19,1907,700000.0,0,0,1,0,0,0,0,0,0
 Cyclone Leonta,Queensland,Townsville,Cyclone,1903-03-09,1903-03-09,1903,700000.0,0,0,1,0,0,0,0,0,0
 Earthquake - Beachport and Robe,South Australia,Mount Gambier (SA),Earthquake,1897-05-10,1897-05-10,1897,700000.0,0,0,0,0,0,1,0,0,0
-Earthquake - Japan,Offshore,Antarctica,Earthquake,2011-03-11,2011-03-11,2011,122465000.0,0,0,0,0,0,0,0,0,1
-Earthquake - Japan,Offshore,Christmas and Cocos Islands,Earthquake,2011-03-11,2011-03-11,2011,122465000.0,0,0,0,0,0,0,0,0,1
-Earthquake - Japan,Offshore,Lord Howe and Norfolk Islands,Earthquake,2011-03-11,2011-03-11,2011,122465000.0,0,0,0,0,0,0,0,0,1
-Earthquake - Japan,Offshore,Outside Territorial Waters,Earthquake,2011-03-11,2011-03-11,2011,122465000.0,0,0,0,0,0,0,0,0,1
-Earthquake - Japan,Offshore,Territorial Waters,Earthquake,2011-03-11,2011-03-11,2011,122465000.0,0,0,0,0,0,0,0,0,1
+Earthquake - Japan,Offshore,"Antarctica , Christmas and Cocos Islands , Lord Howe and Norfolk Islands , Outside Territorial Waters , Territorial Waters",Earthquake,2011-03-11,2011-03-11,2011,246232500.0,0,0,0,0,0,0,0,0,1
 Earthquake - Christchurch - New Zealand,Offshore,Outside Territorial Waters,Earthquake,2011-02-22,2011-02-22,2011,370000000.0,0,0,0,0,0,0,0,0,1
-Earthquake - Sumatra,Offshore,Outside Territorial Waters,Earthquake,2009-09-30,2009-09-30,2009,48000000.0,0,0,0,0,0,0,0,0,1
+Earthquake - Sumatra,Offshore,Outside Territorial Waters,Earthquake,2009-09-30,2009-09-30,2009,37000000.0,0,0,0,0,0,0,0,0,1
 "Earthquake â€“ Hunter Valley, Ellalong and Cessnock",New South Wales,Sydney,Earthquake,1994-08-06,1994-08-06,1994,37200000.0,1,0,0,0,0,0,0,0,0
 Earthquake - Newcastle,New South Wales,Sydney,Earthquake,1989-12-28,1989-12-29,1989,862000000.0,1,0,0,0,0,0,0,0,0
 Earthquake - Tennant Creek,Northern Territory,Tennant Creek,Earthquake,1988-01-22,1988-01-22,1988,20000000.0,0,0,0,0,0,0,1,0,0
 Earthquake - Meckering and Region,Western Australia,Merredin,Earthquake,1968-10-14,1968-10-14,1968,1500000.0,0,0,0,0,0,0,0,1,0
 Earthquake - Victoria ,Victoria,Alpine National Park,Earthquake,2021-09-22,2021-09-22,2021,110533377.0,0,1,0,0,0,0,0,0,0
 Earthquake - Adelaide,South Australia,Adelaide,Earthquake,1954-03-01,1954-03-01,1954,700000.0,0,0,0,0,0,1,0,0,0
-Environment Federation Drought,"New South Wales , South Australia , Western Australia , Northern Territory , Tasmania",Sydney,Environment,1895-01-01,1902-01-01,1895,700000.0,1,0,0,0,1,1,1,1,0
-Environment Federation Drought,"New South Wales , South Australia , Western Australia , Northern Territory , Tasmania",Adelaide,Environment,1895-01-01,1902-01-01,1895,700000.0,1,0,0,0,1,1,1,1,0
-Environment Federation Drought,"New South Wales , South Australia , Western Australia , Northern Territory , Tasmania",Perth,Environment,1895-01-01,1902-01-01,1895,700000.0,1,0,0,0,1,1,1,1,0
-Environment Federation Drought,"New South Wales , South Australia , Western Australia , Northern Territory , Tasmania",Darwin,Environment,1895-01-01,1902-01-01,1895,700000.0,1,0,0,0,1,1,1,1,0
-Environment Federation Drought,"New South Wales , South Australia , Western Australia , Northern Territory , Tasmania",Hobart,Environment,1895-01-01,1902-01-01,1895,700000.0,1,0,0,0,1,1,1,1,0
+Environment Federation Drought,"New South Wales , South Australia , Western Australia , Northern Territory , Tasmania","Sydney , Adelaide , Perth , Darwin , Hobart",Environment,1895-01-01,1902-01-01,1895,700000.0,1,0,0,0,1,1,1,1,0
 Environment- Bushfire pollution,New South Wales,Sydney,Environment,2013-10-22,2013-11-02,2013,89000000.0,1,0,0,0,0,0,0,0,0
 Environment - Drought,New South Wales,New South Wales,Environment,2012-04-01,2014-01-31,2012,364000000.0,1,0,0,0,0,0,0,0,0
 Environment - South-West WA Drought,Western Australia,Meekatharra,Environment,2000-04-01,2001-08-22,2000,12000000.0,0,0,0,0,0,0,0,1,0
 Environment - Central Wheatbelt Western Australia,Western Australia,Merredin,Environment,1998-09-19,1998-09-23,1998,98000000.0,0,0,0,0,0,0,0,1,0
-Environment - The big dry,National,National,Environment,1996-01-01,2012-04-30,1996,15000000.0,1,1,1,1,1,1,1,1,0
-Environment - Tasmania and Victoria Drought,"Tasmania , Victoria , South Australia",Cooma (VIC),Environment,1996-10-01,2000-09-30,1996,15000000.0,0,1,0,0,1,1,0,0,0
-Environment - Tasmania and Victoria Drought,"Tasmania , Victoria , South Australia",Ceduna,Environment,1996-10-01,2000-09-30,1996,15000000.0,0,1,0,0,1,1,0,0,0
-Environment - Tasmania and Victoria Drought,"Tasmania , Victoria , South Australia",Hobart,Environment,1996-10-01,2000-09-30,1996,15000000.0,0,1,0,0,1,1,0,0,0
-Environment - Tasmania and Victoria Drought,"Tasmania , Victoria , South Australia",Launceston,Environment,1996-10-01,2000-09-30,1996,15000000.0,0,1,0,0,1,1,0,0,0
-Environment - Tasmania and Victoria Drought,"Tasmania , Victoria , South Australia",Melbourne,Environment,1996-10-01,2000-09-30,1996,15000000.0,0,1,0,0,1,1,0,0,0
-Environment - Eastern and Northern Australia Severe Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Brisbane,Environment,1991-01-01,1996-10-01,1991,22500000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern and Northern Australia Severe Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Sydney,Environment,1991-01-01,1996-10-01,1991,22500000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern and Northern Australia Severe Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Canberra (ACT),Environment,1991-01-01,1996-10-01,1991,22500000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern and Northern Australia Severe Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Adelaide,Environment,1991-01-01,1996-10-01,1991,22500000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern and Northern Australia Severe Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Perth,Environment,1991-01-01,1996-10-01,1991,22500000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern and Northern Australia Severe Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Darwin,Environment,1991-01-01,1996-10-01,1991,22500000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern and Northern Australia Severe Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Hobart,Environment,1991-01-01,1996-10-01,1991,22500000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern and Northern Australia Severe Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Melbourne,Environment,1991-01-01,1996-10-01,1991,22500000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern Australia Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Brisbane,Environment,1982-04-01,1983-03-01,1982,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern Australia Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Sydney,Environment,1982-04-01,1983-03-01,1982,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern Australia Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Canberra (ACT),Environment,1982-04-01,1983-03-01,1982,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern Australia Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Adelaide,Environment,1982-04-01,1983-03-01,1982,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern Australia Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Perth,Environment,1982-04-01,1983-03-01,1982,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern Australia Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Darwin,Environment,1982-04-01,1983-03-01,1982,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern Australia Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Hobart,Environment,1982-04-01,1983-03-01,1982,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Eastern Australia Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Melbourne,Environment,1982-04-01,1983-03-01,1982,700000.0,1,1,1,1,1,1,1,1,0
-Environment - National Drought,National,Brisbane,Environment,1958-01-01,1968-09-01,1958,700000.0,1,1,1,1,1,1,1,1,0
-Environment - National Drought,National,Sydney,Environment,1958-01-01,1968-09-01,1958,700000.0,1,1,1,1,1,1,1,1,0
-Environment - National Drought,National,Canberra (ACT),Environment,1958-01-01,1968-09-01,1958,700000.0,1,1,1,1,1,1,1,1,0
-Environment - National Drought,National,Adelaide,Environment,1958-01-01,1968-09-01,1958,700000.0,1,1,1,1,1,1,1,1,0
-Environment - National Drought,National,Perth,Environment,1958-01-01,1968-09-01,1958,700000.0,1,1,1,1,1,1,1,1,0
-Environment - National Drought,National,Darwin,Environment,1958-01-01,1968-09-01,1958,700000.0,1,1,1,1,1,1,1,1,0
-Environment - National Drought,National,Hobart,Environment,1958-01-01,1968-09-01,1958,700000.0,1,1,1,1,1,1,1,1,0
-Environment - National Drought,National,Melbourne,Environment,1958-01-01,1968-09-01,1958,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Northern Australia,Western Australia,Ashmore Reef,Environment,1951-01-01,1954-04-01,1951,700000.0,0,0,0,0,0,0,0,1,0
-Environment - Northern Australia,Western Australia,Bonaparte Archipelago,Environment,1951-01-01,1954-04-01,1951,700000.0,0,0,0,0,0,0,0,1,0
-Environment - Northern Australia,Western Australia,Cape Londonderry,Environment,1951-01-01,1954-04-01,1951,700000.0,0,0,0,0,0,0,0,1,0
-Environment - Northern Australia,Western Australia,Derby,Environment,1951-01-01,1954-04-01,1951,700000.0,0,0,0,0,0,0,0,1,0
-Environment - Northern Australia,Western Australia,Durack Ranges,Environment,1951-01-01,1954-04-01,1951,700000.0,0,0,0,0,0,0,0,1,0
-Environment - Northern Australia,Western Australia,Fitzroy Crossing,Environment,1951-01-01,1954-04-01,1951,700000.0,0,0,0,0,0,0,0,1,0
-Environment - Northern Australia,Western Australia,Halls Creek,Environment,1951-01-01,1954-04-01,1951,700000.0,0,0,0,0,0,0,0,1,0
-Environment - Northern Australia,Western Australia,Lagrange,Environment,1951-01-01,1954-04-01,1951,700000.0,0,0,0,0,0,0,0,1,0
-Environment - Northern Australia,Western Australia,Wyndham,Environment,1951-01-01,1954-04-01,1951,700000.0,0,0,0,0,0,0,0,1,0
-Environment - World War ll Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Brisbane,Environment,1939-01-01,1945-06-30,1939,700000.0,1,1,1,1,1,1,1,1,0
-Environment - World War ll Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Sydney,Environment,1939-01-01,1945-06-30,1939,700000.0,1,1,1,1,1,1,1,1,0
-Environment - World War ll Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Canberra (ACT),Environment,1939-01-01,1945-06-30,1939,700000.0,1,1,1,1,1,1,1,1,0
-Environment - World War ll Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Adelaide,Environment,1939-01-01,1945-06-30,1939,700000.0,1,1,1,1,1,1,1,1,0
-Environment - World War ll Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Perth,Environment,1939-01-01,1945-06-30,1939,700000.0,1,1,1,1,1,1,1,1,0
-Environment - World War ll Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Darwin,Environment,1939-01-01,1945-06-30,1939,700000.0,1,1,1,1,1,1,1,1,0
-Environment - World War ll Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Hobart,Environment,1939-01-01,1945-06-30,1939,700000.0,1,1,1,1,1,1,1,1,0
-Environment - World War ll Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Melbourne,Environment,1939-01-01,1945-06-30,1939,700000.0,1,1,1,1,1,1,1,1,0
-Environment- Drought,National,Brisbane,Environment,1918-01-01,1920-01-02,1918,700000.0,1,1,1,1,1,1,1,1,0
-Environment- Drought,National,Sydney,Environment,1918-01-01,1920-01-02,1918,700000.0,1,1,1,1,1,1,1,1,0
-Environment- Drought,National,Canberra (ACT),Environment,1918-01-01,1920-01-02,1918,700000.0,1,1,1,1,1,1,1,1,0
-Environment- Drought,National,Adelaide,Environment,1918-01-01,1920-01-02,1918,700000.0,1,1,1,1,1,1,1,1,0
-Environment- Drought,National,Perth,Environment,1918-01-01,1920-01-02,1918,700000.0,1,1,1,1,1,1,1,1,0
-Environment- Drought,National,Darwin,Environment,1918-01-01,1920-01-02,1918,700000.0,1,1,1,1,1,1,1,1,0
-Environment- Drought,National,Hobart,Environment,1918-01-01,1920-01-02,1918,700000.0,1,1,1,1,1,1,1,1,0
-Environment- Drought,National,Melbourne,Environment,1918-01-01,1920-01-02,1918,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Brisbane,Environment,1911-01-01,1915-12-31,1911,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Sydney,Environment,1911-01-01,1915-12-31,1911,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Canberra (ACT),Environment,1911-01-01,1915-12-31,1911,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Adelaide,Environment,1911-01-01,1915-12-31,1911,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Perth,Environment,1911-01-01,1915-12-31,1911,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Darwin,Environment,1911-01-01,1915-12-31,1911,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Hobart,Environment,1911-01-01,1915-12-31,1911,700000.0,1,1,1,1,1,1,1,1,0
-Environment - Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Melbourne,Environment,1911-01-01,1915-12-31,1911,700000.0,1,1,1,1,1,1,1,1,0
-Health- South Australia and Victoria Heatwave,"Victoria , South Australia",Adelaide,Health,2011-12-30,2012-01-04,2011,122465000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Cooma (VIC),Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Mount Gambier (VIC),Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Murray Bridge (VIC),Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Swan Hill (VIC),Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Warrnambool (VIC),Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Adelaide,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Ceduna,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Coober Pedy,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Cook,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Danggali (SA),Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Lake Blanche,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Lake Eyre,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Lake Maurice,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Leigh Creek,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Marla,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Mount Gambier (SA),Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Murray Bridge (SA),Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Musgrave ranges,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Oodnadatta,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Tarcoola,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Warburton Creek,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Warrnambool (SA),Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Whyalla,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Woomera,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"Victoria , South Australia",Melbourne,Health,2009-01-27,2009-01-31,2009,48000000.0,0,1,0,0,0,1,0,0,0
+Environment - The big dry,National,National,Environment,1996-01-01,2012-04-30,1996,20000000.0,1,1,1,1,1,1,1,1,0
+Environment - Tasmania and Victoria Drought,"Tasmania , Victoria , South Australia","Cooma (VIC) , Ceduna , Hobart , Launceston , Melbourne",Environment,1996-10-01,2000-09-30,1996,20000000.0,0,1,0,0,1,1,0,0,0
+Environment - Eastern and Northern Australia Severe Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria","Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Environment,1991-01-01,1996-10-01,1991,22500000.0,1,1,1,1,1,1,1,1,0
+Environment - Eastern Australia Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria","Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Environment,1982-04-01,1983-03-01,1982,700000.0,1,1,1,1,1,1,1,1,0
+Environment - National Drought,National,"Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Environment,1958-01-01,1968-09-01,1958,700000.0,1,1,1,1,1,1,1,1,0
+Environment - Northern Australia,Western Australia,"Ashmore Reef , Bonaparte Archipelago , Cape Londonderry , Derby , Durack Ranges , Fitzroy Crossing , Halls Creek , Lagrange , Wyndham",Environment,1951-01-01,1954-04-01,1951,700000.0,0,0,0,0,0,0,0,1,0
+Environment - World War ll Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria","Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Environment,1939-01-01,1945-06-30,1939,700000.0,1,1,1,1,1,1,1,1,0
+Environment- Drought,National,"Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Environment,1918-01-01,1920-01-02,1918,700000.0,1,1,1,1,1,1,1,1,0
+Environment - Drought,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria","Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Environment,1911-01-01,1915-12-31,1911,700000.0,1,1,1,1,1,1,1,1,0
+Health- South Australia and Victoria Heatwave,"Victoria , South Australia",Adelaide,Health,2011-12-30,2012-01-04,2011,246232500.0,0,1,0,0,0,1,0,0,0
+Health- South Eastern Australia Heatwave,"Victoria , South Australia","Cooma (VIC) , Mount Gambier (VIC) , Murray Bridge (VIC) , Swan Hill (VIC) , Warrnambool (VIC) , Adelaide , Ceduna , Coober Pedy , Cook , Danggali (SA) , Lake Blanche , Lake Eyre , Lake Maurice , Leigh Creek , Marla , Mount Gambier (SA) , Murray Bridge (SA) , Musgrave ranges , Oodnadatta , Tarcoola , Warburton Creek , Warrnambool (SA) , Whyalla , Woomera , Melbourne",Health,2009-01-27,2009-01-31,2009,37000000.0,0,1,0,0,0,1,0,0,0
 Health - South East Queensland Heatwave,Queensland,Brisbane,Health,2000-01-20,2000-01-24,2000,12000000.0,0,0,1,0,0,0,0,0,0
-Health - Townsville Heatwave,Queensland,Townsville,Health,1994-01-06,1994-01-10,1994,37000000.0,0,0,1,0,0,0,0,0,0
-Health - National Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Brisbane,Health,1972-12-01,1973-02-28,1972,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Sydney,Health,1972-12-01,1973-02-28,1972,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Canberra (ACT),Health,1972-12-01,1973-02-28,1972,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Adelaide,Health,1972-12-01,1973-02-28,1972,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Perth,Health,1972-12-01,1973-02-28,1972,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Darwin,Health,1972-12-01,1973-02-28,1972,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Hobart,Health,1972-12-01,1973-02-28,1972,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Melbourne,Health,1972-12-01,1973-02-28,1972,700000.0,1,1,1,1,1,1,1,1,0
+Health - Townsville Heatwave,Queensland,Townsville,Health,1994-01-06,1994-01-10,1994,37100000.0,0,0,1,0,0,0,0,0,0
+Health - National Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria","Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Health,1972-12-01,1973-02-28,1972,700000.0,1,1,1,1,1,1,1,1,0
 Health -  Oodnadatta Heatwave,South Australia,Oodnadatta,Health,1959-12-31,1960-01-03,1959,700000.0,0,0,0,0,0,1,0,0,0
-Health - National Heatwave,National,Brisbane,Health,1959-12-01,1960-02-28,1959,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Sydney,Health,1959-12-01,1960-02-28,1959,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Canberra (ACT),Health,1959-12-01,1960-02-28,1959,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Adelaide,Health,1959-12-01,1960-02-28,1959,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Perth,Health,1959-12-01,1960-02-28,1959,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Darwin,Health,1959-12-01,1960-02-28,1959,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Hobart,Health,1959-12-01,1960-02-28,1959,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Melbourne,Health,1959-12-01,1960-02-28,1959,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Brisbane,Health,1939-12-01,1940-02-28,1939,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Sydney,Health,1939-12-01,1940-02-28,1939,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Canberra (ACT),Health,1939-12-01,1940-02-28,1939,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Adelaide,Health,1939-12-01,1940-02-28,1939,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Perth,Health,1939-12-01,1940-02-28,1939,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Darwin,Health,1939-12-01,1940-02-28,1939,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Hobart,Health,1939-12-01,1940-02-28,1939,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,Melbourne,Health,1939-12-01,1940-02-28,1939,700000.0,1,1,1,1,1,1,1,1,0
-Health- South Eastern Australia Heatwave,"New South Wales , South Australia , Victoria",Sydney,Health,1939-01-01,1939-01-16,1939,700000.0,1,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"New South Wales , South Australia , Victoria",Adelaide,Health,1939-01-01,1939-01-16,1939,700000.0,1,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"New South Wales , South Australia , Victoria",Ceduna,Health,1939-01-01,1939-01-16,1939,700000.0,1,1,0,0,0,1,0,0,0
-Health- South Eastern Australia Heatwave,"New South Wales , South Australia , Victoria",Melbourne,Health,1939-01-01,1939-01-16,1939,700000.0,1,1,0,0,0,1,0,0,0
+Health - National Heatwave,National,"Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Health,1959-12-01,1960-02-28,1959,700000.0,1,1,1,1,1,1,1,1,0
+Health - National Heatwave,National,"Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Health,1939-12-01,1940-02-28,1939,700000.0,1,1,1,1,1,1,1,1,0
+Health- South Eastern Australia Heatwave,"New South Wales , South Australia , Victoria","Sydney , Adelaide , Ceduna , Melbourne",Health,1939-01-01,1939-01-16,1939,700000.0,1,1,0,0,0,1,0,0,0
 Health - Melbourne and Northern Victoria Legionnaires' Disease Outbreak,Victoria,Melbourne,Health,2000-04-11,2000-04-27,2000,12000000.0,0,1,0,0,0,0,0,0,0
-Health - Food Poisoning Outbreak,South Australia,Adelaide,Health,1994-11-01,1995-02-01,1994,37000000.0,0,0,0,0,0,1,0,0,0
-Health - Poliomyelitis,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Brisbane,Health,1930-01-01,1959-01-01,1930,700000.0,1,1,1,1,1,1,1,1,0
-Health - Poliomyelitis,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Sydney,Health,1930-01-01,1959-01-01,1930,700000.0,1,1,1,1,1,1,1,1,0
-Health - Poliomyelitis,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Canberra (ACT),Health,1930-01-01,1959-01-01,1930,700000.0,1,1,1,1,1,1,1,1,0
-Health - Poliomyelitis,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Adelaide,Health,1930-01-01,1959-01-01,1930,700000.0,1,1,1,1,1,1,1,1,0
-Health - Poliomyelitis,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Perth,Health,1930-01-01,1959-01-01,1930,700000.0,1,1,1,1,1,1,1,1,0
-Health - Poliomyelitis,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Darwin,Health,1930-01-01,1959-01-01,1930,700000.0,1,1,1,1,1,1,1,1,0
-Health - Poliomyelitis,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Hobart,Health,1930-01-01,1959-01-01,1930,700000.0,1,1,1,1,1,1,1,1,0
-Health - Poliomyelitis,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Melbourne,Health,1930-01-01,1959-01-01,1930,700000.0,1,1,1,1,1,1,1,1,0
-Health- Spanish Flu,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Brisbane,Health,1918-01-01,1919-12-31,1918,700000.0,1,1,1,1,1,1,1,1,0
-Health- Spanish Flu,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Sydney,Health,1918-01-01,1919-12-31,1918,700000.0,1,1,1,1,1,1,1,1,0
-Health- Spanish Flu,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Canberra (ACT),Health,1918-01-01,1919-12-31,1918,700000.0,1,1,1,1,1,1,1,1,0
-Health- Spanish Flu,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Adelaide,Health,1918-01-01,1919-12-31,1918,700000.0,1,1,1,1,1,1,1,1,0
-Health- Spanish Flu,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Perth,Health,1918-01-01,1919-12-31,1918,700000.0,1,1,1,1,1,1,1,1,0
-Health- Spanish Flu,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Darwin,Health,1918-01-01,1919-12-31,1918,700000.0,1,1,1,1,1,1,1,1,0
-Health- Spanish Flu,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Hobart,Health,1918-01-01,1919-12-31,1918,700000.0,1,1,1,1,1,1,1,1,0
-Health- Spanish Flu,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Melbourne,Health,1918-01-01,1919-12-31,1918,700000.0,1,1,1,1,1,1,1,1,0
-Health - Bubonic Plague Sydney,"Queensland , New South Wales , South Australia , Western Australia , Victoria",Brisbane,Health,1900-01-19,1925-01-01,1900,700000.0,1,1,1,0,0,1,0,1,0
-Health - Bubonic Plague Sydney,"Queensland , New South Wales , South Australia , Western Australia , Victoria",Sydney,Health,1900-01-19,1925-01-01,1900,700000.0,1,1,1,0,0,1,0,1,0
-Health - Bubonic Plague Sydney,"Queensland , New South Wales , South Australia , Western Australia , Victoria",Adelaide,Health,1900-01-19,1925-01-01,1900,700000.0,1,1,1,0,0,1,0,1,0
-Health - Bubonic Plague Sydney,"Queensland , New South Wales , South Australia , Western Australia , Victoria",Bunbury,Health,1900-01-19,1925-01-01,1900,700000.0,1,1,1,0,0,1,0,1,0
-Health - Bubonic Plague Sydney,"Queensland , New South Wales , South Australia , Western Australia , Victoria",Perth,Health,1900-01-19,1925-01-01,1900,700000.0,1,1,1,0,0,1,0,1,0
-Health - Bubonic Plague Sydney,"Queensland , New South Wales , South Australia , Western Australia , Victoria",Melbourne,Health,1900-01-19,1925-01-01,1900,700000.0,1,1,1,0,0,1,0,1,0
-Health - Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Brisbane,Environment,1895-12-01,1896-02-28,1895,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Sydney,Environment,1895-12-01,1896-02-28,1895,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Canberra (ACT),Environment,1895-12-01,1896-02-28,1895,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Adelaide,Environment,1895-12-01,1896-02-28,1895,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Perth,Environment,1895-12-01,1896-02-28,1895,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Darwin,Environment,1895-12-01,1896-02-28,1895,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Hobart,Environment,1895-12-01,1896-02-28,1895,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria",Melbourne,Environment,1895-12-01,1896-02-28,1895,700000.0,1,1,1,1,1,1,1,1,0
+Health - Food Poisoning Outbreak,South Australia,Adelaide,Health,1994-11-01,1995-02-01,1994,37100000.0,0,0,0,0,0,1,0,0,0
+Health - Poliomyelitis,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria","Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Health,1930-01-01,1959-01-01,1930,700000.0,1,1,1,1,1,1,1,1,0
+Health- Spanish Flu,"Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria","Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Health,1918-01-01,1919-12-31,1918,700000.0,1,1,1,1,1,1,1,1,0
+Health - Bubonic Plague Sydney,"Queensland , New South Wales , South Australia , Western Australia , Victoria","Brisbane , Sydney , Adelaide , Bunbury , Perth , Melbourne",Health,1900-01-19,1925-01-01,1900,700000.0,1,1,1,0,0,1,0,1,0
+Health - Heatwave,"Australia Wide , Queensland , New South Wales , Australian Capital Territory , South Australia , Western Australia , Northern Territory , Tasmania , Victoria","Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Environment,1895-12-01,1896-02-28,1895,700000.0,1,1,1,1,1,1,1,1,0
 Health - South-Eastern Australia Heatwave,National,National,Health,2014-01-07,2014-01-22,2014,37000000.0,1,1,1,1,1,1,1,1,0
 Health - National Heatwave,National,National,Health,1926-12-26,1927-01-27,1926,700000.0,1,1,1,1,1,1,1,1,0
-Health - National Heatwave,National,National,Health,2012-12-28,2013-01-10,2012,124688000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Brisbane,Health,1938-12-01,1939-02-28,1938,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Sydney,Health,1938-12-01,1939-02-28,1938,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Canberra (ACT),Health,1938-12-01,1939-02-28,1938,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Adelaide,Health,1938-12-01,1939-02-28,1938,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Perth,Health,1938-12-01,1939-02-28,1938,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Darwin,Health,1938-12-01,1939-02-28,1938,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Hobart,Health,1938-12-01,1939-02-28,1938,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Melbourne,Health,1938-12-01,1939-02-28,1938,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Brisbane,Health,1926-12-01,1927-02-28,1926,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Sydney,Health,1926-12-01,1927-02-28,1926,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Canberra (ACT),Health,1926-12-01,1927-02-28,1926,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Adelaide,Health,1926-12-01,1927-02-28,1926,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Perth,Health,1926-12-01,1927-02-28,1926,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Darwin,Health,1926-12-01,1927-02-28,1926,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Hobart,Health,1926-12-01,1927-02-28,1926,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Melbourne,Health,1926-12-01,1927-02-28,1926,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Brisbane,Health,1920-12-01,1921-02-28,1920,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Sydney,Health,1920-12-01,1921-02-28,1920,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Canberra (ACT),Health,1920-12-01,1921-02-28,1920,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Adelaide,Health,1920-12-01,1921-02-28,1920,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Perth,Health,1920-12-01,1921-02-28,1920,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Darwin,Health,1920-12-01,1921-02-28,1920,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Hobart,Health,1920-12-01,1921-02-28,1920,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Melbourne,Health,1920-12-01,1921-02-28,1920,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Brisbane,Health,1913-12-01,1914-02-28,1913,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Sydney,Health,1913-12-01,1914-02-28,1913,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Canberra (ACT),Health,1913-12-01,1914-02-28,1913,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Adelaide,Health,1913-12-01,1914-02-28,1913,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Perth,Health,1913-12-01,1914-02-28,1913,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Darwin,Health,1913-12-01,1914-02-28,1913,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Hobart,Health,1913-12-01,1914-02-28,1913,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Melbourne,Health,1913-12-01,1914-02-28,1913,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Brisbane,Health,1911-12-01,1912-02-28,1911,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Sydney,Health,1911-12-01,1912-02-28,1911,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Canberra (ACT),Health,1911-12-01,1912-02-28,1911,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Adelaide,Health,1911-12-01,1912-02-28,1911,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Perth,Health,1911-12-01,1912-02-28,1911,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Darwin,Health,1911-12-01,1912-02-28,1911,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Hobart,Health,1911-12-01,1912-02-28,1911,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwave,National,Melbourne,Health,1911-12-01,1912-02-28,1911,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwaves,National,Brisbane,Health,1909-12-09,1910-02-10,1909,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwaves,National,Sydney,Health,1909-12-09,1910-02-10,1909,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwaves,National,Canberra (ACT),Health,1909-12-09,1910-02-10,1909,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwaves,National,Adelaide,Health,1909-12-09,1910-02-10,1909,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwaves,National,Perth,Health,1909-12-09,1910-02-10,1909,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwaves,National,Darwin,Health,1909-12-09,1910-02-10,1909,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwaves,National,Hobart,Health,1909-12-09,1910-02-10,1909,700000.0,1,1,1,1,1,1,1,1,0
-Health - Heatwaves,National,Melbourne,Health,1909-12-09,1910-02-10,1909,700000.0,1,1,1,1,1,1,1,1,0
+Health - National Heatwave,National,National,Health,2012-12-28,2013-01-10,2012,116450000.0,1,1,1,1,1,1,1,1,0
+Health - Heatwave,National,"Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Health,1938-12-01,1939-02-28,1938,700000.0,1,1,1,1,1,1,1,1,0
+Health - Heatwave,National,"Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Health,1926-12-01,1927-02-28,1926,700000.0,1,1,1,1,1,1,1,1,0
+Health - Heatwave,National,"Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Health,1920-12-01,1921-02-28,1920,700000.0,1,1,1,1,1,1,1,1,0
+Health - Heatwave,National,"Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Health,1913-12-01,1914-02-28,1913,700000.0,1,1,1,1,1,1,1,1,0
+Health - Heatwave,National,"Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Health,1911-12-01,1912-02-28,1911,700000.0,1,1,1,1,1,1,1,1,0
+Health - Heatwaves,National,"Brisbane , Sydney , Canberra (ACT) , Adelaide , Perth , Darwin , Hobart , Melbourne",Health,1909-12-09,1910-02-10,1909,700000.0,1,1,1,1,1,1,1,1,0
 Health - Melbourne heatwave,Victoria,Melbourne,Health,1907-12-01,1908-02-28,1907,700000.0,0,1,0,0,0,0,0,0,0
 Flood - Bolwarra,New South Wales,Sydney,Flood,1857-07-28,1857-07-29,1857,700000.0,1,0,0,0,0,0,0,0,0
 Flood - Southern Tasmania,Tasmania,Hobart,Flood,1854-02-26,1854-03-22,1854,700000.0,0,0,0,0,1,0,0,0,0
 Flood - Gundagai,New South Wales,Canberra (NSW),Flood,1852-06-25,1852-06-25,1852,700000.0,1,0,0,0,0,0,0,0,0
-Flood - Mid-North South Australia,South Australia,Adelaide,Flood,1889-04-14,1889-04-19,1889,700000.0,0,0,0,0,0,1,0,0,0
-Flood - Mid-North South Australia,South Australia,Leigh Creek,Flood,1889-04-14,1889-04-19,1889,700000.0,0,0,0,0,0,1,0,0,0
-Flood - Mid-North South Australia,South Australia,Murray Bridge (SA),Flood,1889-04-14,1889-04-19,1889,700000.0,0,0,0,0,0,1,0,0,0
+Flood - Mid-North South Australia,South Australia,"Adelaide , Leigh Creek , Murray Bridge (SA)",Flood,1889-04-14,1889-04-19,1889,700000.0,0,0,0,0,0,1,0,0,0
 Flood - Araluen and Braidwood,New South Wales,Wollongong,Flood,1860-02-08,1860-02-13,1860,700000.0,1,0,0,0,0,0,0,0,0
-Flood -  Widespread New South Wales (including Queensland and South Australia),New South Wales,Bourke,Flood,1890-04-01,1890-10-01,1890,700000.0,1,0,0,0,0,0,0,0,0
-Flood -  Widespread New South Wales (including Queensland and South Australia),New South Wales,Broken Hill,Flood,1890-04-01,1890-10-01,1890,700000.0,1,0,0,0,0,0,0,0,0
-Flood -  Widespread New South Wales (including Queensland and South Australia),New South Wales,Danggali (NSW),Flood,1890-04-01,1890-10-01,1890,700000.0,1,0,0,0,0,0,0,0,0
-Flood -  Widespread New South Wales (including Queensland and South Australia),New South Wales,Swan Hill (NSW),Flood,1890-04-01,1890-10-01,1890,700000.0,1,0,0,0,0,0,0,0,0
-"Flood - Black February. Brisbane, Ipswich and Maryborough",Queensland,Brisbane,Flood,1893-02-01,1893-02-15,1893,700000.0,0,0,1,0,0,0,0,0,0
-"Flood - Black February. Brisbane, Ipswich and Maryborough",Queensland,Bundaberg,Flood,1893-02-01,1893-02-15,1893,700000.0,0,0,1,0,0,0,0,0,0
+Flood -  Widespread New South Wales (including Queensland and South Australia),New South Wales,"Bourke , Broken Hill , Danggali (NSW) , Swan Hill (NSW)",Flood,1890-04-01,1890-10-01,1890,700000.0,1,0,0,0,0,0,0,0,0
+"Flood - Black February. Brisbane, Ipswich and Maryborough",Queensland,"Brisbane , Bundaberg",Flood,1893-02-01,1893-02-15,1893,700000.0,0,0,1,0,0,0,0,0,0
 Flood - Maitland,New South Wales,Maitland,Flood,1893-03-09,1893-03-09,1893,700000.0,1,0,0,0,0,0,0,0,0
-Flood - Katherine and Daly River,Northern Territory,Katherine,Flood,1879-02-01,1879-02-01,1879,700000.0,0,0,0,0,0,0,1,0,0
-Flood - Katherine and Daly River,Northern Territory,Victoria River,Flood,1879-02-01,1879-02-01,1879,700000.0,0,0,0,0,0,0,1,0,0
+Flood - Katherine and Daly River,Northern Territory,"Katherine , Victoria River",Flood,1879-02-01,1879-02-01,1879,700000.0,0,0,0,0,0,0,1,0,0
 Flood - Clermont and Peak Downs,Queensland,Clermont,Flood,1870-02-01,1870-02-01,1870,700000.0,0,0,1,0,0,0,0,0,0
 Flood - Widespread New South Wales and Queensland,New South Wales,New South Wales,Flood,1863-02-14,1863-02-28,1863,700000.0,1,0,0,0,0,0,0,0,0
 Flood - Nowra,New South Wales,Wollongong,Flood,1860-01-01,1860-01-01,1860,700000.0,1,0,0,0,0,0,0,0,0
 South-east Queensland Heavy rainfall and floods,Queensland,Queensland,Flood,2020-02-08,2020-02-14,2020,896000000.0,0,0,1,0,0,0,0,0,0
 Flood - Hobart flash flooding,Tasmania,Hobart,Flood,2018-05-10,2018-05-10,2018,137000000.0,0,0,0,0,1,0,0,0,0
-Flood - south-eastern Australia,National,National,Flood,2016-09-01,2016-09-30,2016,180000000.0,1,1,1,1,1,1,1,1,0
-"Flood - Tasmania, 2016",Tasmania,Mersey,Flood,2016-06-01,2016-07-31,2016,180000000.0,0,0,0,0,1,0,0,0,0
-"Flood - Tasmania, 2016",Tasmania,Forth,Flood,2016-06-01,2016-07-31,2016,180000000.0,0,0,0,0,1,0,0,0,0
-"Flood - Tasmania, 2016",Tasmania,Meander,Flood,2016-06-01,2016-07-31,2016,180000000.0,0,0,0,0,1,0,0,0,0
-"Flood - Tasmania, 2016",Tasmania,North Esk,Flood,2016-06-01,2016-07-31,2016,180000000.0,0,0,0,0,1,0,0,0,0
-"Flood - Tasmania, 2016",Tasmania,South Esk,Flood,2016-06-01,2016-07-31,2016,180000000.0,0,0,0,0,1,0,0,0,0
-"Flood - Tasmania, 2016",Tasmania,Macquarie,Flood,2016-06-01,2016-07-31,2016,180000000.0,0,0,0,0,1,0,0,0,0
-"Flood - Tasmania, 2016",Tasmania,Ouse,Flood,2016-06-01,2016-07-31,2016,180000000.0,0,0,0,0,1,0,0,0,0
-"Flood - Tasmania, 2016",Tasmania,Huon and Derwent Rivers,Flood,2016-06-01,2016-07-31,2016,180000000.0,0,0,0,0,1,0,0,0,0
+Flood - south-eastern Australia,National,National,Flood,2016-09-01,2016-09-30,2016,125500000.0,1,1,1,1,1,1,1,1,0
+"Flood - Tasmania, 2016",Tasmania,"Mersey, Forth, Meander, North Esk, South Esk, Macquarie, Ouse, Huon and Derwent Rivers",Flood,2016-06-01,2016-07-31,2016,180000000.0,0,0,0,0,1,0,0,0,0
 Flood - Victoria,Victoria,Cooma (VIC),Flood,2012-02-26,2012-03-15,2012,108212000.0,0,1,0,0,0,0,0,0,0
-Flood - New South Wales,New South Wales,Bourke,Flood,2012-01-24,2012-03-13,2012,108212000.0,1,0,0,0,0,0,0,0,0
-Flood - New South Wales,New South Wales,Broken Hill,Flood,2012-01-24,2012-03-13,2012,108212000.0,1,0,0,0,0,0,0,0,0
-Flood - New South Wales,New South Wales,Canberra (NSW),Flood,2012-01-24,2012-03-13,2012,108212000.0,1,0,0,0,0,0,0,0,0
-Flood - New South Wales,New South Wales,Cooma (NSW),Flood,2012-01-24,2012-03-13,2012,108212000.0,1,0,0,0,0,0,0,0,0
-Flood - New South Wales,New South Wales,Dubbo,Flood,2012-01-24,2012-03-13,2012,108212000.0,1,0,0,0,0,0,0,0,0
-Flood - New South Wales,New South Wales,Narrabi,Flood,2012-01-24,2012-03-13,2012,108212000.0,1,0,0,0,0,0,0,0,0
-Flood - New South Wales,New South Wales,Swan Hill (NSW),Flood,2012-01-24,2012-03-13,2012,108212000.0,1,0,0,0,0,0,0,0,0
-Flood - New South Wales,New South Wales,Sydney,Flood,2012-01-24,2012-03-13,2012,108212000.0,1,0,0,0,0,0,0,0,0
-Flood - New South Wales,New South Wales,Tamworth,Flood,2012-01-24,2012-03-13,2012,108212000.0,1,0,0,0,0,0,0,0,0
-Flood - New South Wales,New South Wales,Tibooburra (NSW),Flood,2012-01-24,2012-03-13,2012,108212000.0,1,0,0,0,0,0,0,0,0
-Flood - New South Wales,New South Wales,Wollongong,Flood,2012-01-24,2012-03-13,2012,108212000.0,1,0,0,0,0,0,0,0,0
-Flood - Queensland,Queensland,Cairns,Flood,2012-01-24,2012-03-13,2012,124688000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Cape York,Flood,2012-01-24,2012-03-13,2012,124688000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Charters Towers,Flood,2012-01-24,2012-03-13,2012,124688000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Cooktown,Flood,2012-01-24,2012-03-13,2012,124688000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Gunpowder,Flood,2012-01-24,2012-03-13,2012,124688000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Mackay,Flood,2012-01-24,2012-03-13,2012,124688000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Mitchell River,Flood,2012-01-24,2012-03-13,2012,124688000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Mornington Island,Flood,2012-01-24,2012-03-13,2012,124688000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Normanton,Flood,2012-01-24,2012-03-13,2012,124688000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Torres Strait,Flood,2012-01-24,2012-03-13,2012,124688000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Townsville,Flood,2012-01-24,2012-03-13,2012,124688000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Weipa,Flood,2012-01-24,2012-03-13,2012,124688000.0,0,0,1,0,0,0,0,0,0
-Flood - Northern NSW - Moree,New South Wales,Moree (NSW),Flood,2011-11-27,2011-12-04,2011,122465000.0,1,0,0,0,0,0,0,0,0
-Flood - Northern NSW - Moree,New South Wales,Narrabi,Flood,2011-11-27,2011-12-04,2011,122465000.0,1,0,0,0,0,0,0,0,0
-Flood - Northern NSW - Moree,New South Wales,Tamworth,Flood,2011-11-27,2011-12-04,2011,122465000.0,1,0,0,0,0,0,0,0,0
-Flood - Victoria ,Victoria,Mount Gambier (VIC),Flood,2011-01-12,2011-01-18,2011,122465000.0,0,1,0,0,0,0,0,0,0
-Flood - Victoria ,Victoria,Murray Bridge (VIC),Flood,2011-01-12,2011-01-18,2011,122465000.0,0,1,0,0,0,0,0,0,0
-Flood - Victoria ,Victoria,Swan Hill (VIC),Flood,2011-01-12,2011-01-18,2011,122465000.0,0,1,0,0,0,0,0,0,0
-Flood - Victoria ,Victoria,Melbourne,Flood,2011-01-12,2011-01-18,2011,122465000.0,0,1,0,0,0,0,0,0,0
+Flood - New South Wales,New South Wales,"Bourke , Broken Hill , Canberra (NSW) , Cooma (NSW) , Dubbo , Narrabi , Swan Hill (NSW) , Sydney , Tamworth , Tibooburra (NSW) , Wollongong",Flood,2012-01-24,2012-03-13,2012,108212000.0,1,0,0,0,0,0,0,0,0
+Flood - Queensland,Queensland,"Cairns , Cape York , Charters Towers , Cooktown , Gunpowder , Mackay , Mitchell River , Mornington Island , Normanton , Torres Strait , Townsville , Weipa",Flood,2012-01-24,2012-03-13,2012,124688000.0,0,0,1,0,0,0,0,0,0
+Flood - Northern NSW - Moree,New South Wales,"Moree (NSW) , Narrabi , Tamworth",Flood,2011-11-27,2011-12-04,2011,246232500.0,1,0,0,0,0,0,0,0,0
+Flood - Victoria ,Victoria,"Mount Gambier (VIC) , Murray Bridge (VIC) , Swan Hill (VIC) , Melbourne",Flood,2011-01-12,2011-01-18,2011,122465000.0,0,1,0,0,0,0,0,0,0
 "Flood - Warum, Kimberly",Western Australia,Kimberly,Flood,2011-03-10,2011-03-14,2011,17500000.0,0,0,0,0,0,0,0,1,0
 Flood - Queensland,Queensland,Brisbane,Flood,2010-11-30,2011-01-17,2010,2380000000.0,0,0,1,0,0,0,0,0,0
 Flood - Gascoyne river,Western Australia,Gascoyne River,Flood,2010-12-16,2010-12-18,2010,90000000.0,0,0,0,0,0,0,0,1,0
-Flood - Queensland ,Queensland,Blackall,Flood,2010-02-28,2010-03-05,2010,46700000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland ,Queensland,Brisbane,Flood,2010-02-28,2010-03-05,2010,46700000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland ,Queensland,Charleville,Flood,2010-02-28,2010-03-05,2010,46700000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland ,Queensland,Clermont,Flood,2010-02-28,2010-03-05,2010,46700000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland ,Queensland,Eromanga,Flood,2010-02-28,2010-03-05,2010,46700000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland ,Queensland,Moree (QLD),Flood,2010-02-28,2010-03-05,2010,46700000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland ,Queensland,Roma,Flood,2010-02-28,2010-03-05,2010,46700000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland ,Queensland,Taroom,Flood,2010-02-28,2010-03-05,2010,46700000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland ,Queensland,Windorah,Flood,2010-02-28,2010-03-05,2010,46700000.0,0,0,1,0,0,0,0,0,0
+Flood - Queensland ,Queensland,"Blackall , Brisbane , Charleville , Clermont , Eromanga , Moree (QLD) , Roma , Taroom , Windorah",Flood,2010-02-28,2010-03-05,2010,46700000.0,0,0,1,0,0,0,0,0,0
 Flood - Northern New South Wales,New South Wales,Lismore (NSW),Flood,2009-05-20,2009-05-23,2009,48000000.0,1,0,0,0,0,0,0,0,0
 Flood - Mid and North Coast ,New South Wales,Tamworth,Flood,2009-03-31,2009-04-02,2009,37000000.0,1,0,0,0,0,0,0,0,0
-Flood - North Queensland,Queensland,Cairns,Flood,2009-01-31,2009-02-07,2009,19000000.0,0,0,1,0,0,0,0,0,0
-Flood - North Queensland,Queensland,Townsville,Flood,2009-01-31,2009-02-07,2009,19000000.0,0,0,1,0,0,0,0,0,0
-Flood - North Queensland ,Queensland,Cairns,Flood,2009-01-12,2009-02-14,2009,19000000.0,0,0,1,0,0,0,0,0,0
-Flood - North Queensland ,Queensland,Townsville,Flood,2009-01-12,2009-02-14,2009,19000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Blackall,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Bundaberg,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Cairns,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Cape York,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Charters Towers,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Clermont,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Cooktown,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Croydon,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Longreach,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Mackay,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Mitchell River,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Normanton,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Rockhampton,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Taroom,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Townsville,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - Mackay,Queensland,Weipa,Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Blackall,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Bundaberg,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Cairns,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Cape York,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Charters Towers,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Clermont,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Cooktown,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Croydon,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Longreach,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Mackay,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Mitchell River,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Normanton,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Rockhampton,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Taroom,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Tibooburra (QLD),Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Townsville,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland,Queensland,Weipa,Flood,2008-02-10,2008-02-18,2008,70000000.0,0,0,1,0,0,0,0,0,0
+Flood - North Queensland,Queensland,"Cairns , Townsville",Flood,2009-01-31,2009-02-07,2009,19000000.0,0,0,1,0,0,0,0,0,0
+Flood - North Queensland ,Queensland,"Cairns , Townsville",Flood,2009-01-12,2009-02-14,2009,19000000.0,0,0,1,0,0,0,0,0,0
+Flood - Mackay,Queensland,"Blackall , Bundaberg , Cairns , Cape York , Charters Towers , Clermont , Cooktown , Croydon , Longreach , Mackay , Mitchell River , Normanton , Rockhampton , Taroom , Townsville , Weipa",Flood,2008-02-14,2008-02-17,2008,410000000.0,0,0,1,0,0,0,0,0,0
+Flood - South East Queensland,Queensland,"Blackall , Bundaberg , Cairns , Cape York , Charters Towers , Clermont , Cooktown , Croydon , Longreach , Mackay , Mitchell River , Normanton , Rockhampton , Taroom , Tibooburra (QLD) , Townsville , Weipa",Flood,2008-02-10,2008-02-18,2008,150000000.0,0,0,1,0,0,0,0,0,0
 Flood - North Coast New South Wales ,New South Wales,Lismore (NSW),Flood,2008-01-04,2008-01-11,2008,15000000.0,1,0,0,0,0,0,0,0,0
-Flood - Queensland,Queensland,Ayr,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Birdsville,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Blackall,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Boulia,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Cairns,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Cape York,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Charleville,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Charters Towers,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Clermont,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Cooktown,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Coringa Islets,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Croydon,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Cunnamulla (QLD),Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Eromanga,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Longreach,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Mackay,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Mitchell River,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Moree (QLD),Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Mornington Island,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Mount Isa,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Normanton,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Osprey Reef,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Richmond,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Rockhampton,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Roma,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Taroom,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Tibooburra (QLD),Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Townsville,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Weipa,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Windorah,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland,Queensland,Winton,Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland ,Queensland,Brisbane,Flood,2007-12-27,2008-01-07,2007,15000000.0,0,0,1,0,0,0,0,0,0
-Flood - South East Queensland ,Queensland,Lismore (QLD),Flood,2007-12-27,2008-01-07,2007,15000000.0,0,0,1,0,0,0,0,0,0
-Flood - Gippsland,Victoria,Cooma (VIC),Flood,2007-06-27,2007-07-02,2007,15000000.0,0,1,0,0,0,0,0,0,0
-Flood - Gippsland,Victoria,Wilsons Promontory,Flood,2007-06-27,2007-07-02,2007,15000000.0,0,1,0,0,0,0,0,0,0
-Flood - Gippsland,Victoria,Melbourne,Flood,2007-06-27,2007-07-02,2007,15000000.0,0,1,0,0,0,0,0,0,0
+Flood - Queensland,Queensland,"Ayr , Birdsville , Blackall , Boulia , Cairns , Cape York , Charleville , Charters Towers , Clermont , Cooktown , Coringa Islets , Croydon , Cunnamulla (QLD) , Eromanga , Longreach , Mackay , Mitchell River , Moree (QLD) , Mornington Island , Mount Isa , Normanton , Osprey Reef , Richmond , Rockhampton , Roma , Taroom , Tibooburra (QLD) , Townsville , Weipa , Windorah , Winton",Flood,2008-01-01,2008-01-31,2008,70000000.0,0,0,1,0,0,0,0,0,0
+Flood - South East Queensland ,Queensland,"Brisbane , Lismore (QLD)",Flood,2007-12-27,2008-01-07,2007,15000000.0,0,0,1,0,0,0,0,0,0
+Flood - Gippsland,Victoria,"Cooma (VIC) , Wilsons Promontory , Melbourne",Flood,2007-06-27,2007-07-02,2007,15000000.0,0,1,0,0,0,0,0,0,0
 Flood - Gawler river,South Australia,Gawler River,Flood,2005-11-08,2005-11-09,2005,40000000.0,0,0,0,0,0,1,0,0,0
 Flood - North East New South Wales,New South Wales,Lismore (NSW),Flood,2005-06-29,2005-06-30,2005,25000000.0,1,0,0,0,0,0,0,0,0
 Flood - South East Queensland,Queensland,Lismore (QLD),Flood,2005-06-29,2005-06-30,2005,53900000.0,0,0,1,0,0,0,0,0,0
 "Flood - Brisbane, Sunshine Coast, and Gold Coast",Queensland,Brisbane,Flood,2001-03-09,2001-03-11,2001,37000000.0,0,0,1,0,0,0,0,0,0
-"Flood - Grafton, Kempsey and North Coast New South Wales ",New South Wales,Lismore (NSW),Flood,2001-03-05,2001-03-12,2001,25000000.0,1,0,0,0,0,0,0,0,0
-"Flood - Grafton, Kempsey and North Coast New South Wales ",New South Wales,Tamworth,Flood,2001-03-05,2001-03-12,2001,25000000.0,1,0,0,0,0,0,0,0,0
-Flood - North and Central Queensland,Queensland,Cairns,Flood,2000-02-05,2000-02-28,2000,12000000.0,0,0,1,0,0,0,0,0,0
-Flood - North and Central Queensland,Queensland,Townsville,Flood,2000-02-05,2000-02-28,2000,12000000.0,0,0,1,0,0,0,0,0,0
+"Flood - Grafton, Kempsey and North Coast New South Wales ",New South Wales,"Lismore (NSW) , Tamworth",Flood,2001-03-05,2001-03-12,2001,25000000.0,1,0,0,0,0,0,0,0,0
+Flood - North and Central Queensland,Queensland,"Cairns , Townsville",Flood,2000-02-05,2000-02-28,2000,12000000.0,0,0,1,0,0,0,0,0,0
 Flood - Melbourne and Central Victoria,Victoria,Melbourne,Flood,1999-12-26,1999-12-28,1999,10000000.0,0,1,0,0,0,0,0,0,0
-Flood - Switzerland Gorge Flash Flood,Offshore,Outside Territorial Waters,Flood,1999-07-27,1999-07-28,1999,40000000.0,0,0,0,0,0,0,0,0,1
-Flood - Sydney and Wollongong,New South Wales,Sydney,Flood,1998-08-17,1998-08-19,1998,40000000.0,1,0,0,0,0,0,0,0,0
-Flood - Sydney and Wollongong,New South Wales,Wollongong,Flood,1998-08-17,1998-08-19,1998,40000000.0,1,0,0,0,0,0,0,0,0
+Flood - Switzerland Gorge Flash Flood,Offshore,Outside Territorial Waters,Flood,1999-07-27,1999-07-28,1999,45000000.0,0,0,0,0,0,0,0,0,1
+Flood - Sydney and Wollongong,New South Wales,"Sydney , Wollongong",Flood,1998-08-17,1998-08-19,1998,40000000.0,1,0,0,0,0,0,0,0,0
 Flood - Katherine Floods,Northern Territory,Katherine,Flood,1998-01-25,1998-02-02,1998,70000000.0,0,0,0,0,0,0,1,0,0
-Flood - Townsville,Queensland,Cairns,Flood,1998-01-10,1998-01-12,1998,71000000.0,0,0,1,0,0,0,0,0,0
-Flood - Townsville,Queensland,Townsville,Flood,1998-01-10,1998-01-12,1998,71000000.0,0,0,1,0,0,0,0,0,0
-Flood - Southern Queensland and Northern New South Wales,"Queensland , New South Wales",Brisbane,Flood,1996-05-01,1996-05-09,1996,31000000.0,1,0,1,0,0,0,0,0,0
-Flood - Southern Queensland and Northern New South Wales,"Queensland , New South Wales",Lismore (NSW),Flood,1996-05-01,1996-05-09,1996,31000000.0,1,0,1,0,0,0,0,0,0
+Flood - Townsville,Queensland,"Cairns , Townsville",Flood,1998-01-10,1998-01-12,1998,71000000.0,0,0,1,0,0,0,0,0,0
+Flood - Southern Queensland and Northern New South Wales,"Queensland , New South Wales","Brisbane , Lismore (NSW)",Flood,1996-05-01,1996-05-09,1996,31000000.0,1,0,1,0,0,0,0,0,0
 Flood - North-Eastern Victoria,Victoria,Melbourne,Flood,1993-10-03,1993-10-04,1993,12000000.0,0,1,0,0,0,0,0,0,0
 "Flood - Gnarr Creek, Ballarat",Victoria,Melbourne,Flood,1991-12-16,1991-12-18,1991,24000000.0,0,1,0,0,0,0,0,0,0
 Flood - Boonah,Queensland,Brisbane,Flood,1991-02-07,1991-02-11,1991,22500000.0,0,0,1,0,0,0,0,0,0
-Flood - Gulf Country ,Queensland,Cairns,Flood,1990-12-23,1991-01-07,1990,32000000.0,0,0,1,0,0,0,0,0,0
-Flood - Gulf Country ,Queensland,Rockhampton,Flood,1990-12-23,1991-01-07,1990,32000000.0,0,0,1,0,0,0,0,0,0
-"Flood - Queensland - Charleville, New South Wales - Nyngan, Victoria - Gippsland",National,Brisbane,Flood,1990-04-18,1990-04-30,1990,30000000.0,1,1,1,1,1,1,1,1,0
-"Flood - Queensland - Charleville, New South Wales - Nyngan, Victoria - Gippsland",National,Lismore (NSW),Flood,1990-04-18,1990-04-30,1990,30000000.0,1,1,1,1,1,1,1,1,0
-"Flood - Queensland - Charleville, New South Wales - Nyngan, Victoria - Gippsland",National,Melbourne,Flood,1990-04-18,1990-04-30,1990,30000000.0,1,1,1,1,1,1,1,1,0
-"Flood - Gympie, Southern Queensland, and Eastern New South Wales",Queensland,Brisbane,Flood,1989-04-25,1989-04-30,1989,26000000.0,0,0,1,0,0,0,0,0,0
-"Flood - Gympie, Southern Queensland, and Eastern New South Wales",Queensland,Lismore (QLD),Flood,1989-04-25,1989-04-30,1989,26000000.0,0,0,1,0,0,0,0,0,0
+Flood - Gulf Country ,Queensland,"Cairns , Rockhampton",Flood,1990-12-23,1991-01-07,1990,32000000.0,0,0,1,0,0,0,0,0,0
+"Flood - Queensland - Charleville, New South Wales - Nyngan, Victoria - Gippsland",National,"Brisbane , Lismore (NSW) , Melbourne",Flood,1990-04-18,1990-04-30,1990,30000000.0,1,1,1,1,1,1,1,1,0
+"Flood - Gympie, Southern Queensland, and Eastern New South Wales",Queensland,"Brisbane , Lismore (QLD)",Flood,1989-04-25,1989-04-30,1989,26000000.0,0,0,1,0,0,0,0,0,0
 Flood - Lismore,New South Wales,Lismore (NSW),Flood,1988-04-07,1988-04-12,1988,25000000.0,1,0,0,0,0,0,0,0,0
 Flood - Alice Springs and Central NT,Northern Territory,Alice Springs,Flood,1988-03-31,1988-04-02,1988,10000000.0,0,0,0,0,0,0,1,0,0
 Flood - Sydney,New South Wales,Sydney,Flood,1986-08-04,1986-08-06,1986,35000000.0,1,0,0,0,0,0,0,0,0
@@ -626,100 +250,62 @@ Flood - Dalby,Queensland,Brisbane,Flood,1981-02-01,1981-02-01,1981,20000000.0,0,
 Flood - Sydney,New South Wales,Sydney,Flood,1975-03-09,1975-03-09,1975,15000000.0,1,0,0,0,0,0,0,0,0
 Flood - Western Sydney,New South Wales,Sydney,Flood,1974-04-24,1974-04-24,1974,20000000.0,1,0,0,0,0,0,0,0,0
 Flood - Brisbane River,Queensland,Brisbane,Flood,1974-01-25,1974-01-29,1974,68000000.0,0,0,1,0,0,0,0,0,0
-Flood - Eastern Australia,"Queensland , New South Wales , South Australia , Tasmania , Victoria",Brisbane,Flood,1974-01-25,1974-04-01,1974,68000000.0,1,1,1,0,1,1,0,0,0
-Flood - Eastern Australia,"Queensland , New South Wales , South Australia , Tasmania , Victoria",Dubbo,Flood,1974-01-25,1974-04-01,1974,68000000.0,1,1,1,0,1,1,0,0,0
-Flood - Eastern Australia,"Queensland , New South Wales , South Australia , Tasmania , Victoria",Lismore (NSW),Flood,1974-01-25,1974-04-01,1974,68000000.0,1,1,1,0,1,1,0,0,0
-Flood - Eastern Australia,"Queensland , New South Wales , South Australia , Tasmania , Victoria",Sydney,Flood,1974-01-25,1974-04-01,1974,68000000.0,1,1,1,0,1,1,0,0,0
-Flood - Eastern Australia,"Queensland , New South Wales , South Australia , Tasmania , Victoria",Tamworth,Flood,1974-01-25,1974-04-01,1974,68000000.0,1,1,1,0,1,1,0,0,0
-Flood - Eastern Australia,"Queensland , New South Wales , South Australia , Tasmania , Victoria",Wollongong,Flood,1974-01-25,1974-04-01,1974,68000000.0,1,1,1,0,1,1,0,0,0
-Flood - Eastern Australia,"Queensland , New South Wales , South Australia , Tasmania , Victoria",Coober Pedy,Flood,1974-01-25,1974-04-01,1974,68000000.0,1,1,1,0,1,1,0,0,0
-Flood - Eastern Australia,"Queensland , New South Wales , South Australia , Tasmania , Victoria",Oodnadatta,Flood,1974-01-25,1974-04-01,1974,68000000.0,1,1,1,0,1,1,0,0,0
-Flood - Eastern Australia,"Queensland , New South Wales , South Australia , Tasmania , Victoria",Launceston,Flood,1974-01-25,1974-04-01,1974,68000000.0,1,1,1,0,1,1,0,0,0
-Flood - Eastern Australia,"Queensland , New South Wales , South Australia , Tasmania , Victoria",Melbourne,Flood,1974-01-25,1974-04-01,1974,68000000.0,1,1,1,0,1,1,0,0,0
-"Flood - Queensland, Northern Territory and Western Australia",Queensland,Birdsville,Flood,1973-03-02,1973-03-30,1973,30000000.0,0,0,1,0,0,0,0,0,0
-"Flood - Queensland, Northern Territory and Western Australia",Queensland,Cooktown,Flood,1973-03-02,1973-03-30,1973,30000000.0,0,0,1,0,0,0,0,0,0
-"Flood - Queensland, Northern Territory and Western Australia",Queensland,Longreach,Flood,1973-03-02,1973-03-30,1973,30000000.0,0,0,1,0,0,0,0,0,0
-"Flood - Queensland, Northern Territory and Western Australia",Queensland,Mornington Island,Flood,1973-03-02,1973-03-30,1973,30000000.0,0,0,1,0,0,0,0,0,0
-"Flood - Queensland, Northern Territory and Western Australia",Queensland,Mount Isa,Flood,1973-03-02,1973-03-30,1973,30000000.0,0,0,1,0,0,0,0,0,0
+Flood - Eastern Australia,"Queensland , New South Wales , South Australia , Tasmania , Victoria","Brisbane , Dubbo , Lismore (NSW) , Sydney , Tamworth , Wollongong , Coober Pedy , Oodnadatta , Launceston , Melbourne",Flood,1974-01-25,1974-04-01,1974,68000000.0,1,1,1,0,1,1,0,0,0
+"Flood - Queensland, Northern Territory and Western Australia",Queensland,"Birdsville , Cooktown , Longreach , Mornington Island , Mount Isa",Flood,1973-03-02,1973-03-30,1973,30000000.0,0,0,1,0,0,0,0,0,0
 Flood - Woden Valley,Australian Capital Territory,Canberra (ACT),Flood,1971-01-26,1971-01-26,1971,22676564.5,0,0,0,1,0,0,0,0,0
-Flood - Central Coast,Queensland,Ayr,Flood,1958-02-16,1958-02-24,1958,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Central Coast,Queensland,Charters Towers,Flood,1958-02-16,1958-02-24,1958,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Central Coast,Queensland,Mackay,Flood,1958-02-16,1958-02-24,1958,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Central Coast,Queensland,Townsville,Flood,1958-02-16,1958-02-24,1958,700000.0,0,0,1,0,0,0,0,0,0
+Flood - Central Coast,Queensland,"Ayr , Charters Towers , Mackay , Townsville",Flood,1958-02-16,1958-02-24,1958,700000.0,0,0,1,0,0,0,0,0,0
 Flood - Murray River,South Australia,Murray Bridge (SA),Flood,1956-06-08,1956-12-01,1956,700000.0,0,0,0,0,0,1,0,0,0
 Flood - Hunter Valley ,New South Wales,Sydney,Flood,1955-02-22,1955-02-28,1955,700000.0,1,0,0,0,0,0,0,0,0
 Flood - Northern New South Wales ,New South Wales,Lismore (NSW),Flood,1954-02-20,1954-02-24,1954,700000.0,1,0,0,0,0,0,0,0,0
 Flood - Eastern New South Wales,New South Wales,Sydney,Flood,1950-06-01,1950-06-30,1950,700000.0,1,0,0,0,0,0,0,0,0
 "Flood - Sydney, North Coast, and North Western Districts",New South Wales,Sydney,Flood,1950-01-16,1950-01-19,1950,700000.0,1,0,0,0,0,0,0,0,0
-Flood - Burdekin River,Queensland,Ayr,Flood,1940-04-07,1940-04-09,1940,2000000.0,0,0,1,0,0,0,0,0,0
-Flood - Burdekin River,Queensland,Townsville,Flood,1940-04-07,1940-04-09,1940,2000000.0,0,0,1,0,0,0,0,0,0
-"Flood - Melbourne, Yarra Valley",Victoria,Cooma (VIC),Flood,1934-11-30,1934-12-02,1934,700000.0,0,1,0,0,0,0,0,0,0
-"Flood - Melbourne, Yarra Valley",Victoria,Wilsons Promontory,Flood,1934-11-30,1934-12-02,1934,700000.0,0,1,0,0,0,0,0,0,0
-"Flood - Melbourne, Yarra Valley",Victoria,Melbourne,Flood,1934-11-30,1934-12-02,1934,700000.0,0,1,0,0,0,0,0,0,0
-Flood - Widespread Queensland,Queensland,Blackall,Flood,1930-01-20,1930-01-30,1930,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Widespread Queensland,Queensland,Cairns,Flood,1930-01-20,1930-01-30,1930,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Widespread Queensland,Queensland,Charleville,Flood,1930-01-20,1930-01-30,1930,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Widespread Queensland,Queensland,Charters Towers,Flood,1930-01-20,1930-01-30,1930,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Widespread Queensland,Queensland,Longreach,Flood,1930-01-20,1930-01-30,1930,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Widespread Queensland,Queensland,Mackay,Flood,1930-01-20,1930-01-30,1930,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Widespread Queensland,Queensland,Mount Isa,Flood,1930-01-20,1930-01-30,1930,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Widespread Queensland,Queensland,Townsville,Flood,1930-01-20,1930-01-30,1930,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Widespread Queensland,Queensland,Winton,Flood,1930-01-20,1930-01-30,1930,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Tasmania,Tasmania,Hobart,Flood,1929-04-03,1929-04-06,1929,700000.0,0,0,0,0,1,0,0,0,0
-Flood - Tasmania,Tasmania,Launceston,Flood,1929-04-03,1929-04-06,1929,700000.0,0,0,0,0,1,0,0,0,0
-Flood - Widespread Coastal,Queensland,Brisbane,Flood,1929-02-20,1929-02-28,1929,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Widespread Coastal,Queensland,Cairns,Flood,1929-02-20,1929-02-28,1929,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Widespread Coastal,Queensland,Lismore (QLD),Flood,1929-02-20,1929-02-28,1929,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Widespread Coastal,Queensland,Townsville,Flood,1929-02-20,1929-02-28,1929,700000.0,0,0,1,0,0,0,0,0,0
-Flood - Queensland South Coast,"Queensland , New South Wales",Brisbane,Flood,1928-04-18,1928-04-24,1928,700000.0,1,0,1,0,0,0,0,0,0
-Flood - Queensland South Coast,"Queensland , New South Wales",Dubbo,Flood,1928-04-18,1928-04-24,1928,700000.0,1,0,1,0,0,0,0,0,0
+Flood - Burdekin River,Queensland,"Ayr , Townsville",Flood,1940-04-07,1940-04-09,1940,2000000.0,0,0,1,0,0,0,0,0,0
+"Flood - Melbourne, Yarra Valley",Victoria,"Cooma (VIC) , Wilsons Promontory , Melbourne",Flood,1934-11-30,1934-12-02,1934,700000.0,0,1,0,0,0,0,0,0,0
+Flood - Widespread Queensland,Queensland,"Blackall , Cairns , Charleville , Charters Towers , Longreach , Mackay , Mount Isa , Townsville , Winton",Flood,1930-01-20,1930-01-30,1930,700000.0,0,0,1,0,0,0,0,0,0
+Flood - Tasmania,Tasmania,"Hobart , Launceston",Flood,1929-04-03,1929-04-06,1929,700000.0,0,0,0,0,1,0,0,0,0
+Flood - Widespread Coastal,Queensland,"Brisbane , Cairns , Lismore (QLD) , Townsville",Flood,1929-02-20,1929-02-28,1929,700000.0,0,0,1,0,0,0,0,0,0
+Flood - Queensland South Coast,"Queensland , New South Wales","Brisbane , Dubbo",Flood,1928-04-18,1928-04-24,1928,700000.0,1,0,1,0,0,0,0,0,0
 Flood - South East Queensland,Queensland,Brisbane,Flood,1928-02-14,1928-02-22,1928,700000.0,0,0,1,0,0,0,0,0,0
-"Flood - Toowoomba, Miles, Cairns, and Townsville",Queensland,Brisbane,Flood,1927-02-10,1927-02-17,1927,700000.0,0,0,1,0,0,0,0,0,0
-"Flood - Toowoomba, Miles, Cairns, and Townsville",Queensland,Cairns,Flood,1927-02-10,1927-02-17,1927,700000.0,0,0,1,0,0,0,0,0,0
-"Flood - Toowoomba, Miles, Cairns, and Townsville",Queensland,Roma,Flood,1927-02-10,1927-02-17,1927,700000.0,0,0,1,0,0,0,0,0,0
-"Flood - Toowoomba, Miles, Cairns, and Townsville",Queensland,Townsville,Flood,1927-02-10,1927-02-17,1927,700000.0,0,0,1,0,0,0,0,0,0
+"Flood - Toowoomba, Miles, Cairns, and Townsville",Queensland,"Brisbane , Cairns , Roma , Townsville",Flood,1927-02-10,1927-02-17,1927,700000.0,0,0,1,0,0,0,0,0,0
 "Flood - Toowoomba, Miles, Cairns, and Townsville",Queensland,Cairns,Flood,1927-02-09,1927-02-16,1927,700000.0,0,0,1,0,0,0,0,0,0
 Flood - Hughenden,Queensland,Hughenden,Flood,1917-01-01,1917-01-10,1917,700000.0,0,0,1,0,0,0,0,0,0
 Flood - Clermont and Peak Downs,Queensland,Clermont,Flood,1916-12-27,1916-12-27,1916,700000.0,0,0,1,0,0,0,0,0,0
 Bolwara Flood,New South Wales,Bolwarra,Flood,1857-07-15,1857-07-31,1857,700000.0,1,0,0,0,0,0,0,0,0
 Flood - Melbourne and Victoria ,Victoria,Melbourne,Flood,1934-11-29,1934-12-01,1934,700000.0,0,1,0,0,0,0,0,0,0
-"Flood - Flooding, New South Wales",New South Wales,Northern Rivers,Flood,2022-02-22,2022-04-07,2022,230000000.0,1,0,0,0,0,0,0,0,0
-Flood - Rainfall and Flooding,Queensland,South East Queensland,Flood,2022-02-22,2022-03-07,2022,230000000.0,0,0,1,0,0,0,0,0,0
-Flood - Severe Flooding from (ex) Tropical Cyclone Tiffany ,South Australia,South Australia,Flood,2022-01-21,2022-02-03,2022,176000000.0,0,0,0,0,0,1,0,0,0
+"Flood - Flooding, New South Wales",New South Wales,Northern Rivers,Flood,2022-02-22,2022-04-07,2022,309000000.0,1,0,0,0,0,0,0,0,0
+Flood - Rainfall and Flooding,Queensland,South East Queensland,Flood,2022-02-22,2022-03-07,2022,328000000.0,0,0,1,0,0,0,0,0,0
+Flood - Severe Flooding from (ex) Tropical Cyclone Tiffany ,South Australia,South Australia,Flood,2022-01-21,2022-02-03,2022,220000000.0,0,0,0,0,0,1,0,0,0
 Flood - Geelong,Victoria,Geelong,Flood,2015-01-27,2015-01-27,2015,11700000.0,0,1,0,0,0,0,0,0,0
 Flood - Nowra Flood,New South Wales,Nowra,Flood,1860-02-11,1860-02-25,1860,700000.0,1,0,0,0,0,0,0,0,0
-Industrial - Longford Gas explision,Victoria,Bass Strait,Industrial,1998-09-25,1998-10-14,1998,23000000.0,0,1,0,0,0,0,0,0,0
-Industrial - Longford Gas explision,Victoria,Mount Gambier (VIC),Industrial,1998-09-25,1998-10-14,1998,23000000.0,0,1,0,0,0,0,0,0,0
-Industrial - Longford Gas explision,Victoria,Wilsons Promontory,Industrial,1998-09-25,1998-10-14,1998,23000000.0,0,1,0,0,0,0,0,0,0
-Industrial - Longford Gas explision,Victoria,Melbourne,Industrial,1998-09-25,1998-10-14,1998,23000000.0,0,1,0,0,0,0,0,0,0
+Industrial - Longford Gas explision,Victoria,"Bass Strait , Mount Gambier (VIC) , Wilsons Promontory , Melbourne",Industrial,1998-09-25,1998-10-14,1998,23000000.0,0,1,0,0,0,0,0,0,0
 Industrial - Bulli Mine,New South Wales,Wollongong,Industrial,1887-03-23,1887-03-23,1887,700000.0,1,0,0,0,0,0,0,0,0
 Industrial - Dudley Mine,New South Wales,Sydney,Industrial,1898-03-21,1898-03-21,1898,700000.0,1,0,0,0,0,0,0,0,0
 Industrial - Broken Hill Mine Collapse,New South Wales,Broken Hill,Industrial,1895-07-18,1895-07-18,1895,700000.0,1,0,0,0,0,0,0,0,0
 Industrial - Creswick Gold Mine,Victoria,Melbourne,Industrial,1882-12-12,1882-12-12,1882,700000.0,0,1,0,0,0,0,0,0,0
 "Swanston Street wall collapse, 2013",Victoria,Melbourne,Industrial,2013-03-29,2013-03-29,2013,89000000.0,0,1,0,0,0,0,0,0,0
-"Industrial – Pike River Mine, New Zealand",Offshore,Outside Territorial Waters,Industrial,2010-11-19,2010-11-26,2010,46700000.0,0,0,0,0,0,0,0,0,1
+"Industrial – Pike River Mine, New Zealand",Offshore,Outside Territorial Waters,Industrial,2010-11-19,2010-11-26,2010,1044000000.0,0,0,0,0,0,0,0,0,1
 Industrial - Savage River Mine Fire,Tasmania,Savage River,Industrial,2006-06-21,2006-06-21,2006,10000000.0,0,0,0,0,1,0,0,0,0
-Industrial - Gladstone Factory Explosion,South Australia,Whyalla,Industrial,2006-05-09,2006-05-09,2006,22000000.0,0,0,0,0,0,1,0,0,0
-Industrial - Beaconsfield Mine,Tasmania,Launceston,Industrial,2006-04-25,2006-05-09,2006,22000000.0,0,0,0,0,1,0,0,0,0
+Industrial - Gladstone Factory Explosion,South Australia,Whyalla,Industrial,2006-05-09,2006-05-09,2006,26500000.0,0,0,0,0,0,1,0,0,0
+Industrial - Beaconsfield Mine,Tasmania,Launceston,Industrial,2006-04-25,2006-05-09,2006,26500000.0,0,0,0,0,1,0,0,0,0
 Industrial - Bellevue Hazardous Waste Fire,Western Australia,Perth,Industrial,2001-02-15,2001-02-17,2001,5600000.0,0,0,0,0,0,0,0,1,0
 Industrial -Kalgoorlie Mine Collapse,Western Australia,Kalgoorlie,Industrial,2000-06-26,2000-06-26,2000,12000000.0,0,0,0,0,0,0,0,1,0
-Industrial - Hunter Valley Silo Explosion,New South Wales,Sydney,Industrial,1999-12-06,1999-12-06,1999,40000000.0,1,0,0,0,0,0,0,0,0
-Industrial - North Parkes Mine,New South Wales,Dubbo,Industrial,1999-11-24,1999-11-24,1999,40000000.0,1,0,0,0,0,0,0,0,0
-Industrial- Hazardous material incident,Victoria,Melbourne,Industrial,2005-02-21,2005-02-21,2005,53200000.0,0,1,0,0,0,0,0,0,0
-Industrial - Structure Collapse,South Australia,Adelaide,Industrial,1996-08-06,1996-08-06,1996,15000000.0,0,0,0,0,0,1,0,0,0
-Industrial - Moura Mine,Queensland,Taroom,Industrial,1994-08-07,1994-08-07,1994,37000000.0,0,0,1,0,0,0,0,0,0
+Industrial - Hunter Valley Silo Explosion,New South Wales,Sydney,Industrial,1999-12-06,1999-12-06,1999,45000000.0,1,0,0,0,0,0,0,0,0
+Industrial - North Parkes Mine,New South Wales,Dubbo,Industrial,1999-11-24,1999-11-24,1999,45000000.0,1,0,0,0,0,0,0,0,0
+Industrial- Hazardous material incident,Victoria,Melbourne,Industrial,2005-02-21,2005-02-21,2005,27700000.0,0,1,0,0,0,0,0,0,0
+Industrial - Structure Collapse,South Australia,Adelaide,Industrial,1996-08-06,1996-08-06,1996,20000000.0,0,0,0,0,0,1,0,0,0
+Industrial - Moura Mine,Queensland,Taroom,Industrial,1994-08-07,1994-08-07,1994,37100000.0,0,0,1,0,0,0,0,0,0
 Industrial - South Bulli Coal Mine,New South Wales,Wollongong,Industrial,1991-07-24,1991-07-24,1991,22500000.0,1,0,0,0,0,0,0,0,0
 Industrial - Coode Island,Victoria,Melbourne,Industrial,1991-07-21,1991-07-21,1991,21000000.0,0,1,0,0,0,0,0,0,0
 Industrial - Western Main,New South Wales,Hillston,Industrial,1991-05-29,1991-05-29,1991,22500000.0,1,0,0,0,0,0,0,0,0
 Industrial - Leinster Mine Flood,Western Australia,Wiluna,Industrial,1989-06-13,1989-06-13,1989,26000000.0,0,0,0,0,0,0,0,1,0
-"Industrial - Boiling liquid expanding vapour explosion (BLEVE), Cairns ",Queensland,Cairns,Industrial,1987-08-01,1987-08-01,1987,89000000.0,0,0,1,0,0,0,0,0,0
+"Industrial - Boiling liquid expanding vapour explosion (BLEVE), Cairns ",Queensland,Cairns,Industrial,1987-08-01,1987-08-01,1987,120000000.0,0,0,1,0,0,0,0,0,0
 Industrial - Moura Mine,Queensland,Taroom,Industrial,1986-07-16,1986-07-16,1986,35000000.0,0,0,1,0,0,0,0,0,0
-Industrial - Poisonous gases HMAS Stalwart,Offshore,Territorial Waters,Industrial,1985-10-22,1985-10-22,1985,700000.0,0,0,0,0,0,0,0,0,1
+Industrial - Poisonous gases HMAS Stalwart,Offshore,Territorial Waters,Industrial,1985-10-22,1985-10-22,1985,35000000.0,0,0,0,0,0,0,0,0,1
 Industrial - Appin Mine Explosion,New South Wales,Wollongong,Industrial,1979-07-24,1979-07-24,1979,12500000.0,1,0,0,0,0,0,0,0,0
 Industrial - Kianga Mine,Queensland,Taroom,Industrial,1975-09-20,1975-09-20,1975,17500000.0,0,0,1,0,0,0,0,0,0
 Industrial - Mount St Canice,Tasmania,Hobart,Industrial,1974-09-05,1974-09-05,1974,68000000.0,0,0,0,0,1,0,0,0,0
-Industrial - Box Flat Mine Ipswich,Queensland,Brisbane,Industrial,1972-07-31,1972-07-31,1972,15000000.0,0,0,1,0,0,0,0,0,0
-Industrial - Blackmans Flat,New South Wales,Dubbo,Industrial,1972-01-01,1972-01-01,1972,10000000.0,1,0,0,0,0,0,0,0,0
+Industrial - Box Flat Mine Ipswich,Queensland,Brisbane,Industrial,1972-07-31,1972-07-31,1972,26700000.0,0,0,1,0,0,0,0,0,0
+Industrial - Blackmans Flat,New South Wales,Dubbo,Industrial,1972-01-01,1972-01-01,1972,2000000.0,1,0,0,0,0,0,0,0,0
 "Industrial - Westgate Bridge Collapse, Melbourne",Victoria,Melbourne,Industrial,1970-10-15,1970-10-15,1970,12000000.0,0,1,0,0,0,0,0,0,0
 Industrial â€“ Wyee State Mine,New South Wales,Sydney,Industrial,1966-10-21,1966-10-21,1966,700000.0,1,0,0,0,0,0,0,0,0
 Industrial â€“ Melbourne Crane Collapse,Victoria,Melbourne,Industrial,1961-10-01,1961-10-01,1961,700000.0,0,1,0,0,0,0,0,0,0
@@ -737,9 +323,9 @@ Industrial - Burwood Colliery,New South Wales,Sydney,Industrial,1901-11-13,1901-
 Industrial - Balmain mining fall,New South Wales,Balmain,Industrial,1900-03-17,1900-03-17,1900,700000.0,1,0,0,0,0,0,0,0,0
 Industrial - Greta Colliery Fire,New South Wales,Sydney,Industrial,1900-12-05,1900-12-05,1900,700000.0,1,0,0,0,0,0,0,0,0
 Industrial - Varanus Island Gas Explosion,Western Australia,Dampier,Industrial,2008-06-03,2008-06-03,2008,230000000.0,0,0,0,0,0,0,0,1,0
-Industrial - Newcastle Toxic Fume Leak,New South Wales,Sydney,Industrial,2006-03-30,2006-03-30,2006,22000000.0,1,0,0,0,0,0,0,0,0
-Industrial - Tullamarine Chemical Spill,Victoria,Melbourne,Industrial,2004-10-29,2004-10-29,2004,28500000.0,0,1,0,0,0,0,0,0,0
-Industrial - Kakadu Mine Uranium Leak,Northern Territory,Kakadu,Industrial,2004-03-23,2004-03-23,2004,28500000.0,0,0,0,0,0,0,1,0,0
+Industrial - Newcastle Toxic Fume Leak,New South Wales,Sydney,Industrial,2006-03-30,2006-03-30,2006,26500000.0,1,0,0,0,0,0,0,0,0
+Industrial - Tullamarine Chemical Spill,Victoria,Melbourne,Industrial,2004-10-29,2004-10-29,2004,25000000.0,0,1,0,0,0,0,0,0,0
+Industrial - Kakadu Mine Uranium Leak,Northern Territory,Kakadu,Industrial,2004-03-23,2004-03-23,2004,25000000.0,0,0,0,0,0,0,1,0,0
 Industrial - MV Nego Kim,Western Australia,Dampier,Industrial,2001-11-18,2001-11-18,2001,30000000.0,0,0,0,0,0,0,0,1,0
 Industrial - HMAS Westralia (II),Western Australia,Perth,Industrial,1998-05-05,1998-05-05,1998,23000000.0,0,0,0,0,0,0,0,1,0
 Industrial - HMAS Tarakan Explosion,New South Wales,Sydney,Industrial,1950-01-25,1950-01-25,1950,700000.0,1,0,0,0,0,0,0,0,0
@@ -747,12 +333,12 @@ Industrial - Wonthaggi Gas Explosion,Victoria,Wilsons Promontory,Industrial,1937
 Industrial - Mt Kembla Gas Explosion,New South Wales,Wollongong,Industrial,1902-07-31,1902-07-31,1902,700000.0,1,0,0,0,0,0,0,0,0
 Landslide - Somersby ,New South Wales,Sydney,Landslide,2007-06-08,2007-06-08,2007,57450000.0,1,0,0,0,0,0,0,0,0
 Landslide - Thredbo,New South Wales,Canberra (NSW),Landslide,1997-07-30,1997-07-30,1997,29000000.0,1,0,0,0,0,0,0,0,0
-Landslide - Gracetown,Western Australia,Gracetown,Landslide,1996-09-27,1996-09-28,1996,15000000.0,0,0,0,0,0,0,0,1,0
+Landslide - Gracetown,Western Australia,Gracetown,Landslide,1996-09-27,1996-09-28,1996,20000000.0,0,0,0,0,0,0,0,1,0
 Landslide - Adelaide Hills,South Australia,Adelaide,Landslide,1928-01-31,1928-01-31,1928,700000.0,0,0,0,0,0,1,0,0,0
 Other Disasters- Cowra POW Attempted Mass Escape,New South Wales,Dubbo,Other Disasters,1944-08-05,1944-08-15,1944,700000.0,1,0,0,0,0,0,0,0,0
 Other Disasters - Wartime Bombing Raids,Northern Territory,Darwin,Other Disasters,1942-02-19,1942-02-19,1942,700000.0,0,0,0,0,0,0,1,0,0
-"Severe Storm - Thunderstorm Asthma, 2016",Victoria,Melbourne,Storm,2016-11-21,2016-11-22,2016,180000000.0,0,1,0,0,0,0,0,0,0
-"Severe Storm - Extreme weather and statewide power failure, South Australia, 2016",South Australia,South Australia,Storm,2016-09-28,2016-11-01,2016,180000000.0,0,0,0,0,0,1,0,0,0
+"Severe Storm - Thunderstorm Asthma, 2016",Victoria,Melbourne,Storm,2016-11-21,2016-11-22,2016,125500000.0,0,1,0,0,0,0,0,0,0
+"Severe Storm - Extreme weather and statewide power failure, South Australia, 2016",South Australia,South Australia,Storm,2016-09-28,2016-11-01,2016,125500000.0,0,0,0,0,0,1,0,0,0
 "Hail - North Sydney hailstorm, 2017",New South Wales,North Sydney,Storm,2017-02-18,2017-02-18,2017,328000000.0,1,0,0,0,0,0,0,0,0
 Hail - Sydney,New South Wales,Sydney,Storm,2007-12-09,2007-12-09,2007,415000000.0,1,0,0,0,0,0,0,0,0
 Hail - Lismore,New South Wales,Lismore (NSW),Storm,2007-10-08,2007-10-09,2007,97000000.0,1,0,0,0,0,0,0,0,0
@@ -762,9 +348,7 @@ Hail - Lake Grace,Western Australia,Bunbury,Storm,2005-10-16,2005-10-16,2005,100
 Storm - Severe storm Sydney,New South Wales,Sydney,Storm,2015-12-16,2015-12-17,2015,220000000.0,1,0,0,0,0,0,0,0,0
 Hail - Gold Coast ,Queensland,Brisbane,Storm,2005-10-12,2005-10-12,2005,61000000.0,0,0,1,0,0,0,0,0,0
 Hail - Brisbane,Queensland,Brisbane,Storm,2005-05-19,2005-05-19,2005,17600000.0,0,0,1,0,0,0,0,0,0
-Hail - South East Queensland,Queensland,Brisbane,Storm,2004-01-24,2004-01-31,2004,28500000.0,0,0,1,0,0,0,0,0,0
-Hail - South East Queensland,Queensland,Bundaberg,Storm,2004-01-24,2004-01-31,2004,28500000.0,0,0,1,0,0,0,0,0,0
-Hail - South East Queensland,Queensland,Lismore (QLD),Storm,2004-01-24,2004-01-31,2004,28500000.0,0,0,1,0,0,0,0,0,0
+Hail - South East Queensland,Queensland,"Brisbane , Bundaberg , Lismore (QLD)",Storm,2004-01-24,2004-01-31,2004,28500000.0,0,0,1,0,0,0,0,0,0
 Hail - Sydney,New South Wales,Sydney,Storm,1999-04-14,1999-04-14,1999,1700000000.0,1,0,0,0,0,0,0,0,0
 Hail - Brisbane and Region,Queensland,Brisbane,Storm,1998-12-16,1998-12-16,1998,76000000.0,0,0,1,0,0,0,0,0,0
 Hail - Singleton,New South Wales,Sydney,Storm,1996-12-11,1996-12-11,1996,49000000.0,1,0,0,0,0,0,0,0,0
@@ -783,83 +367,44 @@ Severe Storm - Melbourne,Victoria,Melbourne,Storm,2011-12-25,2011-12-26,2011,680
 Severe Storm - Perth,Western Australia,Perth,Storm,2010-03-22,2010-03-22,2010,1053000000.0,0,0,0,0,0,0,0,1,0
 "Severe Storm - Melbourne, Victoria",Victoria,Melbourne,Storm,2010-03-06,2010-03-07,2010,1044000000.0,0,1,0,0,0,0,0,0,0
 Severe Storm - South East Queensland,Queensland,Brisbane,Storm,2008-11-16,2008-11-22,2008,309000000.0,0,0,1,0,0,0,0,0,0
-Severe Storm - Southern States Windstorms,"South Australia , Tasmania , Victoria",Adelaide,Storm,2008-04-02,2008-04-02,2008,65000000.0,0,1,0,0,1,1,0,0,0
-Severe Storm - Southern States Windstorms,"South Australia , Tasmania , Victoria",Mount Gambier (SA),Storm,2008-04-02,2008-04-02,2008,65000000.0,0,1,0,0,1,1,0,0,0
-Severe Storm - Southern States Windstorms,"South Australia , Tasmania , Victoria",Murray Bridge (SA),Storm,2008-04-02,2008-04-02,2008,65000000.0,0,1,0,0,1,1,0,0,0
-Severe Storm - Southern States Windstorms,"South Australia , Tasmania , Victoria",Hobart,Storm,2008-04-02,2008-04-02,2008,65000000.0,0,1,0,0,1,1,0,0,0
-Severe Storm - Southern States Windstorms,"South Australia , Tasmania , Victoria",Launceston,Storm,2008-04-02,2008-04-02,2008,65000000.0,0,1,0,0,1,1,0,0,0
-Severe Storm - Southern States Windstorms,"South Australia , Tasmania , Victoria",Melbourne,Storm,2008-04-02,2008-04-02,2008,65000000.0,0,1,0,0,1,1,0,0,0
-Severe Storm - South East Queensland and Northern New South Wales,Queensland,Brisbane,Storm,2007-10-07,2007-10-12,2007,97000000.0,0,0,1,0,0,0,0,0,0
-Severe Storm - South East Queensland and Northern New South Wales,Queensland,Bundaberg,Storm,2007-10-07,2007-10-12,2007,97000000.0,0,0,1,0,0,0,0,0,0
-Severe Storm - South East Queensland and Northern New South Wales,Queensland,Lismore (QLD),Storm,2007-10-07,2007-10-12,2007,97000000.0,0,0,1,0,0,0,0,0,0
-Severe Storm - South East Queensland and Northern New South Wales,Queensland,Roma,Storm,2007-10-07,2007-10-12,2007,97000000.0,0,0,1,0,0,0,0,0,0
+Severe Storm - Southern States Windstorms,"South Australia , Tasmania , Victoria","Adelaide , Mount Gambier (SA) , Murray Bridge (SA) , Hobart , Launceston , Melbourne",Storm,2008-04-02,2008-04-02,2008,65000000.0,0,1,0,0,1,1,0,0,0
+Severe Storm - South East Queensland and Northern New South Wales,Queensland,"Brisbane , Bundaberg , Lismore (QLD) , Roma",Storm,2007-10-07,2007-10-12,2007,97000000.0,0,0,1,0,0,0,0,0,0
 Severe Storm - New South Wales East Coast Low,New South Wales,Sydney,Storm,2007-06-08,2007-06-10,2007,1480000000.0,1,0,0,0,0,0,0,0,0
 Severe Storm - Northern New South Wales,New South Wales,Lismore (NSW),Storm,2005-06-30,2005-06-30,2005,25000000.0,1,0,0,0,0,0,0,0,0
-Severe Storm - Bunbury and South Perth,Western Australia,Bunbury,Storm,2005-05-16,2005-05-16,2005,53200000.0,0,0,0,0,0,0,0,1,0
-Severe Storm - Bunbury and South Perth,Western Australia,Perth,Storm,2005-05-16,2005-05-16,2005,53200000.0,0,0,0,0,0,0,0,1,0
-"Severe Storm - New South Wales, Victoria, Australian Capital Territory, Tasmania and South Australia","New South Wales , Australian Capital Territory , Victoria , South Australia",Sydney,Storm,2005-02-01,2005-02-03,2005,216700000.0,1,1,0,1,0,1,0,0,0
-"Severe Storm - New South Wales, Victoria, Australian Capital Territory, Tasmania and South Australia","New South Wales , Australian Capital Territory , Victoria , South Australia",Wollongong,Storm,2005-02-01,2005-02-03,2005,216700000.0,1,1,0,1,0,1,0,0,0
-"Severe Storm - New South Wales, Victoria, Australian Capital Territory, Tasmania and South Australia","New South Wales , Australian Capital Territory , Victoria , South Australia",Canberra (ACT),Storm,2005-02-01,2005-02-03,2005,216700000.0,1,1,0,1,0,1,0,0,0
-"Severe Storm - New South Wales, Victoria, Australian Capital Territory, Tasmania and South Australia","New South Wales , Australian Capital Territory , Victoria , South Australia",Cooma (VIC),Storm,2005-02-01,2005-02-03,2005,216700000.0,1,1,0,1,0,1,0,0,0
-"Severe Storm - New South Wales, Victoria, Australian Capital Territory, Tasmania and South Australia","New South Wales , Australian Capital Territory , Victoria , South Australia",Adelaide,Storm,2005-02-01,2005-02-03,2005,216700000.0,1,1,0,1,0,1,0,0,0
-"Severe Storm - New South Wales, Victoria, Australian Capital Territory, Tasmania and South Australia","New South Wales , Australian Capital Territory , Victoria , South Australia",Melbourne,Storm,2005-02-01,2005-02-03,2005,216700000.0,1,1,0,1,0,1,0,0,0
-"Severe Storm - South East Queensland, Northern New South Wales, Northern Western Australia. Northern Territory","Queensland , New South Wales , Western Australia , Northern Territory",Brisbane,Storm,2004-03-03,2004-03-31,2004,28500000.0,1,0,1,0,0,0,1,1,0
-"Severe Storm - South East Queensland, Northern New South Wales, Northern Western Australia. Northern Territory","Queensland , New South Wales , Western Australia , Northern Territory",Lismore (NSW),Storm,2004-03-03,2004-03-31,2004,28500000.0,1,0,1,0,0,0,1,1,0
-"Severe Storm - South East Queensland, Northern New South Wales, Northern Western Australia. Northern Territory","Queensland , New South Wales , Western Australia , Northern Territory",Broome,Storm,2004-03-03,2004-03-31,2004,28500000.0,1,0,1,0,0,0,1,1,0
-"Severe Storm - South East Queensland, Northern New South Wales, Northern Western Australia. Northern Territory","Queensland , New South Wales , Western Australia , Northern Territory",Katherine,Storm,2004-03-03,2004-03-31,2004,28500000.0,1,0,1,0,0,0,1,1,0
-Severe Storm - South Eastern Australia,"New South Wales , Australian Capital Territory , Victoria , Tasmania",Sydney,Storm,2003-08-24,2003-08-24,2003,25000000.0,1,1,0,1,1,0,0,0,0
-Severe Storm - South Eastern Australia,"New South Wales , Australian Capital Territory , Victoria , Tasmania",Wollongong,Storm,2003-08-24,2003-08-24,2003,25000000.0,1,1,0,1,1,0,0,0,0
-Severe Storm - South Eastern Australia,"New South Wales , Australian Capital Territory , Victoria , Tasmania",Canberra (ACT),Storm,2003-08-24,2003-08-24,2003,25000000.0,1,1,0,1,1,0,0,0,0
-Severe Storm - South Eastern Australia,"New South Wales , Australian Capital Territory , Victoria , Tasmania",Cooma (VIC),Storm,2003-08-24,2003-08-24,2003,25000000.0,1,1,0,1,1,0,0,0,0
-Severe Storm - South Eastern Australia,"New South Wales , Australian Capital Territory , Victoria , Tasmania",Warrnambool (VIC),Storm,2003-08-24,2003-08-24,2003,25000000.0,1,1,0,1,1,0,0,0,0
-Severe Storm - South Eastern Australia,"New South Wales , Australian Capital Territory , Victoria , Tasmania",Wilsons Promontory,Storm,2003-08-24,2003-08-24,2003,25000000.0,1,1,0,1,1,0,0,0,0
-Severe Storm - South Eastern Australia,"New South Wales , Australian Capital Territory , Victoria , Tasmania",Hobart,Storm,2003-08-24,2003-08-24,2003,25000000.0,1,1,0,1,1,0,0,0,0
-Severe Storm - South Eastern Australia,"New South Wales , Australian Capital Territory , Victoria , Tasmania",Melbourne,Storm,2003-08-24,2003-08-24,2003,25000000.0,1,1,0,1,1,0,0,0,0
+Severe Storm - Bunbury and South Perth,Western Australia,"Bunbury , Perth",Storm,2005-05-16,2005-05-16,2005,53200000.0,0,0,0,0,0,0,0,1,0
+"Severe Storm - New South Wales, Victoria, Australian Capital Territory, Tasmania and South Australia","New South Wales , Australian Capital Territory , Victoria , South Australia","Sydney , Wollongong , Canberra (ACT) , Cooma (VIC) , Adelaide , Melbourne",Storm,2005-02-01,2005-02-03,2005,216700000.0,1,1,0,1,0,1,0,0,0
+"Severe Storm - South East Queensland, Northern New South Wales, Northern Western Australia. Northern Territory","Queensland , New South Wales , Western Australia , Northern Territory","Brisbane , Lismore (NSW) , Broome , Katherine",Storm,2004-03-03,2004-03-31,2004,25000000.0,1,0,1,0,0,0,1,1,0
+Severe Storm - South Eastern Australia,"New South Wales , Australian Capital Territory , Victoria , Tasmania","Sydney , Wollongong , Canberra (ACT) , Cooma (VIC) , Warrnambool (VIC) , Wilsons Promontory , Hobart , Melbourne",Storm,2003-08-24,2003-08-24,2003,25000000.0,1,1,0,1,1,0,0,0,0
 Severe Storm - Sydney,New South Wales,Sydney,Storm,2002-02-16,2002-02-16,2002,10000000.0,1,0,0,0,0,0,0,0,0
 "Severe Storm - Grafton, Kingscliff and Lismore",New South Wales,Lismore (NSW),Storm,2002-01-16,2002-01-16,2002,10000000.0,1,0,0,0,0,0,0,0,0
-"Severe Storm - Sydney, Hunter Valley and Northern Regions",New South Wales,Sydney,Storm,2001-12-03,2001-12-03,2001,30000000.0,1,0,0,0,0,0,0,0,0
-"Severe Storm - Sydney, Hunter Valley and Northern Regions",New South Wales,Tamworth,Storm,2001-12-03,2001-12-03,2001,30000000.0,1,0,0,0,0,0,0,0,0
-"Severe Storm - Sydney, Hunter Valley and Northern Regions",New South Wales,Wollongong,Storm,2001-12-03,2001-12-03,2001,30000000.0,1,0,0,0,0,0,0,0,0
+"Severe Storm - Sydney, Hunter Valley and Northern Regions",New South Wales,"Sydney , Tamworth , Wollongong",Storm,2001-12-03,2001-12-03,2001,30000000.0,1,0,0,0,0,0,0,0,0
 Severe Storm - Eastern New South Wales,New South Wales,Sydney,Storm,2001-11-18,2001-11-21,2001,30000000.0,1,0,0,0,0,0,0,0,0
 Severe Storm - Casino and Region,New South Wales,Lismore (NSW),Storm,2001-01-17,2001-01-17,2001,35000000.0,1,0,0,0,0,0,0,0,0
-Severe Storm - Sydney and Region,New South Wales,Sydney,Storm,2001-01-15,2001-01-15,2001,12000000.0,1,0,0,0,0,0,0,0,0
-Severe Storm - Sydney and Region,New South Wales,Wollongong,Storm,2001-01-15,2001-01-15,2001,12000000.0,1,0,0,0,0,0,0,0,0
+Severe Storm - Sydney and Region,New South Wales,"Sydney , Wollongong",Storm,2001-01-15,2001-01-15,2001,12000000.0,1,0,0,0,0,0,0,0,0
 Storm - Melbourne,Victoria,Melbourne,Storm,2020-08-27,2020-08-27,2020,926500000.0,0,1,0,0,0,0,0,0,0
 Severe Storm - Dubbo,New South Wales,Dubbo,Storm,2001-01-06,2001-01-06,2001,15000000.0,1,0,0,0,0,0,0,0,0
-"Severe Storm - Sydney, Wollongong and South Coast ",New South Wales,Sydney,Storm,1999-10-24,1999-10-24,1999,45000000.0,1,0,0,0,0,0,0,0,0
-"Severe Storm - Sydney, Wollongong and South Coast ",New South Wales,Wollongong,Storm,1999-10-24,1999-10-24,1999,45000000.0,1,0,0,0,0,0,0,0,0
-Severe Storm - Kosciuszko NP ,New South Wales,Cooma (NSW),Storm,1999-08-07,1999-08-11,1999,40000000.0,1,0,0,0,0,0,0,0,0
-Severe Storm - Warwick ,Queensland,Brisbane,Storm,1998-10-13,1998-10-13,1998,23000000.0,0,0,1,0,0,0,0,0,0
-Severe Storm - Warwick ,Queensland,Lismore (QLD),Storm,1998-10-13,1998-10-13,1998,23000000.0,0,0,1,0,0,0,0,0,0
-"Severe Storm - Hunter Valley, Tablelands and Southern Highlands",New South Wales,Sydney,Storm,1998-06-23,1998-06-24,1998,12000000.0,1,0,0,0,0,0,0,0,0
-"Severe Storm - Hunter Valley, Tablelands and Southern Highlands",New South Wales,Wollongong,Storm,1998-06-23,1998-06-24,1998,12000000.0,1,0,0,0,0,0,0,0,0
+"Severe Storm - Sydney, Wollongong and South Coast ",New South Wales,"Sydney , Wollongong",Storm,1999-10-24,1999-10-24,1999,45000000.0,1,0,0,0,0,0,0,0,0
+Severe Storm - Kosciuszko NP ,New South Wales,Cooma (NSW),Storm,1999-08-07,1999-08-11,1999,45000000.0,1,0,0,0,0,0,0,0,0
+Severe Storm - Warwick ,Queensland,"Brisbane , Lismore (QLD)",Storm,1998-10-13,1998-10-13,1998,23000000.0,0,0,1,0,0,0,0,0,0
+"Severe Storm - Hunter Valley, Tablelands and Southern Highlands",New South Wales,"Sydney , Wollongong",Storm,1998-06-23,1998-06-24,1998,12000000.0,1,0,0,0,0,0,0,0,0
 Severe Storm - Ipswich,Queensland,Brisbane,Storm,1998-04-10,1998-04-10,1998,23000000.0,0,0,1,0,0,0,0,0,0
 Severe Storm - Sydney,New South Wales,Sydney,Storm,1998-04-09,1998-04-10,1998,10000000.0,1,0,0,0,0,0,0,0,0
-Severe Storm - Sydney and Regions,New South Wales,Dubbo,Storm,1998-02-04,1998-02-04,1998,12000000.0,1,0,0,0,0,0,0,0,0
-Severe Storm - Sydney and Regions,New South Wales,Sydney,Storm,1998-02-04,1998-02-04,1998,12000000.0,1,0,0,0,0,0,0,0,0
-Severe Storm - Sydney and Regions,New South Wales,Tamworth,Storm,1998-02-04,1998-02-04,1998,12000000.0,1,0,0,0,0,0,0,0,0
+Severe Storm - Sydney and Regions,New South Wales,"Dubbo , Sydney , Tamworth",Storm,1998-02-04,1998-02-04,1998,12000000.0,1,0,0,0,0,0,0,0,0
 Severe Storm - Nyngan,New South Wales,Bourke,Storm,1998-01-05,1998-01-05,1998,12000000.0,1,0,0,0,0,0,0,0,0
 Severe Storm - Coffs Harbour,New South Wales,Tamworth,Storm,1996-11-23,1996-11-23,1996,20000000.0,1,0,0,0,0,0,0,0,0
 Storm - Queensland Floods and Storms,Queensland,Central and South East Queensland,Storm,2020-10-31,2020-10-31,2020,957000000.0,0,0,1,0,0,0,0,0,0
-Severe Storm - New England and Hunter Valley,New South Wales,Sydney,Storm,1996-11-17,1996-11-17,1996,10000000.0,1,0,0,0,0,0,0,0,0
-Severe Storm - New England and Hunter Valley,New South Wales,Tamworth,Storm,1996-11-17,1996-11-17,1996,10000000.0,1,0,0,0,0,0,0,0,0
-Severe Storm - Illawarra and Sydney,New South Wales,Sydney,Storm,1996-08-31,1996-08-31,1996,10000000.0,1,0,0,0,0,0,0,0,0
-Severe Storm - Illawarra and Sydney,New South Wales,Wollongong,Storm,1996-08-31,1996-08-31,1996,10000000.0,1,0,0,0,0,0,0,0,0
+Severe Storm - New England and Hunter Valley,New South Wales,"Sydney , Tamworth",Storm,1996-11-17,1996-11-17,1996,10000000.0,1,0,0,0,0,0,0,0,0
+Severe Storm - Illawarra and Sydney,New South Wales,"Sydney , Wollongong",Storm,1996-08-31,1996-08-31,1996,10000000.0,1,0,0,0,0,0,0,0,0
 Severe Storm - Hunter Valley and Mid North Coast,New South Wales,Sydney,Storm,1995-11-30,1995-11-30,1995,10000000.0,1,0,0,0,0,0,0,0,0
 Severe Storm - Sydney and Blue Mountains ,New South Wales,Sydney,Storm,1994-11-20,1994-11-20,1994,29000000.0,1,0,0,0,0,0,0,0,0
-Severe Storm - South Eastern Australia,"New South Wales , Australian Capital Territory , Victoria",Sydney,Storm,1994-11-06,1994-11-08,1994,37000000.0,1,1,0,1,0,0,0,0,0
-Severe Storm - South Eastern Australia,"New South Wales , Australian Capital Territory , Victoria",Canberra (ACT),Storm,1994-11-06,1994-11-08,1994,37000000.0,1,1,0,1,0,0,0,0,0
-Severe Storm - South Eastern Australia,"New South Wales , Australian Capital Territory , Victoria",Melbourne,Storm,1994-11-06,1994-11-08,1994,37000000.0,1,1,0,1,0,0,0,0,0
-"Severe Storm - Perth, Mandurah and South-West Coast",Western Australia,Bunbury,Storm,1994-05-23,1994-05-24,1994,37000000.0,0,0,0,0,0,0,0,1,0
-"Severe Storm - Perth, Mandurah and South-West Coast",Western Australia,Geraldton,Storm,1994-05-23,1994-05-24,1994,37000000.0,0,0,0,0,0,0,0,1,0
-"Severe Storm - Perth, Mandurah and South-West Coast",Western Australia,Perth,Storm,1994-05-23,1994-05-24,1994,37000000.0,0,0,0,0,0,0,0,1,0
+Severe Storm - South Eastern Australia,"New South Wales , Australian Capital Territory , Victoria","Sydney , Canberra (ACT) , Melbourne",Storm,1994-11-06,1994-11-08,1994,37100000.0,1,1,0,1,0,0,0,0,0
+"Severe Storm - Perth, Mandurah and South-West Coast",Western Australia,"Bunbury , Geraldton , Perth",Storm,1994-05-23,1994-05-24,1994,37000000.0,0,0,0,0,0,0,0,1,0
 Severe Storm - Sydney,New South Wales,Sydney,Storm,1992-02-12,1992-02-13,1992,118000000.0,1,0,0,0,0,0,0,0,0
 Severe Storm - Orbost,Victoria,Cooma (VIC),Storm,1991-01-24,1991-01-24,1991,12000000.0,0,1,0,0,0,0,0,0,0
 Severe Storm - Sydney,New South Wales,Sydney,Storm,1991-01-21,1991-01-21,1991,138400000.0,1,0,0,0,0,0,0,0,0
 Severe Storm - Ballarat,Victoria,Melbourne,Storm,1989-11-16,1989-11-16,1989,20000000.0,0,1,0,0,0,0,0,0,0
 Severe Storm - Adelaide,South Australia,Adelaide,Storm,1986-12-06,1986-12-08,1986,10000000.0,0,0,0,0,0,1,0,0,0
-"Severe Storm - Newcastle, Sydney, Wollongong",New South Wales,Sydney,Storm,1978-02-10,1978-02-11,1978,15000000.0,1,0,0,0,0,0,0,0,0
-"Severe Storm - Newcastle, Sydney, Wollongong",New South Wales,Wollongong,Storm,1978-02-10,1978-02-11,1978,15000000.0,1,0,0,0,0,0,0,0,0
+"Severe Storm - Newcastle, Sydney, Wollongong",New South Wales,"Sydney , Wollongong",Storm,1978-02-10,1978-02-11,1978,15000000.0,1,0,0,0,0,0,0,0,0
 Severe Storm - Sydney,New South Wales,Sydney,Storm,1977-01-21,1977-01-21,1977,15000000.0,1,0,0,0,0,0,0,0,0
 Severe Storm - Western Sydney,New South Wales,Sydney,Storm,1976-11-09,1976-11-09,1976,732000000.0,1,0,0,0,0,0,0,0,0
 Storm - Brisbane,Queensland,Brisbane,Storm,2014-11-27,2014-11-27,2014,1040000000.0,0,0,1,0,0,0,0,0,0
@@ -979,12 +524,12 @@ Shipwreck - Lightship Rose,Queensland,Brisbane,Maritime/Coastal,1857-05-01,1857-
 Shipwreck - Columbine,Victoria,Wilsons Promontory,Maritime/Coastal,1854-04-01,1854-04-01,1854,700000.0,0,1,0,0,0,0,0,0,0
 Shipwreck - Georgina and Spy,Tasmania,Hobart,Maritime/Coastal,1848-04-01,1848-04-01,1848,700000.0,0,0,0,0,1,0,0,0,0
 Shipwreck - Sappho,Victoria,Wilsons Promontory,Maritime/Coastal,1858-02-01,1858-02-01,1858,700000.0,0,1,0,0,0,0,0,0,0
-"Shipwreck - SIEV 221, Rocky Point, Christmas Island",Offshore,Christmas and Cocos Islands,Maritime/Coastal,2010-12-15,2010-12-15,2010,46700000.0,0,0,0,0,0,0,0,0,1
+"Shipwreck - SIEV 221, Rocky Point, Christmas Island",Offshore,Christmas and Cocos Islands,Maritime/Coastal,2010-12-15,2010-12-15,2010,1044000000.0,0,0,0,0,0,0,0,0,1
 Shipwreck - Just Cruisin ,Queensland,Brisbane,Maritime/Coastal,2001-07-06,2001-07-06,2001,30000000.0,0,0,1,0,0,0,0,0,0
 Shipwreck - Mineral Diamond,Western Australia,Port Hedland,Maritime/Coastal,1991-04-15,1991-04-15,1991,22500000.0,0,0,0,0,0,0,0,1,0
-Shipwreck - Shark Ace 4,Victoria,Cooma (VIC),Maritime/Coastal,1990-05-12,1990-05-12,1990,32000000.0,0,1,0,0,0,0,0,0,0
-Shipwreck â€“ Nâ€™glucka ,New South Wales,Sydney,Maritime/Coastal,1990-01-08,1990-01-08,1990,32000000.0,1,0,0,0,0,0,0,0,0
-Shipwreck - Great Expectations,Tasmania,Launceston,Maritime/Coastal,1990-01-04,1990-01-04,1990,32000000.0,0,0,0,0,1,0,0,0,0
+Shipwreck - Shark Ace 4,Victoria,Cooma (VIC),Maritime/Coastal,1990-05-12,1990-05-12,1990,32500000.0,0,1,0,0,0,0,0,0,0
+Shipwreck â€“ Nâ€™glucka ,New South Wales,Sydney,Maritime/Coastal,1990-01-08,1990-01-08,1990,32500000.0,1,0,0,0,0,0,0,0,0
+Shipwreck - Great Expectations,Tasmania,Launceston,Maritime/Coastal,1990-01-04,1990-01-04,1990,32500000.0,0,0,0,0,1,0,0,0,0
 Shipwreck - Booya,Northern Territory,Darwin,Maritime/Coastal,1974-12-24,1974-12-24,1974,68000000.0,0,0,0,0,0,0,1,0,0
 Shipwreck - Mandorah Queen,Northern Territory,Darwin,Maritime/Coastal,1974-12-24,1974-12-24,1974,68000000.0,0,0,0,0,0,0,1,0,0
 Shipwreck - Blythe Star II,Tasmania,Launceston,Maritime/Coastal,1973-10-12,1973-10-12,1973,30000000.0,0,0,0,0,1,0,0,0,0
@@ -1040,24 +585,24 @@ Transport - Brisbane River Ferry Sinking,Queensland,Brisbane,Transport,1896-02-1
 "Transport – Emu Plains Train Collision, New South Wales 1878",New South Wales,Emu Plains,Transport,1878-01-30,1878-01-30,1878,700000.0,1,0,0,0,0,0,0,0,0
 "Transport – Aircraft crash, Caboolture Queensland 2014",Queensland,Caboolture,Transport,2014-03-22,2014-03-22,2014,68500000.0,0,0,1,0,0,0,0,0,0
 Transport – Laos plane crash 2013,Offshore,Outside Territorial Waters,Transport,2013-10-16,2013-10-16,2013,89000000.0,0,0,0,0,0,0,0,0,1
-Transport - Papua New Guinea Plane Crash,Offshore,Outside Territorial Waters,Transport,2009-08-11,2009-08-11,2009,48000000.0,0,0,0,0,0,0,0,0,1
-Transport - Taxi and Truck Collision ,Northern Territory,Darwin,Transport,2012-11-08,2012-11-08,2012,124688000.0,0,0,0,0,0,0,1,0,0
+Transport - Papua New Guinea Plane Crash,Offshore,Outside Territorial Waters,Transport,2009-08-11,2009-08-11,2009,37000000.0,0,0,0,0,0,0,0,0,1
+Transport - Taxi and Truck Collision ,Northern Territory,Darwin,Transport,2012-11-08,2012-11-08,2012,116450000.0,0,0,0,0,0,0,1,0,0
 Transport - Kerang Train and Truck Collision,Victoria,Swan Hill (VIC),Transport,2007-06-05,2007-06-05,2007,57450000.0,0,1,0,0,0,0,0,0,0
 Transport â€“ Sydney Ferry Accident,New South Wales,Sydney,Transport,2007-03-28,2007-03-28,2007,57450000.0,1,0,0,0,0,0,0,0,0
 Transport - Burnley Tunnel Fire ,Victoria,Melbourne,Transport,2007-03-23,2007-03-23,2007,57450000.0,0,1,0,0,0,0,0,0,0
 Transport - Plane Crash Indonesia,Offshore,Outside Territorial Waters,Transport,2007-03-07,2007-03-07,2007,57450000.0,0,0,0,0,0,0,0,0,1
-Transport - Trawalla Train and Truck Collision,Victoria,Melbourne,Transport,2006-04-28,2006-04-28,2006,22000000.0,0,1,0,0,0,0,0,0,0
-Transport - Egypt Bus Crash,Offshore,Outside Territorial Waters,Transport,2006-01-10,2006-01-10,2006,22000000.0,0,0,0,0,0,0,0,0,1
-"Transport - Bundaberg Backpacker mini-bus accident, Queensland 2005",Queensland,Bundaberg,Transport,2005-09-10,2005-09-10,2005,53200000.0,0,0,1,0,0,0,0,0,0
-Transport -Mini Bus accident on Jamberoo Mountain Road,New South Wales,Wollongong,Transport,2005-09-05,2005-09-05,2005,53200000.0,1,0,0,0,0,0,0,0,0
-Transport - Lockhart River Plane Crash ,Queensland,Weipa,Transport,2005-05-07,2005-05-07,2005,53200000.0,0,0,1,0,0,0,0,0,0
-Transport - Navy Helicopter Accident,Offshore,Outside Territorial Waters,Transport,2005-04-02,2005-04-02,2005,53200000.0,0,0,0,0,0,0,0,0,1
-Transport - Bundaberg Tilt Train Derailment,Queensland,Bundaberg,Transport,2004-11-15,2004-11-15,2004,28500000.0,0,0,1,0,0,0,0,0,0
-"Transport - Bus Accident, Burnley Tunnel",Victoria,Melbourne,Transport,2004-09-17,2004-09-17,2004,28500000.0,0,1,0,0,0,0,0,0,0
-"Transport - St Albans, Train and Car Collision",Victoria,Melbourne,Transport,2004-08-05,2004-08-05,2004,28500000.0,0,1,0,0,0,0,0,0,0
-Transport â€“ Sydney Bus Accident,Victoria,Sydney,Transport,2004-04-03,2004-04-03,2004,28500000.0,0,1,0,0,0,0,0,0,0
-Transport - Ballan Train Collision and Derailment,Victoria,Melbourne,Transport,2003-11-15,2003-11-15,2003,25000000.0,0,1,0,0,0,0,0,0,0
-Transport - Waterfall Train Crash,New South Wales,Sydney,Transport,2003-01-31,2003-01-31,2003,25000000.0,1,0,0,0,0,0,0,0,0
+Transport - Trawalla Train and Truck Collision,Victoria,Melbourne,Transport,2006-04-28,2006-04-28,2006,26500000.0,0,1,0,0,0,0,0,0,0
+Transport - Egypt Bus Crash,Offshore,Outside Territorial Waters,Transport,2006-01-10,2006-01-10,2006,26500000.0,0,0,0,0,0,0,0,0,1
+"Transport - Bundaberg Backpacker mini-bus accident, Queensland 2005",Queensland,Bundaberg,Transport,2005-09-10,2005-09-10,2005,27700000.0,0,0,1,0,0,0,0,0,0
+Transport -Mini Bus accident on Jamberoo Mountain Road,New South Wales,Wollongong,Transport,2005-09-05,2005-09-05,2005,27700000.0,1,0,0,0,0,0,0,0,0
+Transport - Lockhart River Plane Crash ,Queensland,Weipa,Transport,2005-05-07,2005-05-07,2005,27700000.0,0,0,1,0,0,0,0,0,0
+Transport - Navy Helicopter Accident,Offshore,Outside Territorial Waters,Transport,2005-04-02,2005-04-02,2005,27700000.0,0,0,0,0,0,0,0,0,1
+Transport - Bundaberg Tilt Train Derailment,Queensland,Bundaberg,Transport,2004-11-15,2004-11-15,2004,25000000.0,0,0,1,0,0,0,0,0,0
+"Transport - Bus Accident, Burnley Tunnel",Victoria,Melbourne,Transport,2004-09-17,2004-09-17,2004,25000000.0,0,1,0,0,0,0,0,0,0
+"Transport - St Albans, Train and Car Collision",Victoria,Melbourne,Transport,2004-08-05,2004-08-05,2004,25000000.0,0,1,0,0,0,0,0,0,0
+Transport â€“ Sydney Bus Accident,Victoria,Sydney,Transport,2004-04-03,2004-04-03,2004,25000000.0,0,1,0,0,0,0,0,0,0
+Transport - Ballan Train Collision and Derailment,Victoria,Melbourne,Transport,2003-11-15,2003-11-15,2003,18500000.0,0,1,0,0,0,0,0,0,0
+Transport - Waterfall Train Crash,New South Wales,Sydney,Transport,2003-01-31,2003-01-31,2003,18500000.0,1,0,0,0,0,0,0,0,0
 "Transport - Salisbury - Train, Bus and Car Collision",South Australia,Adelaide,Transport,2002-10-24,2002-10-24,2002,10000000.0,0,0,0,0,0,1,0,0,0
 Transport - Benalla Train Derailment,Victoria,Melbourne,Transport,2002-10-13,2002-10-13,2002,10000000.0,0,1,0,0,0,0,0,0,0
 Transport - Albury Bus Crash,New South Wales,Canberra (NSW),Transport,2002-05-02,2002-05-02,2002,10000000.0,1,0,0,0,0,0,0,0,0
@@ -1066,33 +611,33 @@ Transport - Barossa Valley School Bus Crash,South Australia,Adelaide,Transport,2
 Transport - Newman Police Aircraft Crash,Western Australia,Tom Price,Transport,2001-01-26,2001-01-26,2001,30000000.0,0,0,0,0,0,0,0,1,0
 Transport - Capricorn Helicopter Rescue Crash,Queensland,Rockhampton,Transport,2000-07-24,2000-07-24,2000,12000000.0,0,0,1,0,0,0,0,0,0
 Transport - Spencer Gulf Light Aircraft Crash,South Australia,Whyalla,Transport,2000-05-31,2000-05-31,2000,12000000.0,0,0,0,0,0,1,0,0,0
-Transport - Glenbrook (Blue Mountains) Railway Accident,New South Wales,Sydney,Transport,1999-12-02,1999-12-02,1999,40000000.0,1,0,0,0,0,0,0,0,0
-"Transport - Gulf of Carpentaria Light Aircraft Crash, Queensland 1999",Queensland,Gulf of Carpentaria,Transport,1999-11-24,1999-11-24,1999,40000000.0,0,0,1,0,0,0,0,0,0
-Transport - Zanthus Rail Collision ,Western Australia,Rawlinna,Transport,1999-08-18,1999-08-18,1999,40000000.0,0,0,0,0,0,0,0,1,0
-Transport - Fiji Air Crash,Offshore,Outside Territorial Waters,Transport,1999-07-24,1999-07-24,1999,40000000.0,0,0,0,0,0,0,0,0,1
-Transport - Eastern Highlands Papua New Guinea Plane Crash,Offshore,Outside Territorial Waters,Transport,1999-06-17,1999-06-17,1999,40000000.0,0,0,0,0,0,0,0,0,1
-"Transport - Torres Strait plane crash, Queensland 1999",Queensland,Torres Strait,Transport,1999-01-16,1999-01-16,1999,40000000.0,0,0,1,0,0,0,0,0,0
+Transport - Glenbrook (Blue Mountains) Railway Accident,New South Wales,Sydney,Transport,1999-12-02,1999-12-02,1999,45000000.0,1,0,0,0,0,0,0,0,0
+"Transport - Gulf of Carpentaria Light Aircraft Crash, Queensland 1999",Queensland,Gulf of Carpentaria,Transport,1999-11-24,1999-11-24,1999,45000000.0,0,0,1,0,0,0,0,0,0
+Transport - Zanthus Rail Collision ,Western Australia,Rawlinna,Transport,1999-08-18,1999-08-18,1999,45000000.0,0,0,0,0,0,0,0,1,0
+Transport - Fiji Air Crash,Offshore,Outside Territorial Waters,Transport,1999-07-24,1999-07-24,1999,45000000.0,0,0,0,0,0,0,0,0,1
+Transport - Eastern Highlands Papua New Guinea Plane Crash,Offshore,Outside Territorial Waters,Transport,1999-06-17,1999-06-17,1999,45000000.0,0,0,0,0,0,0,0,0,1
+"Transport - Torres Strait plane crash, Queensland 1999",Queensland,Torres Strait,Transport,1999-01-16,1999-01-16,1999,45000000.0,0,0,1,0,0,0,0,0,0
 Transport - Albury Coach and Truck Collision,New South Wales,Canberra (NSW),Transport,1998-08-13,1998-08-13,1998,23000000.0,1,0,0,0,0,0,0,0,0
 Transport - Bookham Coach Semi-Trailer Collision,New South Wales,Canberra (NSW),Transport,1998-08-07,1998-08-07,1998,23000000.0,1,0,0,0,0,0,0,0,0
-Transport - Black Hawk Air Collision,Queensland,Townsville,Transport,1996-06-12,1996-06-12,1996,15000000.0,0,0,1,0,0,0,0,0,0
-Transport - Albany Light Aircraft Crash,Western Australia,Albany,Transport,1996-03-13,1996-03-13,1996,15000000.0,0,0,0,0,0,0,0,1,0
+Transport - Black Hawk Air Collision,Queensland,Townsville,Transport,1996-06-12,1996-06-12,1996,20000000.0,0,0,1,0,0,0,0,0,0
+Transport - Albany Light Aircraft Crash,Western Australia,Albany,Transport,1996-03-13,1996-03-13,1996,20000000.0,0,0,0,0,0,0,0,1,0
 Transport - Merredin Rail Collision,Western Australia,Merredin,Transport,1996-01-13,1996-01-13,1996,10000000.0,0,0,0,0,0,0,0,1,0
-"Transport - Williamtown to Lord Howe Island, Light Aircraft Crash",New South Wales,Cooma (NSW),Transport,1994-10-02,1994-10-02,1994,37000000.0,1,0,0,0,0,0,0,0,0
-Transport - Boondall (Brisbane) Bus Crash,Queensland,Brisbane,Transport,1994-10-01,1994-10-01,1994,37000000.0,0,0,1,0,0,0,0,0,0
-Transport - Wangaratta Truck and Bus Collision,Victoria,Melbourne,Transport,1993-11-01,1993-11-01,1993,59000000.0,0,1,0,0,0,0,0,0,0
-Transport - Mt Tamborine Bus Crash,Queensland,Brisbane,Transport,1990-09-25,1990-09-25,1990,32000000.0,0,0,1,0,0,0,0,0,0
-Transport - Mt Emerald Jet Aircraft Crash,Queensland,Cairns,Transport,1990-05-11,1990-05-11,1990,32000000.0,0,0,1,0,0,0,0,0,0
-Transport - Brooklyn NSW Train Collision ,New South Wales,Sydney,Transport,1990-05-06,1990-05-06,1990,32000000.0,1,0,0,0,0,0,0,0,0
+"Transport - Williamtown to Lord Howe Island, Light Aircraft Crash",New South Wales,Cooma (NSW),Transport,1994-10-02,1994-10-02,1994,37100000.0,1,0,0,0,0,0,0,0,0
+Transport - Boondall (Brisbane) Bus Crash,Queensland,Brisbane,Transport,1994-10-01,1994-10-01,1994,37100000.0,0,0,1,0,0,0,0,0,0
+Transport - Wangaratta Truck and Bus Collision,Victoria,Melbourne,Transport,1993-11-01,1993-11-01,1993,35500000.0,0,1,0,0,0,0,0,0,0
+Transport - Mt Tamborine Bus Crash,Queensland,Brisbane,Transport,1990-09-25,1990-09-25,1990,32500000.0,0,0,1,0,0,0,0,0,0
+Transport - Mt Emerald Jet Aircraft Crash,Queensland,Cairns,Transport,1990-05-11,1990-05-11,1990,32500000.0,0,0,1,0,0,0,0,0,0
+Transport - Brooklyn NSW Train Collision ,New South Wales,Sydney,Transport,1990-05-06,1990-05-06,1990,32500000.0,1,0,0,0,0,0,0,0,0
 Transport - Clybucca Flat (near Kempsey) Bus Collision,New South Wales,Tamworth,Transport,1989-12-22,1989-12-22,1989,26000000.0,1,0,0,0,0,0,0,0,0
 Transport - Syndal Train Collision,Victoria,Melbourne,Transport,1989-11-20,1989-11-20,1989,26000000.0,0,1,0,0,0,0,0,0,0
 Transport - Cowper (near Grafton) Bus and Semi Trailer Collision,New South Wales,Lismore (NSW),Transport,1989-10-20,1989-10-20,1989,26000000.0,1,0,0,0,0,0,0,0,0
 Transport - Adelaide - Bus Collision,South Australia,Adelaide,Transport,1989-10-02,1989-10-02,1989,26000000.0,0,0,0,0,0,1,0,0,0
 Transport - Hot Air Balloon Crash,Northern Territory,Alice Springs,Transport,1989-08-13,1989-08-13,1989,26000000.0,0,0,0,0,0,0,1,0,0
 Transport - Leonora Light Aircraft Crash,Western Australia,Leonora,Transport,1988-12-16,1988-12-16,1988,20000000.0,0,0,0,0,0,0,0,1,0
-Transport - Bundaberg Air Ambulance Crash ,Queensland,Bundaberg,Transport,1987-06-21,1987-06-21,1987,89000000.0,0,0,1,0,0,0,0,0,0
-Transport - Gordonvale/Cairns Bus Crash,Queensland,Cairns,Transport,1987-02-04,1987-02-04,1987,89000000.0,0,0,1,0,0,0,0,0,0
+Transport - Bundaberg Air Ambulance Crash ,Queensland,Bundaberg,Transport,1987-06-21,1987-06-21,1987,120000000.0,0,0,1,0,0,0,0,0,0
+Transport - Gordonvale/Cairns Bus Crash,Queensland,Cairns,Transport,1987-02-04,1987-02-04,1987,120000000.0,0,0,1,0,0,0,0,0,0
 Transport - Essendon Air ambulance Crash,Victoria,Melbourne,Transport,1986-09-03,1986-09-03,1986,35000000.0,0,1,0,0,0,0,0,0,0
-"Transport - Light Aircraft Crash, Victoria ",Victoria,Gisbourne,Transport,1999-12-01,1999-12-01,1999,40000000.0,0,1,0,0,0,0,0,0,0
+"Transport - Light Aircraft Crash, Victoria ",Victoria,Gisbourne,Transport,1999-12-01,1999-12-01,1999,45000000.0,0,1,0,0,0,0,0,0,0
 Transport - Koolan Island Light Aircraft Crash,Western Australia,Derby,Transport,1984-12-23,1984-12-23,1984,52500000.0,0,0,0,0,0,0,0,1,0
 Transport - Goulburn Light Aircraft Crash ,New South Wales,Wollongong,Transport,1984-05-15,1984-05-15,1984,52500000.0,1,0,0,0,0,0,0,0,0
 Transport - El Alamein Helicopter Crash,South Australia,Whyalla,Transport,1978-11-25,1978-11-25,1978,15000000.0,0,0,0,0,0,1,0,0,0
@@ -1147,19 +692,19 @@ Transport - Beaufort Train Derailment,Victoria,Melbourne,Transport,1910-02-05,19
 Transport - Sunshine Rail Collision,Victoria,Melbourne,Transport,1908-04-20,1908-04-20,1908,700000.0,0,1,0,0,0,0,0,0,0
 Transport - Belgrave Train Derailment,Victoria,Melbourne,Transport,1908-01-28,1908-01-28,1908,700000.0,0,1,0,0,0,0,0,0,0
 Transport - Sydenham Train Derailment ,New South Wales,Sydney,Transport,1901-02-15,1901-02-15,1901,700000.0,1,0,0,0,0,0,0,0,0
-"Tsunami - Samoa, American Samoa and Tonga",Offshore,Outside Territorial Waters,Tsunami,2009-09-29,2009-09-29,2009,48000000.0,0,0,0,0,0,0,0,0,1
-Tsunami - Indian Ocean,Offshore,Outside Territorial Waters,Tsunami,2004-12-26,2004-12-26,2004,28500000.0,0,0,0,0,0,0,0,0,1
-Urban Fire - Quakers Hill Nursing Home,New South Wales,Sydney,Urban Fire,2011-11-18,2011-11-18,2011,122465000.0,1,0,0,0,0,0,0,0,0
-Urban Fire - Slacks Creek House Fire,Queensland,Brisbane,Urban Fire,2011-08-24,2011-08-24,2011,122465000.0,0,0,1,0,0,0,0,0,0
+"Tsunami - Samoa, American Samoa and Tonga",Offshore,Outside Territorial Waters,Tsunami,2009-09-29,2009-09-29,2009,37000000.0,0,0,0,0,0,0,0,0,1
+Tsunami - Indian Ocean,Offshore,Outside Territorial Waters,Tsunami,2004-12-26,2004-12-26,2004,25000000.0,0,0,0,0,0,0,0,0,1
+Urban Fire - Quakers Hill Nursing Home,New South Wales,Sydney,Urban Fire,2011-11-18,2011-11-18,2011,246232500.0,1,0,0,0,0,0,0,0,0
+Urban Fire - Slacks Creek House Fire,Queensland,Brisbane,Urban Fire,2011-08-24,2011-08-24,2011,246232500.0,0,0,1,0,0,0,0,0,0
 Urban Fire - Myer Store Hobart,Tasmania,Hobart,Urban Fire,2007-09-22,2007-09-22,2007,57450000.0,0,0,0,0,1,0,0,0,0
 Urban Fire - Melbourne Warehouse,Victoria,Melbourne,Urban Fire,2004-11-12,2004-11-12,2004,20000000.0,0,1,0,0,0,0,0,0,0
 "Urban Fire - Mitcham Shopping Centre, Adelaide",South Australia,Adelaide,Urban Fire,2004-08-22,2004-08-22,2004,25000000.0,0,0,0,0,0,1,0,0,0
 Urban Fire - Brisbane Boarding House ,Queensland,Brisbane,Urban Fire,2002-08-18,2002-08-18,2002,10000000.0,0,0,1,0,0,0,0,0,0
 Urban Fire - Childers Backpacker ,Queensland,Bundaberg,Urban Fire,2000-06-23,2000-06-23,2000,12000000.0,0,0,1,0,0,0,0,0,0
-Urban Fire - Kew Cottages,Victoria,Melbourne,Urban Fire,1996-04-08,1996-04-08,1996,15000000.0,0,1,0,0,0,0,0,0,0
+Urban Fire - Kew Cottages,Victoria,Melbourne,Urban Fire,1996-04-08,1996-04-08,1996,20000000.0,0,1,0,0,0,0,0,0,0
 Urban Fire - Dungog Hostel Fire,New South Wales,Sydney,Urban Fire,1991-08-02,1991-08-02,1991,22500000.0,1,0,0,0,0,0,0,0,0
 Urban Fire - Noble Park Melbourne,Victoria,Melbourne,Urban Fire,1991-01-01,1991-01-01,1991,22500000.0,0,1,0,0,0,0,0,0,0
-Urban Fire - Oakdale Guesthouse Ipswich,Queensland,Brisbane,Urban Fire,1990-12-29,1990-12-29,1990,32000000.0,0,0,1,0,0,0,0,0,0
+Urban Fire - Oakdale Guesthouse Ipswich,Queensland,Brisbane,Urban Fire,1990-12-29,1990-12-29,1990,32500000.0,0,0,1,0,0,0,0,0,0
 "Urban Fire – Kings Cross, New South Wales 1989",New South Wales,Sydney,Urban Fire,1989-09-17,1989-09-17,1989,26000000.0,1,0,0,0,0,0,0,0,0
 Urban Fire - Kings Cross,New South Wales,Sydney,Urban Fire,1981-08-25,1981-08-25,1981,20000000.0,1,0,0,0,0,0,0,0,0
 Urban Fire - Sydney Luna Park,New South Wales,Sydney,Urban Fire,1979-06-09,1979-06-09,1979,12500000.0,1,0,0,0,0,0,0,0,0
