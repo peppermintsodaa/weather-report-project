@@ -34,7 +34,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 # Load the dataset
-data = pd.read_csv('datasets_cleaned/cleaned_ica_data.csv')
+data = pd.read_csv('datasets_cleaned/merged_dataset.csv')
 #data = pd.read_csv('datasets_cleaned/ica-2024-cleaned.csv')
 
 # Select features and target
