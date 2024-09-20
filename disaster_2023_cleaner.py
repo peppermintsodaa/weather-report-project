@@ -99,10 +99,6 @@ disaster_2023.loc[disaster_2023['Zone'].str.contains("Western Australia"), 'WA']
 disaster_2023.loc[disaster_2023['Zone'].str.contains("National"), 'NSW':'WA'] = 1
 disaster_2023.loc[disaster_2023['Zone'].str.contains("Offshore"), 'Waters'] = 1
 
-# exploding rows by city / town
-#disaster_2023['Region'] = disaster_2023['Region'].apply(lambda x: [r.strip() for r in x.split(',')])
-#disaster_2023 = disaster_2023.explode('Region')
-
 # create new "Year" column
 disaster_2023['Year'] = disaster_2023['Start Date'].apply(lambda x : str(x).split('-')[0]).astype('int64')
 # imputing all insured costs with known median for year
