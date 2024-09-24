@@ -3,6 +3,8 @@ from sklearn.model_selection import train_test_split
 #from sklearn.tree import DecisionTreeRegressor
 #from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.svm import LinearSVC
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 # read merged weather dataset
@@ -11,13 +13,12 @@ weather_data = pd.read_csv('datasets_cleaned/merged_weather_data_tiny.csv')
 
 # let's predict the mean as a test
 # get target and feature variables
-target_1 = weather_data['TemperatureMean']
+#target_1 = ['ok', 'bushfire', 'flood', 'storm', 'cyclone']
 
 feature_ls = list(weather_data)
-feature_ls = [feature_ls[0]] + feature_ls[4:6] + feature_ls[8:12]
+feature_ls = ['Month', 'ClusterID']
+#feature_ls = [feature_ls[0]] + feature_ls[4:6] + feature_ls[8:11]
 features = weather_data[feature_ls]
-
-print(weather_data['Hour'].value_counts())
 
 # splitting train-test data
 X1_train, X1_test, y1_train, y1_test = train_test_split(features, target_1, test_size=0.2, random_state=42)
@@ -49,9 +50,14 @@ data_dict = {
     'Year': 2024,
     'Month': 9,
     'Day': 17,
-
 }
-
 
 def predict_weather(data_dict):
     df = pd.DataFrame(data_dict, index = range(1))
+    df = df.reindex(columns=X1_train.columns, fill_value=0)
+
+    weather_prediction = clf.predict(df)
+    return weather_prediction[0]
+
+temp = predict_weather(data_dict)
+print(f"Predicted Temperature: {temp:.2f}")

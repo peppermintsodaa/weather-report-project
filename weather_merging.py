@@ -3,6 +3,10 @@ import pandas as pd
 weather_data = pd.read_csv('datasets_cleaned/cleaned_weather_data.csv')
 geo_data = pd.read_csv('datasets/SuburbClustered.csv')
 
+# drop latitude and longitude variables for suburb dataset as they are already
+# in the cleaned weather dataset
+geo_data = geo_data.drop(columns=['Latitude', 'Longitude'])
+
 print(weather_data.head())
 print(geo_data.head())
 
