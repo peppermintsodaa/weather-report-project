@@ -10,7 +10,7 @@
 <body>
     <!-- Header section -->
     <div class="header">
-        <h1>Insurance</h1>
+        <h1>Weather Insurances</h1>
     </div>
 
     <!-- Navigation bar -->
@@ -20,6 +20,9 @@
         <a href="WeatherPredictionPage.html">Weather Predictions</a>
         <a href="Roles.html">Our Roles</a>
     </div>
+
+    <br>
+    <br>
 
     <!-- Main container -->
     <div class="container">
@@ -47,6 +50,8 @@
                 <input type="text" id="otherDisasterInput" placeholder="Enter the disaster name">
             </div>
 
+            <br>
+
             <!-- Dropdown for states -->
             <div class="form-group">
                 <label for="state">Select State:</label>
@@ -63,7 +68,9 @@
             </div>
 
             <!-- Button -->
-            <button onclick="calculateClaim()">Get Claim Amount</button>
+            <div class="output-button">
+                <button onclick="calculateClaim()">Get Claim Amount</button>
+            </div>
 
             <!-- Result display -->
             <div id="result">
@@ -71,6 +78,9 @@
             </div>
         </div>
     </div>
+
+    <br>
+    <br>
 
     <!-- Footer section -->
     <div class="footer">

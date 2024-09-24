@@ -12,6 +12,6 @@ weather_data = geo_data.drop(columns=['GeoShape'])
 merged_data = pd.merge(weather_data, geo_data, on=['ClusterID', 'ClusterID'], how='left')
 
 print(merged_data.head())
+print(merged_data.info())
 
 merged_data.to_csv("datasets_cleaned\merged_weather_data.csv", index=False)
-
