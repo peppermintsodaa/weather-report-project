@@ -1,5 +1,7 @@
 # extremely large datasets
-datasets/WeatherData.csv
+#datasets/WeatherData.csv
+#datasets_cleaned/cleaned_weather_data.csv
+#datasets_cleaned/merged_weather_data.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
