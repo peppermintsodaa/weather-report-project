@@ -55,7 +55,7 @@ data_dict = {
 def predict_weather(data_dict):
     df = pd.DataFrame(data_dict, index = range(1))
     df = df.reindex(columns=X1_train.columns, fill_value=0)
-
+    
     weather_prediction = clf.predict(df)
     return weather_prediction[0]
 
