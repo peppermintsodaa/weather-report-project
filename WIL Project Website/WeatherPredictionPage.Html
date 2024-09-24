@@ -10,7 +10,7 @@
 
 <!--Header-->
 <div class="header">
-    <h1>My Website</h1>
+    <h1>Weather Insurances</h1>
 </div>
 
 <!--Navigation Bar-->
@@ -23,11 +23,71 @@
 
 <br>
 <br>
-
+<!--
 <div class="sample-weather-prediction">
     <h1>Sample weather prediction output</h1>
     <p><b>image taken from website</b></p>
     <img src="images/weather-prediction.png" alt="Sample Weather prediction">
+</div>
+
+--> 
+
+<!-- Main container -->
+<div class="container">
+    <!-- Main content area -->
+    <div class="main-content">
+        <h1>Weather Predictions of Suburb</h1>
+        <p>Select a Date and Location Suburb in Australia to see the predicted average weather during that time and its susceptibility of a weather event.</p>
+
+        <!-- Dropdown for months -->
+        <div class="form-group">
+            <label for="prediction-month">Select a Month:</label>
+            <select id="prediction-month">
+                <option value="January">January</option>
+                <option value="February">February</option>
+                <option value="March">March</option>
+                <option value="April">April</option>
+                <option value="May">May</option>
+                <option value="June">June</option>
+                <option value="July">July</option>
+                <option value="August">August</option>
+                <option value="September">September</option>
+                <option value="October">October</option>
+                <option value="November">November</option>
+                <option value="December">December</option>
+            </select>
+        </div>
+
+        <br>
+        <!-- Input field for search -->
+        <div class="form-group">
+            <label for="prediction-location">Select a Suburb:</label>
+            <input type="text" id="myInput" onkeyup="filterSuburbs()" 
+            placeholder="Suburb..." title="Type in a suburb">
+            <!-- Suburb list will appear here -->
+             <ul id="myUL">
+                <!-- Suburbs will be dynamically injected here -->
+            </ul>
+        </div>
+
+        <br>
+        <!-- Button -->
+         <div class="output-button">
+            <button onclick="calculateClaim()">Get Claim Amount</button>
+        </div>
+
+        <!-- Result display -->
+        <div id="result">
+            <p id="result-text">The predicted average weather in <u><i>suburb</i></u> in the month of <u><i>month</i></u> will be <u><i>averageTemp</i></u>&deg;C.</p><br>
+            <p id="result-text">From this, <u><i>suburb</i></u> is not susceptible of a weather disaster during this month</p><br>
+            <p id="result-text"> <u><i>or</i></u></p><br>
+            <p class="red-text" id="result-text"><b><i>WARNING</i></b></p>
+            <p class="red-text" id="result-text"><b><u><i>suburb</i></u> is susceptible of an <u><i>weather event</i></u> occurring </b></p><br>
+            <p id="result-text"><b>What to do? Safety Measures:</b></p>
+            <p id="result-text">.......</p>
+
+        </div>
+    </div>
 </div>
 
 <br>
@@ -40,6 +100,48 @@
     <a href="WeatherPredictionPage.html">Weather Predictions</a>
     <a href="Roles.html">Our Roles</a>
 </div>
+
+
+<script>
+    // Example suburb data (replace with your 10,000+ suburb list)
+    const suburbs = [
+      "Adaminaby", "Albury", "Alectown", "Bannaby", "Broadmeadow", "Cabramatta West", "East Ryde", 
+      "Fawcetts Plain", "Glengarrie", "Hamilton East", "Hinton", "Jerrabomberra", "Kanangra"
+    ];
+    
+    // Function to filter suburbs based on input
+function filterSuburbs() {
+  let input = document.getElementById('myInput').value.toLowerCase();
+  let ul = document.getElementById("myUL");
+  ul.innerHTML = ''; // Clear previous list
+  
+  if (input === '') {
+    ul.style.display = 'none'; // Hide list if input is empty
+    return;
+  }
+
+  // Filter and display suburbs that match the input
+  suburbs.forEach(suburb => {
+    if (suburb.toLowerCase().startsWith(input)) {
+      let li = document.createElement("li");
+      let a = document.createElement("a");
+      a.href = "#";
+      a.textContent = suburb;
+      a.onclick = function() { selectSuburb(suburb); }; // Set onclick event
+      li.appendChild(a);
+      ul.appendChild(li);
+    }
+  });
+
+  ul.style.display = ul.innerHTML === '' ? 'none' : 'block'; // Show list if there are results
+}
+
+// Function to handle selecting a suburb
+function selectSuburb(suburb) {
+  document.getElementById('myInput').value = suburb; // Set the input value to the selected suburb
+  document.getElementById('myUL').style.display = 'none'; // Hide the list after selection
+}
+    </script>
 
 </body>
 </html>
