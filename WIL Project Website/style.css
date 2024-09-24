@@ -142,4 +142,88 @@ body {
     text-decoration: underline; 
 }
 
+.container {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    justify-content: center; /* Center children vertically */
+    align-items: center; /* Center children horizontally */
+    text-align: center; /* Center text */
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    justify-content: center; /* Center content */
+}
+
+.main-content h1 {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+select {
+    width: 200px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.output-button {
+    margin: 20px 0; /* Optional: space around the button */
+}
+
+.output-button button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+#myInput {
+    width: 200px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+    text-align: left; /* Align text to the left */
+}
+
+#myUL {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: none; /* Hidden by default */
+    width: 200px; /* Same width as input */
+    text-align: center;
+    position: absolute; /* Position the list absolutely */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Shift back by half of the width */
+    z-index: 1; /* Ensure it appears above other elements */
+}
+
+#myUL li {
+    display: flex; /* Use flexbox for list items */
+    justify-content: center; /* Center align the list items */
+}
+
+#myUL li a {
+    border: 1px solid #ddd;
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 16px;
+    color: black;
+    display: block;
+    text-align: center;
+}
+
+#myUL li a:hover:not(.header) {
+    background-color: #eee;
+}
+
+.red-text {
+    color: red;
+}
 
