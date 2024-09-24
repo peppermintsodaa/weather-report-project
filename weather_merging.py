@@ -15,6 +15,6 @@ print(merged_data.info())
 # WARNING: final dataset will be > 19 GB. please proceed with caution
 #merged_data.to_csv("datasets_cleaned/merged_weather_data.csv", index=False)
 
-# subsetted version of 250,000 randomly selected  entries to test model for now
+# subsetted version of 250,000 randomly selected entries to test model for now
 merged_data_tiny = merged_data.sample(n = 250000, random_state = 69420)
 merged_data_tiny.to_csv("datasets_cleaned/merged_weather_data_tiny.csv", index=False)

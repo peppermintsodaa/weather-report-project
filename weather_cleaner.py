@@ -27,7 +27,6 @@ print(weather_data.head())
 weather_data['Year'] = weather_data['Datetime'].dt.year
 weather_data['Month'] = weather_data['Datetime'].dt.month
 weather_data['Day'] = weather_data['Datetime'].dt.day
-weather_data['Hour'] = weather_data['Datetime'].dt.hour
 
 print(weather_data.head())
 
