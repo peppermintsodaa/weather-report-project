@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-weather_data = pd.read_csv('WeatherData.csv')
+weather_data = pd.read_csv('weather_datasets/WeatherData.csv')
 
 print(weather_data.head())
 
@@ -9,7 +9,7 @@ print(weather_data.head())
 weather_data['Datetime'] = pd.to_datetime(weather_data['Datetime'], errors='coerce')
 
 #take the data from the last 5 years
-weather_data = weather_data[weather_data['Datetime'].dt.year >= 2019]
+weather_data = weather_data[weather_data['Datetime'].dt.year >= 2024]
 
 #going to drop the columns with too many missing values
 weather_data = weather_data.loc[:, weather_data.isnull().mean() < 0.5] 
@@ -36,9 +36,5 @@ weather_data = weather_data.drop(columns=['Datetime'])
 
 print(weather_data.info())
 
-#merge the coordinates to the cluster id
-clusters_data = pd.read_csv('cosc2669-or-cosc2186-WIL-project\weather_predictions_datasets\Clusters.csv')
-weather_data = pd.merge(weather_data, clusters_data, on='ClusterID', how='left')
-
 #save to csv
-weather_data.to_csv("cosc2669-or-cosc2186-WIL-project\datasets_cleaned\cleaned_weather_data.csv", index=False)
+weather_data.to_csv("datasets_cleaned/cleaned_weather_data.csv", index=False)
