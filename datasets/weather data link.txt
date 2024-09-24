@@ -1,1 +1,0 @@
-https://www.kaggle.com/datasets/nadzmiagthomas/australia-weather-data-2000-2024?select=WeatherData.csv

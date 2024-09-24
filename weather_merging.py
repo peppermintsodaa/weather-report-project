@@ -11,5 +11,9 @@ merged_data = pd.merge(weather_data, geo_data, on=['ClusterID', 'ClusterID'], ho
 
 print(merged_data.head())
 
-merged_data.to_csv("datasets_cleaned/merged_weather_data.csv", index=False)
+# 
+#merged_data.to_csv("datasets_cleaned/merged_weather_data.csv", index=False)
+
+# subsetted version
+merged_data.head(10000).to_csv("datasets_cleaned/merged_weather_data_tiny.csv", index=False)
 
