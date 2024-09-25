@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 
-weather_data = pd.read_csv('weather_datasets/WeatherData.csv')
 weather_data = pd.read_csv('datasets/WeatherData.csv')
 
 print(weather_data.head())
