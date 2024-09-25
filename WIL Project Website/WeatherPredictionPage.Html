@@ -102,9 +102,9 @@
 </div>
 
 
-<script src="jquery.csv.js">
+<script>
     // Example suburb data (replace with your 10,000+ suburb list)
-    fetch('datasets/SuburbClustered.csv')
+    fetch('../datasets/SuburbClustered.csv')
         .then(response => response.text())
         .then(data => {
             console.log(data);
@@ -113,7 +113,7 @@
     //        $.csv.toArrays('datasets/SuburbClustered.csv');
     //    });
     //console.log("cheese")
-    suburbss = $.csv.toArrays('datasets/SuburbClustered.csv')
+    //suburbss = $.csv.toArrays('datasets/SuburbClustered.csv')
     const suburbs = [
       "Adaminaby", "Albury", "Alectown", "Bannaby", "Broadmeadow", "Cabramatta West", "East Ryde", 
       "Fawcetts Plain", "Glengarrie", "Hamilton East", "Hinton", "Jerrabomberra", "Kanangra"

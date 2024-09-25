@@ -1,7 +1,7 @@
 import pandas as pd
 
-weather_data = pd.read_csv('datasets_cleaned\cleaned_weather_data.csv')
-geo_data = pd.read_csv('weather_datasets\SuburbClustered.csv')
+weather_data = pd.read_csv('datasets_cleaned/cleaned_weather_data.csv')
+geo_data = pd.read_csv('datasets/SuburbClustered.csv')
 
 print(weather_data.head())
 print(geo_data.head())
@@ -14,4 +14,4 @@ merged_data = pd.merge(weather_data, geo_data, on=['ClusterID', 'ClusterID'], ho
 print(merged_data.head())
 print(merged_data.info())
 
-merged_data.to_csv("datasets_cleaned\merged_weather_data.csv", index=False)
+merged_data.to_csv("datasets_cleaned/merged_weather_data.csv", index=False)
