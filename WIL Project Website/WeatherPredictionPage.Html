@@ -104,7 +104,8 @@
 
 <script>
     // Example suburb data (replace with your 10,000+ suburb list)
-    fetch('../datasets/SuburbClustered.csv')
+    //fetch('https://github.com/peppermintsodaa/cosc2669-or-cosc2186-WIL-project/raw/refs/heads/main/datasets/SuburbClustered.csv')
+    fetch('localhost:8000/datasets/SuburbClustered.csv')
         .then(response => response.text())
         .then(data => {
             console.log(data);
