@@ -5,11 +5,14 @@
     <!-- import necessary scripts to parse csv file -->
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="jquery-csv.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WIL Project</title>
-    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" />
 </head>
-<body>
+<body onload="createSuburbOptions();">
 
 <!--Header-->
 <div class="header">
@@ -64,13 +67,14 @@
         <br>
         <!-- Input field for search -->
         <div class="form-group">
-            <label for="prediction-location">Select a Suburb:</label>
-            <input type="text" id="myInput" onkeyup="filterSuburbs()" 
-            placeholder="Suburb..." title="Type in a suburb">
+            <label for="suburbs">Select a Suburb:</label>
+            <select id="suburbs"></select>
+            <!-- <input type="text" id="myInput" onkeyup="filterSuburbs()" 
+            placeholder="Suburb..." title="Type in a suburb"> -->
             <!-- Suburb list will appear here -->
-             <ul id="suburbs">
+             <!-- <ul id="suburbs"> -->
                 <!-- Suburbs will be dynamically injected here -->
-            </ul>
+            <!-- </ul> -->
         </div>
 
         <br>
@@ -121,38 +125,63 @@
     suburbs = getSuburbs('http://127.0.0.1:8000/datasets/SuburbClustered.csv');
     
     // Function to filter suburbs based on input
-    async function filterSuburbs() {
-        let input = document.getElementById('myInput').value.toLowerCase();
-        let ul = document.getElementById("suburbs");
-        ul.innerHTML = ''; // Clear previous list
+    async function createSuburbOptions() {
+        let select = document.getElementById("suburbs");
+        //ul.innerHTML = ''; // Clear previous list
         
-        if (input === '') {
-            ul.style.display = 'none'; // Hide list if input is empty
-            return;
-        }
+        //if (input === '') {
+        //    ul.style.display = 'none'; // Hide list if input is empty
+        //    return;
+        //}
 
         // Filter and display suburbs that match the input
         await suburbs.then(value => 
             value.forEach(suburb => {
-                if (suburb.toLowerCase().startsWith(input)) {
-                    let li = document.createElement("li");
-                    let a = document.createElement("a");
-                    a.href = "#";
-                    a.textContent = suburb;
-                    a.onclick = function() { selectSuburb(suburb); }; // Set onclick event
-                    li.appendChild(a);
-                    ul.appendChild(li);
-                }
+                let option = document.createElement("option");
+                option.textContent = suburb;
+                option.value = suburb;
+                select.appendChild(option);
         }));
 
-        ul.style.display = ul.innerHTML === '' ? 'none' : 'block'; // Show list if there are results
+        //ul.style.display = ul.innerHTML === '' ? 'none' : 'block'; // Show list if there are results
     }
+    // async function filterSuburbs() {
+    //     let input = document.getElementById('myInput').value.toLowerCase();
+    //     let ul = document.getElementById("suburbs");
+    //     ul.innerHTML = ''; // Clear previous list
+        
+    //     if (input === '') {
+    //         ul.style.display = 'none'; // Hide list if input is empty
+    //         return;
+    //     }
+
+    //     // Filter and display suburbs that match the input
+    //     await suburbs.then(value => 
+    //         value.forEach(suburb => {
+    //             if (suburb.toLowerCase().startsWith(input)) {
+    //                 let li = document.createElement("li");
+    //                 let a = document.createElement("a");
+    //                 a.href = "#";
+    //                 a.textContent = suburb;
+    //                 a.onclick = function() { selectSuburb(suburb); }; // Set onclick event
+    //                 li.appendChild(a);
+    //                 ul.appendChild(li);
+    //             }
+    //     }));
+
+    //     ul.style.display = ul.innerHTML === '' ? 'none' : 'block'; // Show list if there are results
+    // }
 
     // Function to handle selecting a suburb
     function selectSuburb(suburb) {
         document.getElementById('myInput').value = suburb; // Set the input value to the selected suburb
         document.getElementById('suburbs').style.display = 'none'; // Hide the list after selection
     }
+
+    $(function() {
+        //change selectboxes to selectize mode to be searchable
+        $("suburbs").select2();
+    });
 </script>
 
 </html>

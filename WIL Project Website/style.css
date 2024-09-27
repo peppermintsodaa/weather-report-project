@@ -191,10 +191,8 @@ select {
 
 #suburbs {
     list-style-type: none;
-    padding: 0;
     margin: 0;
-    display: none; /* Hidden by default */
-    width: 200px; /* Same width as input */
+    /*display: none; /* Hidden by default */
     text-align: left;
     position: absolute; /* Position the list absolutely */
     left: 50%; /* Center horizontally */
@@ -202,12 +200,12 @@ select {
     z-index: 1; /* Ensure it appears above other elements */
 }
 
-#suburbs li {
+#suburbs option {
     display: flex; /* Use flexbox for list items */
     justify-content: left; /* Center align the list items */
 }
 
-#suburbs li a {
+#suburbs option a {
     border: 1px solid #ddd;
     margin-top: -1px; /* Prevent double borders */
     background-color: #f6f6f6;
@@ -219,7 +217,7 @@ select {
     text-align: left;
 }
 
-#suburbs li a:hover:not(.header) {
+#suburbs option a:hover:not(.header) {
     background-color: #eee;
 }
 
