@@ -1,44 +1,21 @@
 import pandas as pd
 
-# Load your weather dataset
-df = pd.read_csv('datasets_cleaned/cleaned_weather_data.csv')
+# Load datasets
+weather_data = pd.read_csv('datasets_cleaned/cleaned_weather_data.csv')
+clusters = pd.read_csv('datasets/Clusters.csv')
+suburb_clustered = pd.read_csv('datasets/SuburbClustered.csv')
 
 # Clean and preprocess the data
-df.fillna(method='ffill', inplace=True)  # Fill missing values if necessary
+weather_data.fillna(method='ffill', inplace=True)
 
-# Define state boundaries for grouping based on latitude and longitude
-def assign_state(row):
-    latitude = row['Latitude']
-    longitude = row['Longitude']
-    
-    # Define the boundaries for each state
-    if -40 <= latitude <= -34 and 140 <= longitude <= 150:  # South Australia
-        return 'South Australia'
-    elif -40 <= latitude <= -35 and 141 <= longitude <= 149:  # Victoria
-        return 'Victoria'
-    elif -28 <= latitude <= -10 and 138 <= longitude <= 154:  # Queensland
-        return 'Queensland'
-    elif -35 <= latitude <= -32 and 150 <= longitude <= 154:  # New South Wales
-        return 'New South Wales'
-    elif -43 <= latitude <= -39 and 146 <= longitude <= 148:  # Tasmania
-        return 'Tasmania'
-    elif -10 <= latitude <= -24 and 130 <= longitude <= 138:  # Northern Territory
-        return 'Northern Territory'
-    elif -35 <= latitude <= -29 and 115 <= longitude <= 130:  # Western Australia
-        return 'Western Australia'
-    elif -35 <= latitude <= -34 and 149 <= longitude <= 151:  # Australian Capital Territory
-        return 'Australian Capital Territory'
-    else:
-        return 'Unknown'
+# Merge weather_data with clusters to get latitude and longitude
+weather_data = weather_data.merge(clusters[['ClusterID', 'Latitude', 'Longitude']], on='ClusterID')
 
-# Assign state based on latitude and longitude
-df['State'] = df.apply(assign_state, axis=1)
+# Merge with suburb_clustered to get suburb information
+weather_data = weather_data.merge(suburb_clustered[['ClusterID', 'OfficialNameSuburb', 'OfficialNameState']], on='ClusterID')
 
-# Filter out unknown states
-df = df[df['State'] != 'Unknown']
-
-# Group data by state and month
-grouped = df.groupby(['State', 'Month']).agg({
+# Group data by suburb and month
+grouped = weather_data.groupby(['OfficialNameSuburb', 'Month']).agg({
     'TemperatureMean': 'mean',          # Average temperature
     'RainSum': 'sum',                   # Total rainfall
     'RelativeHumidityMean': 'mean'      # Average humidity
@@ -70,7 +47,7 @@ disaster_chances.columns = ['Drought', 'Flood', 'Bushfire']
 grouped = pd.concat([grouped, disaster_chances], axis=1)
 
 # Set multi-index for better display
-grouped.set_index(['State', 'Month'], inplace=True)
+grouped.set_index(['OfficialNameSuburb', 'Month'], inplace=True)
 
 # Display the results
 print(grouped)
