@@ -9,6 +9,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WIL Project</title>
+    <!-- import necessary css stylesheets -->
     <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
     <link href="style.css" rel="stylesheet" />
 </head>
@@ -69,12 +70,6 @@
         <div class="form-group">
             <label for="suburbs">Select a Suburb:</label>
             <select id="suburbs"></select>
-            <!-- <input type="text" id="myInput" onkeyup="filterSuburbs()" 
-            placeholder="Suburb..." title="Type in a suburb"> -->
-            <!-- Suburb list will appear here -->
-             <!-- <ul id="suburbs"> -->
-                <!-- Suburbs will be dynamically injected here -->
-            <!-- </ul> -->
         </div>
 
         <br>
@@ -122,7 +117,7 @@
         return suburbs
     }
 
-    // 
+    // get suburbs from dataset
     suburbs = getSuburbs('http://127.0.0.1:8000/datasets/SuburbClustered.csv');
     
     // Function to create all options for suburb drop down
@@ -139,8 +134,8 @@
         }));
     }
 
+    // change suburbs to be searchable
     $(function() {
-        //change selectboxes to selectize mode to be searchable
         $("#suburbs").select2();
     });
 </script>
