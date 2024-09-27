@@ -189,38 +189,6 @@ select {
     text-align: left; /* Align text to the left */
 }
 
-#suburbs {
-    list-style-type: none;
-    margin: 0;
-    /*display: none; /* Hidden by default */
-    text-align: left;
-    position: absolute; /* Position the list absolutely */
-    left: 50%; /* Center horizontally */
-    transform: translateX(-50%); /* Shift back by half of the width */
-    z-index: 1; /* Ensure it appears above other elements */
-}
-
-#suburbs option {
-    display: flex; /* Use flexbox for list items */
-    justify-content: left; /* Center align the list items */
-}
-
-#suburbs option a {
-    border: 1px solid #ddd;
-    margin-top: -1px; /* Prevent double borders */
-    background-color: #f6f6f6;
-    padding: 10px;
-    text-decoration: none;
-    font-size: 16px;
-    color: black;
-    display: block;
-    text-align: left;
-}
-
-#suburbs option a:hover:not(.header) {
-    background-color: #eee;
-}
-
 .red-text {
     color: red;
 }
