@@ -189,25 +189,25 @@ select {
     text-align: left; /* Align text to the left */
 }
 
-#myUL {
+#suburbs {
     list-style-type: none;
     padding: 0;
     margin: 0;
     display: none; /* Hidden by default */
     width: 200px; /* Same width as input */
-    text-align: center;
+    text-align: left;
     position: absolute; /* Position the list absolutely */
     left: 50%; /* Center horizontally */
     transform: translateX(-50%); /* Shift back by half of the width */
     z-index: 1; /* Ensure it appears above other elements */
 }
 
-#myUL li {
+#suburbs li {
     display: flex; /* Use flexbox for list items */
-    justify-content: center; /* Center align the list items */
+    justify-content: left; /* Center align the list items */
 }
 
-#myUL li a {
+#suburbs li a {
     border: 1px solid #ddd;
     margin-top: -1px; /* Prevent double borders */
     background-color: #f6f6f6;
@@ -216,10 +216,10 @@ select {
     font-size: 16px;
     color: black;
     display: block;
-    text-align: center;
+    text-align: left;
 }
 
-#myUL li a:hover:not(.header) {
+#suburbs li a:hover:not(.header) {
     background-color: #eee;
 }
 
