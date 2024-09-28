@@ -1,4 +1,8 @@
 import pandas as pd
+from sklearn.model_selection import cross_val_score
+from sklearn.metrics import classification_report, confusion_matrix
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 # Load datasets
 weather_data = pd.read_csv('datasets_cleaned/cleaned_weather_data.csv')
@@ -51,3 +55,49 @@ grouped.set_index(['OfficialNameSuburb', 'Month'], inplace=True)
 
 # Display the results
 print(grouped)
+
+
+
+has_data = grouped[['Drought', 'Flood', 'Bushfire']].any()
+print(has_data)
+
+non_zero_counts = (grouped[['Drought', 'Flood', 'Bushfire']] != 0).sum()
+print(non_zero_counts)
+
+non_zero_rows = grouped[(grouped['Drought'] != 0) | (grouped['Flood'] != 0) | (grouped['Bushfire'] != 0)]
+print(non_zero_rows)
+
+
+import numpy as np
+from sklearn.metrics import classification_report
+
+# Generate synthetic true labels for testing purposes
+np.random.seed(42)
+grouped['TrueDrought'] = np.random.randint(0, 2, size=len(grouped))  # Synthetic true drought labels
+grouped['TrueFlood'] = np.random.randint(0, 2, size=len(grouped))    # Synthetic true flood labels
+grouped['TrueBushfire'] = np.random.randint(0, 2, size=len(grouped)) # Synthetic true bushfire labels
+
+# --- Calculate metrics for Drought ---
+y_true_drought = grouped['TrueDrought']  # Replace this with actual labels if available
+y_pred_drought = grouped['Drought']      # Predicted drought events
+
+# Display classification metrics for Drought
+print("Drought Classification Report:")
+print(classification_report(y_true_drought, y_pred_drought))
+
+# --- Calculate metrics for Flood ---
+y_true_flood = grouped['TrueFlood']  # Replace this with actual labels if available
+y_pred_flood = grouped['Flood']      # Predicted flood events
+
+# Display classification metrics for Flood
+print("Flood Classification Report:")
+print(classification_report(y_true_flood, y_pred_flood))
+
+# --- Calculate metrics for Bushfire ---
+y_true_bushfire = grouped['TrueBushfire']  # Replace this with actual labels if available
+y_pred_bushfire = grouped['Bushfire']      # Predicted bushfire events
+
+# Display classification metrics for Bushfire
+print("Bushfire Classification Report:")
+print(classification_report(y_true_bushfire, y_pred_bushfire))
+
