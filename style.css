@@ -1,0 +1,263 @@
+/* Body */
+body {
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+ }
+
+/* Header */
+.header {
+    padding: 40px; 
+    text-align: center; 
+    background: #1aa4bc;
+    color: white;
+}
+  
+.header h1 {
+    font-size: 40px;
+}
+
+/* Navigation bar */
+.navigation-bar {
+    background-color: #A9A9A9;
+    text-align: left;
+}
+
+.navigation-bar a {
+    display: inline-block;
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navigation-bar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Mission statement */
+.mission-statement {
+    text-align:center;
+}
+
+.mission-statement {
+    font-size:large;
+}
+
+.images {
+    display: flex; 
+    justify-content: space-around;
+}
+
+.images img {
+    align-items: center;
+    max-width: 40%;
+    height: auto;
+}
+
+/* Insurance Collaborators */
+
+.insurance-collaborators {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.insurance-collaborators h1 {
+    text-align: center;
+}
+
+.collaborators-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    gap: 20px; 
+}
+
+.collaborator {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.collaborator img {
+    width: 80px;
+    height: auto;
+    margin-right: 20px; 
+    border-radius: 50%; 
+}
+
+.collaborator-info h3 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.collaborator-info p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+.sample-weather-prediction h1, p {
+    text-align:center;
+}
+
+.sample-weather-prediction img {
+    align-items:center;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Footer */
+.footer {
+    background-color: #A9A9A9;
+    text-align: center;
+    padding: 10px 0;  
+}
+
+.footer h3 {
+    display: inline-block;
+    color: white;
+    font-size: 30px;
+    padding: 5px 20px;
+    margin: 0 20px;
+}
+
+.footer a {
+    display: inline-block;
+    color: white;
+    padding: 14px 10px;
+    text-decoration: none;
+    position:relative; 
+}
+
+.footer a:not(:last-child)::after {
+    content: "|"; 
+    position: absolute;
+    right: -10px; 
+    color: white; 
+}
+
+.footer a:hover {
+    text-decoration: underline; 
+}
+
+.container {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    justify-content: center; /* Center children vertically */
+    align-items: center; /* Center children horizontally */
+    text-align: center; /* Center text */
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    justify-content: center; /* Center content */
+}
+
+.main-content h1 {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+select {
+    width: 200px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.output-button {
+    margin: 20px 0; /* Optional: space around the button */
+}
+
+.output-button button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+#myInput {
+    width: 200px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+    text-align: left; /* Align text to the left */
+}
+
+.red-text {
+    color: red;
+}
+
+/* Popup text in weather.html */
+/* Overlay Styles */
+/* Overlay Styles */
+#overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black for dimming */
+    z-index: 998; /* Sit under the popup */
+    display: none; /* Hidden by default */
+}
+
+/* Popup Styles */
+.popup {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    left: 50%; /* Center horizontally */
+    top: 50%; /* Center vertically */
+    transform: translate(-50%, -50%); /* Adjust position */
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    z-index: 999; /* Sit on top */
+}
+
+/* Popup content styling */
+.popup-content {
+    padding: 20px;
+    border-radius: 5px;
+    position: relative; 
+    width: 400px;
+    height: auto;
+    max-height: 300px; 
+    overflow-y: auto;
+    font-size: 18px;
+}
+
+.popup-red {
+    background-color: #b71c1c; 
+    color: #e4e1e1; 
+}
+
+.popup-green {
+    background-color: #83A944; 
+    color: #e4e1e1; 
+}
+
+/* Close Button Styles */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+button {
+    margin-top: 10px; /* Space between message and button */
+}
+

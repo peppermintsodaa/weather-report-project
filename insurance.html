@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WIL Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Header section -->
+    <div class="header">
+        <h1>Weather Insurances</h1>
+    </div>
+
+    <!-- Navigation bar -->
+    <div class="navigation-bar">
+        <a href="HomePage.html">Home</a>
+        <a href="Insurance.html">Insurance</a>
+        <a href="WeatherPredictionPage.html">Weather Event Predictions</a>
+    </div>
+
+    <br>
+    <br>
+
+    <!-- Main container -->
+    <div class="container">
+        <!-- Main content area -->
+        <div class="main-content">
+            <h1>Insurance Claims Based on Natural Disasters</h1>
+            <p>Select a natural disaster and state to see the estimated amount of money claimed.</p>
+
+            <!-- Dropdown for natural disasters -->
+            <div class="form-group">
+                <label for="disaster">Select a Natural Disaster:</label>
+                <select id="disaster" onchange="toggleOtherDisaster()">
+                    <option value="flood">Flood</option>
+                    <option value="earthquake">Earthquake</option>
+                    <option value="wildfire">Wildfire</option>
+                    <option value="hurricane">Hurricane</option>
+                    <option value="bushfire">Bushfire</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+
+            <!-- Input for "Other" disaster (only shown if 'Other' is selected) -->
+            <div class="form-group" id="other-disaster" style="display: none;">
+                <label for="otherDisasterInput">Please specify the natural disaster:</label>
+                <input type="text" id="otherDisasterInput" placeholder="Enter the disaster name">
+            </div>
+
+            <br>
+
+            <!-- Dropdown for states -->
+            <div class="form-group">
+                <label for="state">Select State:</label>
+                <select id="state">
+                    <option value="NSW">New South Wales (NSW)</option>
+                    <option value="VIC">Victoria (VIC)</option>
+                    <option value="QLD">Queensland (QLD)</option>
+                    <option value="SA">South Australia (SA)</option>
+                    <option value="WA">Western Australia (WA)</option>
+                    <option value="TAS">Tasmania (TAS)</option>
+                    <option value="NT">Northern Territory (NT)</option>
+                    <option value="ACT">Australian Capital Territory (ACT)</option>
+                </select>
+            </div>
+
+            <!-- Button -->
+            <div class="output-button">
+                <button onclick="calculateClaim()">Get Claim Amount</button>
+            </div>
+
+            <!-- Result display -->
+            <div id="result">
+                <p id="result-text">The estimated amount to be claimed is $X for ${disasterType} in ${state}.</p>
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <br>
+
+    <!-- Footer section -->
+    <div class="footer">
+        <h3>Our Website</h3> <br>
+        <a href="HomePage.html">Home</a>
+        <a href="Insurance.html">Insurance</a>
+        <a href="WeatherPredictionPage.html">Weather Event Predictions</a>
+    </div>
+
+    <script>
+        // Simulated data: claim amounts by disaster type and state
+        const claimData = {
+            "flood": { "NSW": 100000, "VIC": 80000, "QLD": 90000 },
+            "earthquake": { "NSW": 120000, "VIC": 95000, "QLD": 105000 },
+            "wildfire": { "NSW": 70000, "VIC": 85000, "QLD": 90000 },
+            "hurricane": { "NSW": 65000, "VIC": 70000, "QLD": 80000 },
+            "bushfire": { "NSW": 115000, "VIC": 110000, "QLD": 125000 }
+        };
+
+        // Function to toggle the display of the "Other" disaster input
+        function toggleOtherDisaster() {
+            const disasterSelect = document.getElementById('disaster');
+            const otherDisasterDiv = document.getElementById('other-disaster');
+
+            if (disasterSelect.value === 'other') {
+                otherDisasterDiv.style.display = 'block';
+            } else {
+                otherDisasterDiv.style.display = 'none';
+            }
+        }
+
+        // Function to calculate claim amount based on disaster and state
+        function calculateClaim() {
+            const disaster = document.getElementById('disaster').value;
+            const state = document.getElementById('state').value;
+            const resultDiv = document.getElementById('result');
+            const resultText = document.getElementById('result-text');
+            let disasterType = disaster;
+
+            // If "Other" is selected, get the user input for the disaster
+            if (disaster === 'other') {
+                disasterType = document.getElementById('otherDisasterInput').value;
+                if (!disasterType) {
+                    resultText.textContent = "Please specify the disaster.";
+                    resultDiv.style.display = 'block';
+                    return;
+                }
+            }
+
+            // Check if the state and disaster exist in the claim data
+            const claims = claimData[disaster] && claimData[disaster][state];
+            if (claims) {
+                resultText.textContent = `The estimated amount to be claimed is $${claims.toLocaleString()} for ${disasterType} in ${state}.`;
+            } else {
+                resultText.textContent = `The estimated amount to be claimed is unavailable for ${disasterType} in ${state}.`;
+            }
+
+            // Show the result
+            resultDiv.style.display = 'block';
+        }
+    </script>
+</body>
+</html>
