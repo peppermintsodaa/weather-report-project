@@ -18,8 +18,23 @@ weather_data = weather_data.merge(clusters[['ClusterID', 'Latitude', 'Longitude'
 # Merge with suburb_clustered to get suburb information
 weather_data = weather_data.merge(suburb_clustered[['ClusterID', 'OfficialNameSuburb', 'OfficialNameState']], on='ClusterID')
 
+weather_data_copy = weather_data.copy()
+
+weather_data_copy['Month'] = weather_data_copy['Month'].replace({1: 'January',
+                                                                 2: 'February',
+                                                                 3: 'March',
+                                                                 4: 'April',
+                                                                 5: 'May',
+                                                                 6: 'June',
+                                                                 7: 'July',
+                                                                 8: 'August',
+                                                                 9: 'September',
+                                                                 10: 'October',
+                                                                 11: 'November',
+                                                                 12: 'December', })
+
 # Group data by suburb and month
-grouped = weather_data.groupby(['OfficialNameSuburb', 'Month']).agg({
+grouped = weather_data_copy.groupby(['OfficialNameSuburb', 'Month']).agg({
     'TemperatureMean': 'mean',          # Average temperature
     'RainSum': 'sum',                   # Total rainfall
     'RelativeHumidityMean': 'mean'      # Average humidity
@@ -55,6 +70,8 @@ grouped.set_index(['OfficialNameSuburb', 'Month'], inplace=True)
 
 # Display the results
 print(grouped)
+
+grouped.drop(columns=['Drought', 'Flood', 'Bushfire']).to_csv('datasets_cleaned/grouped_suburbs.csv')
 
 
 
@@ -100,19 +117,4 @@ y_pred_bushfire = grouped['Bushfire']      # Predicted bushfire events
 # Display classification metrics for Bushfire
 print("Bushfire Classification Report:")
 print(classification_report(y_true_bushfire, y_pred_bushfire))
-
-# export to csv
-grouped['Month'] = grouped['Month'].replace({1: 'January',
-                                             2: 'February',
-                                             3: 'March',
-                                             4: 'April',
-                                             5: 'May',
-                                             6: 'June',
-                                             7: 'July',
-                                             8: 'August',
-                                             9: 'September',
-                                             10: 'October',
-                                             11: 'November',
-                                             12: 'December'})
-grouped.drop(columns=['Drought', 'Flood', 'Bushfire']).to_csv('datasets_cleaned/grouped_suburbs.csv')
 
