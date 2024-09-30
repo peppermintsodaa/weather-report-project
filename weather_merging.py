@@ -6,7 +6,8 @@ geo_data = pd.read_csv('datasets/SuburbClustered.csv')
 print(weather_data.head())
 print(geo_data.head())
 
-weather_data = geo_data.drop(columns=['GeoShape'])
+geo_data = geo_data[['OfficialNameSuburb', 'ClusterID']]
+#weather_data = geo_data.drop(columns=['GeoShape'])
 
 #merge the datasets
 merged_data = pd.merge(weather_data, geo_data, on=['ClusterID', 'ClusterID'], how='left')

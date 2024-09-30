@@ -109,8 +109,17 @@
         return suburbs
     }
 
+    async function getWeatherData(file) {
+        let response = await fetch(file);
+        let data = await response.text();
+        let weather_data = await $.csv.toArrays(data).slice(1,-1);
+        
+        return weather_data
+    }
+
     // get suburbs from dataset
     suburbs = getSuburbs('http://127.0.0.1:8000/datasets/SuburbClustered.csv');
+    weather_data = getWeatherData('http://127.0.0.1:8000/datasets_cleaned/grouped_suburbs.csv');
     
     // Function to create all options for suburb drop down
     async function createSuburbOptions() {
