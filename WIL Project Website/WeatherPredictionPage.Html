@@ -220,10 +220,10 @@ document.getElementById("close-btn").onclick = closePopup;
 
             // Determine the susceptibility based on conditions
             if (RainSum < 20 && RelativeHumidityMean < 40) {
-                message += `<b>WARNING!</b><br><br>There will be a possible drought in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a flood:</b><br>1 ???<br/>2. ???<br/>3. ???<br/>`;
+                message += `<b>WARNING!</b><br><br>There will be a possible drought in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a drought:</b><br>1 ???<br/>2. ???<br/>3. ???<br/>`;
                 popupClass += "popup-red"; 
             } else if (RainSum > 100 && RelativeHumidityMean < 50) {
-                message += `<b>WARNING!</b><br><br>There will be possible floods in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a flood:</b><br>1. Understand your area's flood risk (E.g Check flood maps, stay informed with flood alerts)<br>2. Create an emergency plan<br>3. Prepare an emergency kit<br>4. Protect your property (Elevate electrical systems, install flood barriers)<br>`;
+                message += `<b>WARNING!</b><br><br>There will be possible floods in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a flood:</b><br>1. Understand your area's flood risk (e.g check flood maps, stay informed with flood alerts)<br>2. Create an emergency plan<br>3. Prepare an emergency kit<br>4. Protect your property (elevate electrical systems, install flood barriers)<br>`;
                 popupClass += "popup-red"; 
             } else if (TemperatureMean > 30 && RelativeHumidityMean < 30) {
                 message += `<b>WARNING!</b><br><br>There will be possible bushfires in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a bushfire:</b><br>1. Develop a bushfire survival plan<br>2. Prepare your home area (E.g Seal gaps, clear flammable vegetation)<br>3. Prepare an emergency kit<br>4. Ensure access to water supply<br>`;

@@ -71,7 +71,7 @@ grouped.set_index(['OfficialNameSuburb', 'Month'], inplace=True)
 # Display the results
 print(grouped)
 
-grouped.drop(columns=['Drought', 'Flood', 'Bushfire']).to_csv('datasets_cleaned/grouped_suburbs.csv')
+grouped.to_csv('datasets_cleaned/grouped_suburbs.csv')
 
 
 
