@@ -8,8 +8,9 @@ print(weather_data.head())
 #convert to datetime format
 weather_data['Datetime'] = pd.to_datetime(weather_data['Datetime'], errors='coerce')
 
-#take the data from the last 5 years
-weather_data = weather_data[weather_data['Datetime'].dt.year >= 2024]
+#take the data from this year + last year
+weather_data = weather_data[(weather_data['Datetime'].dt.year >= 2024) | ((weather_data['Datetime'].dt.year == 2023) & 
+                                                                          (weather_data['Datetime'].dt.month >= 8))]
 
 #going to drop the columns with too many missing values
 weather_data = weather_data.loc[:, weather_data.isnull().mean() < 0.5] 

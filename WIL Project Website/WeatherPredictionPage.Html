@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> 
     <meta charset="UTF-8">
     <!-- import necessary scripts to parse csv file -->
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
@@ -24,27 +24,18 @@
 <div class="navigation-bar">
     <a href="HomePage.html">Home</a>
     <a href="Insurance.html">Insurance</a>
-    <a href="WeatherPredictionPage.html">Weather Predictions</a>
-    <a href="Roles.html">Our Roles</a>
+    <a href="WeatherPredictionPage.html">Weather Event Predictions</a>
 </div>
 
 <br>
 <br>
-<!--
-<div class="sample-weather-prediction">
-    <h1>Sample weather prediction output</h1>
-    <p><b>image taken from website</b></p>
-    <img src="images/weather-prediction.png" alt="Sample Weather prediction">
-</div>
-
---> 
 
 <!-- Main container -->
 <div class="container">
     <!-- Main content area -->
     <div class="main-content">
-        <h1>Weather Predictions of Suburb</h1>
-        <p>Select a Date and Location Suburb in Australia to see the predicted average weather during that time and its susceptibility of a weather event.</p>
+        <h1>Weather Event Predictions in Suburbs</h1>
+        <p>Select a Month and Suburb in Australia to see its susceptibility of a severe weather event.</p>
 
         <!-- Dropdown for months -->
         <div class="form-group">
@@ -75,22 +66,24 @@
         <br>
         <!-- Button -->
          <div class="output-button">
-            <button onclick="calculateClaim()">Get Claim Amount</button>
+            <button id="submit" onclick="checkWeatherEvent();">Done</button>
         </div>
 
-        <!-- Result display -->
-        <div id="result">
-            <p id="result-text">The predicted average weather in <u><i>suburb</i></u> in the month of <u><i>month</i></u> will be <u><i>averageTemp</i></u>&deg;C.</p><br>
-            <p id="result-text">From this, <u><i>suburb</i></u> is not susceptible of a weather disaster during this month</p><br>
-            <p id="result-text"> <u><i>or</i></u></p><br>
-            <p class="red-text" id="result-text"><b><i>WARNING</i></b></p>
-            <p class="red-text" id="result-text"><b><u><i>suburb</i></u> is susceptible of an <u><i>weather event</i></u> occurring </b></p><br>
-            <p id="result-text"><b>What to do? Safety Measures:</b></p>
-            <p id="result-text">.......</p>
-
-        </div>
+        <div id="result"></div>
     </div>
 </div>
+
+<!-- Popup for results -->
+<div id="popup" class="popup" style="display:none;">
+    <div class="popup-content">
+        <span class="close" id="close-btn">&times;</span>
+        <p id="popup-message"></p>
+    </div>
+</div>
+
+<!-- Overlay for dimming background -->
+<div id="overlay" style="display:none;"></div>
+
 
 <br>
 <br>
@@ -99,8 +92,7 @@
     <h3>Our Website</h3> <br>
     <a href="HomePage.html">Home</a>
     <a href="Insurance.html">Insurance</a>
-    <a href="WeatherPredictionPage.html">Weather Predictions</a>
-    <a href="Roles.html">Our Roles</a>
+    <a href="WeatherPredictionPage.html">Weather Event Predictions</a>
 </div>
 </body>
 
@@ -131,13 +123,102 @@
                 option.textContent = suburb;
                 option.value = suburb;
                 select.appendChild(option);
-        }));
+        })); 
     }
 
     // change suburbs to be searchable
     $(function() {
         $("#suburbs").select2();
     });
+
+    function checkWeatherEvent() {
+        const month = document.getElementById("prediction-month").value;
+        const suburb = document.getElementById("suburbs").value;
+        console.log(suburb, month)
+        let message = "";
+        let popupClass = "";
+
+        if (suburb === "Gordon Park" && month === "February") {
+            message = "<b>WARNING!</b><br><br>There will be possible bushfires in Gordon Park during February!<br><br><b>Here are some safety measures to prepare for a bushfire:</b><br>1. Develop a bushfire survival plan<br>2. Prepare your home area (E.g Seal gaps, clear flammable vegetation)<br>3. Prepare an emergency kit<br>4. Ensure access to water supply<br>";
+            popupClass = "popup-red";
+        } else if (suburb === "Perup" && month === "March") {
+            message = "There will be no severe weather events in Perup during February.";
+            popupClass = "popup-green"; 
+        } else if (suburb === "Albany" && month === "June") {
+            message = "<b>WARNING!</b><br><br>There will be possible floods in Albany during June!<br><br><b>Here are some safety measures to prepare for a flood:</b><br>1. Understand your area's flood risk (E.g Check flood maps, stay informed with flood alerts)<br>2. Create an emergency plan<br>3. Prepare an emergency kit<br>4. Protect your property (Elevate electrical systems, install flood barriers)<br>";
+            popupClass = "popup-red"; 
+        } else {
+            message = "No specific predictions available for this selection.<br>Please check back later.";
+            popupClass = "popup-green"; 
+        }
+
+        // Set the message and class for the popup
+        document.getElementById("popup-message").innerHTML = message; // Use innerHTML to render HTML
+        document.getElementById("popup").className = "popup " + popupClass; // Set class for styling
+
+        // Show the popup and overlay
+        document.getElementById("popup").style.display = "block";
+        document.getElementById("overlay").style.display = "block"; // Show overlay
+    }
+
+// Function to close the popup and hide overlay
+function closePopup() {
+    document.getElementById("popup").style.display = "none"; // Hide popup
+    document.getElementById("overlay").style.display = "none"; // Hide overlay
+}
+
+// Attach the close event to the button (if the inline approach doesn't work)
+document.getElementById("close-btn").onclick = closePopup;
+
+
+
+
+
+/*
+    // Sample data for weather events (for demonstration)
+    const weatherData = {
+        "Albury": {
+            "January": { "TemperatureMean": 28, "RainSum": 50, "RelativeHumidityMean": 60 },
+            "February": { "TemperatureMean": 30, "RainSum": 100, "RelativeHumidityMean": 55 },
+        },
+        "Northcote": {
+            "January": { "TemperatureMean": 25, "RainSum": 20, "RelativeHumidityMean": 50 },
+            "February": { "TemperatureMean": 27, "RainSum": 80, "RelativeHumidityMean": 65 },
+        },
+    };
+
+    // Check weather event logic
+    function checkWeatherEvent() {
+        let selectedSuburb = document.getElementById("suburbs").value;
+        let selectedMonth = document.getElementById("prediction-month").value;
+        const data = weatherData[selectedSuburb] ? weatherData[selectedSuburb][selectedMonth] : null;
+
+        let resultDiv = document.getElementById("result");
+        if (data) {
+            const { TemperatureMean, RainSum, RelativeHumidityMean } = data;
+            let message = `${selectedSuburb} in ${selectedMonth}: `;
+
+            // Determine the susceptibility based on conditions
+            if (RainSum < 20 && RelativeHumidityMean < 40) {
+                message += "susceptible to drought.";
+            } else if (RainSum > 100 && RelativeHumidityMean < 50) {
+                message += "susceptible to flood.";
+            } else if (TemperatureMean > 30 && RelativeHumidityMean < 30) {
+                message += "susceptible to bushfire.";
+            } else {
+                message += "not susceptible to any weather event.";
+            }
+
+            resultDiv.innerHTML = message;
+        } else {
+            resultDiv.innerHTML = "No data available for this suburb and month.";
+        }
+    }
+
+    // Attach event listener for the button
+    document.getElementById("submit").addEventListener("click", checkWeatherEvent);
+
+*/
 </script>
 
 </html>
