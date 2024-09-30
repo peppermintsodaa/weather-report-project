@@ -140,7 +140,7 @@
         $("#suburbs").select2();
     });
 
-    function checkWeatherEvent() {
+/*    function checkWeatherEvent() {
         const month = document.getElementById("prediction-month").value;
         const suburb = document.getElementById("suburbs").value;
         console.log(suburb, month)
@@ -168,7 +168,7 @@
         // Show the popup and overlay
         document.getElementById("popup").style.display = "block";
         document.getElementById("overlay").style.display = "block"; // Show overlay
-    }
+    } */
 
 // Function to close the popup and hide overlay
 function closePopup() {
@@ -183,7 +183,7 @@ document.getElementById("close-btn").onclick = closePopup;
 
 
 
-/*
+
     // Sample data for weather events (for demonstration)
     const weatherData = {
         "Albury": {
@@ -197,37 +197,56 @@ document.getElementById("close-btn").onclick = closePopup;
     };
 
     // Check weather event logic
-    function checkWeatherEvent() {
+    async function checkWeatherEvent() {
         let selectedSuburb = document.getElementById("suburbs").value;
         let selectedMonth = document.getElementById("prediction-month").value;
-        const data = weatherData[selectedSuburb] ? weatherData[selectedSuburb][selectedMonth] : null;
+
+        let target_row = await weather_data.then(value =>
+            // this will be very slow rip
+            value[value.findIndex(v => v.includes(selectedSuburb) &&
+                                       v.includes(selectedMonth))])
+        const weather_info = {
+            "TemperatureMean": Number(target_row[2]),
+            "RainSum": Number(target_row[3]),
+            "RelativeHumidityMean": Number(target_row[4]) 
+        }
 
         let resultDiv = document.getElementById("result");
-        if (data) {
-            const { TemperatureMean, RainSum, RelativeHumidityMean } = data;
-            let message = `${selectedSuburb} in ${selectedMonth}: `;
+        console.log(weather_info)
+        if (weather_info) {
+            const { TemperatureMean, RainSum, RelativeHumidityMean } = weather_info;
+            message = ``;
+            popupClass = "";
 
             // Determine the susceptibility based on conditions
             if (RainSum < 20 && RelativeHumidityMean < 40) {
-                message += "susceptible to drought.";
+                message += `<b>WARNING!</b><br><br>There will be a possible drought in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a flood:</b><br>1 ???<br/>2. ???<br/>3. ???<br/>`;
+                popupClass += "popup-red"; 
             } else if (RainSum > 100 && RelativeHumidityMean < 50) {
-                message += "susceptible to flood.";
+                message += `<b>WARNING!</b><br><br>There will be possible floods in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a flood:</b><br>1. Understand your area's flood risk (E.g Check flood maps, stay informed with flood alerts)<br>2. Create an emergency plan<br>3. Prepare an emergency kit<br>4. Protect your property (Elevate electrical systems, install flood barriers)<br>`;
+                popupClass += "popup-red"; 
             } else if (TemperatureMean > 30 && RelativeHumidityMean < 30) {
-                message += "susceptible to bushfire.";
+                message += `<b>WARNING!</b><br><br>There will be possible bushfires in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a bushfire:</b><br>1. Develop a bushfire survival plan<br>2. Prepare your home area (E.g Seal gaps, clear flammable vegetation)<br>3. Prepare an emergency kit<br>4. Ensure access to water supply<br>`;
+                popupClass += "popup-red"; 
             } else {
-                message += "not susceptible to any weather event.";
+                message += `There will be no severe weather events in ${selectedSuburb} during ${selectedMonth}.`;
+                popupClass += "popup-green";
             }
-
-            resultDiv.innerHTML = message;
-        } else {
-            resultDiv.innerHTML = "No data available for this suburb and month.";
         }
+
+        // Set the message and class for the popup
+        document.getElementById("popup-message").innerHTML = message; // Use innerHTML to render HTML
+        document.getElementById("popup").className = "popup " + popupClass; // Set class for styling
+
+        // Show the popup and overlay
+        document.getElementById("popup").style.display = "block";
+        document.getElementById("overlay").style.display = "block"; // Show overlay
     }
 
     // Attach event listener for the button
     document.getElementById("submit").addEventListener("click", checkWeatherEvent);
 
-*/
+
 </script>
 
 </html>
