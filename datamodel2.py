@@ -40,6 +40,8 @@ grouped = weather_data_copy.groupby(['OfficialNameSuburb', 'Month']).agg({
     'RelativeHumidityMean': 'mean'      # Average humidity
 }).reset_index()
 
+print(grouped)
+
 # Calculate chances of disasters
 def calculate_disasters(row):
     temp = row['TemperatureMean']
@@ -66,12 +68,12 @@ disaster_chances.columns = ['Drought', 'Flood', 'Bushfire']
 grouped = pd.concat([grouped, disaster_chances], axis=1)
 
 # Set multi-index for better display
-grouped.set_index(['OfficialNameSuburb', 'Month'], inplace=True)
+#grouped.set_index(['OfficialNameSuburb', 'Month'], inplace=True)
 
 # Display the results
-print(grouped)
+#print(grouped)
 
-grouped.to_csv('datasets_cleaned/grouped_suburbs.csv')
+grouped.to_csv('datasets_cleaned/grouped_suburbs.csv', index=False)
 
 
 
@@ -83,6 +85,22 @@ print(non_zero_counts)
 
 non_zero_rows = grouped[(grouped['Drought'] != 0) | (grouped['Flood'] != 0) | (grouped['Bushfire'] != 0)]
 print(non_zero_rows)
+
+with open('suburbs_with_weather_events.txt', 'w') as f:
+    for row in non_zero_rows.to_numpy():
+        weather_events = []
+        event_string = ""
+
+        if row[5] == 1:
+            weather_events.append('Drought')
+        if row[6] == 1:
+            weather_events.append('Flood')
+        if row[7] == 1:
+            weather_events.append('Bushfire')
+        for event in weather_events:
+            event_string += event + ','
+
+        f.write('{}, {}: {}\n'.format(row[0], row[1], event_string[:-1]))
 
 
 import numpy as np

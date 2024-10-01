@@ -1,0 +1,4887 @@
+Abingdon Downs, October: Drought
+Adavale, August: Drought
+Adavale, October: Drought
+Adavale, September: Drought
+Ajana, April: Drought
+Ajana, February: Drought
+Albion (Richmond - Qld), August: Drought
+Albion (Richmond - Qld), December: Drought
+Albion (Richmond - Qld), October: Drought
+Albion (Richmond - Qld), September: Drought
+Albion Park, February: Drought
+Albion Park Rail, February: Drought
+Aldersyde, February: Drought
+Ali Curung, April: Drought
+Ali Curung, August: Drought
+Ali Curung, December: Drought,Bushfire
+Ali Curung, October: Drought
+Ali Curung, September: Drought
+Alice Springs, April: Drought
+Alice Springs, August: Drought
+Alice Springs, December: Drought
+Alice Springs, October: Drought
+Alice Springs, September: Drought
+Allanooka, April: Drought
+Allworth, October: Drought
+Alma (WA), April: Drought
+Alma (WA), February: Drought
+Alpha, October: Drought
+Alpha, September: Drought
+Alpurrurulam, April: Drought
+Alpurrurulam, August: Drought
+Alpurrurulam, December: Drought,Bushfire
+Alpurrurulam, October: Drought
+Alpurrurulam, September: Drought
+Amaroo (Qld), April: Drought
+Amaroo (Qld), August: Drought
+Amaroo (Qld), December: Drought,Bushfire
+Amaroo (Qld), November: Drought,Bushfire
+Amaroo (Qld), October: Drought
+Amaroo (Qld), September: Drought
+Amata, April: Drought
+Amata, August: Drought
+Amata, February: Drought,Bushfire
+Amata, October: Drought
+Amata, September: Drought
+Ambania, April: Drought
+Amby, October: Drought
+Amby, September: Drought
+Amoonguna, April: Drought
+Amoonguna, August: Drought
+Amoonguna, December: Drought
+Amoonguna, October: Drought
+Amoonguna, September: Drought
+Ampilatwatja, April: Drought
+Ampilatwatja, August: Drought
+Ampilatwatja, December: Drought,Bushfire
+Ampilatwatja, October: Drought
+Ampilatwatja, September: Drought
+Amyton, February: Drought
+Anabranch North, February: Drought
+Anabranch North, March: Drought
+Anabranch South, February: Drought
+Anabranch South, March: Drought
+Anakie Siding, October: Drought
+Anama, February: Drought
+Anangu Pitjantjatjara Yankunytjatjara, April: Drought
+Anangu Pitjantjatjara Yankunytjatjara, August: Drought
+Anangu Pitjantjatjara Yankunytjatjara, February: Drought,Bushfire
+Anangu Pitjantjatjara Yankunytjatjara, October: Drought
+Anangu Pitjantjatjara Yankunytjatjara, September: Drought
+Anatye, August: Drought
+Anatye, December: Drought,Bushfire
+Anatye, October: Drought
+Anatye, September: Drought
+Andamooka, February: Drought,Bushfire
+Andamooka, March: Drought
+Andamooka, November: Drought
+Andamooka, October: Drought
+Andamooka, September: Drought
+Andamooka Station, February: Drought
+Andamooka Station, March: Drought
+Andamooka Station, November: Drought
+Andamooka Station, October: Drought
+Andamooka Station, September: Drought
+Andrews, February: Drought
+Angelo River, April: Drought
+Angelo River, August: Drought
+Angelo River, December: Drought,Bushfire
+Angelo River, February: Drought,Bushfire
+Angelo River, May: Drought
+Angelo River, November: Drought,Bushfire
+Angelo River, October: Drought,Bushfire
+Angelo River, September: Drought
+Angledool, December: Drought
+Angledool, November: Flood
+Angledool, October: Drought
+Angledool, September: Drought
+Anmatjere, April: Drought
+Anmatjere, August: Drought
+Anmatjere, December: Drought,Bushfire
+Anmatjere, October: Drought
+Anmatjere, September: Drought
+Anna Creek, February: Drought,Bushfire
+Anna Creek, March: Drought
+Anna Creek, November: Drought
+Anna Creek, October: Drought
+Anna Creek, September: Drought
+Annuello, February: Drought
+Antonymyre, October: Drought
+Appila, February: Drought
+Arable, February: Drought
+Araluen (NT), April: Drought
+Araluen (NT), August: Drought
+Araluen (NT), December: Drought
+Araluen (NT), October: Drought
+Araluen (NT), September: Drought
+Aramac, October: Drought
+Aramac, September: Drought
+Arbouin, October: Drought
+Arcadia Valley, October: Drought
+Arcoona, February: Drought
+Arcoona, March: Drought
+Arcoona, November: Drought
+Arcoona, October: Drought
+Arcoona, September: Drought
+Arcturus, October: Drought
+Areyonga, April: Drought
+Areyonga, August: Drought
+Areyonga, December: Drought
+Areyonga, February: Drought
+Areyonga, October: Drought
+Areyonga, September: Drought
+Argyll, October: Drought
+Arkaroola, December: Drought
+Arkaroola, February: Drought,Bushfire
+Arkaroola, January: Drought
+Arkaroola, March: Drought
+Arkaroola, November: Drought
+Arkaroola, October: Drought
+Arkaroola, September: Drought
+Armagh, February: Drought
+Armatree, October: Drought
+Arnold (NT), October: Drought
+Arnold (NT), September: Drought
+Arrino, April: Drought
+Arrino, February: Drought
+Arrowsmith, April: Drought
+Arrowsmith East, April: Drought
+Arrowsmith East, February: Drought
+Arumbera, April: Drought
+Arumbera, August: Drought
+Arumbera, December: Drought
+Arumbera, February: Drought
+Arumbera, October: Drought
+Arumbera, September: Drought
+Arumpo, February: Drought
+Arumpo, March: Drought
+Ashley, October: Drought
+Ashley, September: Drought
+Atitjere, April: Drought
+Atitjere, August: Drought
+Atitjere, December: Drought,Bushfire
+Atitjere, January: Drought
+Atitjere, October: Drought
+Atitjere, September: Drought
+Augathella, August: Drought
+Augathella, October: Drought
+Augathella, September: Drought
+Austinmer, February: Drought
+Avon (NSW), February: Drought
+Avon Valley National Park, February: Drought
+Avondale (NSW), February: Drought
+Baandee, October: Drought
+Babinda (NSW), October: Drought
+Badgerin Rock, December: Drought
+Badgerin Rock, January: Drought
+Badgerin Rock, October: Drought
+Badgin, December: Drought
+Badgin, February: Drought
+Badgingarra, February: Drought
+Badjaling, December: Drought
+Baffle West, October: Drought
+Bailup, February: Drought
+Baines, August: Drought
+Baines, October: Drought,Bushfire
+Baines, September: Drought
+Bakers Bend, August: Drought
+Bakers Bend, October: Drought
+Bakers Bend, September: Drought
+Bakers Hill, February: Drought
+Baking Board, October: Drought
+Balgownie, February: Drought
+Balickera, October: Drought
+Balladong, February: Drought
+Ballaroo, October: Drought
+Ballaroo, September: Drought
+Ballidu, December: Drought
+Ballidu, January: Drought
+Ballidu, November: Drought
+Ballidu, October: Drought
+Bally Bally, February: Drought
+Balranald, February: Drought
+Bamarang, December: Drought
+Bamarang, January: Flood
+Bamarang, October: Drought
+Bamarang, September: Drought
+Bandya, August: Drought
+Bandya, December: Drought,Bushfire
+Bandya, February: Drought,Bushfire
+Bandya, November: Drought
+Bandya, October: Drought
+Bandya, September: Drought
+Bangalee (NSW), December: Drought
+Bangalee (NSW), January: Flood
+Bangalee (NSW), October: Drought
+Bangalee (NSW), September: Drought
+Bangor (SA), February: Drought
+Bannerton, February: Drought
+Banyan, February: Drought
+Baradine, September: Drought
+Barbalin, December: Drought
+Barbalin, January: Drought
+Barbalin, October: Drought
+Barcaldine, August: Drought
+Barcaldine, October: Drought
+Barcaldine, September: Drought
+Barellan, February: Drought
+Barellan, March: Drought
+Bargunyah, October: Drought
+Bargunyah, September: Drought
+Barinia, February: Drought
+Barkly (Qld), August: Drought
+Barkly (Qld), December: Drought,Bushfire
+Barkly (Qld), October: Drought
+Barkly (Qld), September: Drought
+Barmera, February: Drought
+Barndioota, February: Drought
+Barndioota, March: Drought
+Barndioota, October: Drought
+Barndioota, September: Drought
+Barrack Heights, February: Drought
+Barrack Point, February: Drought
+Barramornie, October: Drought
+Barratta (NSW), February: Drought
+Barrengarry, December: Drought
+Barrengarry, January: Flood
+Barrengarry, October: Drought
+Barrengarry, September: Drought
+Barringella, December: Drought
+Barringella, January: Flood
+Barringella, October: Drought
+Barringella, September: Drought
+Barringun, October: Drought
+Barringun, September: Drought
+Barunga, October: Drought
+Barunga, September: Drought
+Baskerville, February: Drought
+Batehaven, December: Drought
+Batehaven, February: Drought,Bushfire
+Batehaven, January: Drought
+Batehaven, March: Drought
+Batehaven, November: Drought
+Batehaven, October: Drought
+Batehaven, September: Drought
+Batemans Bay, December: Drought
+Batemans Bay, February: Drought,Bushfire
+Batemans Bay, January: Drought
+Batemans Bay, March: Drought
+Batemans Bay, November: Drought
+Batemans Bay, October: Drought
+Batemans Bay, September: Drought
+Bawley Point, October: Drought
+Bawley Point, September: Drought
+Baynton (WA), October: Drought
+Bayrick, August: Drought
+Bayrick, October: Drought
+Bayrick, September: Drought
+Beacon, December: Drought
+Beacon, January: Drought
+Beacon, October: Drought
+Beadell, December: Drought
+Beadell, February: Drought,Bushfire
+Beadell, May: Drought
+Beadell, November: Drought
+Beadell, October: Drought
+Beadell, September: Drought
+Beaumont (NSW), December: Drought
+Beaumont (NSW), January: Flood
+Beaumont (NSW), October: Drought
+Beaumont (NSW), September: Drought
+Bedourie, April: Drought
+Bedourie, August: Drought
+Bedourie, December: Drought,Bushfire
+Bedourie, January: Drought
+Bedourie, November: Bushfire
+Bedourie, October: Drought
+Bedourie, September: Drought
+Beechina, February: Drought
+Beelbangera, November: Flood
+Beemunnel, October: Drought
+Beermullah, February: Drought
+Beetaloo Valley, February: Drought
+Begonia, October: Drought
+Begonia, September: Drought
+Bejoording, December: Drought
+Bejoording, February: Drought
+Belalie East, February: Drought
+Belalie North, February: Drought
+Bellambi, February: Drought
+Bellata, September: Drought
+Bellawongarah, December: Drought
+Bellawongarah, January: Flood
+Bellawongarah, October: Drought
+Bellawongarah, September: Drought
+Bellfield (Qld), August: Drought
+Bellfield (Qld), October: Drought
+Bellfield (Qld), September: Drought
+Belowra, February: Drought
+Beltana, February: Drought
+Beltana, March: Drought
+Beltana, November: Drought
+Beltana, October: Drought
+Beltana, September: Drought
+Beltana Station, February: Drought
+Beltana Station, March: Drought
+Beltana Station, November: Drought
+Beltana Station, October: Drought
+Beltana Station, September: Drought
+Belton, February: Drought
+Benbournie, February: Drought
+Bencubbin, December: Drought
+Bencubbin, January: Drought
+Bencubbin, October: Drought
+Benjaberring, December: Drought
+Benjaberring, January: Drought
+Benjaberring, October: Drought
+Benjeroop, February: Drought
+Bergalia, December: Drought
+Bergalia, February: Drought,Bushfire
+Bergalia, January: Drought
+Bergalia, March: Drought
+Bergalia, November: Drought
+Bergalia, October: Drought
+Bergalia, September: Drought
+Berkeley, February: Drought
+Berkshire Valley, December: Drought
+Berri, February: Drought
+Berriwillock, February: Drought
+Beswick, October: Drought
+Beswick, September: Drought
+Beswick Creek, October: Drought
+Beswick Creek, September: Drought
+Beverford, February: Drought
+Beverley (WA), February: Drought
+Bickley, February: Drought
+Billa Billa, October: Drought
+Billeroy, September: Drought
+Bimbijy, December: Drought
+Bimbijy, February: Drought,Bushfire
+Bimbijy, January: Drought
+Bimbijy, November: Drought
+Bimbijy, October: Drought
+Bimbimbie, December: Drought
+Bimbimbie, February: Drought,Bushfire
+Bimbimbie, January: Drought
+Bimbimbie, March: Drought
+Bimbimbie, November: Drought
+Bimbimbie, October: Drought
+Bimbimbie, September: Drought
+Bimbourie, February: Drought
+Bindebango, October: Drought
+Bindebango, September: Drought
+Bindi Bindi, December: Drought
+Bindi Bindi, January: Drought
+Bindi Bindi, October: Drought
+Bindoon, February: Drought
+Bindoon Training Area, February: Drought
+Binduli, December: Drought
+Binduli, February: Drought
+Binduli, October: Drought
+Bingie, December: Drought
+Bingie, February: Drought,Bushfire
+Bingie, January: Drought
+Bingie, March: Drought
+Bingie, November: Drought
+Bingie, October: Drought
+Bingie, September: Drought
+Biniguy, October: Drought
+Binjari, October: Drought
+Binjari, September: Drought
+Binjura, February: Drought
+Binnu, April: Drought
+Binnu, February: Drought
+Binya, February: Drought
+Binya, March: Drought
+Birdsville, April: Drought
+Birdsville, August: Drought
+Birdsville, December: Drought,Bushfire
+Birdsville, January: Drought
+Birdsville, November: Drought,Bushfire
+Birdsville, October: Drought
+Birdsville, September: Drought
+Birdum, August: Drought
+Birdum, October: Drought,Bushfire
+Birdum, September: Drought
+Black Hollow, September: Drought
+Black Rock (SA), February: Drought
+Blackall, August: Drought
+Blackall, October: Drought
+Blackall, September: Drought
+Blackbull, August: Drought
+Blackbull, October: Drought
+Blackbull, September: Drought
+Blackbutt (NSW), February: Drought
+Blinman, December: Drought
+Blinman, February: Drought
+Blinman, January: Drought
+Blinman, March: Drought
+Blinman, November: Drought
+Blinman, October: Drought
+Blinman, September: Drought
+Blyth, February: Drought
+Blythdale, October: Drought
+Blythdale, September: Drought
+Boatman, August: Drought
+Boatman, November: Flood
+Boatman, October: Drought
+Boatman, September: Drought
+Bobadah, October: Drought
+Bobs Farm, October: Drought
+Boconnoc Park, February: Drought
+Bodallin, December: Drought
+Bodallin, October: Drought
+Bogan, October: Drought
+Bogandilla, October: Drought
+Boggabilla, October: Drought
+Boigbeat, February: Drought
+Boinka, February: Drought
+Bolgart, December: Drought
+Bollon, October: Drought
+Bollon, September: Drought
+Bolton, February: Drought
+Bolwarra (Qld), October: Drought
+Bomaderry, December: Drought
+Bomaderry, January: Flood
+Bomaderry, October: Drought
+Bomaderry, September: Drought
+Bonnie Rock, December: Drought
+Bonnie Rock, January: Drought
+Bonnie Rock, November: Drought
+Bonnie Rock, October: Drought
+Boodarie, April: Drought
+Boodarie, July: Drought
+Boodarockin, December: Drought
+Boodarockin, January: Drought
+Boodarockin, October: Drought
+Bookpurnong, February: Drought
+Boolcarroll, September: Drought
+Booleroo Centre, February: Drought
+Boomi, October: Drought
+Boomi, September: Drought
+Boona Mount, October: Drought
+Boonal, October: Drought
+Boonanarring, February: Drought
+Boondandilla, October: Drought
+Boorabbin, December: Drought
+Boorabbin, February: Drought
+Boorabbin, January: Drought
+Boorabbin, October: Drought
+Booral (NSW), October: Drought
+Booralaming, December: Drought
+Booralaming, January: Drought
+Booralaming, October: Drought
+Boorara, December: Drought
+Boorara, February: Drought
+Boorara, October: Drought
+Boorga, November: Flood
+Booroorban, February: Drought
+Boothendarra, April: Drought
+Boulder, December: Drought
+Boulder, February: Drought
+Boulder, October: Drought
+Boulia, April: Drought
+Boulia, August: Drought
+Boulia, December: Drought,Bushfire
+Boulia, November: Drought
+Boulia, October: Drought
+Boulia, September: Drought
+Boundary Bend, February: Drought
+Bourbah, October: Drought
+Bourbah, September: Drought
+Bourke, December: Drought
+Bourke, October: Drought
+Bourke, September: Drought
+Bowgada, April: Drought
+Bowgada, December: Drought
+Bowgada, February: Drought
+Bowgada, January: Drought
+Bowgada, November: Drought
+Bowgada, October: Drought
+Boya, February: Drought
+Bradshaw, August: Drought
+Bradshaw, September: Drought
+Braitling, April: Drought
+Braitling, August: Drought
+Braitling, December: Drought
+Braitling, October: Drought
+Braitling, September: Drought
+Breakaway, August: Drought
+Breakaway, December: Drought
+Breakaway, October: Drought
+Breakaway, September: Drought
+Brewarrina, November: Flood
+Brewarrina, October: Drought
+Brewarrina, September: Drought
+Brigadoon, February: Drought
+Brinkworth, February: Drought
+Broadwood, December: Drought
+Broadwood, February: Drought
+Broadwood, October: Drought
+Broken Hill, December: Drought
+Broken Hill, February: Drought
+Broken Hill, October: Drought
+Broken Hill, September: Drought
+Brookfield (NSW), October: Drought
+Brookton, February: Drought
+Broughton River Valley, February: Drought
+Broulee, December: Drought
+Broulee, February: Drought,Bushfire
+Broulee, January: Drought
+Broulee, March: Drought
+Broulee, November: Drought
+Broulee, October: Drought
+Broulee, September: Drought
+Brown Hill (WA), December: Drought
+Brown Hill (WA), February: Drought
+Brown Hill (WA), October: Drought
+Browns Mountain, December: Drought
+Browns Mountain, January: Flood
+Browns Mountain, October: Drought
+Browns Mountain, September: Drought
+Brownsville, February: Drought
+Bruce (SA), February: Drought
+Buangla, December: Drought
+Buangla, January: Flood
+Buangla, October: Drought
+Buangla, September: Drought
+Buchanan (NT), August: Drought
+Buchanan (NT), October: Drought,Bushfire
+Buchanan (NT), September: Drought
+Buckingham (Qld), April: Drought
+Buckingham (Qld), August: Drought
+Buckingham (Qld), December: Drought,Bushfire
+Buckingham (Qld), October: Drought
+Buckingham (Qld), September: Drought
+Buckland (Qld), October: Drought
+Buckland (Qld), September: Drought
+Buckland (WA), December: Drought
+Buckland (WA), February: Drought
+Buckleboo, February: Drought
+Buddabadah, December: Drought
+Buddabadah, November: Flood
+Buddabadah, October: Drought
+Budgong, December: Drought
+Budgong, January: Flood
+Budgong, October: Drought
+Budgong, September: Drought
+Bugaldie, September: Drought
+Bugle Hut, February: Drought
+Bulga (Vic.), February: Drought
+Bulgarra, October: Drought
+Bulla (NSW), December: Drought
+Bulla (NSW), January: Flood
+Bulla (NSW), October: Drought
+Bulla (NSW), September: Drought
+Bullabulling, December: Drought
+Bullabulling, October: Drought
+Bullagreen, October: Drought
+Bullagreen, September: Drought
+Bullarah, October: Drought
+Bullarah, September: Drought
+Bulleringa, October: Drought
+Bullfinch, December: Drought
+Bullfinch, January: Drought
+Bullfinch, October: Drought
+Bulli, February: Drought
+Bulloo Downs, August: Drought
+Bulloo Downs, December: Bushfire
+Bulloo Downs, November: Drought
+Bulloo Downs, October: Drought
+Bulloo Downs, September: Drought
+Bulong, December: Drought
+Bulong, February: Drought
+Bulong, October: Drought
+Bulyeroi, September: Drought
+Bundabah, October: Drought
+Bundaleer Gardens, February: Drought
+Bundaleer North, February: Drought
+Bundanoon (NSW), December: Drought
+Bundanoon (NSW), January: Flood
+Bundanoon (NSW), October: Drought
+Bundanoon (NSW), September: Drought
+Bundanoon (WA), April: Drought
+Bundanoon (WA), February: Drought
+Bundi, October: Drought
+Bungama, February: Drought
+Bungaree (SA), February: Drought
+Bungeworgorai, October: Drought
+Bungeworgorai, September: Drought
+Bungil (Qld), October: Drought
+Bungil (Qld), September: Drought
+Bungunya, October: Drought
+Bungunya, September: Drought
+Bunjil, April: Drought
+Bunjil, December: Drought
+Bunjil, February: Bushfire
+Bunjil, January: Drought
+Bunjil, November: Drought
+Bunjil, October: Drought
+Buntine, December: Drought
+Buntine, January: Drought
+Buntine, October: Drought
+Bunyan, February: Drought
+Burakin, December: Drought
+Burakin, January: Drought
+Burakin, October: Drought
+Burges, December: Drought
+Burges, February: Drought
+Burleigh, August: Drought
+Burleigh, October: Drought
+Burleigh, September: Drought
+Burlong, December: Drought
+Burlong, February: Drought
+Burma Road, April: Drought
+Burra Eastern Districts, February: Drought
+Burracoppin, December: Drought
+Burracoppin, November: Drought
+Burracoppin, October: Drought
+Burran Rock, December: Drought
+Burran Rock, January: Drought
+Burran Rock, October: Drought
+Burren Junction, September: Drought
+Burrier, December: Drought
+Burrier, January: Flood
+Burrier, October: Drought
+Burrier, September: Drought
+Burrill Lake, October: Drought
+Burrill Lake, September: Drought
+Burrundie, August: Drought
+Burrup, October: Drought
+Burt Plain, August: Drought
+Burt Plain, December: Drought,Bushfire
+Burt Plain, October: Drought
+Burt Plain, September: Drought
+Bybera, October: Drought
+Bymount, October: Drought
+Bymount, September: Drought
+Byrock, January: Flood
+Byrock, October: Drought
+Byrock, September: Drought
+Cadgee (NSW), February: Drought
+Cadoux, December: Drought
+Cadoux, January: Drought
+Cadoux, November: Drought
+Caldervale, October: Drought
+Caldervale, September: Drought
+Calderwood, February: Drought
+Caldwell, February: Drought
+Calimo, February: Drought
+Calingiri, December: Drought
+Calingunee, October: Drought
+Caljie, December: Drought
+Caljie, February: Drought
+Callandoon, October: Drought
+Calperum Station, February: Drought
+Caltowie, February: Drought
+Caltowie North, February: Drought
+Caltowie West, February: Drought
+Camballin, April: Drought
+Camballin, August: Drought
+Camballin, July: Drought
+Camballin, May: Drought
+Camballin, October: Drought
+Camballin, September: Drought
+Cambewarra, December: Drought
+Cambewarra, January: Flood
+Cambewarra, October: Drought
+Cambewarra, September: Drought
+Cambewarra Village, December: Drought
+Cambewarra Village, January: Flood
+Cambewarra Village, October: Drought
+Cambewarra Village, September: Drought
+Cambra, October: Drought
+Cambridge (Qld), August: Drought
+Cambridge (Qld), October: Drought
+Cambridge (Qld), September: Drought
+Cambridge Gulf, August: Drought
+Cambridge Gulf, July: Drought
+Cameron Corner, August: Drought
+Cameron Corner, December: Drought,Bushfire
+Cameron Corner, November: Drought
+Cameron Corner, October: Drought
+Cameron Corner, September: Drought
+Camooweal, August: Drought
+Camooweal, December: Drought
+Camooweal, October: Drought
+Camooweal, September: Drought
+Campvale, October: Drought
+Canbelego, October: Drought
+Canbelego, September: Drought
+Cane, April: Drought
+Cane, August: Drought
+Cane, December: Drought
+Cane, February: Drought
+Cane, January: Drought
+Cane, May: Drought
+Cane, November: Drought
+Cane, October: Drought,Bushfire
+Cane, September: Drought
+Canna, April: Drought
+Canna, December: Drought
+Canna, February: Drought,Bushfire
+Canna, January: Drought
+Canna, October: Drought
+Canning Mills, February: Drought
+Canonba, October: Drought
+Canonba, September: Drought
+Canowie, February: Drought
+Canowie Belt, February: Drought
+Canteen Creek, April: Drought
+Canteen Creek, August: Drought
+Canteen Creek, December: Drought,Bushfire
+Canteen Creek, October: Drought
+Canteen Creek, September: Drought
+Cape Range National Park, October: Drought
+Capella, October: Drought
+Capels Crossing, February: Drought
+Capricorn, April: Drought
+Capricorn, August: Drought
+Capricorn, December: Drought,Bushfire
+Capricorn, February: Drought,Bushfire
+Capricorn, January: Flood
+Capricorn, May: Drought
+Capricorn, November: Drought,Bushfire
+Capricorn, October: Drought
+Capricorn, September: Drought
+Carani, December: Drought
+Carbine Creek, October: Drought
+Carbla, April: Drought
+Carbla, October: Drought
+Cardross, February: Drought
+Carina (Vic.), February: Drought
+Carinda, October: Drought
+Carinda, September: Drought
+Carmel, February: Drought
+Carnamah, April: Drought
+Carnamah, December: Drought
+Carnamah, January: Drought
+Carnamah, October: Drought
+Carnarvon Park, October: Drought
+Carnarvon Park, September: Drought
+Caroline Crossing, August: Drought
+Caroline Crossing, October: Drought
+Caroline Crossing, September: Drought
+Carrabin, December: Drought
+Carrabin, October: Drought
+Carrandotta, April: Drought
+Carrandotta, August: Drought
+Carrandotta, December: Drought,Bushfire
+Carrandotta, October: Drought
+Carrandotta, September: Drought
+Carrieton, February: Drought
+Carrington (Mid-Coast - NSW), October: Drought
+Carwarp, February: Drought
+Catalina, December: Drought
+Catalina, February: Drought,Bushfire
+Catalina, January: Drought
+Catalina, March: Drought
+Catalina, November: Drought
+Catalina, October: Drought
+Catalina, September: Drought
+Cataract, February: Drought
+Cavenagh, February: Drought
+Chaffey, February: Drought
+Chandler (WA), December: Drought
+Chandler (WA), January: Drought
+Chandler (WA), November: Drought
+Chandler (WA), October: Drought
+Charleville, August: Drought
+Charleville, October: Drought
+Charleville, September: Drought
+Chichester (WA), April: Drought
+Chichester (WA), August: Drought
+Chichester (WA), December: Drought,Bushfire
+Chichester (WA), February: Drought,Bushfire
+Chichester (WA), January: Drought
+Chichester (WA), July: Drought
+Chichester (WA), May: Drought
+Chichester (WA), November: Drought,Bushfire
+Chichester (WA), October: Drought,Bushfire
+Chichester (WA), September: Drought
+Chidlow, February: Drought
+Chilla Well, April: Drought
+Chilla Well, August: Drought
+Chilla Well, December: Drought,Bushfire
+Chilla Well, October: Drought
+Chilla Well, September: Drought
+Chillingollah, February: Drought
+Chinangin, February: Drought
+Chinchilla, October: Drought
+Chinkapook, February: Drought
+Chirnside, October: Drought
+Chittering, February: Drought
+Chowilla, February: Drought
+Ciccone, April: Drought
+Ciccone, August: Drought
+Ciccone, December: Drought
+Ciccone, October: Drought
+Ciccone, September: Drought
+Clackline, December: Drought
+Clackline, February: Drought
+Clara Creek, August: Drought
+Clara Creek, October: Drought
+Clara Creek, September: Drought
+Claravale, September: Drought
+Claraville, August: Drought
+Claraville, October: Drought
+Claraville, September: Drought
+Clare (NSW), February: Drought
+Clare (NSW), January: Flood
+Clare (NSW), March: Drought
+Clare (SA), February: Drought
+Clarence Town, October: Drought
+Cleary, December: Drought
+Cleary, January: Drought
+Cleary, November: Drought
+Cleary, October: Drought
+Cleaverville, October: Drought
+Clements Gap, February: Drought
+Clermont, October: Drought
+Cleveland (NSW), February: Drought
+Clifford, October: Drought
+Clifton (NSW), February: Drought
+Cloncurry, August: Drought
+Cloncurry, December: Drought
+Cloncurry, September: Drought
+Coalcliff, February: Drought
+Cobar, January: Flood
+Cobar, October: Drought
+Cobar, September: Drought
+Cobargo, February: Drought
+Cobdogla, February: Drought
+Cobramunga, February: Drought
+Coburn, April: Drought
+Coburn, October: Drought
+Cocamba, February: Drought
+Cockburn, December: Drought
+Cockburn, February: Drought
+Cockburn, September: Drought
+Cockwhy, October: Drought
+Cockwhy, September: Drought
+Coila, December: Drought
+Coila, February: Drought,Bushfire
+Coila, January: Drought
+Coila, March: Drought
+Coila, November: Drought
+Coila, October: Drought
+Coila, September: Drought
+Cold Harbour, December: Drought
+Cold Harbour, February: Drought
+Coledale, February: Drought
+Colignan, February: Drought
+Collarenebri, October: Drought
+Collarenebri, September: Drought
+Collerina, October: Drought
+Collerina, September: Drought
+Collie (NSW), October: Drought
+Collinsville (SA), February: Drought
+Columboola, October: Drought
+Combara, October: Drought
+Combara, September: Drought
+Come By Chance, September: Drought
+Commonwealth Hill, April: Drought
+Commonwealth Hill, February: Drought,Bushfire
+Commonwealth Hill, January: Drought
+Commonwealth Hill, March: Drought
+Commonwealth Hill, October: Drought
+Commonwealth Hill, September: Drought
+Cona Creek, October: Drought
+Conargo, February: Drought
+Condamine, October: Drought
+Congo, December: Drought
+Congo, February: Drought,Bushfire
+Congo, January: Drought
+Congo, March: Drought
+Congo, November: Drought
+Congo, October: Drought
+Congo, September: Drought
+Conimbia, October: Drought
+Conimbia, September: Drought
+Coniston, February: Drought
+Connellan, April: Drought
+Connellan, August: Drought
+Connellan, December: Drought
+Connellan, February: Drought
+Connellan, October: Drought
+Connellan, September: Drought
+Coober Pedy, April: Drought
+Coober Pedy, February: Drought,Bushfire
+Coober Pedy, January: Drought
+Coober Pedy, March: Drought
+Coober Pedy, October: Drought
+Coober Pedy, September: Drought
+Cooladar Hill, December: Drought
+Cooladar Hill, February: Drought,Bushfire
+Cooladar Hill, January: Drought,Bushfire
+Cooladar Hill, November: Drought
+Cooladar Hill, October: Drought
+Cooladdi, August: Drought
+Cooladdi, October: Drought
+Cooladdi, September: Drought
+Coolcalalaya, December: Drought
+Coolcalalaya, February: Drought,Bushfire
+Coolcalalaya, October: Drought
+Coolgardie (WA), December: Drought
+Coolgardie (WA), February: Drought
+Coolgardie (WA), October: Drought
+Coolringdon, February: Drought
+Cooltong, February: Drought
+Cooma (NSW), February: Drought
+Coomberdale, December: Drought
+Coomooroo, February: Drought
+Coomrith, October: Drought
+Coomrith, September: Drought
+Coonamble, September: Drought
+Coonamia, February: Drought
+Coondle, December: Drought
+Coondle, February: Drought
+Coongoola, August: Drought
+Coongoola, November: Flood
+Coongoola, October: Drought
+Coongoola, September: Drought
+Coorow, April: Drought
+Coorow, December: Drought
+Coorow, January: Drought
+Coorow, October: Drought
+Cootralantra, February: Drought
+Cooya Pooya, August: Drought
+Cooya Pooya, December: Drought
+Cooya Pooya, July: Drought
+Cooya Pooya, May: Drought
+Cooya Pooya, November: Drought
+Cooya Pooya, October: Drought,Bushfire
+Cooya Pooya, September: Drought
+Copley (SA), February: Drought,Bushfire
+Copley (SA), January: Drought
+Copley (SA), March: Drought
+Copley (SA), November: Drought
+Copley (SA), October: Drought
+Copley (SA), September: Drought
+Copley (WA), February: Drought
+Coralie, August: Drought
+Coralie, October: Drought
+Coralie, September: Drought
+Cordeaux, February: Drought
+Cordeaux Heights, February: Drought
+Corfield, August: Drought
+Corfield, October: Drought
+Corfield, September: Drought
+Corinthia, December: Drought
+Corinthia, January: Drought
+Corinthia, October: Drought
+Cornwall (Qld), October: Drought
+Cornwall (Qld), September: Drought
+Corrimal, February: Drought
+Corrong, February: Drought
+Corunna Station, February: Drought
+Cosmo Newbery, December: Drought
+Cosmo Newbery, February: Drought,Bushfire
+Cosmo Newbery, November: Drought
+Cosmo Newbery, October: Drought
+Cosmo Newbery, September: Drought
+Cossack (NT), October: Drought
+Cossack (NT), September: Drought
+Cossack (WA), October: Drought
+Costello, August: Drought
+Costello, December: Drought,Bushfire
+Costello, October: Drought
+Costello, September: Drought
+Cowangie, February: Drought
+Cowcowing, December: Drought
+Cowcowing, January: Drought
+Cowcowing, October: Drought
+Cradock, February: Drought
+Crescent, February: Drought
+Creswell, August: Drought
+Creswell, October: Drought
+Creswell, September: Drought
+Cringila, February: Drought
+Croobyar, October: Drought
+Croobyar, September: Drought
+Croom, February: Drought
+Croppa Creek, October: Drought
+Crossroads, October: Drought
+Croydon (Qld), August: Drought
+Croydon (Qld), October: Drought
+Croydon (Qld), September: Drought
+Cryon, September: Drought
+Crystal Brook (SA), February: Drought
+Cubba, January: Flood
+Cubba, October: Drought
+Cubba, September: Drought
+Cue, April: Drought
+Cue, December: Drought,Bushfire
+Cue, February: Drought,Bushfire
+Cue, January: Drought,Bushfire
+Cue, May: Drought
+Cue, November: Drought
+Cue, October: Drought
+Cue, September: Drought
+Culham, December: Drought
+Culham, February: Drought
+Cullalla, February: Drought
+Cullulleraine, February: Drought
+Cullulleraine, March: Drought
+Cumborah, November: Flood
+Cumborah, October: Drought
+Cumborah, September: Drought
+Cundeelee, October: Drought
+Cunderdin, December: Drought
+Cunjardine, December: Drought
+Cunnamulla, August: Drought
+Cunnamulla, October: Drought
+Cunnamulla, September: Drought
+Cunninyeuk, February: Drought
+Cuttabri, September: Drought
+Cuttaburra, August: Drought
+Cuttaburra, October: Drought
+Cuttaburra, September: Drought
+Daadenning Creek, December: Drought
+Daggar Hills, December: Drought,Bushfire
+Daggar Hills, February: Drought,Bushfire
+Daggar Hills, January: Drought,Bushfire
+Daggar Hills, November: Drought
+Daggar Hills, October: Drought
+Daguragu, August: Drought
+Daguragu, October: Drought,Bushfire
+Daguragu, September: Drought
+Dairymans Plains, February: Drought
+Dajarra, August: Drought
+Dajarra, December: Drought,Bushfire
+Dajarra, October: Drought
+Dajarra, September: Drought
+Dale, February: Drought
+Daliak, February: Drought
+Dalwallinu, December: Drought
+Dalwallinu, January: Drought
+Dalwallinu, October: Drought
+Daly Waters, August: Drought
+Daly Waters, October: Drought,Bushfire
+Daly Waters, September: Drought
+Dandanning, December: Drought
+Dandanning, January: Drought
+Dandanning, November: Drought
+Dandanning, October: Drought
+Danggali, February: Drought
+Dapto, February: Drought
+Dargal Road, October: Drought
+Dargal Road, September: Drought
+Darlington (WA), February: Drought
+Dartmoor (WA), April: Drought
+Dartmoor (WA), October: Drought
+Davenport (NT), April: Drought
+Davenport (NT), August: Drought
+Davenport (NT), December: Drought,Bushfire
+Davenport (NT), October: Drought
+Davenport (NT), September: Drought
+Dawson (SA), February: Drought
+Daymar, October: Drought
+Daymar, September: Drought
+De Grey, April: Drought
+De Grey, August: Drought
+De Grey, July: Drought
+De Grey, October: Drought
+Delamere (NT), August: Drought
+Delamere (NT), October: Drought
+Delamere (NT), September: Drought
+Denhams Beach, December: Drought
+Denhams Beach, February: Drought,Bushfire
+Denhams Beach, January: Drought
+Denhams Beach, March: Drought
+Denhams Beach, November: Drought
+Denhams Beach, October: Drought
+Denhams Beach, September: Drought
+Deniliquin, February: Drought
+Depot Beach, October: Drought
+Depot Beach, September: Drought
+Derby (WA), August: Drought
+Derby (WA), July: Drought
+Derby (WA), May: Drought
+Derby (WA), September: Drought
+Desert Springs, April: Drought
+Desert Springs, August: Drought
+Desert Springs, December: Drought
+Desert Springs, October: Drought
+Desert Springs, September: Drought
+Deua River Valley, December: Drought
+Deua River Valley, February: Drought,Bushfire
+Deua River Valley, January: Drought
+Deua River Valley, March: Drought
+Deua River Valley, November: Drought
+Deua River Valley, October: Drought
+Deua River Valley, September: Drought
+Devils Creek, April: Drought
+Devils Creek, February: Drought
+Devils Creek, October: Drought
+Devlins Pound, February: Drought
+Dewars Pool, February: Drought
+Dhuragoon, February: Drought
+Diamantina Lakes, April: Drought
+Diamantina Lakes, August: Drought
+Diamantina Lakes, December: Drought,Bushfire
+Diamantina Lakes, January: Flood
+Diamantina Lakes, November: Drought
+Diamantina Lakes, October: Drought
+Diamantina Lakes, September: Drought
+Dilpurra, February: Drought
+Dindiloa, April: Drought
+Dindiloa, February: Drought
+Dirranbandi, November: Flood
+Dirranbandi, October: Drought
+Dirranbandi, September: Drought
+Dolphin Point, October: Drought
+Dolphin Point, September: Drought
+Dombarton, February: Drought
+Doodlakine, October: Drought
+Doomadgee, September: Drought
+Dowerin, December: Drought
+Drildool, September: Drought
+Drillham South, October: Drought
+Dry Plain, February: Drought
+Drysdale River, August: Drought
+Duchess, August: Drought
+Duchess, December: Drought,Bushfire
+Duchess, November: Drought
+Duchess, October: Drought
+Duchess, September: Drought
+Dudawa, April: Drought
+Dudawa, December: Drought
+Dudawa, January: Drought
+Dudawa, October: Drought
+Dukin, December: Drought
+Dukin, January: Drought
+Dukin, November: Drought
+Dukin, October: Drought
+Dulacca, October: Drought
+Dulyalbin, November: Drought
+Dulyalbin, October: Drought
+Dumbarton, December: Drought
+Dumbarton, February: Drought
+Dunkeld (Qld), October: Drought
+Dunkeld (Qld), September: Drought
+Durack (WA), August: Drought
+Durack (WA), July: Drought
+Durack (WA), October: Drought,Bushfire
+Durack (WA), September: Drought
+Durham, August: Drought
+Durham, December: Drought,Bushfire
+Durham, March: Flood
+Durham, November: Drought,Bushfire
+Durham, October: Drought
+Durham, September: Drought
+Durham Downs, October: Drought
+Durras North, October: Drought
+Durras North, September: Drought
+Dutton River, August: Drought
+Dutton River, October: Drought
+Dutton River, September: Drought
+Eagleton, October: Drought
+East Ballidu, December: Drought
+East Ballidu, January: Drought
+East Ballidu, November: Drought
+East Ballidu, October: Drought
+East Beverley, December: Drought
+East Beverley, February: Drought
+East Bowes, April: Drought
+East Bowes, February: Drought
+East Corrimal, February: Drought
+East Creek, August: Drought
+East Creek, July: Drought
+East Creek, October: Drought,Bushfire
+East Creek, September: Drought
+East Damboring, December: Drought
+East Damboring, January: Drought
+East Damboring, November: Drought
+East Damboring, October: Drought
+East Lynne, October: Drought
+East Lynne, September: Drought
+East Lyons River, April: Drought
+East Lyons River, August: Drought
+East Lyons River, December: Drought,Bushfire
+East Lyons River, February: Drought,Bushfire
+East Lyons River, January: Drought,Bushfire
+East Lyons River, May: Drought
+East Lyons River, November: Drought,Bushfire
+East Lyons River, October: Drought
+East Lyons River, September: Drought
+East Murchison, August: Drought
+East Murchison, December: Drought,Bushfire
+East Murchison, February: Drought,Bushfire
+East Murchison, January: Drought,Bushfire
+East Murchison, May: Drought
+East Murchison, November: Drought
+East Murchison, October: Drought
+East Murchison, September: Drought
+East Seaham, October: Drought
+East Side, April: Drought
+East Side, August: Drought
+East Side, December: Drought
+East Side, October: Drought
+East Side, September: Drought
+East Yuna, April: Drought
+East Yuna, February: Drought
+Edgeroi, September: Drought
+Edith (NT), August: Drought
+Edith (NT), October: Drought
+Edith (NT), September: Drought
+Eenaweena, October: Drought
+Eganu, December: Drought
+Eighty Mile Beach, April: Drought,Bushfire
+Eighty Mile Beach, August: Drought
+Eighty Mile Beach, July: Drought
+Eighty Mile Beach, October: Drought
+Elabbin, December: Drought
+Elabbin, January: Drought
+Elabbin, October: Drought
+Elachbutting, December: Drought
+Elachbutting, January: Drought
+Elachbutting, November: Drought
+Elachbutting, October: Drought
+Elgin (Qld), October: Drought
+Ellendale (WA), April: Drought
+Ellerslie (Wentworth - NSW), February: Drought
+Ellerslie (Wentworth - NSW), March: Drought
+Elliott (NT), August: Drought
+Elliott (NT), December: Drought
+Elliott (NT), October: Drought,Bushfire
+Elliott (NT), September: Drought
+Elsey, October: Drought
+Elsey, September: Drought
+Emu Flat (SA), February: Drought
+Emu Flat (WA), December: Drought
+Emu Flat (WA), February: Drought
+Emu Flat (WA), October: Drought
+Emungalan, October: Drought
+Emungalan, September: Drought
+Eneabba, April: Drought
+Engawala, April: Drought
+Engawala, August: Drought
+Engawala, December: Drought,Bushfire
+Engawala, October: Drought
+Engawala, September: Drought
+Enngonia, February: Drought
+Enngonia, October: Drought
+Enngonia, September: Drought
+Ennuin, December: Drought
+Ennuin, January: Drought
+Ennuin, October: Drought
+Eradu, April: Drought
+Eradu South, April: Drought
+Eremerang, October: Drought
+Erigolia, February: Drought
+Erigolia, March: Drought
+Eromanga, August: Drought
+Eromanga, December: Drought,Bushfire
+Eromanga, November: Drought
+Eromanga, October: Drought
+Eromanga, September: Drought
+Erskine (SA), February: Drought
+Esmeralda, August: Drought
+Esmeralda, October: Drought
+Esmeralda, September: Drought
+Ettrema, December: Drought
+Ettrema, January: Flood
+Ettrema, October: Drought
+Ettrema, September: Drought
+Eulo, August: Drought
+Eulo, October: Drought
+Eulo, September: Drought
+Eumamurrin, October: Drought
+Eumamurrin, September: Drought
+Eurardy, April: Drought
+Eurardy, October: Drought
+Eurelia, February: Drought
+Eurella, October: Drought
+Eurella, September: Drought
+Eurombah, October: Drought
+Euromina, February: Drought
+Euston, February: Drought
+Euston, November: Flood
+Euthulla, October: Drought
+Euthulla, September: Drought
+Exeter (NSW), December: Drought
+Exeter (NSW), January: Flood
+Exeter (NSW), October: Drought
+Exeter (NSW), September: Drought
+Exmouth, October: Drought
+Exmouth Gulf, October: Drought,Bushfire
+Fairy Meadow, February: Drought
+Farina, February: Drought,Bushfire
+Farina, March: Drought
+Farina, November: Drought
+Farina, October: Drought
+Farina, September: Drought
+Farmborough Heights, February: Drought
+Farrars Creek, August: Drought
+Farrars Creek, December: Bushfire
+Farrars Creek, November: Bushfire
+Farrars Creek, October: Drought
+Farrars Creek, September: Drought
+Fernhill, February: Drought
+Ferodale, October: Drought
+Feysville, December: Drought
+Feysville, February: Drought
+Feysville, October: Drought
+Fielding, August: Drought
+Fielding, July: Drought
+Fielding, October: Drought,Bushfire
+Fielding, September: Drought
+Figtree, February: Drought
+Fimiston, December: Drought
+Fimiston, February: Drought
+Fimiston, October: Drought
+Finke, April: Drought
+Finke, August: Drought
+Finke, December: Drought,Bushfire
+Finke, February: Drought,Bushfire
+Finke, January: Drought,Bushfire
+Finke, October: Drought
+Finke, September: Drought
+Finucane, April: Drought
+Finucane, July: Drought
+Fisher (Qld), August: Drought
+Fisher (Qld), December: Drought
+Fisher (Qld), October: Drought
+Fisher (Qld), September: Drought
+Fitzroy Crossing, April: Drought
+Fitzroy Crossing, August: Drought
+Fitzroy Crossing, December: Drought
+Fitzroy Crossing, July: Drought
+Fitzroy Crossing, June: Drought
+Fitzroy Crossing, May: Drought
+Fitzroy Crossing, October: Drought,Bushfire
+Fitzroy Crossing, September: Drought,Bushfire
+Fitzroy Falls, December: Drought
+Fitzroy Falls, January: Flood
+Fitzroy Falls, October: Drought
+Fitzroy Falls, September: Drought
+Five Ways, October: Drought
+Flat Tops, October: Drought
+Flinders (NSW), February: Drought
+Flinders Ranges, February: Drought,Bushfire
+Flinders Ranges, March: Drought
+Flinders Ranges, November: Drought
+Flinders Ranges, October: Drought
+Flinders Ranges, September: Drought
+Flint, February: Drought
+Flinton, October: Drought
+Flinton, September: Drought
+Florina, October: Drought
+Florina, September: Drought
+Florina Station, December: Drought
+Florina Station, February: Drought
+Florina Station, September: Drought
+Flynn (NT), April: Drought
+Flynn (NT), August: Drought
+Flynn (NT), December: Drought
+Flynn (NT), October: Drought
+Flynn (NT), September: Drought
+Flynn (WA), February: Drought
+Fords Bridge, February: Drought
+Fords Bridge, October: Drought
+Fords Bridge, September: Drought
+Forestvale, October: Drought
+Forestvale, September: Drought
+Fork Lagoons, October: Drought
+Forsayth, October: Drought
+Fortescue (WA), April: Drought
+Fortescue (WA), August: Drought
+Fortescue (WA), December: Drought
+Fortescue (WA), February: Drought
+Fortescue (WA), January: Drought
+Fortescue (WA), May: Drought
+Fortescue (WA), November: Drought,Bushfire
+Fortescue (WA), October: Drought,Bushfire
+Fortescue (WA), September: Drought
+Four Ways, August: Drought
+Four Ways, July: Drought
+Four Ways, October: Bushfire
+Four Ways, September: Drought
+Fowlers Gap, December: Drought
+Fowlers Gap, January: Drought
+Fowlers Gap, March: Drought
+Fowlers Gap, September: Drought
+Franklyn, February: Drought
+Frome Downs, December: Drought
+Frome Downs, February: Drought,Bushfire
+Frome Downs, January: Drought
+Frome Downs, March: Drought
+Frome Downs, November: Drought
+Frome Downs, October: Drought
+Frome Downs, September: Drought
+Gabbin, December: Drought
+Gabbin, January: Drought
+Gabbin, November: Drought
+Gabbin, October: Drought
+Gammon Ranges, December: Drought
+Gammon Ranges, February: Drought
+Gammon Ranges, January: Drought
+Gammon Ranges, March: Drought
+Gammon Ranges, November: Drought
+Gammon Ranges, October: Drought
+Gammon Ranges, September: Drought
+Gap Ridge, October: Drought
+Garah, October: Drought
+Garah, September: Drought
+Gascoyne Junction, April: Drought
+Gascoyne Junction, August: Drought
+Gascoyne Junction, December: Drought
+Gascoyne Junction, February: Drought,Bushfire
+Gascoyne Junction, January: Drought
+Gascoyne Junction, March: Drought
+Gascoyne Junction, May: Drought
+Gascoyne Junction, October: Drought
+Gascoyne River, August: Drought
+Gascoyne River, December: Drought,Bushfire
+Gascoyne River, February: Drought,Bushfire
+Gascoyne River, January: Drought,Bushfire
+Gascoyne River, March: Drought
+Gascoyne River, May: Drought
+Gascoyne River, November: Drought
+Gascoyne River, October: Drought
+Gascoyne River, September: Drought
+Gawler Ranges, February: Drought
+Geegully Creek, April: Drought,Bushfire
+Geegully Creek, August: Drought
+Geegully Creek, December: Drought
+Geegully Creek, July: Drought
+Geegully Creek, October: Drought,Bushfire
+Geegully Creek, September: Drought,Bushfire
+Georgetown (Qld), October: Drought
+Georgetown (Qld), September: Drought
+Georgetown (SA), February: Drought
+Georgina (Qld), April: Drought
+Georgina (Qld), August: Drought
+Georgina (Qld), December: Drought,Bushfire
+Georgina (Qld), November: Drought
+Georgina (Qld), October: Drought
+Georgina (Qld), September: Drought
+Gerahmin, February: Drought
+Gerard, February: Drought
+Germein Bay, February: Drought
+Ghan, April: Drought
+Ghan, August: Drought
+Ghan, December: Drought
+Ghan, February: Drought,Bushfire
+Ghan, January: Drought,Bushfire
+Ghan, October: Drought
+Ghan, September: Drought
+Ghooli, December: Drought
+Ghooli, January: Drought
+Ghooli, November: Drought
+Ghooli, October: Drought
+Gibb, August: Drought
+Gibb, July: Drought
+Gibb, October: Drought,Bushfire
+Gibb, September: Drought
+Gibson Desert North, April: Drought
+Gibson Desert North, August: Drought
+Gibson Desert North, December: Drought,Bushfire
+Gibson Desert North, February: Drought,Bushfire
+Gibson Desert North, July: Drought
+Gibson Desert North, May: Drought
+Gibson Desert North, November: Drought,Bushfire
+Gibson Desert North, October: Drought
+Gibson Desert North, September: Drought
+Gibson Desert South, April: Drought
+Gibson Desert South, August: Drought
+Gibson Desert South, December: Drought,Bushfire
+Gibson Desert South, February: Drought,Bushfire
+Gibson Desert South, January: Bushfire
+Gibson Desert South, May: Drought
+Gibson Desert South, November: Drought,Bushfire
+Gibson Desert South, October: Drought
+Gibson Desert South, September: Drought
+Gidgealpa, April: Drought
+Gidgealpa, August: Drought
+Gidgealpa, December: Drought,Bushfire
+Gidgealpa, February: Flood
+Gidgealpa, November: Drought,Bushfire
+Gidgealpa, October: Drought
+Gidgealpa, September: Drought
+Gidgegannup, February: Drought
+Gidya, August: Drought
+Gidya, July: Drought
+Gidya, October: Drought
+Gidya, September: Drought
+Gilbert River, August: Drought
+Gilbert River, October: Drought
+Gilbert River, September: Drought
+Gilberton (Etheridge - Qld), October: Drought
+Gilgering, December: Drought
+Gilgering, February: Drought
+Gilgooma, September: Drought
+Gilgunnia, September: Drought
+Gillen, April: Drought
+Gillen, August: Drought
+Gillen, December: Drought
+Gillen, October: Drought
+Gillen, September: Drought
+Gilroyd, April: Drought
+Gilroyd, December: Drought
+Gilroyd, February: Drought,Bushfire
+Gilroyd, January: Drought
+Gilroyd, March: Drought
+Gilroyd, May: Drought
+Gilroyd, October: Drought
+Gingerah, April: Drought
+Gingerah, August: Drought
+Gingerah, July: Drought
+Gingerah, May: Drought
+Gingerah, October: Drought,Bushfire
+Gingerah, September: Drought
+Gingin, February: Drought
+Ginginup, February: Drought
+Girilambone, October: Drought
+Girilambone, September: Drought
+Girvan, October: Drought
+Gladstone (SA), February: Drought
+Glen Forrest, February: Drought
+Glen Martin, October: Drought
+Glen William, October: Drought
+Glendambo, February: Drought
+Glendambo, March: Drought
+Glendambo, November: Drought
+Glendambo, October: Drought
+Glendambo, September: Drought
+Glenmorgan, October: Drought
+Glenmorgan, September: Drought
+Glossop, February: Drought
+Golden Heights, February: Drought
+Gongolgon, October: Drought
+Gongolgon, September: Drought
+Gonn, February: Drought
+Gonn Crossing, February: Drought
+Good Hope Landing, February: Drought
+Goodar, October: Drought
+Goodar, September: Drought
+Goodlands, December: Drought
+Goodlands, January: Drought
+Goodlands, October: Drought
+Goodnight, February: Drought
+Goodooga, November: Flood
+Goodooga, October: Drought
+Goodooga, September: Drought
+Goomalling, December: Drought
+Goomarin, December: Drought
+Goomarin, January: Drought
+Goomarin, November: Drought
+Goomarin, October: Drought
+Goombi, October: Drought
+Goondiwindi, October: Drought
+Goorianawa, September: Drought
+Gooseberry Hill, February: Drought
+Goranba, October: Drought
+Gorrie, February: Drought
+Gowanford, February: Drought
+Gowrie Station, August: Drought
+Gowrie Station, October: Drought
+Gowrie Station, September: Drought
+Grampus, February: Drought
+Grampus, September: Drought
+Granville (WA), February: Drought
+Grass Valley, December: Drought
+Greenhills, December: Drought
+Greenhills, February: Drought
+Greenmount (WA), February: Drought
+Greenswamp, October: Drought
+Greenwoods Valley, December: Drought
+Gregory (NT), August: Drought
+Gregory (NT), October: Drought,Bushfire
+Gregory (NT), September: Drought
+Gregory (Qld), August: Drought
+Gregory (Qld), October: Drought
+Gregory (Qld), September: Drought
+Grosmont, October: Drought
+Guerilla Bay, December: Drought
+Guerilla Bay, February: Drought,Bushfire
+Guerilla Bay, January: Drought
+Guerilla Bay, March: Drought
+Guerilla Bay, November: Drought
+Guerilla Bay, October: Drought
+Guerilla Bay, September: Drought
+Gulargambone, September: Drought
+Gulnare, February: Drought
+Gunderbooka, October: Drought
+Gunderbooka, September: Drought
+Gungalman, October: Drought
+Gungalman, September: Drought
+Gunnewin, October: Drought
+Gunnewin, September: Drought
+Gunpowder, August: Drought
+Gunpowder, December: Drought
+Gunpowder, October: Drought
+Gunpowder, September: Drought
+Gunyidi, December: Drought
+Gunyidi, January: Drought
+Gunyidi, October: Drought
+Gurindji, April: Drought
+Gurindji, August: Drought
+Gurindji, July: Drought
+Gurindji, October: Drought,Bushfire
+Gurindji, September: Drought
+Gurley, September: Drought
+Gurra Gurra, February: Drought
+Gutha, April: Drought
+Gutha, December: Drought
+Gutha, February: Drought,Bushfire
+Gutha, January: Drought
+Gutha, October: Drought
+Gwabegar, September: Drought
+Gwambygine, December: Drought
+Gwambygine, February: Drought
+Gwynneville, February: Drought
+Haasts Bluff, April: Drought
+Haasts Bluff, August: Drought
+Haasts Bluff, February: Drought
+Haasts Bluff, January: Drought
+Haasts Bluff, October: Drought
+Haasts Bluff, September: Drought
+Hacketts Gully, February: Drought
+Hacklins Corner, February: Drought
+Hale, April: Drought
+Hale, August: Drought
+Hale, December: Drought,Bushfire
+Hale, February: Drought
+Hale, January: Drought
+Hale, October: Drought
+Hale, September: Drought
+Hallett, February: Drought
+Halls Creek (WA), April: Drought
+Halls Creek (WA), August: Drought
+Halls Creek (WA), December: Drought
+Halls Creek (WA), July: Drought
+Halls Creek (WA), October: Drought,Bushfire
+Halls Creek (WA), September: Drought
+Hamelin Pool, April: Drought
+Hamelin Pool, October: Drought
+Hamersley Range, April: Drought
+Hamersley Range, August: Drought
+Hamersley Range, December: Drought,Bushfire
+Hamersley Range, February: Drought
+Hamersley Range, May: Drought
+Hamersley Range, November: Drought,Bushfire
+Hamersley Range, October: Drought,Bushfire
+Hamersley Range, September: Drought
+Hammond, February: Drought
+Hannaford, October: Drought
+Hannans, December: Drought
+Hannans, February: Drought
+Hannans, October: Drought
+Happy Valley (Qld), August: Drought
+Happy Valley (Qld), December: Drought
+Happy Valley (Qld), October: Drought
+Happy Valley (Qld), September: Drought
+Happy Valley (Swan Hill - Vic.), February: Drought
+Hardy, February: Drought
+Hart (NT), April: Drought
+Hart (NT), August: Drought
+Hart (NT), December: Drought,Bushfire
+Hart (NT), January: Drought
+Hart (NT), October: Drought
+Hart (NT), September: Drought
+Hart (SA), February: Drought
+Hatfield, February: Drought
+Hattah, February: Drought
+Hawker (SA), February: Drought
+Hawker (SA), March: Drought
+Hawker (SA), November: Drought
+Hawker (SA), September: Drought
+Hay South, February: Drought
+Haywards Bay, February: Drought
+Healy, August: Drought
+Healy, December: Drought
+Healy, October: Drought
+Healy, September: Drought
+Heatherbrae, October: Drought
+Hebel, November: Flood
+Hebel, October: Drought
+Hebel, September: Drought
+Helena Valley, February: Drought
+Hermannsburg, April: Drought
+Hermannsburg, August: Drought
+Hermannsburg, December: Drought
+Hermannsburg, February: Drought,Bushfire
+Hermannsburg, January: Drought
+Hermannsburg, October: Drought
+Hermannsburg, September: Drought
+Hermidale, October: Drought
+Hermidale, September: Drought
+Hibernia, October: Drought
+Highland Plains (Maranoa - Qld), October: Drought
+Hill River (SA), February: Drought
+Hilltown, February: Drought
+Hindmarsh (WA), December: Drought
+Hindmarsh (WA), January: Drought
+Hindmarsh (WA), October: Drought
+Hines Hill, October: Drought
+Hoddys Well, December: Drought
+Hoddys Well, February: Drought
+Hodgson, October: Drought
+Hodgson, September: Drought
+Holder (SA), February: Drought
+Holmwood, April: Drought
+Holmwood, February: Drought
+Holmwood, October: Drought
+Honeybugle, October: Drought
+Hornsdale, February: Drought
+Horsley, February: Drought
+Hovea, February: Drought
+Huddleston, February: Drought
+Hugh, April: Drought
+Hugh, August: Drought
+Hugh, December: Drought
+Hugh, February: Drought,Bushfire
+Hugh, January: Drought
+Hugh, October: Drought
+Hugh, September: Drought
+Hughenden, August: Drought
+Hughenden, October: Drought
+Hughenden, September: Drought
+Hulongine, December: Drought
+Humeburn, August: Drought
+Humeburn, October: Drought
+Humeburn, September: Drought
+Hungerford (NSW), August: Drought
+Hungerford (NSW), December: Bushfire
+Hungerford (NSW), September: Drought
+Hungerford (Qld), August: Drought
+Hungerford (Qld), December: Bushfire
+Hungerford (Qld), February: Drought
+Hungerford (Qld), October: Drought
+Hungerford (Qld), September: Drought
+Huntley (Wollongong - NSW), February: Drought
+Hutton Creek, October: Drought
+Hutton Creek, September: Drought
+Ikewa, April: Drought
+Ikewa, February: Drought
+Ikewa, October: Drought
+Ilfracombe, August: Drought
+Ilfracombe, October: Drought
+Ilfracombe, September: Drought
+Illaroo, December: Drought
+Illaroo, January: Flood
+Illaroo, October: Drought
+Illaroo, September: Drought
+Ilparpa, April: Drought
+Ilparpa, August: Drought
+Ilparpa, December: Drought
+Ilparpa, October: Drought
+Ilparpa, September: Drought
+Imanpa, April: Drought
+Imanpa, August: Drought
+Imanpa, December: Drought,Bushfire
+Imanpa, February: Drought,Bushfire
+Imanpa, January: Drought
+Imanpa, October: Drought
+Imanpa, September: Drought
+Indee, April: Drought
+Indee, August: Drought
+Indee, July: Drought
+Indee, May: Drought
+Indee, November: Drought
+Indee, October: Drought,Bushfire
+Indee, September: Drought
+Inggarda, April: Drought
+Inggarda, February: Drought
+Inggarda, October: Drought
+Inglestone, October: Drought
+Inglestone, September: Drought
+Ingomar, February: Drought
+Ingomar, March: Drought
+Ingomar, October: Drought
+Ingomar, September: Drought
+Injune, October: Drought
+Inkpen, February: Drought
+Innamincka, August: Drought
+Innamincka, December: Drought,Bushfire
+Innamincka, February: Flood
+Innamincka, October: Drought
+Innamincka, September: Drought
+Innawanga, April: Drought
+Innawanga, August: Drought
+Innawanga, December: Drought,Bushfire
+Innawanga, February: Drought,Bushfire
+Innawanga, January: Drought,Bushfire
+Innawanga, July: Drought
+Innawanga, March: Flood
+Innawanga, May: Drought
+Innawanga, November: Drought,Bushfire
+Innawanga, October: Drought,Bushfire
+Innawanga, September: Drought
+Iraak, February: Drought
+Irishtown (WA), December: Drought
+Irishtown (WA), February: Drought
+Irlpme, April: Drought
+Irlpme, August: Drought
+Irlpme, December: Drought
+Irlpme, October: Drought
+Irlpme, September: Drought
+Irrunytju, April: Drought
+Irrunytju, August: Drought
+Irrunytju, December: Drought
+Irrunytju, February: Drought,Bushfire
+Irrunytju, January: Drought
+Irrunytju, May: Drought
+Irrunytju, October: Drought
+Irrunytju, September: Drought
+Irwin, April: Drought
+Irymple (NSW), September: Drought
+Irymple (Vic.), February: Drought
+Isisford, August: Drought
+Isisford, October: Drought
+Isisford, September: Drought
+Island Lagoon, February: Drought
+Island Lagoon, November: Drought
+Island Lagoon, October: Drought
+Island Lagoon, September: Drought
+Isseka, April: Drought
+Isseka, February: Drought
+Ivanhoe (NSW), December: Drought
+Ivanhoe (NSW), January: Flood
+Ivanhoe (NSW), March: Drought
+Ivanhoe (NSW), September: Drought
+Iwantja, April: Drought
+Iwantja, August: Drought
+Iwantja, February: Drought,Bushfire
+Iwantja, October: Drought
+Iwantja, September: Drought
+Jackson, October: Drought
+Jackson North, October: Drought
+Jackson South, October: Drought
+Jamestown, February: Drought
+Jane Brook, February: Drought
+Jarlmadangah Burru, April: Drought
+Jarlmadangah Burru, August: Drought
+Jarlmadangah Burru, July: Drought
+Jarlmadangah Burru, May: Drought
+Jarlmadangah Burru, October: Drought
+Jarlmadangah Burru, September: Drought
+Jelcobine, February: Drought
+Jennacubbine, December: Drought
+Jennacubbine, February: Drought
+Jennapullin, December: Drought
+Jennapullin, February: Drought
+Jeremadra, December: Drought
+Jeremadra, February: Drought,Bushfire
+Jeremadra, January: Drought
+Jeremadra, March: Drought
+Jeremadra, November: Drought
+Jeremadra, October: Drought
+Jeremadra, September: Drought
+Jericho (Qld), October: Drought
+Jericho (Qld), September: Drought
+Jews Lagoon, October: Drought
+Jews Lagoon, September: Drought
+Jibberding, December: Drought
+Jibberding, January: Drought
+Jibberding, October: Drought
+Jigalong, April: Drought
+Jigalong, August: Drought
+Jigalong, December: Drought,Bushfire
+Jigalong, February: Drought,Bushfire
+Jigalong, May: Drought
+Jigalong, November: Drought,Bushfire
+Jigalong, October: Drought
+Jigalong, September: Drought
+Jilkminggan, October: Drought
+Jilkminggan, September: Drought
+Jobs Gate, October: Drought
+Jobs Gate, September: Drought
+Johnburgh, February: Drought
+Julia Creek, August: Drought
+Julia Creek, December: Drought
+Julia Creek, October: Drought
+Julia Creek, September: Drought
+Julimar, February: Drought
+Juna Downs, April: Drought
+Juna Downs, August: Drought
+Juna Downs, December: Drought,Bushfire
+Juna Downs, February: Drought,Bushfire
+Juna Downs, July: Drought
+Juna Downs, May: Drought
+Juna Downs, November: Drought,Bushfire
+Juna Downs, October: Drought
+Juna Downs, September: Drought
+Jundah, August: Drought
+Jundah, October: Drought
+Jundah, September: Drought
+Kadathinni, April: Drought
+Kalamunda, February: Drought
+Kalamurina, April: Drought
+Kalamurina, December: Drought,Bushfire
+Kalamurina, January: Drought,Bushfire
+Kalamurina, November: Drought,Bushfire
+Kalamurina, October: Drought
+Kalamurina, September: Drought
+Kalannie, December: Drought
+Kalannie, January: Drought
+Kalannie, October: Drought
+Kalbarri National Park, April: Drought
+Kalgoorlie, December: Drought
+Kalgoorlie, February: Drought
+Kalgoorlie, October: Drought
+Kalka, April: Drought
+Kalka, August: Drought
+Kalka, December: Drought
+Kalka, February: Drought,Bushfire
+Kalka, May: Drought
+Kalka, October: Drought
+Kalka, September: Drought
+Kalkadoon, August: Drought
+Kalkadoon, December: Drought
+Kalkadoon, October: Drought
+Kalkadoon, September: Drought
+Kalkarindji, August: Drought
+Kalkarindji, October: Drought,Bushfire
+Kalkarindji, September: Drought
+Kaltjiti, April: Drought
+Kaltjiti, August: Drought
+Kaltjiti, December: Drought
+Kaltjiti, February: Drought,Bushfire
+Kaltjiti, October: Drought
+Kaltjiti, September: Drought
+Kaltukatjara, April: Drought
+Kaltukatjara, August: Drought
+Kaltukatjara, December: Drought,Bushfire
+Kaltukatjara, February: Drought,Bushfire
+Kaltukatjara, May: Drought
+Kaltukatjara, November: Drought
+Kaltukatjara, October: Drought
+Kaltukatjara, September: Drought
+Kambalda East, December: Drought
+Kambalda East, October: Drought
+Kambalda West, December: Drought
+Kambalda West, October: Drought
+Kanahooka, February: Drought
+Kangaroo Valley, December: Drought
+Kangaroo Valley, January: Flood
+Kangaroo Valley, October: Drought
+Kangaroo Valley, September: Drought
+Kanowna, December: Drought
+Kanowna, February: Drought
+Kanowna, October: Drought
+Kanowna, September: Drought
+Kanpa, April: Drought
+Kanpa, August: Drought
+Kanpa, December: Drought,Bushfire
+Kanpa, February: Drought,Bushfire
+Kanpa, January: Drought,Bushfire
+Kanpa, May: Drought
+Kanpa, November: Drought,Bushfire
+Kanpa, October: Drought
+Kanpa, September: Drought
+Kanpi, April: Drought
+Kanpi, August: Drought
+Kanpi, February: Drought
+Kanpi, October: Drought
+Kanpi, September: Drought
+Kanyaka, February: Drought
+Kanyaka, March: Drought
+Kanyaka, October: Drought
+Kanyaka, September: Drought
+Karalundi, August: Drought
+Karalundi, December: Drought,Bushfire
+Karalundi, February: Drought,Bushfire
+Karalundi, May: Drought
+Karalundi, November: Drought,Bushfire
+Karalundi, October: Drought
+Karalundi, September: Drought
+Karijini, April: Drought
+Karijini, August: Drought
+Karijini, December: Drought,Bushfire
+Karijini, February: Drought,Bushfire
+Karijini, January: Drought
+Karijini, July: Drought
+Karijini, May: Drought
+Karijini, November: Drought,Bushfire
+Karijini, October: Drought
+Karijini, September: Drought
+Karlkurla, December: Drought
+Karlkurla, February: Drought
+Karlkurla, October: Drought
+Karloning, December: Drought
+Karloning, January: Drought
+Karloning, October: Drought
+Karramindie, December: Drought
+Karramindie, October: Drought
+Karranadgin, December: Drought
+Karratha, October: Drought
+Karratha Industrial Estate, October: Drought
+Karron, August: Drought
+Karron, October: Drought
+Karron, September: Drought
+Karroun Hill, December: Drought
+Karroun Hill, February: Drought
+Karroun Hill, January: Drought
+Karroun Hill, November: Drought
+Karroun Hill, October: Drought
+Karuah, October: Drought
+Katarapko, February: Drought
+Katherine, October: Drought
+Katherine, September: Drought
+Katherine East, October: Drought
+Katherine East, September: Drought
+Katherine South, October: Drought
+Katherine South, September: Drought
+Katrine, December: Drought
+Katrine, February: Drought
+Kauring, December: Drought
+Kauring, February: Drought
+Keiraville, February: Drought
+Kellerberrin, December: Drought
+Kembla Grange, February: Drought
+Kembla Heights, February: Drought
+Kenebri, September: Drought
+Kenley, February: Drought
+Kennedy Range, February: Drought
+Kennedy Range, October: Drought
+Keri Keri, February: Drought
+Kerrigundi, October: Drought
+Kerrigundi, September: Drought
+Kilgariff, April: Drought
+Kilgariff, August: Drought
+Kilgariff, December: Drought
+Kilgariff, October: Drought
+Kilgariff, September: Drought
+Kilmorey Falls, October: Drought
+Kilmorey Falls, September: Drought
+Kindon, October: Drought
+King Leopold Ranges, April: Drought
+King Leopold Ranges, August: Drought
+King Leopold Ranges, July: Drought
+King Leopold Ranges, May: Drought
+King Leopold Ranges, October: Drought
+King Leopold Ranges, September: Drought
+Kingoonya, February: Drought
+Kingoonya, March: Drought
+Kingoonya, November: Drought
+Kingoonya, October: Drought
+Kingoonya, September: Drought
+Kings Point, October: Drought
+Kings Point, September: Drought
+Kingston On Murray, February: Drought
+Kinnoul, October: Drought
+Kintore, April: Drought
+Kintore, August: Drought
+Kintore, December: Drought,Bushfire
+Kintore, February: Drought,Bushfire
+Kintore, July: Drought
+Kintore, May: Drought
+Kintore, October: Drought
+Kintore, September: Drought
+Kioloa, October: Drought
+Kioloa, September: Drought
+Kioma, October: Drought
+Kioma, September: Drought
+Kiora, December: Drought
+Kiora, February: Drought,Bushfire
+Kiora, January: Drought
+Kiora, March: Drought
+Kiora, November: Drought
+Kiora, October: Drought
+Kiora, September: Drought
+Kokeby, February: Drought
+Kondoolka, February: Drought
+Kondut, December: Drought
+Kondut, January: Drought
+Kondut, November: Drought
+Konnongorring, December: Drought
+Kookynie, December: Drought
+Kookynie, February: Drought
+Kookynie, October: Drought
+Kookynie, September: Drought
+Koolanooka, April: Drought
+Koolanooka, December: Drought
+Koolanooka, February: Drought
+Koolanooka, January: Drought
+Koolanooka, November: Drought
+Koolanooka, October: Drought
+Kooloonong, February: Drought
+Koolyanobbing, December: Drought
+Koolyanobbing, January: Drought
+Koolyanobbing, October: Drought
+Koomberkine, December: Drought
+Koonamore, February: Drought
+Koonamore, November: Drought
+Koonawarra, February: Drought
+Koondrook, February: Drought
+Koongamia, February: Drought
+Koorda, December: Drought
+Koorda, January: Drought
+Koorda, November: Drought
+Koorda, October: Drought
+Koorlong, February: Drought
+Koraleigh, February: Drought
+Korbel, October: Drought
+Korrelocking, December: Drought
+Korrelocking, January: Drought
+Korrelocking, November: Drought
+Korrelocking, October: Drought
+Kringin, February: Drought
+Kulja, December: Drought
+Kulja, January: Drought
+Kulja, October: Drought
+Kulwin (NSW), January: Flood
+Kulwin (NSW), November: Flood
+Kulwin (NSW), September: Drought
+Kulwin (Vic.), February: Drought
+Kumarina, April: Drought
+Kumarina, December: Drought,Bushfire
+Kumarina, February: Drought,Bushfire
+Kumarina, May: Drought
+Kumarina, November: Drought,Bushfire
+Kumarina, October: Drought
+Kumarina, September: Drought
+Kundat Djaru, April: Drought
+Kundat Djaru, August: Drought
+Kundat Djaru, December: Drought
+Kundat Djaru, July: Drought
+Kundat Djaru, May: Drought
+Kundat Djaru, October: Drought,Bushfire
+Kundat Djaru, September: Drought
+Kunparrka, April: Drought
+Kunparrka, August: Drought
+Kunparrka, December: Drought,Bushfire
+Kunparrka, February: Drought
+Kunparrka, October: Drought
+Kunparrka, September: Drought
+Kununoppin, December: Drought
+Kununoppin, January: Drought
+Kununoppin, October: Drought
+Kununurra, August: Drought
+Kununurra, July: Drought
+Kununurra, October: Drought
+Kununurra, September: Drought
+Kupartiya, April: Drought
+Kupartiya, August: Drought
+Kupartiya, December: Drought,Bushfire
+Kupartiya, July: Drought
+Kupartiya, October: Drought,Bushfire
+Kupartiya, September: Drought
+Kuridala, August: Drought
+Kuridala, December: Drought,Bushfire
+Kuridala, October: Drought
+Kuridala, September: Drought
+Kurnalpi, December: Drought
+Kurnalpi, February: Drought
+Kurnalpi, October: Drought
+Kurnalpi, September: Drought
+Kurumbul, October: Drought
+Kweda, February: Drought
+Kwelkan, December: Drought
+Kwelkan, January: Drought
+Kwelkan, October: Drought
+Kwolyin, December: Drought
+Kyalite, February: Drought
+Kynuna, August: Drought
+Kynuna, December: Drought
+Kynuna, November: Drought
+Kynuna, October: Drought
+Kynuna, September: Drought
+Laglan, October: Drought
+Laglan, September: Drought
+Lagrange, April: Drought
+Lagrange, August: Drought
+Lagrange, July: Drought
+Lagrange, May: Drought
+Lajamanu, April: Drought
+Lajamanu, August: Drought
+Lajamanu, December: Drought
+Lajamanu, July: Drought
+Lajamanu, October: Drought
+Lajamanu, September: Drought
+Lake Argyle, August: Drought
+Lake Argyle, October: Drought
+Lake Argyle, September: Drought
+Lake Austin, April: Drought
+Lake Austin, December: Drought,Bushfire
+Lake Austin, February: Drought,Bushfire
+Lake Austin, January: Drought,Bushfire
+Lake Austin, May: Drought
+Lake Austin, November: Drought
+Lake Austin, October: Drought
+Lake Austin, September: Drought
+Lake Brown, December: Drought
+Lake Brown, January: Drought
+Lake Brown, November: Drought
+Lake Brown, October: Drought
+Lake Carnegie, April: Drought
+Lake Carnegie, December: Drought,Bushfire
+Lake Carnegie, February: Drought,Bushfire
+Lake Carnegie, November: Drought
+Lake Carnegie, October: Drought
+Lake Carnegie, September: Drought
+Lake Charm, February: Drought
+Lake Darlot, December: Drought,Bushfire
+Lake Darlot, February: Drought,Bushfire
+Lake Darlot, November: Drought
+Lake Darlot, October: Drought
+Lake Darlot, September: Drought
+Lake Deborah, December: Drought
+Lake Deborah, February: Drought
+Lake Deborah, January: Drought
+Lake Deborah, November: Drought
+Lake Deborah, October: Drought
+Lake Everard, February: Drought
+Lake Everard, March: Drought
+Lake Everard, September: Drought
+Lake Eyre, April: Drought
+Lake Eyre, February: Drought,Bushfire
+Lake Eyre, March: Bushfire
+Lake Eyre, November: Drought
+Lake Eyre, October: Drought
+Lake Eyre, September: Drought
+Lake Frome, December: Drought
+Lake Frome, February: Drought,Bushfire
+Lake Frome, January: Drought
+Lake Frome, March: Drought
+Lake Frome, November: Drought
+Lake Frome, October: Drought
+Lake Frome, September: Drought
+Lake Gairdner, February: Drought
+Lake Gairdner, March: Drought
+Lake Gairdner, November: Drought
+Lake Gairdner, September: Drought
+Lake Heights, February: Drought
+Lake Hinds, December: Drought
+Lake Illawarra, February: Drought
+Lake Macfarlane, February: Drought
+Lake Macfarlane, September: Drought
+Lake Mackay, April: Drought
+Lake Mackay, August: Drought
+Lake Mackay, December: Drought,Bushfire
+Lake Mackay, July: Drought
+Lake Mackay, May: Drought
+Lake Mackay, October: Drought
+Lake Mackay, September: Drought
+Lake Margarette, December: Drought
+Lake Margarette, January: Drought
+Lake Margarette, November: Drought
+Lake Margarette, October: Drought
+Lake Ninan, December: Drought
+Lake Powell, February: Drought
+Lake Tabourie, October: Drought
+Lake Tabourie, September: Drought
+Lake Torrens, February: Drought
+Lake Torrens, March: Drought
+Lake Torrens, November: Drought
+Lake Torrens, October: Drought
+Lake Torrens, September: Drought
+Lake Tyrrell, February: Drought
+Lake Wells, August: Drought
+Lake Wells, December: Drought,Bushfire
+Lake Wells, February: Drought,Bushfire
+Lake Wells, November: Drought
+Lake Wells, October: Drought
+Lake Wells, September: Drought
+Lake Wyangan, November: Flood
+Lamington (WA), December: Drought
+Lamington (WA), February: Drought
+Lamington (WA), October: Drought
+Langlo, August: Drought
+Langlo, October: Drought
+Langlo, September: Drought
+Lansdowne (NT), October: Drought
+Lansdowne (NT), September: Drought
+Lansdowne (Qld), August: Drought
+Lansdowne (Qld), October: Drought
+Lansdowne (Qld), September: Drought
+Lanskey, August: Drought
+Lanskey, December: Drought
+Lanskey, October: Drought
+Lanskey, September: Drought
+Laramba, April: Drought
+Laramba, August: Drought
+Laramba, December: Drought,Bushfire
+Laramba, January: Drought
+Laramba, October: Drought
+Laramba, September: Drought
+Larapinta (NT), April: Drought
+Larapinta (NT), August: Drought
+Larapinta (NT), December: Drought
+Larapinta (NT), October: Drought
+Larapinta (NT), September: Drought
+Larrimah, August: Drought
+Larrimah, October: Drought
+Larrimah, September: Drought
+Lascelles, February: Drought
+Latham (WA), April: Drought
+Latham (WA), December: Drought
+Latham (WA), February: Bushfire
+Latham (WA), January: Drought
+Latham (WA), November: Drought
+Latham (WA), October: Drought
+Laura (SA), February: Drought
+Laverton (WA), February: Drought
+Laverton (WA), November: Drought
+Laverton (WA), October: Drought
+Laverton (WA), September: Drought
+Lawn Hill, August: Drought
+Lawn Hill, July: Drought
+Lawn Hill, October: Drought
+Lawn Hill, September: Drought
+Learmonth (WA), October: Drought
+Leigh Creek (SA), February: Drought,Bushfire
+Leigh Creek (SA), January: Drought
+Leigh Creek (SA), March: Drought
+Leigh Creek (SA), November: Drought
+Leigh Creek (SA), October: Drought
+Leigh Creek (SA), September: Drought
+Leigh Creek Station, February: Drought,Bushfire
+Leigh Creek Station, January: Drought
+Leigh Creek Station, March: Drought
+Leigh Creek Station, November: Drought
+Leigh Creek Station, October: Drought
+Leigh Creek Station, September: Drought
+Leinster, December: Drought,Bushfire
+Leinster, February: Drought,Bushfire
+Leinster, November: Drought
+Leinster, October: Drought
+Leinster, September: Drought
+Lemon Tree Passage, October: Drought
+Leonora, December: Drought
+Leonora, February: Drought,Bushfire
+Leonora, November: Drought
+Leonora, October: Drought
+Leonora, September: Drought
+Lesmurdie, February: Drought
+Lightning Ridge, November: Flood
+Lightning Ridge, October: Drought
+Lightning Ridge, September: Drought
+Lilli Pilli (Eurobodalla - NSW), December: Drought
+Lilli Pilli (Eurobodalla - NSW), February: Drought,Bushfire
+Lilli Pilli (Eurobodalla - NSW), January: Drought
+Lilli Pilli (Eurobodalla - NSW), March: Drought
+Lilli Pilli (Eurobodalla - NSW), November: Drought
+Lilli Pilli (Eurobodalla - NSW), October: Drought
+Lilli Pilli (Eurobodalla - NSW), September: Drought
+Limeburners Creek (Mid-Coast - NSW), October: Drought
+Linden (Qld), August: Drought
+Linden (Qld), November: Flood
+Linden (Qld), October: Drought
+Linden (Qld), September: Drought
+Lindon, December: Bushfire
+Lindon, February: Drought
+Lindon, January: Drought,Bushfire
+Lindon, November: Drought
+Lindon, October: Drought
+Lindon, September: Drought
+Lindsay Point, February: Drought
+Linga, February: Drought
+Liparoo, February: Drought
+Little Sandy Desert, April: Drought
+Little Sandy Desert, August: Drought
+Little Sandy Desert, December: Drought,Bushfire
+Little Sandy Desert, February: Drought,Bushfire
+Little Sandy Desert, January: Bushfire
+Little Sandy Desert, November: Drought,Bushfire
+Little Sandy Desert, October: Drought
+Little Sandy Desert, September: Drought
+Little Topar, December: Drought
+Little Topar, February: Drought
+Little Topar, September: Drought
+Lochington, October: Drought
+Lockier, April: Drought
+Lockier, February: Drought
+Lockier, October: Drought
+Londonderry (WA), December: Drought
+Londonderry (WA), October: Drought
+Long Beach, December: Drought
+Long Beach, February: Drought,Bushfire
+Long Beach, January: Drought
+Long Beach, March: Drought
+Long Beach, November: Drought
+Long Beach, October: Drought
+Long Beach, September: Drought
+Longreach (NSW), December: Drought
+Longreach (NSW), January: Flood
+Longreach (NSW), October: Drought
+Longreach (NSW), September: Drought
+Longreach (Qld), August: Drought
+Longreach (Qld), December: Drought
+Longreach (Qld), October: Drought
+Longreach (Qld), September: Drought
+Louth, December: Drought
+Louth, October: Drought
+Louth, September: Drought
+Loveday, February: Drought
+Lowbank, February: Drought
+Lower Chittering, February: Drought
+Lowesby, October: Drought
+Loxton, February: Drought
+Loxton North, February: Drought
+Lumeah (Qld), August: Drought
+Lumeah (Qld), October: Drought
+Lumeah (Qld), September: Drought
+Lundavra, October: Drought
+Lyndhurst (SA), February: Drought,Bushfire
+Lyndhurst (SA), March: Drought
+Lyndhurst (SA), November: Drought
+Lyndhurst (SA), October: Drought
+Lyndhurst (SA), September: Drought
+Lyndon, March: Drought
+Lyndon, May: Drought
+Lyndon, October: Drought,Bushfire
+Lyndside, October: Drought
+Lyrup, February: Drought
+Mabel Creek, February: Drought,Bushfire
+Mabel Creek, March: Drought
+Mabel Creek, October: Drought
+Mabel Creek, September: Drought
+Macfarlane, August: Drought
+Macfarlane, October: Drought
+Macfarlane, September: Drought
+Macquarie Marshes, October: Drought
+Macquarie Marshes, September: Drought
+Macquarie Pass, February: Drought
+Macumba, April: Drought
+Macumba, December: Drought,Bushfire
+Macumba, February: Bushfire
+Macumba, January: Drought,Bushfire
+Macumba, November: Bushfire
+Macumba, October: Drought
+Macumba, September: Drought
+Maddens Plains, February: Drought
+Magometon, September: Drought
+Mahanewo, December: Flood
+Mahanewo, February: Drought
+Mahanewo, September: Drought
+Mahogany Creek, February: Drought
+Maitland (WA), August: Drought
+Maitland (WA), May: Drought
+Maitland (WA), November: Drought
+Maitland (WA), October: Drought,Bushfire
+Maitland (WA), September: Drought
+Malabaine, December: Drought
+Malabaine, February: Drought
+Malebelling, December: Drought
+Malebelling, February: Drought
+Mallabula, October: Drought
+Mallan, February: Drought
+Mallee, February: Drought
+Mallowa, October: Drought
+Mallowa, September: Drought
+Malmalling, February: Drought
+Maloneys Beach, December: Drought
+Maloneys Beach, February: Drought,Bushfire
+Maloneys Beach, January: Drought
+Maloneys Beach, March: Drought
+Maloneys Beach, November: Drought
+Maloneys Beach, October: Drought
+Maloneys Beach, September: Drought
+Malpas, February: Drought
+Malpas-Trenton, August: Drought
+Malpas-Trenton, October: Drought
+Malpas-Trenton, September: Drought
+Malua Bay, December: Drought
+Malua Bay, February: Drought,Bushfire
+Malua Bay, January: Drought
+Malua Bay, March: Drought
+Malua Bay, November: Drought
+Malua Bay, October: Drought
+Malua Bay, September: Drought
+Manangatang, February: Drought
+Manbulloo, August: Drought
+Manbulloo, October: Drought
+Manbulloo, September: Drought
+Manchester Square, December: Drought
+Manchester Square, January: Flood
+Manchester Square, October: Drought
+Manchester Square, September: Drought
+Mangerton, February: Drought
+Manmanning, December: Drought
+Manmanning, January: Drought
+Manmanning, October: Drought
+Manna Hill, December: Drought
+Manna Hill, February: Drought
+Manna Hill, September: Drought
+Mannanarie, February: Drought
+Mantamaru, April: Drought
+Mantamaru, August: Drought
+Mantamaru, December: Drought,Bushfire
+Mantamaru, February: Drought,Bushfire
+Mantamaru, May: Drought
+Mantamaru, November: Drought
+Mantamaru, October: Drought
+Mantamaru, September: Drought
+Mantuan Downs, October: Drought
+Marble Bar, April: Drought
+Marble Bar, August: Drought
+Marble Bar, December: Drought
+Marble Bar, February: Drought
+Marble Bar, July: Drought
+Marble Bar, May: Drought
+Marble Bar, November: Drought,Bushfire
+Marble Bar, October: Drought,Bushfire
+Marble Bar, September: Drought
+Marchagee, December: Drought
+Marchagee, January: Drought
+Marchagee, October: Drought
+Mardie, October: Drought
+Markaranka, February: Drought
+Marla, April: Drought
+Marla, August: Drought
+Marla, February: Drought,Bushfire
+Marla, October: Drought
+Marla, September: Drought
+Marne, December: Drought
+Marne, January: Drought
+Marne, October: Drought
+Marola, February: Drought
+Marrah, April: Drought
+Marrah, February: Drought
+Marree, April: Drought
+Marree, February: Drought,Bushfire
+Marree, January: Drought
+Marree, March: Drought
+Marree, November: Drought
+Marree, October: Drought
+Marree, September: Drought
+Marshall Mount, February: Drought
+Marthaguy, October: Drought
+Marthaguy, September: Drought
+Marvel Loch, December: Drought
+Marvel Loch, October: Drought
+Mataranka, October: Drought
+Mataranka, September: Drought
+Maude (NSW), February: Drought
+Maxwelton, August: Drought
+Maxwelton, October: Drought
+Maxwelton, September: Drought
+Maya, April: Drought
+Maya, December: Drought
+Maya, February: Bushfire
+Maya, January: Drought
+Maya, November: Drought
+Maya, October: Drought
+Mayfield (SA), February: Drought
+McBeath, April: Drought
+McBeath, August: Drought
+McBeath, December: Drought
+McBeath, July: Drought
+McBeath, October: Drought,Bushfire
+McBeath, September: Drought
+McKinlay, August: Drought
+McKinlay, December: Bushfire
+McKinlay, October: Drought
+McKinlay, September: Drought
+Meadow, April: Drought
+Meadow, February: Bushfire
+Meadow, January: Drought
+Meadow, October: Drought
+Meandarra, October: Drought
+Meandarra, September: Drought
+Meatian, February: Drought
+Meckering, December: Drought
+Meda, August: Drought
+Meda, July: Drought
+Medowie, October: Drought
+Meekatharra, August: Drought
+Meekatharra, December: Drought,Bushfire
+Meekatharra, February: Drought,Bushfire
+Meekatharra, May: Drought
+Meekatharra, November: Drought
+Meekatharra, October: Drought
+Meekatharra, September: Drought
+Meenaar, December: Drought
+Melrose (SA), February: Drought
+Menindee, December: Drought
+Menindee, February: Drought
+Menindee, March: Drought
+Menindee, September: Drought
+Menzies (Qld), August: Drought
+Menzies (Qld), December: Drought
+Menzies (Qld), October: Drought
+Menzies (Qld), September: Drought
+Menzies (WA), December: Drought
+Menzies (WA), February: Drought
+Menzies (WA), October: Drought
+Menzies (WA), September: Drought
+Merah North, September: Drought
+Mereenie, April: Drought
+Mereenie, August: Drought
+Mereenie, February: Drought,Bushfire
+Mereenie, October: Drought
+Mereenie, September: Drought
+Meribah, February: Drought
+Meringo, December: Drought
+Meringo, February: Drought,Bushfire
+Meringo, January: Drought
+Meringo, March: Drought
+Meringo, November: Drought
+Meringo, October: Drought
+Meringo, September: Drought
+Meringur, February: Drought
+Merkanooka, April: Drought
+Merkanooka, December: Drought
+Merkanooka, February: Drought,Bushfire
+Merkanooka, January: Drought
+Merkanooka, October: Drought
+Meroo Meadow, December: Drought
+Meroo Meadow, January: Flood
+Meroo Meadow, October: Drought
+Meroo Meadow, September: Drought
+Merredin, December: Drought
+Merredin, November: Drought
+Merredin, October: Drought
+Merrigal, October: Drought
+Merrinee, February: Drought
+Merriton, February: Drought
+Meryla, December: Drought
+Meryla, January: Flood
+Meryla, October: Drought
+Meryla, September: Drought
+Miamley, October: Drought
+Miamoon, December: Drought
+Miamoon, January: Drought
+Miamoon, October: Drought
+Miandetta (NSW), October: Drought
+Miandetta (NSW), September: Drought
+Mica Creek, August: Drought
+Mica Creek, December: Drought
+Mica Creek, October: Drought
+Mica Creek, September: Drought
+Middleton (Qld), August: Drought
+Middleton (Qld), December: Drought,Bushfire
+Middleton (Qld), October: Drought
+Middleton (Qld), September: Drought
+Miles, October: Drought
+Miles End, August: Drought
+Miles End, December: Drought
+Miles End, October: Drought
+Miles End, September: Drought
+Miling, December: Drought
+Millars Well, October: Drought
+Millendon, February: Drought
+Millie, October: Drought
+Millie, September: Drought
+Millstream (WA), April: Drought
+Millstream (WA), August: Drought
+Millstream (WA), December: Drought
+Millstream (WA), February: Drought
+Millstream (WA), January: Drought
+Millstream (WA), July: Drought
+Millstream (WA), May: Drought
+Millstream (WA), November: Drought,Bushfire
+Millstream (WA), October: Drought,Bushfire
+Millstream (WA), September: Drought
+Milo, April: Drought
+Milparinka, December: Drought
+Milparinka, October: Drought
+Milparinka, September: Drought
+Milton (NSW), October: Drought
+Milton (NSW), September: Drought
+Mimili, April: Drought
+Mimili, August: Drought
+Mimili, February: Drought,Bushfire
+Mimili, January: Drought
+Mimili, October: Drought
+Mimili, September: Drought
+Min Min, April: Drought
+Min Min, August: Drought
+Min Min, December: Drought,Bushfire
+Min Min, November: Drought
+Min Min, October: Drought
+Min Min, September: Drought
+Minburra, February: Drought
+Mindarra, February: Drought
+Minerva, October: Drought
+Mingenew, April: Drought
+Mingenew, February: Drought
+Minilya, August: Drought
+Minilya, February: Drought
+Minilya, March: Drought
+Minilya, May: Drought
+Minilya, October: Drought,Bushfire
+Minnie Downs, August: Drought
+Minnie Downs, October: Drought
+Minnie Downs, September: Drought
+Minnivale, December: Drought
+Minnivale, January: Drought
+Minnivale, October: Drought
+Minvalara, February: Drought
+Miralie, February: Drought
+Mitchell (Qld), October: Drought
+Mitchell (Qld), September: Drought
+Mittyack, February: Drought
+Mocardy, December: Drought
+Mocardy, January: Drought
+Mocardy, November: Drought
+Mogendoura, December: Drought
+Mogendoura, February: Drought,Bushfire
+Mogendoura, January: Drought
+Mogendoura, March: Drought
+Mogendoura, November: Drought
+Mogendoura, October: Drought
+Mogendoura, September: Drought
+Mogo (Eurobodalla - NSW), December: Drought
+Mogo (Eurobodalla - NSW), February: Drought,Bushfire
+Mogo (Eurobodalla - NSW), January: Drought
+Mogo (Eurobodalla - NSW), March: Drought
+Mogo (Eurobodalla - NSW), November: Drought
+Mogo (Eurobodalla - NSW), October: Drought
+Mogo (Eurobodalla - NSW), September: Drought
+Mogumber, February: Drought
+Mokine, February: Drought
+Mollerin, December: Drought
+Mollerin, January: Drought
+Mollerin, November: Drought
+Mollerin, October: Drought
+Mollymook, October: Drought
+Mollymook, September: Drought
+Mollymook Beach, October: Drought
+Mollymook Beach, September: Drought
+Monak, February: Drought
+Monash (SA), February: Drought
+Montrose (Western Downs - Qld), October: Drought
+Moockra, February: Drought
+Mooga, October: Drought
+Mooga, September: Drought
+Mooleulooloo, December: Drought
+Mooleulooloo, February: Drought
+Mooleulooloo, November: Drought
+Mooleulooloo, October: Drought
+Mooleulooloo, September: Drought
+Mooliabeenee, February: Drought
+Moollattoo, December: Drought
+Moollattoo, January: Flood
+Moollattoo, October: Drought
+Moollattoo, September: Drought
+Moolpa, February: Drought
+Moonaree, February: Drought
+Moonaree, March: Drought
+Moonaree, November: Drought
+Moonaree, September: Drought
+Moondah, February: Drought
+Moondyne, February: Drought
+Moonie, October: Drought
+Moorara, December: Drought
+Moorara, February: Drought
+Moorara, March: Drought
+Moorara, September: Drought
+Mooriary, April: Drought
+Mooriary, February: Drought
+Moorine Rock, November: Drought
+Moorine Rock, October: Drought
+Moorook, February: Drought
+Moorook South, February: Drought
+Moraby, October: Drought
+Morago, February: Drought
+Morangup, February: Drought
+Morawa, April: Drought
+Morawa, December: Drought
+Morawa, January: Drought
+Morawa, October: Drought
+Morbinning, February: Drought
+Morchard, February: Drought
+Moree, October: Drought
+Moree, September: Drought
+Mornington (Qld), August: Drought
+Mornington (Qld), December: Drought
+Mornington (Qld), October: Drought
+Mornington (Qld), September: Drought
+Morton, October: Drought
+Morton, September: Drought
+Moruya, December: Drought
+Moruya, February: Drought,Bushfire
+Moruya, January: Drought
+Moruya, March: Drought
+Moruya, November: Drought
+Moruya, October: Drought
+Moruya, September: Drought
+Moruya Heads, December: Drought
+Moruya Heads, February: Drought,Bushfire
+Moruya Heads, January: Drought
+Moruya Heads, March: Drought
+Moruya Heads, November: Drought
+Moruya Heads, October: Drought
+Moruya Heads, September: Drought
+Morven (Qld), August: Drought
+Morven (Qld), October: Drought
+Morven (Qld), September: Drought
+Mossy Point, December: Drought
+Mossy Point, February: Drought,Bushfire
+Mossy Point, January: Drought
+Mossy Point, March: Drought
+Mossy Point, November: Drought
+Mossy Point, October: Drought
+Mossy Point, September: Drought
+Motpena, February: Drought,Bushfire
+Motpena, March: Drought
+Motpena, November: Drought
+Motpena, October: Drought
+Motpena, September: Drought
+Moulamein, February: Drought
+Mount Abundance, October: Drought
+Mount Abundance, September: Drought
+Mount Adams, April: Drought
+Mount Anketell, October: Drought
+Mount Bindango, October: Drought
+Mount Bindango, September: Drought
+Mount Bryan East, February: Drought
+Mount Budd, April: Drought
+Mount Budd, February: Drought
+Mount Burges, December: Drought
+Mount Burges, February: Drought
+Mount Burges, October: Drought
+Mount Caroline, December: Drought
+Mount Enniskillen, August: Drought
+Mount Enniskillen, October: Drought
+Mount Enniskillen, September: Drought
+Mount Foster, October: Drought
+Mount Foster, September: Drought
+Mount Hardey, December: Drought
+Mount Hardey, February: Drought
+Mount Hardman, April: Drought
+Mount Hardman, August: Drought
+Mount Hardman, December: Drought
+Mount Hardman, July: Drought
+Mount Hardman, June: Drought
+Mount Hardman, May: Drought
+Mount Hardman, October: Drought,Bushfire
+Mount Hardman, September: Drought
+Mount Harris, October: Drought
+Mount Harris, September: Drought
+Mount Helena, February: Drought
+Mount Hope (NSW), October: Drought
+Mount Hope (NSW), September: Drought
+Mount Horner, April: Drought
+Mount Howe, October: Drought
+Mount Hutton (Qld), October: Drought
+Mount Hutton (Qld), September: Drought
+Mount Isa, August: Drought
+Mount Isa, December: Drought
+Mount Isa, October: Drought
+Mount Isa, September: Drought
+Mount Isa City, August: Drought
+Mount Isa City, December: Drought
+Mount Isa City, October: Drought
+Mount Isa City, September: Drought
+Mount Ive, December: Flood
+Mount Ive, February: Drought
+Mount Jackson, December: Drought
+Mount Jackson, February: Drought,Bushfire
+Mount Jackson, January: Drought
+Mount Jackson, November: Drought
+Mount Jackson, October: Drought
+Mount Johns, April: Drought
+Mount Johns, August: Drought
+Mount Johns, December: Drought
+Mount Johns, October: Drought
+Mount Johns, September: Drought
+Mount Keira, February: Drought
+Mount Kembla, February: Drought
+Mount Kingiman, October: Drought
+Mount Kingiman, September: Drought
+Mount Liebig, April: Drought
+Mount Liebig, August: Drought
+Mount Liebig, December: Drought,Bushfire
+Mount Liebig, February: Drought
+Mount Liebig, October: Drought
+Mount Liebig, September: Drought
+Mount Magnet, December: Drought,Bushfire
+Mount Magnet, February: Drought,Bushfire
+Mount Magnet, January: Drought,Bushfire
+Mount Magnet, November: Drought
+Mount Magnet, October: Drought
+Mount Magnet, September: Drought
+Mount Moffatt, October: Drought
+Mount Murray, February: Drought
+Mount Observation (WA), February: Drought
+Mount Ousley, February: Drought
+Mount Palmer, December: Drought
+Mount Palmer, October: Drought
+Mount Pleasant (NSW), February: Drought
+Mount Saint Thomas, February: Drought
+Mount Serle, April: Drought
+Mount Serle, December: Drought
+Mount Serle, February: Drought,Bushfire
+Mount Serle, January: Bushfire
+Mount Serle, November: Drought
+Mount Serle, October: Drought
+Mount Serle, September: Drought
+Mount Sheila, April: Drought
+Mount Sheila, August: Drought
+Mount Sheila, December: Drought,Bushfire
+Mount Sheila, February: Drought,Bushfire
+Mount Sheila, May: Drought
+Mount Sheila, November: Drought,Bushfire
+Mount Sheila, October: Drought
+Mount Sheila, September: Drought
+Mount Stirling, December: Drought
+Mount Tenandra, September: Drought
+Mount Warrigal, February: Drought
+Mount Willoughby, April: Drought
+Mount Willoughby, February: Drought,Bushfire
+Mount Willoughby, January: Drought,Bushfire
+Mount Willoughby, March: Drought
+Mount Willoughby, October: Drought
+Mount Willoughby, September: Drought
+Mount Zeil, April: Drought
+Mount Zeil, August: Drought
+Mount Zeil, December: Drought,Bushfire
+Mount Zeil, January: Drought
+Mount Zeil, October: Drought
+Mount Zeil, September: Drought
+Mouroubra, December: Drought
+Mouroubra, February: Drought,Bushfire
+Mouroubra, January: Drought
+Mouroubra, November: Drought
+Mouroubra, October: Drought
+Muckadilla, October: Drought
+Muckadilla, September: Drought
+Muckenburra, February: Drought
+Mueller Ranges, April: Drought
+Mueller Ranges, August: Drought
+Mueller Ranges, July: Drought
+Mueller Ranges, June: Drought
+Mueller Ranges, May: Drought
+Mueller Ranges, November: Drought
+Mueller Ranges, October: Drought,Bushfire
+Mueller Ranges, September: Drought
+Mukinbudin, December: Drought
+Mukinbudin, January: Drought
+Mukinbudin, November: Drought
+Mukinbudin, October: Drought
+Mulataga, October: Drought
+Mulga Downs, April: Drought
+Mulga Downs, August: Drought
+Mulga Downs, December: Drought,Bushfire
+Mulga Downs, February: Drought,Bushfire
+Mulga Downs, January: Drought
+Mulga Downs, July: Drought
+Mulga Downs, May: Drought
+Mulga Downs, November: Drought,Bushfire
+Mulga Downs, October: Drought,Bushfire
+Mulga Downs, September: Drought
+Mulla, December: Drought
+Mulla, November: Flood
+Mulla, October: Drought
+Mullengudgery, October: Drought
+Mullewa, April: Drought
+Mullewa, February: Drought
+Mullewa, October: Drought
+Mullingar, December: Drought
+Mullingar, February: Drought
+Mullingar, October: Drought
+Muloorina, December: Drought
+Muloorina, February: Drought,Bushfire
+Muloorina, January: Drought,Bushfire
+Muloorina, March: Bushfire
+Muloorina, November: Drought
+Muloorina, October: Drought
+Muloorina, September: Drought
+Muluckine, December: Drought
+Muluckine, February: Drought
+Mumberkine, December: Drought
+Mumberkine, February: Drought
+Mumblebone Plain, October: Drought
+Mundabullangana, April: Drought
+Mundabullangana, August: Drought
+Mundabullangana, July: Drought
+Mundabullangana, October: Drought
+Mundamia, December: Drought
+Mundamia, January: Flood
+Mundamia, October: Drought
+Mundamia, September: Drought
+Mundaring, February: Drought
+Mundic Creek, February: Drought
+Mungallala, October: Drought
+Mungallala, September: Drought
+Mungallala South, August: Drought
+Mungallala South, October: Drought
+Mungallala South, September: Drought
+Mungeranie, April: Drought
+Mungeranie, August: Drought
+Mungeranie, December: Drought,Bushfire
+Mungeranie, January: Drought,Bushfire
+Mungeranie, November: Drought,Bushfire
+Mungeranie, October: Drought
+Mungeranie, September: Drought
+Mungindi (NSW), October: Drought
+Mungindi (NSW), September: Drought
+Mungindi (Qld), September: Drought
+Mungo, February: Drought
+Mungo, March: Drought
+Murchison (WA), April: Drought
+Murchison (WA), December: Drought
+Murchison (WA), February: Drought,Bushfire
+Murchison (WA), January: Drought,Bushfire
+Murchison (WA), November: Drought
+Murchison (WA), October: Drought
+Muresk, February: Drought
+Murnungin, February: Drought
+Murputja - Nyapari, April: Drought
+Murputja - Nyapari, August: Drought
+Murputja - Nyapari, February: Drought
+Murputja - Nyapari, October: Drought
+Murputja - Nyapari, September: Drought
+Murrabit, February: Drought
+Murrabit West, February: Drought
+Murrawee, February: Drought
+Murrawombie, October: Drought
+Murrawombie, September: Drought
+Murray Downs, February: Drought
+Murray Town, February: Drought
+Murray-sunset, February: Drought
+Murraydale, February: Drought
+Murrayville, February: Drought
+Murrumbucca, February: Drought
+Murtho, February: Drought
+Murweh, August: Drought
+Murweh, October: Drought
+Murweh, September: Drought
+Mutawintji, December: Drought
+Mutawintji, September: Drought
+Mutitjulu, April: Drought
+Mutitjulu, August: Drought
+Mutitjulu, December: Drought,Bushfire
+Mutitjulu, February: Drought,Bushfire
+Mutitjulu, January: Drought,Bushfire
+Mutitjulu, October: Drought
+Mutitjulu, September: Drought
+Mutooroo, December: Drought
+Mutooroo, February: Drought
+Mutooroo, September: Drought
+Muttaburra, August: Drought
+Muttaburra, October: Drought
+Muttaburra, September: Drought
+Myall (Buloke - Vic.), February: Drought
+Myall (Gannawarra - Vic.), February: Drought
+Myall Park (NSW), November: Flood
+Nackara, February: Drought
+Nalkain, December: Drought
+Nalkain, January: Drought
+Nalkain, October: Drought
+Namatjira, April: Drought
+Namatjira, August: Drought
+Namatjira, December: Drought
+Namatjira, February: Drought,Bushfire
+Namatjira, January: Drought
+Namatjira, October: Drought
+Namatjira, September: Drought
+Namban, December: Drought
+Nandaly, February: Drought
+Nandowrie, October: Drought
+Nanga, April: Drought
+Nanga, October: Drought
+Nangeenan, October: Drought
+Nangetty, April: Drought
+Nangetty, February: Drought
+Nangetty, October: Drought
+Nangiloc, February: Drought
+Nangram, October: Drought
+Nanutarra, April: Drought
+Nanutarra, August: Drought
+Nanutarra, December: Drought
+Nanutarra, February: Drought
+Nanutarra, January: Drought
+Nanutarra, May: Drought
+Nanutarra, November: Drought,Bushfire
+Nanutarra, October: Drought,Bushfire
+Nanutarra, September: Drought
+Napperby, February: Drought
+Naraling, April: Drought
+Naraling, February: Drought
+Narrabri, September: Drought
+Narraloggan, December: Drought
+Narraloggan, February: Drought
+Narran Lake, October: Drought
+Narran Lake, September: Drought
+Narridy, February: Drought
+Narrung (Vic.), February: Drought
+Natya, February: Drought
+Neale, December: Drought
+Neale, February: Drought,Bushfire
+Neale, May: Drought
+Neale, November: Drought
+Neale, October: Drought
+Neale, September: Drought
+Nebea, September: Drought
+Nebine, November: Flood
+Nebine, October: Drought
+Nebine, September: Drought
+Neds Corner, February: Drought
+Neds Corner, March: Drought
+Nelshaby, February: Drought
+Nelsons Plains, October: Drought
+Nemarluk, August: Drought
+Nembudding, December: Drought
+Nembudding, January: Drought
+Nembudding, November: Drought
+Nembudding, October: Drought
+Nepabunna, December: Drought
+Nepabunna, February: Drought
+Nepabunna, March: Drought
+Nepabunna, November: Drought
+Nepabunna, October: Drought
+Nepabunna, September: Drought
+Nericon, November: Flood
+Nerramyne, April: Drought
+Nerramyne, December: Drought
+Nerramyne, February: Bushfire
+Nerramyne, January: Drought
+Nerramyne, November: Drought
+Nerramyne, October: Drought
+Nerren Nerren, April: Drought
+Nerren Nerren, October: Drought
+Nerrigundah, February: Drought
+Nevertire, October: Drought
+New Residence, February: Drought
+Newcarlbeon, December: Drought
+Newcarlbeon, January: Drought
+Newcarlbeon, October: Drought
+Newcastle Waters, August: Drought
+Newcastle Waters, December: Drought
+Newcastle Waters, October: Drought,Bushfire
+Newcastle Waters, September: Drought
+Newman, April: Drought
+Newman, August: Drought
+Newman, December: Drought,Bushfire
+Newman, February: Drought,Bushfire
+Newman, January: Flood
+Newman, July: Drought
+Newman, May: Drought
+Newman, November: Drought,Bushfire
+Newman, October: Drought,Bushfire
+Newman, September: Drought
+Ngaanyatjarra-Giles, April: Drought
+Ngaanyatjarra-Giles, August: Drought
+Ngaanyatjarra-Giles, December: Drought,Bushfire
+Ngaanyatjarra-Giles, February: Drought,Bushfire
+Ngaanyatjarra-Giles, May: Drought
+Ngaanyatjarra-Giles, November: Drought
+Ngaanyatjarra-Giles, October: Drought
+Ngaanyatjarra-Giles, September: Drought
+Nicholson (NT), August: Drought
+Nicholson (NT), October: Drought
+Nicholson (NT), September: Drought
+Nickol, October: Drought
+Niemur, February: Drought
+Ninda, February: Drought
+Nitmiluk, October: Drought
+Nitmiluk, September: Drought
+Nive, August: Drought
+Nive, October: Drought
+Nive, September: Drought
+Noccundra, August: Drought
+Noccundra, December: Bushfire
+Noccundra, November: Drought
+Noccundra, October: Drought
+Noccundra, September: Drought
+Nokaning, December: Drought
+Nokaning, November: Drought
+Nokaning, October: Drought
+Nolba, April: Drought
+Nolba, February: Drought
+Noona, December: Drought
+Noona, February: Flood
+Noona, January: Flood
+Noona, October: Drought
+Noona, September: Drought
+Noorama, August: Drought
+Noorama, October: Drought
+Noorama, September: Drought
+Noorindoo, October: Drought
+Noorindoo, September: Drought
+Noorong, February: Drought
+Normanton, August: Drought
+Normanton, September: Drought
+Norpa, December: Drought
+Norpa, November: Drought
+Norpa, October: Drought
+North Arm Cove, October: Drought
+North Baandee, October: Drought
+North Bannister, February: Drought
+North Batemans Bay, December: Drought
+North Batemans Bay, February: Drought,Bushfire
+North Batemans Bay, January: Drought
+North Batemans Bay, March: Drought
+North Batemans Bay, November: Drought
+North Batemans Bay, October: Drought
+North Batemans Bay, September: Drought
+North Bodallin, December: Drought
+North Bodallin, January: Drought
+North Bodallin, October: Drought
+North Booborowie, February: Drought
+North Bourke, October: Drought
+North Bourke, September: Drought
+North Bungunya, October: Drought
+North Bungunya, September: Drought
+North Eradu, April: Drought
+North Kellerberrin, December: Drought
+North Kununoppin, December: Drought
+North Kununoppin, January: Drought
+North Kununoppin, October: Drought
+North Nowra, December: Drought
+North Nowra, January: Flood
+North Nowra, October: Drought
+North Nowra, September: Drought
+North Star, October: Drought
+North Talwood, October: Drought
+North Talwood, September: Drought
+North Tammin, December: Drought
+North Trayning, December: Drought
+North Trayning, January: Drought
+North Trayning, November: Drought
+North Trayning, October: Drought
+North West Cape, October: Drought
+North Wialki, December: Drought
+North Wialki, January: Drought
+North Wialki, November: Drought
+North Wialki, October: Drought
+North Wollongong, February: Drought
+North Yelbeni, December: Drought
+North Yelbeni, January: Drought
+North Yelbeni, November: Drought
+North Yelbeni, October: Drought
+Northam, December: Drought
+Northam, February: Drought
+Northampton, April: Drought
+Northampton, February: Drought
+Northhead, August: Drought
+Northhead, October: Drought
+Northhead, September: Drought
+Nowie, February: Drought
+Nowley, September: Drought
+Nowra, December: Drought
+Nowra, January: Flood
+Nowra, October: Drought
+Nowra, September: Drought
+Nowra Hill, December: Drought
+Nowra Hill, January: Flood
+Nowra Hill, October: Drought
+Nowra Hill, September: Drought
+Nugadong, December: Drought
+Nugadong, January: Drought
+Nugadong, October: Drought
+Nukarni, December: Drought
+Nukarni, January: Drought
+Nukarni, November: Drought
+Nukarni, October: Drought
+Nullagine, April: Drought
+Nullagine, August: Drought
+Nullagine, December: Drought,Bushfire
+Nullagine, February: Drought,Bushfire
+Nullagine, July: Drought
+Nullagine, May: Drought
+Nullagine, November: Drought,Bushfire
+Nullagine, October: Drought,Bushfire
+Nullagine, September: Drought
+Nungarin, December: Drought
+Nungarin, January: Drought
+Nungarin, October: Drought
+Nunierra, April: Drought
+Nunierra, December: Drought
+Nunierra, February: Drought,Bushfire
+Nunierra, October: Drought
+Nunile, December: Drought
+Nunile, February: Drought
+Nurom, February: Drought
+Nyah, February: Drought
+Nyah West, February: Drought
+Nyarrin, February: Drought
+Nyirripi, April: Drought
+Nyirripi, August: Drought
+Nyirripi, December: Drought,Bushfire
+Nyirripi, October: Drought
+Nyirripi, September: Drought
+Nymagee, February: Flood
+Nymagee, January: Flood
+Nymagee, October: Drought
+Nymagee, September: Drought
+Nyngan, October: Drought
+Nyngan, September: Drought
+Nyrraby, February: Drought
+Oak Flats, February: Drought
+Oak Valley (SA), December: Drought
+Oak Valley (SA), February: Drought
+Oak Valley (SA), October: Drought
+Oak Valley (SA), September: Drought
+Oakden Hills, February: Drought
+Oakden Hills, March: Drought
+Oakden Hills, November: Drought
+Oakden Hills, October: Drought
+Oakden Hills, September: Drought
+Oberina, October: Drought
+Oberina, September: Drought
+Ogilvie, April: Drought
+Ogilvie, February: Drought
+Olary, December: Drought
+Olary, February: Drought
+Olary, September: Drought
+Old Calperum, February: Drought
+Old Plains, February: Drought
+Olympic Dam, February: Drought,Bushfire
+Olympic Dam, March: Drought
+Olympic Dam, November: Drought
+Olympic Dam, October: Drought
+Olympic Dam, September: Drought
+One Tree, February: Drought
+Onslow, October: Drought,Bushfire
+Onslow, September: Drought
+Oodla Wirra, February: Drought
+Oodnadatta, April: Drought
+Oodnadatta, February: Drought,Bushfire
+Oodnadatta, January: Drought,Bushfire
+Oodnadatta, March: Bushfire
+Oodnadatta, October: Drought
+Oodnadatta, September: Drought
+Oombulgurri, August: Drought
+Opalton, August: Drought
+Opalton, December: Drought
+Opalton, October: Drought
+Opalton, September: Drought
+Ora Banda, December: Drought
+Ora Banda, February: Drought
+Ora Banda, October: Drought
+Orallo, October: Drought
+Orallo, September: Drought
+Orange Hill, October: Drought
+Orange Hill, September: Drought
+Ord River, August: Drought
+Ord River, October: Drought,Bushfire
+Ord River, September: Drought
+Orroroo, February: Drought
+Ouyen, February: Drought
+Overland Corner, February: Drought
+Oxley (Balranald - NSW), February: Drought
+Oxley (Warren - NSW), October: Drought
+Oxley (Warren - NSW), September: Drought
+Oyster Cove (NSW), October: Drought
+Packsaddle, December: Drought
+Packsaddle, October: Drought
+Packsaddle, September: Drought
+Pallamallawa, October: Drought
+Pamayu, August: Drought
+Pamayu, October: Drought,Bushfire
+Pamayu, September: Drought
+Pan Ban, December: Drought
+Pan Ban, February: Drought
+Pan Ban, March: Drought
+Pan Ban, September: Drought
+Pandurra, December: Flood
+Pandurra, February: Drought
+Pangee, October: Drought
+Panitya (Vic.), February: Drought
+Pannawonica, April: Drought
+Pannawonica, August: Drought
+Pannawonica, December: Drought
+Pannawonica, February: Drought
+Pannawonica, January: Drought
+Pannawonica, May: Drought
+Pannawonica, November: Drought
+Pannawonica, October: Drought,Bushfire
+Pannawonica, September: Drought
+Pantapin, December: Drought
+Papulankutja, April: Drought
+Papulankutja, August: Drought
+Papulankutja, December: Drought,Bushfire
+Papulankutja, February: Drought,Bushfire
+Papulankutja, May: Drought
+Papulankutja, November: Drought
+Papulankutja, October: Drought
+Papulankutja, September: Drought
+Papunya, April: Drought
+Papunya, August: Drought
+Papunya, December: Drought,Bushfire
+Papunya, October: Drought
+Papunya, September: Drought
+Para, February: Drought
+Para, March: Drought
+Paraburdoo, April: Drought
+Paraburdoo, August: Drought
+Paraburdoo, December: Drought,Bushfire
+Paraburdoo, February: Drought,Bushfire
+Paraburdoo, January: Drought,Bushfire
+Paraburdoo, July: Drought
+Paraburdoo, May: Drought
+Paraburdoo, November: Drought,Bushfire
+Paraburdoo, October: Drought,Bushfire
+Paraburdoo, September: Drought
+Parachilna, February: Drought
+Parachilna, March: Drought
+Parachilna, November: Drought
+Parachilna, October: Drought
+Parachilna, September: Drought
+Parakylia, February: Drought
+Parakylia, March: Drought
+Parakylia, November: Drought
+Parakylia, October: Drought
+Parakylia, September: Drought
+Paratoo, February: Drought
+Pardoo, April: Drought
+Pardoo, August: Drought
+Pardoo, July: Drought
+Pardoo, October: Drought
+Paringa, February: Drought
+Paringi, February: Drought
+Parkerville, February: Drought
+Parkeston, December: Drought
+Parkeston, February: Drought
+Parkeston, October: Drought
+Parknook, October: Drought
+Parknook, September: Drought
+Parkside (Qld), August: Drought
+Parkside (Qld), December: Drought
+Parkside (Qld), October: Drought
+Parkside (Qld), September: Drought
+Parnaroo, February: Drought
+Paruna, February: Drought
+Pata, February: Drought
+Patchewollock, February: Drought
+Patjarr, April: Drought
+Patjarr, August: Drought
+Patjarr, December: Drought,Bushfire
+Patjarr, February: Drought,Bushfire
+Patjarr, January: Drought,Bushfire
+Patjarr, July: Drought
+Patjarr, May: Drought
+Patjarr, November: Drought,Bushfire
+Patjarr, October: Drought
+Patjarr, September: Drought
+Paulls Valley, February: Drought
+Paynes Find, April: Drought
+Paynes Find, December: Drought
+Paynes Find, February: Drought,Bushfire
+Paynes Find, January: Drought,Bushfire
+Paynes Find, October: Drought
+Paynesville (WA), December: Drought,Bushfire
+Paynesville (WA), February: Drought,Bushfire
+Paynesville (WA), January: Drought
+Paynesville (WA), November: Drought
+Paynesville (WA), October: Drought
+Paynesville (WA), September: Drought
+Peak Hill (WA), April: Drought
+Peak Hill (WA), August: Drought
+Peak Hill (WA), December: Drought,Bushfire
+Peak Hill (WA), February: Drought,Bushfire
+Peak Hill (WA), May: Drought
+Peak Hill (WA), November: Drought,Bushfire
+Peak Hill (WA), October: Drought
+Peak Hill (WA), September: Drought
+Pebbly Beach, October: Drought
+Pebbly Beach, September: Drought
+Peebinga, February: Drought
+Peedamulla, November: Drought
+Peedamulla, October: Drought,Bushfire
+Peedamulla, September: Drought
+Pegs Creek, October: Drought
+Pekina, February: Drought
+Pentland, October: Drought
+Perenjori, April: Drought
+Perenjori, December: Drought
+Perenjori, February: Drought
+Perenjori, January: Drought
+Perenjori, November: Drought
+Perenjori, October: Drought
+Peterborough (SA), February: Drought
+Petermann, April: Drought
+Petermann, August: Drought
+Petermann, December: Drought,Bushfire
+Petermann, February: Drought,Bushfire
+Petermann, January: Drought,Bushfire
+Petermann, May: Drought
+Petermann, November: Drought
+Petermann, October: Drought
+Petermann, September: Drought
+Petrudor, December: Drought
+Petrudor, January: Drought
+Petrudor, November: Drought
+Petrudor, October: Drought
+Pheasants Nest, February: Drought
+Piangil, February: Drought
+Piccadilly (WA), December: Drought
+Piccadilly (WA), February: Drought
+Piccadilly (WA), October: Drought
+Pickanjinnie, October: Drought
+Pickanjinnie, September: Drought
+Pickering Brook, February: Drought
+Pier Milan, February: Drought
+Piesse Brook, February: Drought
+Pigeon Hole, August: Drought
+Pigeon Hole, October: Drought,Bushfire
+Pigeon Hole, September: Drought
+Pigeonbah, October: Drought
+Pike River, February: Drought
+Pilliga, September: Drought
+Pimba, February: Drought
+Pimba, March: Drought
+Pimba, November: Drought
+Pimba, October: Drought
+Pimba, September: Drought
+Pindar, April: Drought
+Pindar, December: Drought
+Pindar, February: Drought,Bushfire
+Pindar, January: Drought
+Pindar, October: Drought
+Pine Camp, February: Drought
+Pine Camp, November: Flood
+Pine Clump, October: Drought
+Pine Creek (SA), February: Drought
+Pine Creek Station, December: Drought
+Pine Creek Station, February: Drought
+Pine Creek Station, September: Drought
+Pine Grove (NSW), September: Drought
+Pine Hills, October: Drought
+Pine Valley, February: Drought
+Pintharuka, April: Drought
+Pintharuka, December: Drought
+Pintharuka, February: Bushfire
+Pintharuka, January: Drought
+Pintharuka, November: Drought
+Pintharuka, October: Drought
+Pioneer (Qld), August: Drought
+Pioneer (Qld), December: Drought
+Pioneer (Qld), October: Drought
+Pioneer (Qld), September: Drought
+Pipalyatjara, April: Drought
+Pipalyatjara, August: Drought
+Pipalyatjara, December: Drought
+Pipalyatjara, February: Drought,Bushfire
+Pipalyatjara, May: Drought
+Pipalyatjara, October: Drought
+Pipalyatjara, September: Drought
+Pippingarra, April: Drought
+Pippingarra, July: Drought
+Pira, February: Drought
+Pithara, December: Drought
+Pithara, January: Drought
+Pithara, October: Drought
+Piturie, April: Drought
+Piturie, August: Drought
+Piturie, December: Drought,Bushfire
+Piturie, November: Drought
+Piturie, October: Drought
+Piturie, September: Drought
+Plumridge Lakes, December: Drought
+Plumridge Lakes, February: Drought
+Plumridge Lakes, October: Drought
+Plumridge Lakes, September: Drought
+Point Samson, October: Drought
+Polisbet, February: Drought
+Polo Flat, February: Drought
+Pomona (NSW), February: Drought
+Pomona (NSW), March: Drought
+Pooginook, February: Drought
+Pooncarie, December: Drought
+Pooncarie, February: Drought
+Pooncarie, March: Drought
+Porcupine, October: Drought
+Port Germein, February: Drought
+Port Hedland, April: Drought
+Port Hedland, July: Drought
+Port Kembla, February: Drought
+Port Pirie South, February: Drought
+Port Stephens, October: Drought
+Prairie (Qld), August: Drought
+Prairie (Qld), October: Drought
+Prairie (Qld), September: Drought
+Pretty Beach (Shoalhaven - NSW), October: Drought
+Pretty Beach (Shoalhaven - NSW), September: Drought
+Pretty Pine, February: Drought
+Primbee, February: Drought
+Pukatja, April: Drought
+Pukatja, August: Drought
+Pukatja, February: Drought,Bushfire
+Pukatja, January: Drought
+Pukatja, October: Drought
+Pukatja, September: Drought
+Pureba, February: Drought
+Purnululu, August: Drought
+Purnululu, July: Drought
+Purnululu, October: Drought,Bushfire
+Purnululu, September: Drought
+Pyap, February: Drought
+Pyap West, February: Drought
+Qualco, February: Drought
+Quambone, October: Drought
+Quambone, September: Drought
+Quanda, September: Drought
+Quelagetting, December: Drought
+Quellington, December: Drought
+Quellington, February: Drought
+Quilpie, August: Drought
+Quilpie, October: Drought
+Quilpie, September: Drought
+Quorn, February: Drought
+Ramco, February: Drought
+Ramco Heights, February: Drought
+Ranken, August: Drought
+Ranken, December: Drought,Bushfire
+Ranken, October: Drought
+Ranken, September: Drought
+Ravenswood (NSW), October: Drought
+Ravensworth (Qld), October: Drought
+Raymond Terrace, October: Drought
+Red Cliffs, February: Drought
+Red Gully, February: Drought
+Red Hill (WA), February: Drought
+Red River, November: Flood
+Red River, October: Drought
+Red Rocks, December: Drought
+Red Rocks, January: Flood
+Red Rocks, October: Drought
+Red Rocks, September: Drought
+Redbank (WA), April: Drought
+Redbank (WA), July: Drought
+Redford, October: Drought
+Reedy, August: Drought
+Reedy, December: Drought,Bushfire
+Reedy, February: Drought,Bushfire
+Reedy, May: Drought
+Reedy, November: Drought
+Reedy, October: Drought
+Reedy, September: Drought
+Reedy Lake, February: Drought
+Remlap, December: Drought
+Remlap, February: Bushfire
+Remlap, January: Drought
+Remlap, October: Drought
+Renmark, February: Drought
+Renmark North, February: Drought
+Renmark South, February: Drought
+Renmark West, February: Drought
+Reservoir (WA), February: Drought
+Rhine Falls, February: Drought
+Richmond (Richmond - Qld), August: Drought
+Richmond (Richmond - Qld), October: Drought
+Richmond (Richmond - Qld), September: Drought
+Riversleigh, August: Drought
+Riversleigh, November: Flood
+Riversleigh, October: Drought
+Riversleigh, September: Drought
+Robertson (NSW), December: Drought
+Robertson (NSW), January: Flood
+Robertson (NSW), October: Drought
+Robertson (NSW), September: Drought
+Robinvale, February: Drought
+Rochester (SA), February: Drought
+Rocklea (WA), April: Drought
+Rocklea (WA), August: Drought
+Rocklea (WA), December: Drought
+Rocklea (WA), February: Drought,Bushfire
+Rocklea (WA), January: Drought,Bushfire
+Rocklea (WA), March: Flood
+Rocklea (WA), May: Drought
+Rocklea (WA), November: Drought
+Rocklea (WA), October: Drought
+Rocklea (WA), September: Drought
+Rockwell, April: Drought
+Rockwell, February: Drought
+Roebourne, October: Drought
+Roebuck, April: Drought
+Roebuck, August: Drought
+Roebuck, July: Drought
+Roebuck, October: Drought
+Rolleston, October: Drought
+Roma, October: Drought
+Roma, September: Drought
+Rosedale (NSW), December: Drought
+Rosedale (NSW), February: Drought,Bushfire
+Rosedale (NSW), January: Drought
+Rosedale (NSW), March: Drought
+Rosedale (NSW), November: Drought
+Rosedale (NSW), October: Drought
+Rosedale (NSW), September: Drought
+Ross (NT), April: Drought
+Ross (NT), August: Drought
+Ross (NT), December: Drought
+Ross (NT), October: Drought
+Ross (NT), September: Drought
+Rossmore (WA), December: Drought
+Rothsay, April: Drought
+Rothsay, December: Drought
+Rothsay, February: Bushfire
+Rothsay, January: Drought
+Rothsay, November: Drought
+Rothsay, October: Drought
+Rowena, September: Drought
+Roxby Downs, February: Drought,Bushfire
+Roxby Downs, March: Drought
+Roxby Downs, November: Drought
+Roxby Downs, October: Drought
+Roxby Downs, September: Drought
+Rufus, February: Drought
+Rufus, March: Drought
+Runnyford, December: Drought
+Runnyford, February: Drought,Bushfire
+Runnyford, January: Drought
+Runnyford, March: Drought
+Runnyford, November: Drought
+Runnyford, October: Drought
+Runnyford, September: Drought
+Russell Vale, February: Drought
+Ryan (Qld), August: Drought
+Ryan (Qld), December: Drought
+Ryan (Qld), October: Drought
+Ryan (Qld), September: Drought
+Rywung, October: Drought
+SA Remainder, December: Drought
+SA Remainder, February: Drought
+SA Remainder, October: Drought
+SA Remainder, September: Drought
+Sadadeen, April: Drought
+Sadadeen, August: Drought
+Sadadeen, December: Drought
+Sadadeen, October: Drought
+Sadadeen, September: Drought
+Salt Ash, October: Drought
+Sandover, April: Drought
+Sandover, August: Drought
+Sandover, December: Drought,Bushfire
+Sandover, October: Drought
+Sandover, September: Drought
+Sandstone, December: Drought,Bushfire
+Sandstone, February: Drought,Bushfire
+Sandstone, October: Drought
+Sandstone, September: Drought
+Sandy Creek (Cobar - NSW), December: Drought
+Sandy Creek (Cobar - NSW), January: Flood
+Sandy Creek (Cobar - NSW), October: Drought
+Sandy Creek (Cobar - NSW), September: Drought
+Santa Teresa, April: Drought
+Santa Teresa, August: Drought
+Santa Teresa, December: Drought
+Santa Teresa, February: Drought
+Santa Teresa, October: Drought
+Santa Teresa, September: Drought
+Sapphire Central, October: Drought
+Savannah, August: Drought
+Savannah, July: Drought
+Savannah, October: Drought,Bushfire
+Savannah, September: Drought
+Sawyers Valley, February: Drought
+Saxby, August: Drought
+Saxby, October: Drought
+Saxby, September: Drought
+Scarborough (NSW), February: Drought
+Scotia, December: Drought
+Scotia, February: Drought
+Scotia, March: Drought
+Scrubby Creek (Blackall Tambo - Qld), August: Drought
+Scrubby Creek (Blackall Tambo - Qld), October: Drought
+Scrubby Creek (Blackall Tambo - Qld), September: Drought
+Sea Lake, February: Drought
+Selwyn (Qld), August: Drought
+Selwyn (Qld), December: Drought,Bushfire
+Selwyn (Qld), October: Drought
+Selwyn (Qld), September: Drought
+Shellharbour, February: Drought
+Shellharbour City Centre, February: Drought
+Sherlock (WA), April: Drought
+Sherlock (WA), August: Drought
+Sherlock (WA), December: Drought
+Sherlock (WA), July: Drought
+Sherlock (WA), May: Drought
+Sherlock (WA), November: Drought
+Sherlock (WA), October: Drought,Bushfire
+Sherlock (WA), September: Drought
+Silverton (NSW), December: Drought
+Silverton (NSW), February: Drought
+Silverton (NSW), March: Drought
+Silverton (NSW), November: Drought
+Silverton (NSW), October: Drought
+Silverton (NSW), September: Drought
+Simmie, October: Drought
+Simpson (NT), April: Drought
+Simpson (NT), August: Drought
+Simpson (NT), December: Drought,Bushfire
+Simpson (NT), February: Drought
+Simpson (NT), January: Drought,Bushfire
+Simpson (NT), March: Flood
+Simpson (NT), October: Drought
+Simpson (NT), September: Drought
+Sir Samuel, August: Drought
+Sir Samuel, December: Drought,Bushfire
+Sir Samuel, February: Drought,Bushfire
+Sir Samuel, October: Drought
+Sir Samuel, September: Drought
+Soldiers Hill (Qld), August: Drought
+Soldiers Hill (Qld), December: Drought
+Soldiers Hill (Qld), October: Drought
+Soldiers Hill (Qld), September: Drought
+Soldiers Point, October: Drought
+Solomontown, February: Drought
+Somerville (WA), December: Drought
+Somerville (WA), February: Drought
+Somerville (WA), October: Drought
+Sommariva, August: Drought
+Sommariva, October: Drought
+Sommariva, September: Drought
+South Bodallin, December: Drought
+South Bodallin, October: Drought
+South Boulder, December: Drought
+South Boulder, February: Drought
+South Boulder, October: Drought
+South Burracoppin, December: Drought
+South Burracoppin, October: Drought
+South Doodlakine, October: Drought
+South Durras, October: Drought
+South Durras, September: Drought
+South Hedland, April: Drought
+South Hedland, July: Drought
+South Kalgoorlie, December: Drought
+South Kalgoorlie, February: Drought
+South Kalgoorlie, October: Drought
+South Kununoppin, December: Drought
+South Kununoppin, January: Drought
+South Kununoppin, October: Drought
+South Murchison, April: Drought
+South Murchison, December: Drought,Bushfire
+South Murchison, February: Drought,Bushfire
+South Murchison, January: Drought,Bushfire
+South Murchison, November: Drought
+South Murchison, October: Drought
+South Nowra, December: Drought
+South Nowra, January: Flood
+South Nowra, October: Drought
+South Nowra, September: Drought
+South Quairading, February: Drought
+South Talwood, December: Flood
+South Talwood, October: Drought
+South Talwood, September: Drought
+South Tammin, December: Drought
+South Trayning, December: Drought
+South Trayning, January: Drought
+South Trayning, November: Drought
+South Trayning, October: Drought
+South Yelbeni, December: Drought
+South Yelbeni, January: Drought
+South Yelbeni, November: Drought
+South Yelbeni, October: Drought
+South Yuna, April: Drought
+South Yuna, February: Drought
+Southern Brook, December: Drought
+Southern Cross (WA), December: Drought
+Southern Cross (WA), January: Drought
+Southern Cross (WA), November: Drought
+Southern Cross (WA), October: Drought
+Southwood, October: Drought
+Spalding (SA), February: Drought
+Spectacle Lake, February: Drought
+Speed, February: Drought
+Speewa, February: Drought
+Spencers Brook, February: Drought
+Spreadborough, August: Drought
+Spreadborough, December: Drought
+Spreadborough, October: Drought
+Spreadborough, September: Drought
+Spring Farm (SA), February: Drought
+Spring Hill (Wollongong - NSW), February: Drought
+Spring Plains, September: Drought
+Springfield (Buloke - Vic.), February: Drought
+Springsure, October: Drought
+St George (Qld), October: Drought
+St George (Qld), September: Drought
+St George Ranges, April: Drought
+St George Ranges, August: Drought
+St George Ranges, December: Drought,Bushfire
+St George Ranges, July: Drought
+St George Ranges, November: Drought
+St George Ranges, October: Drought,Bushfire
+St George Ranges, September: Drought,Bushfire
+St Ronans, February: Drought
+Staaten, October: Drought
+Stamford, August: Drought
+Stamford, October: Drought
+Stamford, September: Drought
+Stanley Flat, February: Drought
+Stephenston, February: Drought
+Stokes, August: Drought
+Stokes, July: Drought
+Stokes, October: Drought
+Stokes, September: Drought
+Stone Hut, February: Drought
+Stonehenge (Barcoo - Qld), August: Drought
+Stonehenge (Barcoo - Qld), January: Flood
+Stonehenge (Barcoo - Qld), November: Drought
+Stonehenge (Barcoo - Qld), October: Drought
+Stonehenge (Barcoo - Qld), September: Drought
+Stoneville, February: Drought
+Stony Crossing, February: Drought
+Stove Hill, October: Drought
+Straten, February: Drought
+Strathmore (Qld), August: Drought
+Strathmore (Qld), October: Drought
+Strathmore (Qld), September: Drought
+Stratton, February: Drought
+Strelley, April: Drought
+Strelley, August: Drought
+Strelley, July: Drought
+Strelley, October: Drought
+Stuart (NT), April: Drought
+Stuart (NT), August: Drought
+Stuart (NT), December: Drought
+Stuart (NT), October: Drought
+Stuart (NT), September: Drought
+Stuarts Creek, February: Drought,Bushfire
+Stuarts Creek, March: Drought
+Stuarts Creek, November: Drought
+Stuarts Creek, October: Drought
+Stuarts Creek, September: Drought
+Sturt (Qld), April: Drought
+Sturt (Qld), August: Drought
+Sturt (Qld), December: Drought,Bushfire
+Sturt (Qld), November: Drought,Bushfire
+Sturt (Qld), October: Drought
+Sturt (Qld), September: Drought
+Sturt Creek, April: Drought
+Sturt Creek, August: Drought
+Sturt Creek, December: Drought,Bushfire
+Sturt Creek, July: Drought
+Sturt Creek, May: Drought
+Sturt Creek, October: Drought,Bushfire
+Sturt Creek, September: Drought
+Sturt Plateau, August: Drought
+Sturt Plateau, September: Drought
+Sturt Vale, February: Drought
+Sunlands, February: Drought
+Sunnybrae, February: Drought
+Sunset, August: Drought
+Sunset, December: Drought
+Sunset, October: Drought
+Sunset, September: Drought
+Sunset Strip (NSW), December: Drought
+Sunset Strip (NSW), February: Drought
+Sunset Strip (NSW), September: Drought
+Sunshine Bay, December: Drought
+Sunshine Bay, February: Drought,Bushfire
+Sunshine Bay, January: Drought
+Sunshine Bay, March: Drought
+Sunshine Bay, November: Drought
+Sunshine Bay, October: Drought
+Sunshine Bay, September: Drought
+Surat, October: Drought
+Surat, September: Drought
+Surf Beach (NSW), December: Drought
+Surf Beach (NSW), February: Drought,Bushfire
+Surf Beach (NSW), January: Drought
+Surf Beach (NSW), March: Drought
+Surf Beach (NSW), November: Drought
+Surf Beach (NSW), October: Drought
+Surf Beach (NSW), September: Drought
+Surfside, December: Drought
+Surfside, February: Drought,Bushfire
+Surfside, January: Drought
+Surfside, March: Drought
+Surfside, November: Drought
+Surfside, October: Drought
+Surfside, September: Drought
+Swan Bay (Port Stephens - NSW), October: Drought
+Swan Hill West, February: Drought
+Swan View, February: Drought
+Tablelands (NT), August: Drought
+Tablelands (NT), December: Drought
+Tablelands (NT), November: Drought
+Tablelands (NT), October: Drought
+Tablelands (NT), September: Drought
+Tahlee, October: Drought
+Talandji, August: Drought
+Talandji, January: Drought
+Talandji, May: Drought
+Talandji, October: Drought,Bushfire
+Talandji, September: Drought
+Talaroo, October: Drought
+Talawanta, October: Drought
+Talawanta, September: Drought
+Talbot (WA), February: Drought
+Talbot West, February: Drought
+Taldora, August: Drought
+Taldora, October: Drought
+Taldora, September: Drought
+Taldra, February: Drought
+Talgomine, December: Drought
+Talgomine, January: Drought
+Talgomine, November: Drought
+Talgomine, October: Drought
+Talisker, December: Drought
+Talisker, February: Bushfire
+Talisker, January: Drought
+Talisker, November: Drought
+Talisker, October: Drought
+Tallimba, November: Flood
+Tambo, August: Drought
+Tambo, October: Drought
+Tambo, September: Drought
+Tammin, December: Drought
+Tampu, December: Drought
+Tampu, February: Bushfire
+Tampu, January: Drought
+Tampu, October: Drought
+Tanami (NT), April: Drought
+Tanami (NT), August: Drought
+Tanami (NT), December: Bushfire
+Tanami (NT), July: Drought
+Tanami (NT), October: Drought
+Tanami (NT), September: Drought
+Tanami (WA), April: Drought
+Tanami (WA), August: Drought
+Tanami (WA), December: Drought,Bushfire
+Tanami (WA), January: Flood
+Tanami (WA), July: Drought
+Tanami (WA), May: Drought
+Tanami (WA), November: Drought
+Tanami (WA), October: Drought,Bushfire
+Tanami (WA), September: Drought
+Tanami East, April: Drought
+Tanami East, August: Drought
+Tanami East, December: Drought
+Tanami East, November: Drought
+Tanami East, October: Drought,Bushfire
+Tanami East, September: Drought
+Tanbar, August: Drought
+Tanbar, December: Drought,Bushfire
+Tanbar, March: Flood
+Tanbar, November: Drought,Bushfire
+Tanbar, October: Drought
+Tanbar, September: Drought
+Tandegin, December: Drought
+Tandegin, November: Drought
+Tandegin, October: Drought
+Tangorin, August: Drought
+Tangorin, October: Drought
+Tangorin, September: Drought
+Tanilba Bay, October: Drought
+Tapitallee, December: Drought
+Tapitallee, January: Flood
+Tapitallee, October: Drought
+Tapitallee, September: Drought
+Taplan, February: Drought
+Tara (NT), April: Drought
+Tara (NT), August: Drought
+Tara (NT), December: Drought,Bushfire
+Tara (NT), January: Flood
+Tara (NT), October: Drought
+Tara (NT), September: Drought
+Tara (Qld), October: Drought
+Tarawera, October: Drought
+Tarawera, September: Drought
+Tarcoola, February: Drought
+Tarcoola, March: Drought
+Tarcoola, November: Drought
+Tarcoola, October: Drought
+Tarcoola, September: Drought
+Tarcowie, February: Drought
+Tardun, April: Drought
+Tardun, December: Drought
+Tardun, February: Drought,Bushfire
+Tardun, January: Drought
+Tardun, October: Drought
+Taroom, October: Drought
+Tarrawanna, February: Drought
+Taylors Beach (NSW), October: Drought
+Taylorville, February: Drought
+Teelba, October: Drought
+Teelba, September: Drought
+Telfer, April: Drought
+Telfer, August: Drought
+Telfer, December: Drought,Bushfire
+Telfer, February: Drought
+Telfer, January: Flood
+Telfer, July: Drought
+Telfer, November: Drought,Bushfire
+Telfer, October: Drought,Bushfire
+Telfer, September: Drought
+Telowie, February: Drought
+Tempy, February: Drought
+Tenandra, October: Drought
+Tenindewa, April: Drought
+Tenindewa, February: Drought
+Tenindewa, October: Drought
+Tennant Creek, August: Drought
+Tennant Creek, December: Drought,Bushfire
+Tennant Creek, October: Drought
+Tennant Creek, September: Drought
+Terara, December: Drought
+Terara, January: Flood
+Terara, October: Drought
+Terara, September: Drought
+Teridgerie, September: Drought
+Termeil, October: Drought
+Termeil, September: Drought
+Terowie, February: Drought
+Terry Hie Hie, October: Drought
+Thallon, October: Drought
+Thallon, September: Drought
+Thargomindah, August: Drought
+Thargomindah, December: Bushfire
+Thargomindah, October: Drought
+Thargomindah, September: Drought
+The Branch, October: Drought
+The Brothers, February: Drought
+The Gap (Mount Isa - Qld), August: Drought
+The Gap (Mount Isa - Qld), December: Drought
+The Gap (Mount Isa - Qld), October: Drought
+The Gap (Mount Isa - Qld), September: Drought
+The Gap (NT), April: Drought
+The Gap (NT), August: Drought
+The Gap (NT), December: Drought
+The Gap (NT), October: Drought
+The Gap (NT), September: Drought
+The Gums, October: Drought
+The Lakes, February: Drought
+The Marra, December: Drought
+The Marra, October: Drought
+The Marra, September: Drought
+Theresa Creek (Qld), October: Drought
+Thirroul, February: Drought
+Three Rivers, August: Drought
+Three Rivers, July: Drought
+Three Rivers, October: Drought
+Three Rivers, September: Drought
+Three Springs, April: Drought
+Three Springs, December: Drought
+Three Springs, January: Drought
+Three Springs, October: Drought
+Throssell, December: Drought
+Ti Tree, April: Drought
+Ti Tree, August: Drought
+Ti Tree, December: Drought,Bushfire
+Ti Tree, October: Drought
+Ti Tree, September: Drought
+Tibooburra, December: Drought,Bushfire
+Tibooburra, March: Flood
+Tibooburra, November: Drought
+Tibooburra, October: Drought
+Tibooburra, September: Drought
+Tieyon, April: Drought
+Tieyon, August: Drought
+Tieyon, February: Drought,Bushfire
+Tieyon, January: Drought,Bushfire
+Tieyon, March: Drought
+Tieyon, October: Drought
+Tieyon, September: Drought
+Tilligerry Creek, October: Drought
+Tilpa, February: Flood
+Tilpa, October: Drought
+Tilpa, September: Drought
+Timber Creek, August: Drought
+Timber Creek, October: Drought
+Timber Creek, September: Drought
+Tindal, October: Drought
+Tindal, September: Drought
+Tindarey, January: Flood
+Tindarey, October: Drought
+Tindarey, September: Drought
+Tingun, October: Drought
+Tingun, September: Drought
+Tinpot, February: Drought
+Titjikala, April: Drought
+Titjikala, August: Drought
+Titjikala, December: Drought,Bushfire
+Titjikala, February: Drought,Bushfire
+Titjikala, January: Drought
+Titjikala, October: Drought
+Titjikala, September: Drought
+Tjirrkarli, April: Drought
+Tjirrkarli, August: Drought
+Tjirrkarli, December: Drought,Bushfire
+Tjirrkarli, February: Drought,Bushfire
+Tjirrkarli, January: Drought
+Tjirrkarli, May: Drought
+Tjirrkarli, November: Drought
+Tjirrkarli, October: Drought
+Tjirrkarli, September: Drought
+Tjukurla, April: Drought
+Tjukurla, August: Drought
+Tjukurla, December: Drought,Bushfire
+Tjukurla, February: Drought,Bushfire
+Tjukurla, July: Drought
+Tjukurla, May: Drought
+Tjukurla, November: Drought,Bushfire
+Tjukurla, October: Drought
+Tjukurla, September: Drought
+Toko, April: Drought
+Toko, August: Drought
+Toko, December: Drought,Bushfire
+Toko, November: Bushfire
+Toko, October: Drought
+Toko, September: Drought
+Tol Tol, February: Drought
+Tom Price, April: Drought
+Tom Price, August: Drought
+Tom Price, December: Drought,Bushfire
+Tom Price, February: Drought,Bushfire
+Tom Price, May: Drought
+Tom Price, November: Drought,Bushfire
+Tom Price, October: Drought
+Tom Price, September: Drought
+Tomakin, December: Drought
+Tomakin, February: Drought,Bushfire
+Tomakin, January: Drought
+Tomakin, March: Drought
+Tomakin, November: Drought
+Tomakin, October: Drought
+Tomakin, September: Drought
+Tonderburine, September: Drought
+Tongarra, February: Drought
+Toobeah, October: Drought
+Toobeah, September: Drought
+Toodyay, December: Drought
+Toodyay, February: Drought
+Tooleybuc, February: Drought
+Toolonga, April: Drought
+Toolonga, December: Drought
+Toolonga, February: Bushfire
+Toolonga, January: Drought
+Toolonga, March: Drought
+Toolonga, November: Drought
+Toolonga, October: Drought
+Tooloon, October: Drought
+Tooloon, September: Drought
+Tooranie, February: Drought
+Top Springs, August: Drought
+Top Springs, October: Drought,Bushfire
+Top Springs, September: Drought
+Torrens Creek, October: Drought
+Torrens Creek, September: Drought
+Torrita, February: Drought
+Tottenham (NSW), October: Drought
+Towan, February: Drought
+Townview, August: Drought
+Townview, December: Drought
+Townview, October: Drought
+Townview, September: Drought
+Towradgi, February: Drought
+Trafalgar (WA), December: Drought
+Trafalgar (WA), February: Drought
+Trafalgar (WA), October: Drought
+Trayning, December: Drought
+Trayning, January: Drought
+Trayning, November: Drought
+Trayning, October: Drought
+Tuen, October: Drought
+Tuen, September: Drought
+Tullimbar, February: Drought
+Tulloona, October: Drought
+Turkey Hill, December: Drought
+Turkey Hill, January: Drought
+Turkey Hill, October: Drought
+Turlinjah, December: Drought
+Turlinjah, February: Drought,Bushfire
+Turlinjah, January: Drought
+Turlinjah, March: Drought
+Turlinjah, November: Drought
+Turlinjah, October: Drought
+Turlinjah, September: Drought
+Turoar, February: Drought
+Tuross Head, December: Drought
+Tuross Head, February: Drought,Bushfire
+Tuross Head, January: Drought
+Tuross Head, March: Drought
+Tuross Head, November: Drought
+Tuross Head, October: Drought
+Tuross Head, September: Drought
+Turriff, February: Drought
+Turriff East, February: Drought
+Tutye, February: Drought
+Twelve Mile Creek, October: Drought
+Tyenna (Vic.), February: Drought
+Tyntynder, February: Drought
+Tyntynder South, February: Drought
+Tyrconnel, October: Drought
+Tyrrell, February: Drought
+Tyrrell Downs, February: Drought
+Ucarty, December: Drought
+Ucarty West, December: Drought
+Ucolta, February: Drought
+Ularring, December: Drought
+Ularring, February: Drought,Bushfire
+Ularring, January: Drought
+Ularring, November: Drought
+Ularring, October: Drought
+Ularring, September: Drought
+Ulladulla, October: Drought
+Ulladulla, September: Drought
+Ulooloo, February: Drought
+Ultima, February: Drought
+Ultima East, February: Drought
+Unanderra, February: Drought
+Underbool, February: Drought
+Undoolya, April: Drought
+Undoolya, August: Drought
+Undoolya, December: Drought
+Undoolya, October: Drought
+Undoolya, September: Drought
+Uno, February: Drought
+Upper Kangaroo River, December: Drought
+Upper Kangaroo River, January: Flood
+Upper Kangaroo River, October: Drought
+Upper Kangaroo River, September: Drought
+Upper Kangaroo Valley, December: Drought
+Upper Kangaroo Valley, January: Flood
+Upper Kangaroo Valley, October: Drought
+Upper Kangaroo Valley, September: Drought
+Upper Swan, February: Drought
+Upper Warrego, October: Drought
+Uralla (NT), October: Drought
+Uralla (NT), September: Drought
+Urawilkie, September: Drought
+V Gate, October: Drought
+V Gate, September: Drought
+Venn, October: Drought
+Venn, September: Drought
+Victoria River, August: Drought
+Victoria River, October: Drought,Bushfire
+Victoria River, September: Drought
+Victoria Rock, December: Drought
+Victoria Rock, October: Drought
+Victoria Vale, August: Drought
+Victoria Vale, October: Drought
+Victoria Vale, September: Drought
+Victory Heights (WA), December: Drought
+Victory Heights (WA), February: Drought
+Victory Heights (WA), October: Drought
+Vinifera, February: Drought
+Wadbilliga, February: Drought
+Waddy Forest, April: Drought
+Waddy Forest, December: Drought
+Waddy Forest, February: Bushfire
+Waddy Forest, January: Drought
+Waddy Forest, October: Drought
+Waeel, December: Drought
+Waikerie, February: Drought
+Waikola, October: Drought
+Waitchie, February: Drought
+Walgett, October: Drought
+Walgett, September: Drought
+Walgoolan, December: Drought
+Walgoolan, January: Drought
+Walgoolan, November: Drought
+Walgoolan, October: Drought
+Walhallow, October: Drought
+Walhallow, September: Drought
+Wallace Rockhole, April: Drought
+Wallace Rockhole, August: Drought
+Wallace Rockhole, December: Drought
+Wallace Rockhole, February: Drought
+Wallace Rockhole, January: Drought
+Wallace Rockhole, October: Drought
+Wallace Rockhole, September: Drought
+Wallareenya, August: Drought
+Wallareenya, July: Drought
+Wallareenya, May: Drought
+Wallareenya, November: Drought
+Wallareenya, October: Drought,Bushfire
+Wallareenya, September: Drought
+Wallaroo (WA), December: Drought
+Wallaroo (WA), February: Drought
+Wallaroo (WA), January: Drought
+Wallaroo (WA), October: Drought
+Walliston, February: Drought
+Walloway, February: Drought
+Wallumbilla, October: Drought
+Wallumbilla, September: Drought
+Wallumbilla North, October: Drought
+Wallumbilla South, October: Drought
+Wallumbilla South, September: Drought
+Walpeup, February: Drought
+Walyormouring, December: Drought
+Walyunga National Park, February: Drought
+Wamban, December: Drought
+Wamban, February: Drought,Bushfire
+Wamban, January: Drought
+Wamban, March: Drought
+Wamban, November: Drought
+Wamban, October: Drought
+Wamban, September: Drought
+Wambrook, February: Drought
+Wanaaring, December: Bushfire
+Wanaaring, October: Drought
+Wanaaring, September: Drought
+Wanarn, April: Drought
+Wanarn, August: Drought
+Wanarn, December: Drought,Bushfire
+Wanarn, February: Drought,Bushfire
+Wanarn, May: Drought
+Wanarn, November: Drought
+Wanarn, October: Drought
+Wanarn, September: Drought
+Wandana (WA), April: Drought
+Wandana (WA), February: Drought
+Wandearah East, February: Drought
+Wandella (NSW), February: Drought
+Wandoan, October: Drought
+Wandown, February: Drought
+Wanganella, February: Drought
+Wannamal, February: Drought
+Wappilka, February: Drought
+Warakurna, April: Drought
+Warakurna, August: Drought
+Warakurna, December: Drought,Bushfire
+Warakurna, February: Drought,Bushfire
+Warakurna, July: Drought
+Warakurna, May: Drought
+Warakurna, November: Drought
+Warakurna, October: Drought
+Warakurna, September: Drought
+Warburton (Qld), August: Drought
+Warburton (Qld), December: Drought,Bushfire
+Warburton (Qld), October: Drought
+Warburton (Qld), September: Drought
+Warburton (WA), April: Drought
+Warburton (WA), August: Drought
+Warburton (WA), December: Drought,Bushfire
+Warburton (WA), February: Drought,Bushfire
+Warburton (WA), January: Drought
+Warburton (WA), May: Drought
+Warburton (WA), November: Drought
+Warburton (WA), October: Drought
+Warburton (WA), September: Drought
+Ward, August: Drought
+Ward, October: Drought
+Ward, September: Drought
+Warding East, December: Drought
+Warding East, February: Drought
+Warenda, August: Drought
+Warenda, December: Drought,Bushfire
+Warenda, October: Drought
+Warenda, September: Drought
+Wargan, February: Drought
+Wargan, March: Drought
+Warilla, February: Drought
+Warkon, October: Drought
+Warkon, September: Drought
+Warmun, August: Drought
+Warmun, July: Drought
+Warmun, October: Drought,Bushfire
+Warmun, September: Drought
+Warnertown, February: Drought
+Warnes, February: Drought
+Warrachuppin, December: Drought
+Warrachuppin, January: Drought
+Warrachuppin, November: Drought
+Warrachuppin, October: Drought
+Warradarge, April: Drought
+Warralakin, December: Drought
+Warralakin, January: Drought
+Warralakin, October: Drought
+Warrawong, February: Drought
+Warrumbungle, September: Drought
+Warumungu, April: Drought
+Warumungu, August: Drought
+Warumungu, December: Drought,Bushfire
+Warumungu, October: Drought
+Warumungu, September: Drought
+Washpool (SA), February: Drought
+Watarru, April: Drought
+Watarru, August: Drought
+Watarru, February: Drought,Bushfire
+Watarru, May: Drought
+Watarru, October: Drought
+Watarru, September: Drought
+Waterbank, July: Drought
+Watercarrin, December: Drought
+Watersleigh, December: Drought
+Watersleigh, January: Flood
+Watersleigh, October: Drought
+Watersleigh, September: Drought
+Watheroo, December: Drought
+Watheroo, January: Drought
+Watheroo, October: Drought
+Wattening, December: Drought
+Wattoning, December: Drought
+Wattoning, January: Drought
+Wattoning, November: Drought
+Wattoning, October: Drought
+Waugorah, February: Drought
+Waverley (Qld), April: Drought
+Waverley (Qld), August: Drought
+Waverley (Qld), December: Drought,Bushfire
+Waverley (Qld), October: Drought
+Waverley (Qld), September: Drought
+Wealwandangie, October: Drought
+Wedgefield, April: Drought
+Wedgefield, July: Drought
+Weemelah, October: Drought
+Weemelah, September: Drought
+Weengallon, October: Drought
+Weengallon, September: Drought
+Weeroona Island, February: Drought
+Weilmoringle, October: Drought
+Weilmoringle, September: Drought
+Welbungin, December: Drought
+Welbungin, January: Drought
+Welbungin, October: Drought
+Weld Range, December: Drought,Bushfire
+Weld Range, February: Drought,Bushfire
+Weld Range, January: Drought,Bushfire
+Weld Range, May: Drought
+Weld Range, November: Drought
+Weld Range, October: Drought
+Weld Range, September: Drought
+Wellesley (Qld), October: Drought
+Wellesley (Qld), September: Drought
+Wemen, February: Drought
+Werai, December: Drought
+Werai, January: Flood
+Werai, October: Drought
+Werai, September: Drought
+Weribone, October: Drought
+Weribone, September: Drought
+Werrimull, February: Drought
+West Ballidu, December: Drought
+West Ballidu, January: Drought
+West Ballidu, October: Drought
+West Binnu, April: Drought
+West Bundaleer, February: Drought
+West Casuarinas, April: Drought
+West Kalgoorlie, December: Drought
+West Kalgoorlie, February: Drought
+West Kalgoorlie, October: Drought
+West Lamington, December: Drought
+West Lamington, February: Drought
+West Lamington, October: Drought
+West Lyons River, April: Drought
+West Lyons River, August: Drought
+West Lyons River, December: Drought,Bushfire
+West Lyons River, February: Drought,Bushfire
+West Lyons River, January: Drought,Bushfire
+West Lyons River, May: Drought
+West Lyons River, November: Drought
+West Lyons River, October: Drought
+West Lyons River, September: Drought
+West Nowra, December: Drought
+West Nowra, January: Flood
+West Nowra, October: Drought
+West Nowra, September: Drought
+West Toodyay, February: Drought
+West Wollongong, February: Drought
+Westby, February: Drought
+Westdale (WA), February: Drought
+Westgrove, October: Drought
+Westmar, October: Drought
+Westmar, September: Drought
+Westonia, December: Drought
+Westonia, January: Drought
+Westonia, November: Drought
+Westonia, October: Drought
+Wetuppa, February: Drought
+Whetstone, October: Drought
+White Cliffs, December: Drought
+White Cliffs, October: Drought
+White Cliffs, September: Drought
+White Gums, April: Drought
+White Gums, August: Drought
+White Gums, December: Drought
+White Gums, October: Drought
+White Gums, September: Drought
+Whyte Yarcowie, February: Drought
+Wialki, December: Drought
+Wialki, January: Drought
+Wialki, October: Drought
+Wicherina, April: Drought
+Wicherina South, April: Drought
+Wickham (WA), October: Drought
+Widgeegoara, August: Drought
+Widgeegoara, November: Flood
+Widgeegoara, October: Drought
+Widgeegoara, September: Drought
+Widgiemooltha, February: Drought
+Wieambilla, October: Drought
+Wigley Flat, February: Drought
+Wijilawarrim, August: Drought
+Wijilawarrim, July: Drought
+Wijilawarrim, October: Drought
+Wijilawarrim, September: Drought
+Wilberforce (WA), February: Drought
+Wilcannia, December: Drought
+Wilcannia, October: Drought
+Wilcannia, September: Drought
+Wildes Meadow, December: Drought
+Wildes Meadow, January: Flood
+Wildes Meadow, October: Drought
+Wildes Meadow, September: Drought
+Wilgena, February: Drought
+Wilgena, March: Drought
+Wilgena, November: Drought
+Wilgena, October: Drought
+Wilgena, September: Drought
+Wilgoyne, December: Drought
+Wilgoyne, January: Drought
+Wilgoyne, November: Drought
+Wilgoyne, October: Drought
+Willalo, February: Drought
+Willare, April: Drought
+Willare, August: Drought
+Willare, July: Drought
+Willare, September: Drought
+William Creek, April: Drought
+William Creek, February: Drought,Bushfire
+William Creek, January: Drought,Bushfire
+William Creek, November: Drought
+William Creek, October: Drought
+William Creek, September: Drought
+Williamstown (WA), December: Drought
+Williamstown (WA), February: Drought
+Williamstown (WA), October: Drought
+Willippa, December: Drought
+Willippa, February: Drought
+Willippa, March: Drought
+Willippa, October: Drought
+Willippa, September: Drought
+Willochra, February: Drought
+Willow Springs, December: Drought
+Willow Springs, February: Drought
+Willow Springs, November: Drought
+Willow Springs, October: Drought
+Willow Springs, September: Drought
+Willowie, February: Drought
+Willowra, April: Drought
+Willowra, August: Drought
+Willowra, December: Drought,Bushfire
+Willowra, October: Drought
+Willowra, September: Drought
+Willows, October: Drought
+Wills, April: Drought
+Wills, August: Drought
+Wills, December: Drought,Bushfire
+Wills, November: Drought
+Wills, October: Drought
+Wills, September: Drought
+Willurah, February: Drought
+Wilmington, February: Drought
+Wilora, April: Drought
+Wilora, August: Drought
+Wilora, December: Drought,Bushfire
+Wilora, October: Drought
+Wilora, September: Drought
+Wilton (NSW), February: Drought
+Wiluna, August: Drought
+Wiluna, December: Drought,Bushfire
+Wiluna, February: Drought,Bushfire
+Wiluna, January: Flood
+Wiluna, May: Drought
+Wiluna, November: Drought
+Wiluna, October: Drought
+Wiluna, September: Drought
+Windang, February: Drought
+Windeyer (Qld), October: Drought
+Windeyer (Qld), September: Drought
+Windorah, August: Drought
+Windorah, January: Flood
+Windorah, October: Drought
+Windorah, September: Drought
+Wingadee, September: Drought
+Winkie, February: Drought
+Winnambool, February: Drought
+Winston, August: Drought
+Winston, December: Drought
+Winston, October: Drought
+Winston, September: Drought
+Winton (Qld), August: Drought
+Winton (Qld), December: Drought
+Winton (Qld), October: Drought
+Winton (Qld), September: Drought
+Wirrabara, February: Drought
+Wirragulla, October: Drought
+Wirraminna, February: Drought
+Wirraminna, March: Drought
+Wirraminna, November: Drought
+Wirraminna, October: Drought
+Wirraminna, September: Drought
+Wittenoom, April: Drought
+Wittenoom, August: Drought
+Wittenoom, December: Drought,Bushfire
+Wittenoom, February: Drought,Bushfire
+Wittenoom, January: Drought
+Wittenoom, July: Drought
+Wittenoom, May: Drought
+Wittenoom, November: Drought,Bushfire
+Wittenoom, October: Drought,Bushfire
+Wittenoom, September: Drought
+Woleebee, October: Drought
+Wollongong, February: Drought
+Womalilla, October: Drought
+Womalilla, September: Drought
+Womarden, April: Drought
+Womarden, December: Drought
+Womarden, January: Drought
+Womarden, October: Drought
+Wombarra, February: Drought
+Wondalli, October: Drought
+Wongamine, December: Drought
+Wongamine, February: Drought
+Wongan Hills, December: Drought
+Wongawilli, February: Drought
+Wongoondy, April: Drought
+Wongoondy, February: Drought
+Wongoondy, October: Drought
+Wongyarra, February: Drought
+Wonna, February: Drought
+Wonuarra, February: Drought
+Wood Wood, February: Drought
+Woodburn (Shoalhaven - NSW), October: Drought
+Woodburn (Shoalhaven - NSW), September: Drought
+Woodlands (Eurobodalla - NSW), December: Drought
+Woodlands (Eurobodalla - NSW), February: Drought,Bushfire
+Woodlands (Eurobodalla - NSW), January: Drought
+Woodlands (Eurobodalla - NSW), March: Drought
+Woodlands (Eurobodalla - NSW), November: Drought
+Woodlands (Eurobodalla - NSW), October: Drought
+Woodlands (Eurobodalla - NSW), September: Drought
+Woodleigh (SA), February: Drought
+Woodleigh (WA), April: Drought
+Woodleigh (WA), January: Drought
+Woodleigh (WA), March: Drought
+Woodleigh (WA), October: Drought
+Woodstock (Shoalhaven - NSW), October: Drought
+Woodstock (Shoalhaven - NSW), September: Drought
+Woolgar, August: Drought
+Woolgar, October: Drought
+Woolgar, September: Drought
+Woolgorong, April: Drought
+Woolgorong, December: Drought
+Woolgorong, February: Bushfire
+Woolgorong, January: Drought
+Woolgorong, November: Drought
+Woolgorong, October: Drought
+Woolpunda, February: Drought
+Woomera, February: Drought
+Woomera, March: Drought
+Woomera, November: Drought
+Woomera, October: Drought
+Woomera, September: Drought
+Woonona, February: Drought
+Wooramel, April: Drought
+Wooramel, March: Drought
+Wooramel, October: Drought
+Woorinen, February: Drought
+Woorinen North, February: Drought
+Woorinen South, February: Drought
+Wooroloo, February: Drought
+Woottating, February: Drought
+Worlds End (SA), February: Drought
+Wubin, December: Drought
+Wubin, January: Drought
+Wubin, October: Drought
+Wundowie, February: Drought
+Wunkar, February: Drought
+Wutunugurra, August: Drought
+Wutunugurra, December: Drought,Bushfire
+Wutunugurra, October: Drought
+Wutunugurra, September: Drought
+Wyaga, October: Drought
+Wyalkatchem, December: Drought
+Wyalkatchem, January: Drought
+Wyalkatchem, October: Drought
+Wyandra, August: Drought
+Wyandra, October: Drought
+Wyandra, September: Drought
+Wycombe, October: Drought
+Wycombe, September: Drought
+Wyening, December: Drought
+Wyndham (WA), August: Drought
+Wyndham (WA), July: Drought
+Wyndham (WA), May: Drought
+Wyndham (WA), October: Drought
+Wyndham (WA), September: Drought
+Wyola West, December: Drought
+Xantippe, December: Drought
+Xantippe, January: Drought
+Xantippe, October: Drought
+Yacka, February: Drought
+Yadlamalka, February: Drought
+Yadlamalka, March: Drought
+Yadlamalka, September: Drought
+Yagaburne, October: Drought
+Yalardy, April: Drought
+Yalardy, December: Drought
+Yalardy, February: Bushfire
+Yalardy, January: Drought
+Yalardy, March: Drought
+Yalardy, May: Drought
+Yalardy, October: Drought
+Yalgoo, April: Drought
+Yalgoo, December: Drought
+Yalgoo, February: Bushfire
+Yalgoo, January: Drought,Bushfire
+Yalgoo, November: Drought
+Yalgoo, October: Drought
+Yallabatharra, April: Drought
+Yallah, February: Drought
+Yallaroi, October: Drought
+Yalpara, February: Drought
+Yamba (SA), February: Drought
+Yandanooka, April: Drought
+Yandanooka, February: Drought
+Yandarlo, August: Drought
+Yandarlo, October: Drought
+Yandarlo, September: Drought
+Yandoo Creek, February: Drought
+Yandoo Creek, May: Drought
+Yandoo Creek, October: Drought
+Yanga, February: Drought
+Yannarie, April: Drought
+Yannarie, August: Drought
+Yannarie, December: Drought
+Yannarie, February: Drought
+Yannarie, January: Drought
+Yannarie, May: Drought
+Yannarie, October: Drought,Bushfire
+Yannarie, September: Drought
+Yantabulla, February: Drought
+Yantabulla, October: Drought
+Yantabulla, September: Drought
+Yanyarrie, February: Drought
+Yarawindah, February: Drought
+Yardarino, April: Drought
+Yardea, February: Drought
+Yarragadee, April: Drought
+Yarragadee, February: Drought
+Yarragadee, October: Drought
+Yarrah, February: Drought
+Yarrah, March: Drought
+Yarralin, August: Drought
+Yarralin, October: Drought,Bushfire
+Yarralin, September: Drought
+Yatina, February: Drought
+Yelbeni, December: Drought
+Yelbeni, January: Drought
+Yelbeni, November: Drought
+Yelbeni, October: Drought
+Yellowdine, December: Drought
+Yellowdine, January: Drought
+Yellowdine, October: Drought
+Yenda (NSW), November: Flood
+Yerecoin, December: Drought
+Yinkanie, February: Drought
+Yongala, February: Drought
+York, December: Drought
+York, February: Drought
+Yoting, December: Drought
+Yowah, August: Drought
+Yowah, October: Drought
+Yowah, September: Drought
+Yowrie, February: Drought
+Yuelamu, April: Drought
+Yuelamu, August: Drought
+Yuelamu, December: Drought,Bushfire
+Yuelamu, October: Drought
+Yuelamu, September: Drought
+Yuendumu, April: Drought
+Yuendumu, August: Drought
+Yuendumu, December: Drought,Bushfire
+Yuendumu, October: Drought
+Yuendumu, September: Drought
+Yulabilla, October: Drought
+Yulabilla, September: Drought
+Yulara, April: Drought
+Yulara, August: Drought
+Yulara, December: Drought,Bushfire
+Yulara, February: Drought,Bushfire
+Yulara, January: Drought,Bushfire
+Yulara, October: Drought
+Yulara, September: Drought
+Yuleba, October: Drought
+Yuleba North, October: Drought
+Yuleba South, October: Drought
+Yuleba South, September: Drought
+Yuna, April: Drought
+Yuna, February: Drought
+Yunta, February: Drought
+Zanthus, October: Drought
+Zuytdorp, April: Drought
