@@ -21,27 +21,31 @@ body {
 .navigation-bar {
     background-color: #A9A9A9;
     text-align: left;
+    height: 60px;
 }
 
 .navigation-bar a {
     display: inline-block;
     color: white;
-    padding: 14px 20px;
+    padding: 20px 30px;
     text-decoration: none;
+    font-size: 18px;
 }
 
 .navigation-bar a:hover {
     background-color: #ddd;
-    color: black;
+    color: rgb(32, 32, 32);
+    text-decoration: underline;
 }
 
 /* Mission statement */
 .mission-statement {
-    text-align:center;
-}
-
-.mission-statement {
-    font-size:large;
+    text-align: center;
+    font-size: large;
+    max-width: 1000px; 
+    margin: 0 auto;
+    padding: 20px; 
+    line-height: 1.6;
 }
 
 .images {
@@ -60,6 +64,7 @@ body {
 .insurance-collaborators {
     width: 80%;
     margin: 0 auto;
+    padding: 20px;
 }
 
 .insurance-collaborators h1 {
@@ -88,14 +93,16 @@ body {
     border-radius: 50%; 
 }
 
-.collaborator-info h3 {
+.collaborator-details h3 {
     margin: 0;
-    font-size: 18px;
+    font-size: 20px;
 }
 
-.collaborator-info p {
-    margin: 5px 0;
-    font-size: 14px;
+.collaborator-details p {
+    margin: 5px auto;
+    font-size: 15px;
+    text-align: left;
+    line-height: 1.6;
 }
 
 .sample-weather-prediction h1, p {
@@ -171,13 +178,13 @@ select {
 }
 
 .output-button {
-    margin: 20px 0; /* Optional: space around the button */
+    margin: 20px 0;
 }
 
 .output-button button {
     padding: 10px 20px;
     font-size: 16px;
-    cursor: pointer; /* Change cursor to pointer on hover */
+    cursor: pointer; 
 }
 
 #myInput {
@@ -186,7 +193,7 @@ select {
     font-size: 16px;
     border: 1px solid #ddd;
     margin-bottom: 12px;
-    text-align: left; /* Align text to the left */
+    text-align: left; 
 }
 
 .red-text {
@@ -194,7 +201,6 @@ select {
 }
 
 /* Popup text in weather.html */
-/* Overlay Styles */
 /* Overlay Styles */
 #overlay {
     position: fixed;
