@@ -13,13 +13,21 @@
     <h1>Weather Insurances</h1>
 </div>
 
-<!--Navigation Bar-->
+<!-- Navigation Bar -->
 <div class="navigation-bar">
-    <a href="HomePage.html">Home</a>
-    <a href="Insurance.html">Insurance</a>
-    <a href="WeatherPredictionPage.html">Weather Predictions</a>
-    <a href="Roles.html">Our Roles</a>
+    <a href="#" onclick="changePage('home')">Home</a>
+    <a href="#" onclick="changePage('insurance')">Insurance</a>
+    <a href="#" onclick="changePage('weather')">Weather Predictions</a>
+    <a href="#" onclick="changePage('roles')">Our Roles</a>
 </div>
+
+<script>
+    function changePage(page) {
+        
+        Shiny.setInputValue('page', page);
+    }
+</script>
+
 
 <br>
 <br>
