@@ -1,4 +1,5 @@
 import pandas as pd
+import sys
 
 # Define the base amounts for each disaster type
 disaster_base_amounts = {
@@ -114,6 +115,10 @@ def predict_insurance_claim(state, disaster_type, new_data, use_model=True):
 # Example usage
 state = 'nsw'
 disaster_type = 'bushfire'
+
+# usage with arg values
+state = sys.argv[1]
+disaster_type = sys.argv[2]
 
 new_data = generate_new_data(state, disaster_type)
 
