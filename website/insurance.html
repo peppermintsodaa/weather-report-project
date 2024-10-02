@@ -82,35 +82,15 @@
         <a href="WeatherPredictionPage.html">Weather Event Predictions</a>
     </div>
 
-    <script>
-        // Simulated data: claim amounts by disaster type and state
-        const claimData = {
-            "flood": { "NSW": 100000, "VIC": 80000, "QLD": 90000 },
-            "earthquake": { "NSW": 120000, "VIC": 95000, "QLD": 105000 },
-            "wildfire": { "NSW": 70000, "VIC": 85000, "QLD": 90000 },
-            "hurricane": { "NSW": 65000, "VIC": 70000, "QLD": 80000 },
-            "bushfire": { "NSW": 115000, "VIC": 110000, "QLD": 125000 }
-        };
 
-        // Function to toggle the display of the "Other" disaster input
-        function toggleOtherDisaster() {
-            const disasterSelect = document.getElementById('disaster');
-            const otherDisasterDiv = document.getElementById('other-disaster');
-
-            if (disasterSelect.value === 'other') {
-                otherDisasterDiv.style.display = 'block';
-            } else {
-                otherDisasterDiv.style.display = 'none';
-            }
-        }
-
-        // Function to calculate claim amount based on disaster and state
+<script>
         function calculateClaim() {
             const disaster = document.getElementById('disaster').value;
             const state = document.getElementById('state').value;
             const resultDiv = document.getElementById('result');
             const resultText = document.getElementById('result-text');
             let disasterType = disaster;
+            method = 'model'
 
             // If "Other" is selected, get the user input for the disaster
             if (disaster === 'other') {
@@ -122,17 +102,24 @@
                 }
             }
 
+            fetch(`http://127.0.0.1:5000/get_claim?state=${state}&disaster_type=${disasterType}&method=${method}`)
+                .then(response => response.json())
+                .then(data => {
+                    claims = data.claim_amount
+                    if (claims) {
+                        resultText.textContent = `The estimated amount to be claimed is $${claims.toLocaleString()} for ${disasterType} in ${state}.`;
+                    } else {
+                        resultText.textContent = `The estimated amount to be claimed is unavailable for ${disasterType} in ${state}.`;
+                    }
+                })
+                .catch(error => console.error('Error:', error));
+
             // Check if the state and disaster exist in the claim data
-            const claims = claimData[disaster] && claimData[disaster][state];
-            if (claims) {
-                resultText.textContent = `The estimated amount to be claimed is $${claims.toLocaleString()} for ${disasterType} in ${state}.`;
-            } else {
-                resultText.textContent = `The estimated amount to be claimed is unavailable for ${disasterType} in ${state}.`;
-            }
 
             // Show the result
             resultDiv.style.display = 'block';
         }
-    </script>
+    
+</script>
 </body>
 </html>
