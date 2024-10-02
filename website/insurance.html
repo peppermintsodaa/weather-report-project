@@ -33,13 +33,12 @@
             <!-- Dropdown for natural disasters -->
             <div class="form-group">
                 <label for="disaster">Select a Natural Disaster:</label>
-                <select id="disaster" onchange="toggleOtherDisaster()">
+                <select id="disaster"> <!-- onchange="toggleOtherDisaster()" -->
                     <option value="flood">Flood</option>
                     <option value="earthquake">Earthquake</option>
                     <option value="wildfire">Wildfire</option>
                     <option value="hurricane">Hurricane</option>
                     <option value="bushfire">Bushfire</option>
-
                 </select>
             </div>
             <br>
@@ -93,7 +92,7 @@
             method = 'model'
 
             // If "Other" is selected, get the user input for the disaster
-            if (disaster === 'other') {
+            if (disaster == 'other') {
                 disasterType = document.getElementById('otherDisasterInput').value;
                 if (!disasterType) {
                     resultText.textContent = "Please specify the disaster.";
@@ -107,10 +106,11 @@
                 .then(data => {
                     claims = data.claim_amount
                     if (claims) {
-                        resultText.textContent = `The estimated amount to be claimed is $${claims.toLocaleString()} for ${disasterType} in ${state}.`;
+                        resultText.textContent = `The estimated amount to be claimed is $${claims.toLocaleString()} for ${disasterType}s in ${state.toUpperCase()}.`;
                     } else {
                         resultText.textContent = `The estimated amount to be claimed is unavailable for ${disasterType} in ${state}.`;
                     }
+                    console.log(claims)
                 })
                 .catch(error => console.error('Error:', error));
 

@@ -185,7 +185,6 @@ def get_claim():
         # Use machine learning model to predict insurance claim amount
         loss, claim_amount = (predict_cost_with_model(new_data), predict_amount_with_model(new_data)) 
         claim_individual = round(loss / claim_amount, 2)
-        print(loss, claim_amount, claim_individual)
     else:
         # Use rule-based approach to calculate insurance claim amount
         claim_individual = calculate_insurance_amount(disaster_type, state)
