@@ -2,9 +2,8 @@
 <html lang="en">
 <head> 
     <meta charset="UTF-8">
-    <!-- import necessary scripts to parse csv file -->
+    <!-- import necessary scripts to create searchable dropdown -->
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <script type="text/javascript" src="jquery-csv.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -96,31 +95,7 @@
 </div>
 </body>
 
-<script>
-    // note: you need to run the cors_http_server.py file to 
-    // fetch the dataset via a local server
-    // async function getSuburbs(file) {
-    //     let response = await fetch(file);
-    //     let data = await response.text();
-    //     let csv_final = await $.csv.toArrays(data);
-    //     // extract the first column in the dataset without the headings
-    //     let suburbs = await csv_final.map(e => e[0]).slice(1, -1);
-        
-    //     return suburbs
-    // }
-
-    async function getWeatherData(file) {
-        let response = await fetch(file);
-        let data = await response.text();
-        let weather_data = await $.csv.toArrays(data).slice(1,-1);
-        
-        return weather_data
-    }
-
-    // get suburbs from dataset
-    //suburbs = getSuburbs('http://127.0.0.1:8000/datasets/SuburbClustered.csv');
-    //weather_data = getWeatherData('http://127.0.0.1:8000/datasets_cleaned/grouped_suburbs.csv');
-    
+<script>    
     // Function to create all options for suburb drop down
     function createSuburbOptions() {
         fetch(`http://127.0.0.1:5000/get_suburbs`)
@@ -136,8 +111,7 @@
                         option.value = suburb;
                         select.appendChild(option);
                     }); 
-                }
-            })
+            }})
             .catch(error => console.error('Error:', error));
     }
 
@@ -154,18 +128,6 @@ function closePopup() {
 
 // Attach the close event to the button (if the inline approach doesn't work)
 document.getElementById("close-btn").onclick = closePopup;
-
-    // Sample data for weather events (for demonstration)
-    const weatherData = {
-        "Albury": {
-            "January": { "TemperatureMean": 28, "RainSum": 50, "RelativeHumidityMean": 60 },
-            "February": { "TemperatureMean": 30, "RainSum": 100, "RelativeHumidityMean": 55 },
-        },
-        "Northcote": {
-            "January": { "TemperatureMean": 25, "RainSum": 20, "RelativeHumidityMean": 50 },
-            "February": { "TemperatureMean": 27, "RainSum": 80, "RelativeHumidityMean": 65 },
-        },
-    };
 
     // Check weather event logic
     async function checkWeatherEvent() {
@@ -207,17 +169,10 @@ document.getElementById("close-btn").onclick = closePopup;
                     document.getElementById("overlay").style.display = "block"; // Show overlay
                 }}) 
                 .catch(error => console.error('Error:', error));
-
-        // let target_row = await weather_data.then(value =>
-        //     // this will be very slow rip
-        //     value[value.findIndex(v => v.includes(selectedSuburb) &&
-        //                                v.includes(selectedMonth))]
     }
 
     // Attach event listener for the button
     document.getElementById("submit").addEventListener("click", checkWeatherEvent);
-
-
 </script>
 
 </html>
