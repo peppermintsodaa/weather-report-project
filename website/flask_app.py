@@ -1,10 +1,10 @@
 # import libraries
-import sys
+import sys, os
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS, cross_origin
 import pandas as pd
 # import other python model files
-sys.path.append( '/' )
+sys.path.append(os.path.dirname(os.path.abspath('website')))
 import model_1_insurance_advanced as insurance_model
 import model_weather_new as weather_model
 
@@ -135,7 +135,7 @@ def get_claim():
         # Use machine learning model to predict insurance claim amount
         loss, claim_amount = (insurance_model.predict_cost_with_model(new_data),
                               insurance_model.predict_amount_with_model(new_data)) 
-        claim_individual = round(loss / claim_amount, 2)
+        claim_individual = round(loss / (claim_amount+1), 2)
     else:
         # Use rule-based approach to calculate insurance claim amount
         claim_individual = insurance_model.calculate_insurance_amount(disaster_type, state)
@@ -144,11 +144,11 @@ def get_claim():
 
 @app.route('/common_disasters', methods=['GET'])
 def common_disasters():
-    common = insurance_model.insurance_data.groupby('state')['type'].agg(lambda x: x.value_counts().idxmax()).to_dict()
+    common = insurance_model.data.groupby('state')['type'].agg(lambda x: x.value_counts().idxmax()).to_dict()
     return jsonify(common)
 
 #### RETRIEVING SOURCE FILES FOR WEATHER PREDICTION ####
-@app.route('/get_suburbs')
+#@app.route('/get_suburbs')
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
