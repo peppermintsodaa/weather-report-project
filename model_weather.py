@@ -1,10 +1,6 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
-#from sklearn.tree import DecisionTreeRegressor
-#from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.svm import LinearSVC
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 # read merged weather dataset
