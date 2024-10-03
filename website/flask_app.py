@@ -154,5 +154,16 @@ def get_suburbs():
     suburbs = suburbs['OfficialNameSuburb'].sort_values()
     return jsonify({'suburbs': list(suburbs)})
 
+@app.route('/get_weather_data')
+@cross_origin()
+def get_weather_data():
+    month = request.args.get('month', type=str)
+    suburb = request.args.get('suburb', type=str)
+
+    grouped = weather_model.grouped.copy()
+    matching_data = grouped[(grouped['Month'] == month) & (grouped['OfficialNameSuburb'] == suburb)]
+
+    return jsonify({'data': matching_data.to_numpy().tolist()})
+
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
