@@ -41,11 +41,31 @@ grouped = weather_data_copy.groupby(['OfficialNameSuburb', 'Month']).agg({
 }).reset_index()
 
 # Calculate chances of disasters
+# version of calculate_disasters() but using array
+def calculate_disaster(row):
+    temp = row[2]
+    rainfall = row[3]
+    humidity = row[4]
+
+    drought_chance = 0
+    flood_chance = 0
+    bushfire_chance = 0
+
+    # Define criteria for each disaster
+    if rainfall < 20 and humidity < 40:  # Example for drought
+        drought_chance = 1
+    if rainfall > 100 and humidity < 50:  # Example for floods
+        flood_chance = 1
+    if temp > 30 and humidity < 30:  # Example for bushfires
+        bushfire_chance = 1
+    
+    return pd.Series([drought_chance, flood_chance, bushfire_chance])
+
 def calculate_disasters(row):
     temp = row['TemperatureMean']
     rainfall = row['RainSum']
     humidity = row['RelativeHumidityMean']
-    
+
     drought_chance = 0
     flood_chance = 0
     bushfire_chance = 0

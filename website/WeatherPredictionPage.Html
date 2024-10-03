@@ -169,42 +169,34 @@ document.getElementById("close-btn").onclick = closePopup;
 
     // Check weather event logic
     async function checkWeatherEvent() {
-        let selectedSuburb = document.getElementById("suburbs").value;
         let selectedMonth = document.getElementById("prediction-month").value;
+        let selectedSuburb = document.getElementById("suburbs").value;
 
-        fetch(`http://127.0.0.1:5000/get_weather_data`)
+        fetch(`http://127.0.0.1:5000/predict_weather?month=${selectedMonth}&suburb=${selectedSuburb}`)
             .then(response => response.json())
             .then(data => {
-                weather_data = data.data
+                weather_data = data.chances
                 if (weather_data) {
-                    const weather_info = {
-                        "TemperatureMean": Number(target_row[2]),
-                        "RainSum": Number(target_row[3]),
-                        "RelativeHumidityMean": Number(target_row[4]) 
-                    }
-
                     resultDiv = document.getElementById("result");
-                    console.log(weather_info)
-                    if (weather_info) {
-                        const { TemperatureMean, RainSum, RelativeHumidityMean } = weather_info;
-                        message = ``;
-                        popupClass = "";
+                    console.log(weather_data)
+                    
+                    message = ``;
+                    popupClass = "";
 
                         // Determine the susceptibility based on conditions
-                        if (RainSum < 20 && RelativeHumidityMean < 40) {
-                            message += `<b>WARNING!</b><br><br>There will be a possible drought in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a drought:</b><br>1. Create a water management plan (i.e. develop strategies for efficient use of available water)<br>2. Ensure efficient water storage and conservation<br>3. Plant drough-resist crops<br>4. Prepare an emergency kit (Stock up food, water, first-aid kit)<br/>`;
+                        if (weather_data[2] == 1) {
+                            message += `<b>WARNING!</b><br><br>There will be possible bushfires in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a bushfire:</b><br>1. Develop a bushfire survival plan<br>2. Prepare your home area (e.g Seal gaps, clear flammable vegetation)<br>3. Prepare an emergency kit<br>4. Ensure access to water supply<br>`;
                             popupClass += "popup-red"; 
-                        } else if (RainSum > 100 && RelativeHumidityMean < 50) {
+                        } else if (weather_data[1] == 1) {
                             message += `<b>WARNING!</b><br><br>There will be possible floods in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a flood:</b><br>1. Understand your area's flood risk (E.g check flood maps, stay informed with flood alerts)<br>2. Create an emergency plan<br>3. Prepare an emergency kit<br>4. Protect your property (elevate electrical systems, install flood barriers)<br>`;
                             popupClass += "popup-red"; 
-                        } else if (TemperatureMean > 30 && RelativeHumidityMean < 30) {
-                            message += `<b>WARNING!</b><br><br>There will be possible bushfires in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a bushfire:</b><br>1. Develop a bushfire survival plan<br>2. Prepare your home area (e.g Seal gaps, clear flammable vegetation)<br>3. Prepare an emergency kit<br>4. Ensure access to water supply<br>`;
+                        } else if (weather_data[0] == 1) {
+                            message += `<b>WARNING!</b><br><br>There will be a possible drought in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a drought:</b><br>1. Create a water management plan (i.e. develop strategies for efficient use of available water)<br>2. Ensure efficient water storage and conservation<br>3. Plant drough-resist crops<br>4. Prepare an emergency kit (Stock up food, water, first-aid kit)<br/>`;
                             popupClass += "popup-red"; 
                         } else {
                             message += `There will be no severe weather events in ${selectedSuburb} during ${selectedMonth}.`;
                             popupClass += "popup-green";
                         }
-                    }
 
                     // Set the message and class for the popup
                     document.getElementById("popup-message").innerHTML = message; // Use innerHTML to render HTML
