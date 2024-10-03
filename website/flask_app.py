@@ -8,6 +8,7 @@ from sklearn.ensemble import RandomForestRegressor
 app = Flask(__name__)
 cors = CORS(app)
 
+#### PREDICTING INSURANCE CLAIMS ####
 # Define the base amounts for each disaster type
 disaster_base_amounts = {
     'flooding': 1000000,
@@ -36,15 +37,15 @@ def calculate_insurance_amount(disaster_type, state):
     return insurance_amount
 
 # Load the dataset
-data = pd.read_csv('datasets_cleaned/merged_dataset.csv')
+insurance_data = pd.read_csv('datasets_cleaned/merged_dataset.csv')
 
 # Select features and target
-target_1 = data['original loss value']
-target_2 = data['claims count']
+target_1 = insurance_data['original loss value']
+target_2 = insurance_data['claims count']
 
 # Convert categorical features to numerical
-features = pd.get_dummies(data['type'])
-features = pd.concat([features, data[['nsw', 'vic', 'qld', 'act', 'tas', 'sa', 'nt', 'wa', 'waters']]], axis = 1)
+features = pd.get_dummies(insurance_data['type'])
+features = pd.concat([features, insurance_data[['nsw', 'vic', 'qld', 'act', 'tas', 'sa', 'nt', 'wa', 'waters']]], axis = 1)
 
 # Train-Test Split
 X1_train, X1_test, y1_train, y1_test = train_test_split(features, target_1, test_size=0.2, random_state=42)
@@ -76,10 +77,16 @@ def predict_amount_with_model(new_data):
     claim_amount = model_2.predict(new_data)
     return claim_amount[0]
 
+#### PREDICTING WEATHER DATA ####
+weather_data = pd.read_csv('datasets_cleaned/merged_dataset.csv')
+
+
+#### ROUTING ####
 @app.route('/')
 def index():
     return render_template('index.html')
 
+#### PREDICTING INSURANCE CLAIMS ####
 @app.route('/get_claim', methods=['GET'])
 @cross_origin()
 def get_claim():
@@ -100,8 +107,10 @@ def get_claim():
 
 @app.route('/common_disasters', methods=['GET'])
 def common_disasters():
-    common = data.groupby('state')['type'].agg(lambda x: x.value_counts().idxmax()).to_dict()
+    common = insurance_data.groupby('state')['type'].agg(lambda x: x.value_counts().idxmax()).to_dict()
     return jsonify(common)
+
+#### RETRIEVING SOURCE FILES FOR WEATHER PREDICTION ####
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)

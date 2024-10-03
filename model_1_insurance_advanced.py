@@ -1,5 +1,4 @@
 import pandas as pd
-import sys
 
 # Define the base amounts for each disaster type
 disaster_base_amounts = {
@@ -31,21 +30,16 @@ def calculate_insurance_amount(disaster_type, state):
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 # Load the dataset
 data = pd.read_csv('datasets_cleaned/merged_dataset.csv')
-#data = pd.read_csv('datasets_cleaned/ica-2024-cleaned.csv')
 
 # Select features and target
 target_1 = data['original loss value']
 target_2 = data['claims count']
 
 # Convert categorical features to numerical
-#features = pd.get_dummies(data[['state','type']])
-#features = pd.concat([features, data[['normalised loss value (2022)', 'claims count']]], axis = 1)
-# this is if you're using cleaned_ica_data.csv
 features = pd.get_dummies(data['type'])
 features = pd.concat([features, data[['nsw', 'vic', 'qld', 'act', 'tas', 'sa', 'nt', 'wa', 'waters']]], axis = 1)
 
@@ -55,7 +49,6 @@ X2_train, X2_test, y2_train, y2_test = train_test_split(features, target_2, test
 
 # Initialize and train the model
 model_1 = RandomForestRegressor(max_depth = 3, random_state = 42)
-#model_1 = LinearRegression()
 model_1.fit(X1_train, y1_train)
 
 # Make predictions
@@ -116,10 +109,6 @@ def predict_insurance_claim(state, disaster_type, new_data, use_model=True):
 state = 'nsw'
 disaster_type = 'bushfire'
 
-# usage with arg values
-state = sys.argv[1]
-disaster_type = sys.argv[2]
-
 new_data = generate_new_data(state, disaster_type)
 
 # Decide which method to use
@@ -130,10 +119,3 @@ print(f"Predicted Insurance Claim Amount: ${loss / (claim_amount+1):,.0f}")
 
 insurance_claim = predict_insurance_claim(state, disaster_type, new_data, use_model=False)
 print(f"Insurance Claim Amount (Rule-Based): ${insurance_claim:,.0f}")
-
-# Find the most commonly occurred disasters for each state
-#common_disasters = data.groupby(['NSW', 'VIC', 'QLD', 'ACT', 'TAS', 'SA', 'NT', 'WA'])['type'].agg(lambda x: x.value_counts().idxmax())
-#common_disasters = data.groupby(['nsw', 'vic', 'qld', 'act', 'tas', 'sa', 'nt', 'wa', 'waters'])['type'].agg(lambda x: x.value_counts().idxmax())
-
-#print("Most Common Disasters for Each State:")
-#print(common_disasters)
