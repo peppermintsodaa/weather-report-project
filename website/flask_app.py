@@ -116,7 +116,6 @@ cors = CORS(app)
 #     'RelativeHumidityMean': 'mean'      # Average humidity
 # }).reset_index()
 
-
 #### ROUTING ####
 @app.route('/')
 def index():
@@ -148,7 +147,12 @@ def common_disasters():
     return jsonify(common)
 
 #### RETRIEVING SOURCE FILES FOR WEATHER PREDICTION ####
-#@app.route('/get_suburbs')
+@app.route('/get_suburbs')
+@cross_origin()
+def get_suburbs():
+    suburbs = weather_model.suburb_clustered.copy()
+    suburbs = suburbs['OfficialNameSuburb'].sort_values()
+    return jsonify({'suburbs': list(suburbs)})
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)

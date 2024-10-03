@@ -4,44 +4,41 @@ from sklearn.metrics import classification_report, confusion_matrix
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-def prepare_weather_dataset():
-    # Load datasets
-    weather_data = pd.read_csv('datasets_cleaned/cleaned_weather_data.csv')
-    clusters = pd.read_csv('datasets/Clusters.csv')
-    suburb_clustered = pd.read_csv('datasets/SuburbClustered.csv')
+# Load datasets
+weather_data = pd.read_csv('datasets_cleaned/cleaned_weather_data.csv')
+clusters = pd.read_csv('datasets/Clusters.csv')
+suburb_clustered = pd.read_csv('datasets/SuburbClustered.csv')
 
-    # Clean and preprocess the data
-    weather_data.ffill(inplace=True)
+# Clean and preprocess the data
+weather_data.ffill(inplace=True)
 
-    # Merge weather_data with clusters to get latitude and longitude
-    weather_data = weather_data.merge(clusters[['ClusterID', 'Latitude', 'Longitude']], on='ClusterID')
+# Merge weather_data with clusters to get latitude and longitude
+weather_data = weather_data.merge(clusters[['ClusterID', 'Latitude', 'Longitude']], on='ClusterID')
 
-    # Merge with suburb_clustered to get suburb information
-    weather_data = weather_data.merge(suburb_clustered[['ClusterID', 'OfficialNameSuburb', 'OfficialNameState']], on='ClusterID')
+# Merge with suburb_clustered to get suburb information
+weather_data = weather_data.merge(suburb_clustered[['ClusterID', 'OfficialNameSuburb', 'OfficialNameState']], on='ClusterID')
 
-    weather_data_copy = weather_data.copy()
+weather_data_copy = weather_data.copy()
 
-    weather_data_copy['Month'] = weather_data_copy['Month'].replace({1: 'January',
-                                                                    2: 'February',
-                                                                    3: 'March',
-                                                                    4: 'April',
-                                                                    5: 'May',
-                                                                    6: 'June',
-                                                                    7: 'July',
-                                                                    8: 'August',
-                                                                    9: 'September',
-                                                                    10: 'October',
-                                                                    11: 'November',
-                                                                    12: 'December', })
+weather_data_copy['Month'] = weather_data_copy['Month'].replace({1: 'January',
+                                                                2: 'February',
+                                                                3: 'March',
+                                                                4: 'April',
+                                                                5: 'May',
+                                                                6: 'June',
+                                                                7: 'July',
+                                                                8: 'August',
+                                                                9: 'September',
+                                                                10: 'October',
+                                                                11: 'November',
+                                                                12: 'December', })
 
-    # Group data by suburb and month
-    grouped = weather_data_copy.groupby(['OfficialNameSuburb', 'Month']).agg({
-        'TemperatureMean': 'mean',          # Average temperature
-        'RainSum': 'sum',                   # Total rainfall
-        'RelativeHumidityMean': 'mean'      # Average humidity
-    }).reset_index()
-
-    return grouped
+# Group data by suburb and month
+grouped = weather_data_copy.groupby(['OfficialNameSuburb', 'Month']).agg({
+    'TemperatureMean': 'mean',          # Average temperature
+    'RainSum': 'sum',                   # Total rainfall
+    'RelativeHumidityMean': 'mean'      # Average humidity
+}).reset_index()
 
 # Calculate chances of disasters
 def calculate_disasters(row):
@@ -139,5 +136,4 @@ def evaluate(grouped):
     print(classification_report(y_true_bushfire, y_pred_bushfire))
 
 # execute functions
-grouped = prepare_weather_dataset()
 generate_suburb_event_list(grouped)

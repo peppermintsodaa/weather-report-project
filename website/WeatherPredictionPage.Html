@@ -99,15 +99,15 @@
 <script>
     // note: you need to run the cors_http_server.py file to 
     // fetch the dataset via a local server
-    async function getSuburbs(file) {
-        let response = await fetch(file);
-        let data = await response.text();
-        let csv_final = await $.csv.toArrays(data);
-        // extract the first column in the dataset without the headings
-        let suburbs = await csv_final.map(e => e[0]).slice(1, -1);
+    // async function getSuburbs(file) {
+    //     let response = await fetch(file);
+    //     let data = await response.text();
+    //     let csv_final = await $.csv.toArrays(data);
+    //     // extract the first column in the dataset without the headings
+    //     let suburbs = await csv_final.map(e => e[0]).slice(1, -1);
         
-        return suburbs
-    }
+    //     return suburbs
+    // }
 
     async function getWeatherData(file) {
         let response = await fetch(file);
@@ -118,21 +118,27 @@
     }
 
     // get suburbs from dataset
-    suburbs = getSuburbs('http://127.0.0.1:8000/datasets/SuburbClustered.csv');
+    //suburbs = getSuburbs('http://127.0.0.1:8000/datasets/SuburbClustered.csv');
     weather_data = getWeatherData('http://127.0.0.1:8000/datasets_cleaned/grouped_suburbs.csv');
     
     // Function to create all options for suburb drop down
-    async function createSuburbOptions() {
-        let select = document.getElementById("suburbs");
-        
-        // extract array from suburb promise
-        await suburbs.then(value => 
-            value.sort().forEach(suburb => {
-                let option = document.createElement("option");
-                option.textContent = suburb;
-                option.value = suburb;
-                select.appendChild(option);
-        })); 
+    function createSuburbOptions() {
+        fetch(`http://127.0.0.1:5000/get_suburbs`)
+            .then(response => response.json())
+            .then(data => {
+                suburbs = data.suburbs
+                if (suburbs) {
+                    select = document.getElementById("suburbs");
+
+                    suburbs.forEach(suburb => {
+                        let option = document.createElement("option");
+                        option.textContent = suburb;
+                        option.value = suburb;
+                        select.appendChild(option);
+                    }); 
+                }
+            })
+            .catch(error => console.error('Error:', error));
     }
 
     // change suburbs to be searchable
