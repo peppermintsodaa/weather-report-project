@@ -130,9 +130,9 @@ function closePopup() {
 document.getElementById("close-btn").onclick = closePopup;
 
     // Check weather event logic
-    async function checkWeatherEvent() {
-        let selectedMonth = document.getElementById("prediction-month").value;
-        let selectedSuburb = document.getElementById("suburbs").value;
+    function checkWeatherEvent() {
+        selectedMonth = document.getElementById("prediction-month").value;
+        selectedSuburb = document.getElementById("suburbs").value;
 
         fetch(`http://127.0.0.1:5000/predict_weather?month=${selectedMonth}&suburb=${selectedSuburb}`)
             .then(response => response.json())
@@ -167,8 +167,8 @@ document.getElementById("close-btn").onclick = closePopup;
                     // Show the popup and overlay
                     document.getElementById("popup").style.display = "block";
                     document.getElementById("overlay").style.display = "block"; // Show overlay
-                }}) 
-                .catch(error => console.error('Error:', error));
+            }}) 
+            .catch(error => console.error('Error:', error));
     }
 
     // Attach event listener for the button
