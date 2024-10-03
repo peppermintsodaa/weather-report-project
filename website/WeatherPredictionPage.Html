@@ -2,9 +2,8 @@
 <html lang="en">
 <head> 
     <meta charset="UTF-8">
-    <!-- import necessary scripts to parse csv file -->
+    <!-- import necessary scripts to create searchable dropdown -->
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <script type="text/javascript" src="jquery-csv.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -96,43 +95,24 @@
 </div>
 </body>
 
-<script>
-    // note: you need to run the cors_http_server.py file to 
-    // fetch the dataset via a local server
-    async function getSuburbs(file) {
-        let response = await fetch(file);
-        let data = await response.text();
-        let csv_final = await $.csv.toArrays(data);
-        // extract the first column in the dataset without the headings
-        let suburbs = await csv_final.map(e => e[0]).slice(1, -1);
-        
-        return suburbs
-    }
-
-    async function getWeatherData(file) {
-        let response = await fetch(file);
-        let data = await response.text();
-        let weather_data = await $.csv.toArrays(data).slice(1,-1);
-        
-        return weather_data
-    }
-
-    // get suburbs from dataset
-    suburbs = getSuburbs('http://127.0.0.1:8000/datasets/SuburbClustered.csv');
-    weather_data = getWeatherData('http://127.0.0.1:8000/datasets_cleaned/grouped_suburbs.csv');
-    
+<script>    
     // Function to create all options for suburb drop down
-    async function createSuburbOptions() {
-        let select = document.getElementById("suburbs");
-        
-        // extract array from suburb promise
-        await suburbs.then(value => 
-            value.sort().forEach(suburb => {
-                let option = document.createElement("option");
-                option.textContent = suburb;
-                option.value = suburb;
-                select.appendChild(option);
-        })); 
+    function createSuburbOptions() {
+        fetch(`http://127.0.0.1:5000/get_suburbs`)
+            .then(response => response.json())
+            .then(data => {
+                suburbs = data.suburbs
+                if (suburbs) {
+                    select = document.getElementById("suburbs");
+
+                    suburbs.forEach(suburb => {
+                        let option = document.createElement("option");
+                        option.textContent = suburb;
+                        option.value = suburb;
+                        select.appendChild(option);
+                    }); 
+            }})
+            .catch(error => console.error('Error:', error));
     }
 
     // change suburbs to be searchable
@@ -149,74 +129,50 @@ function closePopup() {
 // Attach the close event to the button (if the inline approach doesn't work)
 document.getElementById("close-btn").onclick = closePopup;
 
-
-
-
-
-
-    // Sample data for weather events (for demonstration)
-    const weatherData = {
-        "Albury": {
-            "January": { "TemperatureMean": 28, "RainSum": 50, "RelativeHumidityMean": 60 },
-            "February": { "TemperatureMean": 30, "RainSum": 100, "RelativeHumidityMean": 55 },
-        },
-        "Northcote": {
-            "January": { "TemperatureMean": 25, "RainSum": 20, "RelativeHumidityMean": 50 },
-            "February": { "TemperatureMean": 27, "RainSum": 80, "RelativeHumidityMean": 65 },
-        },
-    };
-
     // Check weather event logic
-    async function checkWeatherEvent() {
-        let selectedSuburb = document.getElementById("suburbs").value;
-        let selectedMonth = document.getElementById("prediction-month").value;
+    function checkWeatherEvent() {
+        selectedMonth = document.getElementById("prediction-month").value;
+        selectedSuburb = document.getElementById("suburbs").value;
 
-        let target_row = await weather_data.then(value =>
-            // this will be very slow rip
-            value[value.findIndex(v => v.includes(selectedSuburb) &&
-                                       v.includes(selectedMonth))])
-        const weather_info = {
-            "TemperatureMean": Number(target_row[2]),
-            "RainSum": Number(target_row[3]),
-            "RelativeHumidityMean": Number(target_row[4]) 
-        }
+        fetch(`http://127.0.0.1:5000/predict_weather?month=${selectedMonth}&suburb=${selectedSuburb}`)
+            .then(response => response.json())
+            .then(data => {
+                weather_data = data.chances
+                if (weather_data) {
+                    resultDiv = document.getElementById("result");
+                    console.log(weather_data)
+                    
+                    message = ``;
+                    popupClass = "";
 
-        let resultDiv = document.getElementById("result");
-        console.log(weather_info)
-        if (weather_info) {
-            const { TemperatureMean, RainSum, RelativeHumidityMean } = weather_info;
-            message = ``;
-            popupClass = "";
+                        // Determine the susceptibility based on conditions
+                        if (weather_data[2] == 1) {
+                            message += `<b>WARNING!</b><br><br>There will be possible bushfires in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a bushfire:</b><br>1. Develop a bushfire survival plan<br>2. Prepare your home area (e.g Seal gaps, clear flammable vegetation)<br>3. Prepare an emergency kit<br>4. Ensure access to water supply<br>`;
+                            popupClass += "popup-red"; 
+                        } else if (weather_data[1] == 1) {
+                            message += `<b>WARNING!</b><br><br>There will be possible floods in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a flood:</b><br>1. Understand your area's flood risk (E.g check flood maps, stay informed with flood alerts)<br>2. Create an emergency plan<br>3. Prepare an emergency kit<br>4. Protect your property (elevate electrical systems, install flood barriers)<br>`;
+                            popupClass += "popup-red"; 
+                        } else if (weather_data[0] == 1) {
+                            message += `<b>WARNING!</b><br><br>There will be a possible drought in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a drought:</b><br>1. Create a water management plan (i.e. develop strategies for efficient use of available water)<br>2. Ensure efficient water storage and conservation<br>3. Plant drough-resist crops<br>4. Prepare an emergency kit (Stock up food, water, first-aid kit)<br/>`;
+                            popupClass += "popup-red"; 
+                        } else {
+                            message += `There will be no severe weather events in ${selectedSuburb} during ${selectedMonth}.`;
+                            popupClass += "popup-green";
+                        }
 
-            // Determine the susceptibility based on conditions
-            if (RainSum < 20 && RelativeHumidityMean < 40) {
-                message += `<b>WARNING!</b><br><br>There will be a possible drought in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a drought:</b><br>1. Create a water management plan (i.e. develop strategies for efficient use of available water)<br>2. Ensure efficient water storage and conservation<br>3. Plant drough-resist crops<br>4. Prepare an emergency kit (Stock up food, water, first-aid kit)<br/>`;
-                popupClass += "popup-red"; 
-            } else if (RainSum > 100 && RelativeHumidityMean < 50) {
-                message += `<b>WARNING!</b><br><br>There will be possible floods in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a flood:</b><br>1. Understand your area's flood risk (E.g check flood maps, stay informed with flood alerts)<br>2. Create an emergency plan<br>3. Prepare an emergency kit<br>4. Protect your property (elevate electrical systems, install flood barriers)<br>`;
-                popupClass += "popup-red"; 
-            } else if (TemperatureMean > 30 && RelativeHumidityMean < 30) {
-                message += `<b>WARNING!</b><br><br>There will be possible bushfires in ${selectedSuburb} during ${selectedMonth}!<br><br><b>Here are some safety measures to prepare for a bushfire:</b><br>1. Develop a bushfire survival plan<br>2. Prepare your home area (e.g Seal gaps, clear flammable vegetation)<br>3. Prepare an emergency kit<br>4. Ensure access to water supply<br>`;
-                popupClass += "popup-red"; 
-            } else {
-                message += `There will be no severe weather events in ${selectedSuburb} during ${selectedMonth}.`;
-                popupClass += "popup-green";
-            }
-        }
+                    // Set the message and class for the popup
+                    document.getElementById("popup-message").innerHTML = message; // Use innerHTML to render HTML
+                    document.getElementById("popup").className = "popup " + popupClass; // Set class for styling
 
-        // Set the message and class for the popup
-        document.getElementById("popup-message").innerHTML = message; // Use innerHTML to render HTML
-        document.getElementById("popup").className = "popup " + popupClass; // Set class for styling
-
-        // Show the popup and overlay
-        document.getElementById("popup").style.display = "block";
-        document.getElementById("overlay").style.display = "block"; // Show overlay
+                    // Show the popup and overlay
+                    document.getElementById("popup").style.display = "block";
+                    document.getElementById("overlay").style.display = "block"; // Show overlay
+            }}) 
+            .catch(error => console.error('Error:', error));
     }
 
     // Attach event listener for the button
     document.getElementById("submit").addEventListener("click", checkWeatherEvent);
-
-
 </script>
 
 </html>

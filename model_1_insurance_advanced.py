@@ -1,5 +1,7 @@
 import pandas as pd
-import sys
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 # Define the base amounts for each disaster type
 disaster_base_amounts = {
@@ -28,24 +30,14 @@ def calculate_insurance_amount(disaster_type, state):
     
     return insurance_amount
 
-from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_absolute_error, mean_squared_error
-
 # Load the dataset
 data = pd.read_csv('datasets_cleaned/merged_dataset.csv')
-#data = pd.read_csv('datasets_cleaned/ica-2024-cleaned.csv')
 
 # Select features and target
 target_1 = data['original loss value']
 target_2 = data['claims count']
 
 # Convert categorical features to numerical
-#features = pd.get_dummies(data[['state','type']])
-#features = pd.concat([features, data[['normalised loss value (2022)', 'claims count']]], axis = 1)
-# this is if you're using cleaned_ica_data.csv
 features = pd.get_dummies(data['type'])
 features = pd.concat([features, data[['nsw', 'vic', 'qld', 'act', 'tas', 'sa', 'nt', 'wa', 'waters']]], axis = 1)
 
@@ -55,35 +47,36 @@ X2_train, X2_test, y2_train, y2_test = train_test_split(features, target_2, test
 
 # Initialize and train the model
 model_1 = RandomForestRegressor(max_depth = 3, random_state = 42)
-#model_1 = LinearRegression()
 model_1.fit(X1_train, y1_train)
 
-# Make predictions
-y1_pred = model_1.predict(X1_test)
-
-# Evaluate the model
-mae = mean_absolute_error(y1_test, y1_pred)
-mse = mean_squared_error(y1_test, y1_pred)
-
-print(f"R2 Score 1: {model_1.score(X1_test, y1_test)}")
-print(f"Mean Absolute Error 1: {mae}")
-print(f"Mean Squared Error 1: {mse}")
-print()
-
-model_2 = DecisionTreeRegressor(random_state = 42)
+model_2 = RandomForestRegressor(max_depth = 5, random_state = 42)
+#model_2 = RandomForestRegressor(random_state = 42)
 model_2.fit(X2_train, y2_train)
 
-# Make predictions
-y2_pred = model_2.predict(X2_test)
+def evaluate(X1_train, y1_train, X2_train, y2_train):
+    # Make predictions
+    y1_pred = model_1.predict(X1_test)
 
-# Evaluate the model
-mae = mean_absolute_error(y2_test, y2_pred)
-mse = mean_squared_error(y2_test, y2_pred)
+    # Evaluate the model
+    mae = mean_absolute_error(y1_test, y1_pred)
+    mse = mean_squared_error(y1_test, y1_pred)
 
-print(f"R2 Score 1: {model_2.score(X2_test, y2_test)}")
-print(f"Mean Absolute Error 1: {mae}")
-print(f"Mean Squared Error 1: {mse}")
-print()
+    print(f"R2 Score 1: {model_1.score(X1_test, y1_test)}")
+    print(f"Mean Absolute Error 1: {mae}")
+    print(f"Mean Squared Error 1: {mse}")
+    print()
+
+    # Make predictions
+    y2_pred = model_2.predict(X2_test)
+
+    # Evaluate the model
+    mae = mean_absolute_error(y2_test, y2_pred)
+    mse = mean_squared_error(y2_test, y2_pred)
+
+    print(f"R2 Score 1: {model_2.score(X2_test, y2_test)}")
+    print(f"Mean Absolute Error 1: {mae}")
+    print(f"Mean Squared Error 1: {mse}")
+    print()
 
 def generate_new_data(state, disaster_type):
     new_data = pd.DataFrame({
@@ -113,27 +106,16 @@ def predict_insurance_claim(state, disaster_type, new_data, use_model=True):
         return calculate_insurance_amount(disaster_type, state)
 
 # Example usage
-state = 'nsw'
-disaster_type = 'bushfire'
+# state = 'nsw'
+# disaster_type = 'bushfire'
 
-# usage with arg values
-state = sys.argv[1]
-disaster_type = sys.argv[2]
+# new_data = generate_new_data(state, disaster_type)
 
-new_data = generate_new_data(state, disaster_type)
+# # # Decide which method to use
+# loss, claim_amount = predict_insurance_claim(state, disaster_type, new_data, use_model=True)
+# print(f"Predicted Insurance Claim Amount: ${loss:,.2f}")
+# print(f"Predicted Insurance Claim Amount: {claim_amount:,.0f}")
+# print(f"Predicted Insurance Claim Amount: ${loss / (claim_amount+1):,.0f}")
 
-# Decide which method to use
-loss, claim_amount = predict_insurance_claim(state, disaster_type, new_data, use_model=True)
-print(f"Predicted Insurance Claim Amount: ${loss:,.2f}")
-print(f"Predicted Insurance Claim Amount: {claim_amount:,.0f}")
-print(f"Predicted Insurance Claim Amount: ${loss / (claim_amount+1):,.0f}")
-
-insurance_claim = predict_insurance_claim(state, disaster_type, new_data, use_model=False)
-print(f"Insurance Claim Amount (Rule-Based): ${insurance_claim:,.0f}")
-
-# Find the most commonly occurred disasters for each state
-#common_disasters = data.groupby(['NSW', 'VIC', 'QLD', 'ACT', 'TAS', 'SA', 'NT', 'WA'])['type'].agg(lambda x: x.value_counts().idxmax())
-#common_disasters = data.groupby(['nsw', 'vic', 'qld', 'act', 'tas', 'sa', 'nt', 'wa', 'waters'])['type'].agg(lambda x: x.value_counts().idxmax())
-
-#print("Most Common Disasters for Each State:")
-#print(common_disasters)
+# insurance_claim = predict_insurance_claim(state, disaster_type, new_data, use_model=False)
+# print(f"Insurance Claim Amount (Rule-Based): ${insurance_claim:,.0f}")

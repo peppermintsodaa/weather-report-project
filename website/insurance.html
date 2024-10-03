@@ -36,8 +36,8 @@
                 <select id="disaster"> <!-- onchange="toggleOtherDisaster()" -->
                     <option value="flood">Flood</option>
                     <option value="earthquake">Earthquake</option>
-                    <option value="wildfire">Wildfire</option>
-                    <option value="hurricane">Hurricane</option>
+                    <option value="storm">Storm</option>
+                    <option value="cyclone">Cyclone</option>
                     <option value="bushfire">Bushfire</option>
                 </select>
             </div>
@@ -83,42 +83,41 @@
 
 
 <script>
-        function calculateClaim() {
-            const disaster = document.getElementById('disaster').value;
-            const state = document.getElementById('state').value;
-            const resultDiv = document.getElementById('result');
-            const resultText = document.getElementById('result-text');
-            let disasterType = disaster;
-            method = 'model'
+    function calculateClaim() {
+        const disaster = document.getElementById('disaster').value;
+        const state = document.getElementById('state').value;
+        const resultDiv = document.getElementById('result');
+        const resultText = document.getElementById('result-text');
+        let disasterType = disaster;
+        method = 'model'
 
-            // If "Other" is selected, get the user input for the disaster
-            if (disaster == 'other') {
-                disasterType = document.getElementById('otherDisasterInput').value;
-                if (!disasterType) {
-                    resultText.textContent = "Please specify the disaster.";
-                    resultDiv.style.display = 'block';
-                    return;
-                }
+        // If "Other" is selected, get the user input for the disaster
+        if (disaster == 'other') {
+            disasterType = document.getElementById('otherDisasterInput').value;
+            if (!disasterType) {
+                resultText.textContent = "Please specify the disaster.";
+                resultDiv.style.display = 'block';
+                return;
             }
-
-            fetch(`http://127.0.0.1:5000/get_claim?state=${state}&disaster_type=${disasterType}&method=${method}`)
-                .then(response => response.json())
-                .then(data => {
-                    claims = data.claim_amount
-                    if (claims) {
-                        resultText.textContent = `The estimated amount to be claimed is $${claims.toLocaleString()} for ${disasterType}s in ${state.toUpperCase()}.`;
-                    } else {
-                        resultText.textContent = `The estimated amount to be claimed is unavailable for ${disasterType} in ${state}.`;
-                    }
-                    console.log(claims)
-                })
-                .catch(error => console.error('Error:', error));
-
-            // Check if the state and disaster exist in the claim data
-
-            // Show the result
-            resultDiv.style.display = 'block';
         }
+
+        fetch(`http://127.0.0.1:5000/get_claim?state=${state}&disaster_type=${disasterType}&method=${method}`)
+            .then(response => response.json())
+            .then(data => {
+                claims = data.claim_amount
+                // Check if the state and disaster exist in the claim data
+                if (claims) {
+                    resultText.textContent = `The estimated amount to be claimed is $${claims.toLocaleString()} for ${disasterType}s in ${state.toUpperCase()}.`;
+                } else {
+                    resultText.textContent = `The estimated amount to be claimed is unavailable for ${disasterType} in ${state}.`;
+                }
+                console.log(claims)
+            })
+            .catch(error => console.error('Error:', error));
+
+        // Show the result
+        resultDiv.style.display = 'block';
+    }
     
 </script>
 </body>
