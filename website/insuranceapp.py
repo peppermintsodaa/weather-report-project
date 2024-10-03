@@ -4,73 +4,9 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_absolute_error, mean_squared_error
-# from sklearn.model_selection import train_test_split
-# from sklearn.linear_model import LinearRegression
-# from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 app = Flask(__name__)
 cors = CORS(app)
-#app.config['CORS_HEADERS'] = 'Access-Control-Allow-Origin'
-
-# # Define the base amounts for each disaster type
-# disaster_base_amounts = {
-#     'flooding': 1000000,
-#     'hailstorm': 500000,
-#     'bushfire': 750000
-# }
-
-# # Define multipliers for each state
-# state_multipliers = {
-#     'NSW': 1.2,
-#     'VIC': 1.1,
-#     'SA': 1.05,
-#     'QLD': 1.15,
-#     'WA': 1.0,  # Assuming default multiplier if not specified
-#     'TAS': 1.0,
-#     'NT': 1.0,
-#     'ACT': 1.0
-# }
-
-# def calculate_insurance_amount(disaster_type, state):
-#     base_amount = disaster_base_amounts.get(disaster_type.lower(), 0)
-#     multiplier = state_multipliers.get(state.upper(), 1)
-#     insurance_amount = base_amount * multiplier
-#     return insurance_amount
-
-# # Load and prepare the dataset
-# data = pd.read_csv('datasets_cleaned/merged_dataset.csv')
-
-# # Select features and target
-# target = data['original loss value']
-
-# # Convert categorical features to numerical
-# features = pd.get_dummies(data['type'])
-
-# # Train-Test Split
-# X_train, X_test, y_train, y_test = train_test_split(features, target, test_size=0.2, random_state=42)
-
-# # Initialize and train the model
-# model = LinearRegression()
-# model.fit(X_train, y_train)
-
-# # Function to predict with the model
-# def predict_with_model(state, disaster_type):
-#     # Create a DataFrame with the disaster type
-#     new_data = pd.DataFrame({
-#         'type_' + disaster_type.lower(): [1]
-#     })
-    
-#     # Ensure all columns are present
-#     for col in X_train.columns:
-#         if col not in new_data.columns:
-#             new_data[col] = 0
-#     new_data = new_data[X_train.columns]
-    
-#     # Predict insurance claim amount
-#     insurance_claim_prediction = model.predict(new_data)
-#     return insurance_claim_prediction[0]
 
 # Define the base amounts for each disaster type
 disaster_base_amounts = {
@@ -101,16 +37,12 @@ def calculate_insurance_amount(disaster_type, state):
 
 # Load the dataset
 data = pd.read_csv('datasets_cleaned/merged_dataset.csv')
-#data = pd.read_csv('datasets_cleaned/ica-2024-cleaned.csv')
 
 # Select features and target
 target_1 = data['original loss value']
 target_2 = data['claims count']
 
 # Convert categorical features to numerical
-#features = pd.get_dummies(data[['state','type']])
-#features = pd.concat([features, data[['normalised loss value (2022)', 'claims count']]], axis = 1)
-# this is if you're using cleaned_ica_data.csv
 features = pd.get_dummies(data['type'])
 features = pd.concat([features, data[['nsw', 'vic', 'qld', 'act', 'tas', 'sa', 'nt', 'wa', 'waters']]], axis = 1)
 
@@ -120,35 +52,10 @@ X2_train, X2_test, y2_train, y2_test = train_test_split(features, target_2, test
 
 # Initialize and train the model
 model_1 = RandomForestRegressor(max_depth = 3, random_state = 42)
-#model_1 = LinearRegression()
 model_1.fit(X1_train, y1_train)
-
-# Make predictions
-y1_pred = model_1.predict(X1_test)
-
-# Evaluate the model
-mae = mean_absolute_error(y1_test, y1_pred)
-mse = mean_squared_error(y1_test, y1_pred)
-
-print(f"R2 Score 1: {model_1.score(X1_test, y1_test)}")
-print(f"Mean Absolute Error 1: {mae}")
-print(f"Mean Squared Error 1: {mse}")
-print()
 
 model_2 = DecisionTreeRegressor(random_state = 42)
 model_2.fit(X2_train, y2_train)
-
-# Make predictions
-y2_pred = model_2.predict(X2_test)
-
-# Evaluate the model
-mae = mean_absolute_error(y2_test, y2_pred)
-mse = mean_squared_error(y2_test, y2_pred)
-
-print(f"R2 Score 1: {model_2.score(X2_test, y2_test)}")
-print(f"Mean Absolute Error 1: {mae}")
-print(f"Mean Squared Error 1: {mse}")
-print()
 
 def generate_new_data(state, disaster_type):
     new_data = pd.DataFrame({
