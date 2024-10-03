@@ -1,6 +1,5 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 
@@ -50,10 +49,11 @@ X2_train, X2_test, y2_train, y2_test = train_test_split(features, target_2, test
 model_1 = RandomForestRegressor(max_depth = 3, random_state = 42)
 model_1.fit(X1_train, y1_train)
 
-model_2 = DecisionTreeRegressor(random_state = 42)
+model_2 = RandomForestRegressor(max_depth = 5, random_state = 42)
+#model_2 = RandomForestRegressor(random_state = 42)
 model_2.fit(X2_train, y2_train)
 
-def evaluate(X1_train, y1_train):
+def evaluate(X1_train, y1_train, X2_train, y2_train):
     # Make predictions
     y1_pred = model_1.predict(X1_test)
 
@@ -111,7 +111,7 @@ def predict_insurance_claim(state, disaster_type, new_data, use_model=True):
 
 # new_data = generate_new_data(state, disaster_type)
 
-# # Decide which method to use
+# # # Decide which method to use
 # loss, claim_amount = predict_insurance_claim(state, disaster_type, new_data, use_model=True)
 # print(f"Predicted Insurance Claim Amount: ${loss:,.2f}")
 # print(f"Predicted Insurance Claim Amount: {claim_amount:,.0f}")
