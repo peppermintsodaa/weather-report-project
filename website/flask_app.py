@@ -1,9 +1,6 @@
 # import libraries
-import sys, os
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS, cross_origin
-# import other python model files
-sys.path.append(os.path.dirname(os.path.abspath('website')))
 import model_1_insurance_advanced as insurance_model
 import model_weather_new as weather_model
 
