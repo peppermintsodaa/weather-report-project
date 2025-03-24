@@ -1,1 +1,1 @@
-# cosc2669-or-cosc2186-WIL-project
+# weather-report-project
